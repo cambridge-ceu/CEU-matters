@@ -12,6 +12,6 @@ Seminar Series starting in September 2018 with an exciting line-up of talks, spa
 
 * When:	The first Thursday of each month
 * Timings: 12:00 – 12:30     Free lunch will be provided
-*          12:30 – 13:30     Talks 
+* \ \ \ \ \ \ \ \ \ 12:30 – 13:30     Talks 
 * Venue:The Thomas and Dorothy Seminar rooms at the Strangeways Site, Wort’s Causeway, Cambridge, CB1 8RN
       (5 mins walk from the Addenbrookes campus in the Babraham Road direction).

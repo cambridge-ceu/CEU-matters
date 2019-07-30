@@ -19,4 +19,4 @@ Seminar Series starting in September 2018 with an exciting line-up of talks, spa
 
 https://talks.cam.ac.uk/index
 
-* (MRC-BSU)[https://talks.cam.ac.uk/show/index/7411]
+* [MRC-BSU](https://talks.cam.ac.uk/show/index/7411)

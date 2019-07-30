@@ -15,7 +15,7 @@ Seminar Series starting in September 2018 with an exciting line-up of talks, spa
 * **Venue**: The Thomas and Dorothy Seminar rooms at the Strangeways Site, Wort’s Causeway, Cambridge, CB1 8RN
       (5 mins walk from the Addenbrookes campus in the Babraham Road direction).
 
-## External seminars
+## External talks
 
 https://talks.cam.ac.uk/index
 

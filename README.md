@@ -20,4 +20,5 @@ Seminar Series starting in September 2018 with an exciting line-up of talks, spa
 https://talks.cam.ac.uk/index
 
 * [MRC Biostatistics Unit](https://talks.cam.ac.uk/show/index/7411)
+  * [Armitage Lectures and Workshops](https://www.mrc-bsu.cam.ac.uk/news-and-events/armitage-lectureships-and-workshops/)
 * [MRC Epidemiology Unit](http://www.mrc-epid.cam.ac.uk/events)

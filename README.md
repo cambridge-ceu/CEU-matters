@@ -1,4 +1,4 @@
-<img src=@http://phdcomics.com/comics/archive/phd060406s.gif" width="560" height="250" align="right">
+<img src="http://phdcomics.com/comics/archive/phd060406s.gif" width="560" height="250" align="right">
 
 The repository highlights some seminars and presentations, etc.
 

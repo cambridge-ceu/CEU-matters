@@ -2,7 +2,7 @@
 
 The repository intends to highlight information on seminars and presentations, etc.
 
-## CEU scienfic meetings
+## CEU scientific meetings
 
 These weekly meetings and Health Data Research (HDR) UK seminars are held jointly on Thursdays as circulated via the CEU mail list.
 

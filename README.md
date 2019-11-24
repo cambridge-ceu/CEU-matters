@@ -1,6 +1,10 @@
 <a href="http://phdcomics.com/comics/archive.php?comicid=719"> <img src="http://phdcomics.com/comics/archive/phd060406s.gif" width="560" height="250" align="right"> </a>
 
-The repository highlights some conferences, seminars and presentations, etc.
+The repository intends to highlight information on seminars and presentations, etc.
+
+## CEU scienfic meetings
+
+These weekly meetings are held in conjuction with HDR seminars as circulated via the CEU mail list.
 
 ## HDR seminars
 
@@ -14,8 +18,6 @@ Seminar Series starting in September 2018 with an exciting line-up of talks, spa
 * **Timings**: 12:00 – 12:30     Free lunch will be provided; 12:30 – 13:30     Talks 
 * **Venue**: The Thomas and Dorothy Seminar rooms at the Strangeways Site, Wort’s Causeway, Cambridge, CB1 8RN
       (5 mins walk from the Addenbrookes campus in the Babraham Road direction).
-
-## CEU scienfic meetings
 
 ## External talks
 

@@ -4,7 +4,7 @@ The repository highlights some conferences, seminars and presentations, etc.
 
 ## Conference information
 
-* [ASHG 2020]()https://www.ashg.org/2020meeting/.
+* [ASHG 2020](https://www.ashg.org/2020meeting/).
 * [IGES 2020](https://iges.memberclicks.net/iges-2020).
 * [ICQG6 2020](https://icqg6.org/).
 * [RSS 2020](https://www.statslife.org.uk/news/3999-bournemouth-chosen-to-host-rss-2020-conference).

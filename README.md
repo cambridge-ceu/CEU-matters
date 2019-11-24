@@ -1,3 +1,5 @@
+<a href="http://phdcomics.com/comics/archive.php?comicid=719"> <img src="http://phdcomics.com/comics/archive/phd060406s.gif" width="560" height="250" align="right"> </a>
+
 The repository intends to highlight information on seminars and presentations, etc.
 
 ## CEU scienfic meetings
@@ -25,8 +27,6 @@ https://talks.cam.ac.uk/index
 * [MRC Biostatistics Unit](https://talks.cam.ac.uk/show/index/7411)
   * [Armitage Lectures and Workshops](https://www.mrc-bsu.cam.ac.uk/news-and-events/armitage-lectureships-and-workshops/)
 * [MRC Epidemiology Unit](http://www.mrc-epid.cam.ac.uk/events)
-
-<a href="http://phdcomics.com/comics/archive.php?comicid=719"> <img src="http://phdcomics.com/comics/archive/phd060406s.gif" width="560" height="250" align="right"> </a>
 
 ## 2020 conferences
 

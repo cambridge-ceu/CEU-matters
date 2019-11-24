@@ -13,6 +13,12 @@ The repository highlights some conferences, seminars and presentations, etc.
 * [RSS 2020](https://www.statslife.org.uk/news/3999-bournemouth-chosen-to-host-rss-2020-conference).
 * [UseR! 2020](https://user2020.r-project.org/).
 
+## Mailing list
+
+* [Allstat](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=ALLSTAT).
+* [CSML](http://www.mailinglists.ucl.ac.uk/mailman/listinfo/csml).
+* [SEGEG mailing list](https://mailman.kcl.ac.uk/mailman/listinfo/segeg).
+
 ## HDR seminars
 
 Health Data Research UK (HDR UK)'s mission is to tackle important research challenges by applying data science approaches to large-scale biomedical data.

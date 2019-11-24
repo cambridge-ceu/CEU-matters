@@ -38,7 +38,7 @@ https://talks.cam.ac.uk/index
 * [ICQG6 2020](https://icqg6.org/).
 * [JSM 2020](https://www.amstat.org/ASA/Meetings/Joint-Statistical-Meetings.aspx).
 * [RSS 2020](https://www.statslife.org.uk/news/3999-bournemouth-chosen-to-host-rss-2020-conference).
-* [UseR! 2020](https://user2020.r-project.org/).
+* [useR! 2020](https://user2020.r-project.org/).
 
 ## Mailing list
 

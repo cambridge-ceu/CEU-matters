@@ -2,7 +2,7 @@
 
 The repository highlights some conferences, seminars and presentations, etc.
 
-## Conference information
+## 2020 Conference information
 
 * [AHA 2020](https://www.pr-medicalevents.com/congress/aha-2020/).
 * [ASHG 2020](https://www.ashg.org/2020meeting/).

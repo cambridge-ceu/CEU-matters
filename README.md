@@ -7,9 +7,11 @@ The repository highlights some conferences, seminars and presentations, etc.
 * [AHA 2020](https://www.pr-medicalevents.com/congress/aha-2020/).
 * [ASHG 2020](https://www.ashg.org/2020meeting/).
 * [EMGM 2020](https://wp.unil.ch/emgm2020/).
+* [ESHG 2020](https://2020.eshg.org/).
 * [IGES 2020](https://iges.memberclicks.net/iges-2020).
 * [ICQG6 2020](https://icqg6.org/).
 * [RSS 2020](https://www.statslife.org.uk/news/3999-bournemouth-chosen-to-host-rss-2020-conference).
+* [UseR! 2020](https://user2020.r-project.org/).
 
 ## HDR seminars
 

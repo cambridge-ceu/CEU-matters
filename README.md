@@ -7,7 +7,7 @@ The repository intends to highlight information on seminars and presentations, e
 These weekly meetings are held in conjuction with Health Data Research (HDR) UK seminars as circulated via the CEU mail list.
 
 * **When**: Mostly Thursdays
-* **Timings**: 10:00 – 11:30.
+* **Timings**: 10:00 – 11:00.
 * **Venue**: The Thomas and Dorothy Seminar rooms at the Strangeways Site, Wort’s Causeway, Cambridge, CB1 8RN
       (5 mins walk from the Addenbrookes campus in the Babraham Road direction).
 

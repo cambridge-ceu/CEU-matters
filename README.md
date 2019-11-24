@@ -4,9 +4,8 @@ The repository intends to highlight information on seminars and presentations, e
 
 ## CEU scienfic meetings
 
-These weekly meetings are held in conjuction with Health Data Research (HDR) UK seminars as circulated via the CEU mail list.
+These weekly meetings and Health Data Research (HDR) UK seminars are held jointly on Thursdays as circulated via the CEU mail list.
 
-* **When**: Mostly Thursdays
 * **Timings**: 10:00 – 11:00.
 * **Venue**: The Thomas and Dorothy Seminar rooms at the Strangeways Site, Wort’s Causeway, Cambridge, CB1 8RN
       (5 mins walk from the Addenbrookes campus in the Babraham Road direction).
@@ -19,7 +18,7 @@ https://www.hdruk.ac.uk/about/
 
 Seminar Series starting in September 2018 with an exciting line-up of talks, spanning various research themes including 'multi-omics', clinical informatics, rare diseases, the microbiome, and novel analytical methods.
 
-* **Timings**: 12:00 – 12:30.  Free lunch will be provided; 12:30 – 13:30  Talks
+* **Timings**: 12:00 – 12:30, Free lunch will be provided; 12:30 – 13:30, Talks.
 
 ## External talks
 

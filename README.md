@@ -28,7 +28,7 @@ https://talks.cam.ac.uk/index
   * [Armitage Lectures and Workshops](https://www.mrc-bsu.cam.ac.uk/news-and-events/armitage-lectureships-and-workshops/)
 * [MRC Epidemiology Unit](http://www.mrc-epid.cam.ac.uk/events)
 
-## 2020 conference information
+## 2020 conferences
 
 * [AHA 2020](https://www.pr-medicalevents.com/congress/aha-2020/).
 * [ASHG 2020](https://www.ashg.org/2020meeting/).

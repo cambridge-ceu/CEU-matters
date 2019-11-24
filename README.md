@@ -40,7 +40,7 @@ https://talks.cam.ac.uk/index
 * [RSS 2020](https://www.statslife.org.uk/news/3999-bournemouth-chosen-to-host-rss-2020-conference).
 * [useR! 2020](https://user2020.r-project.org/).
 
-## Mailing list
+## Mailing lists
 
 * [Allstat](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=ALLSTAT).
 * [CSML](http://www.mailinglists.ucl.ac.uk/mailman/listinfo/csml).

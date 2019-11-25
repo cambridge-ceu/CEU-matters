@@ -6,7 +6,7 @@ The repository intends to highlight information on seminars and presentations, e
 
 These weekly meetings and Health Data Research (HDR) UK seminars are held jointly on Thursdays as circulated via the CEU mail list.
 
-HDR UK (https://www.hdruk.ac.uk/about/)'s mission is to tackle important research challenges by applying data science approaches to large-scale biomedical data.
+HDR UK's mission (https://www.hdruk.ac.uk/about/) is to tackle important research challenges by applying data science approaches to large-scale biomedical data.
 Seminar Series starting in September 2018 with an exciting line-up of talks, spanning various research themes including 'multi-omics', clinical informatics, rare diseases, the microbiome, and novel analytical methods.
 
 * **Timings**: 10:00 – 11:00.

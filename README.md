@@ -6,19 +6,14 @@ The repository intends to highlight information on seminars and presentations, e
 
 These weekly meetings and Health Data Research (HDR) UK seminars are held jointly on Thursdays as circulated via the CEU mail list.
 
-* **Timings**: 10:00 – 11:00.
-* **Venue**: The Thomas and Dorothy Seminar rooms at the Strangeways Site, Wort’s Causeway, Cambridge, CB1 8RN
-      (5 mins walk from the Addenbrookes campus in the Babraham Road direction).
-
-## HDR UK seminars
-
 HDR UK's mission is to tackle important research challenges by applying data science approaches to large-scale biomedical data.
-
 https://www.hdruk.ac.uk/about/ 
-
 Seminar Series starting in September 2018 with an exciting line-up of talks, spanning various research themes including 'multi-omics', clinical informatics, rare diseases, the microbiome, and novel analytical methods.
 
-* **Timings**: 12:00 – 12:30, Free lunch will be provided; 12:30 – 13:30, Talks.
+* **Timings**: 10:00 – 11:00.
+* **HDR UK seminar Timings**: 12:00 – 12:30, Free lunch will be provided; 12:30 – 13:30, Talks.
+* **Venue**: The Thomas and Dorothy Seminar rooms at the Strangeways Site, Wort’s Causeway, Cambridge, CB1 8RN
+      (5 mins walk from the Addenbrookes campus in the Babraham Road direction).
 
 ## External talks
 

@@ -1,8 +1,6 @@
 <a href="http://phdcomics.com/comics/archive.php?comicid=719"> <img src="http://phdcomics.com/comics/archive/phd060406s.gif" width="560" height="250" align="right"> </a>
 
-The repository intends to highlight information on seminars and presentations, etc., at the Cardiovascular Epidemiology Unit (CEU).
-
-The following meetings are notified via the CEU mail list.
+The repository intends to highlight information on seminars and presentations, etc., at the Cardiovascular Epidemiology Unit (CEU), as notified via the CEU mail list ceu-group@medschl.cam.ac.uk.
 
 ## CEU scientific meetings
 

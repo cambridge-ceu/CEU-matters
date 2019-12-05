@@ -2,9 +2,13 @@
 
 The repository intends to highlight information on seminars and presentations, etc., at the Cardiovascular Epidemiology Unit (CEU).
 
+The meetings are held jointly on Thursdays as notified via the CEU mail list.
+
 ## CEU scientific meetings
 
-These weekly meetings and Health Data Research (HDR) UK seminars are held jointly on Thursdays as notified via the CEU mail list.
+These are weekly meetings within CEU.
+
+## Health Data Research (HDR) UK's seminars
 
 HDR UK's mission (https://www.hdruk.ac.uk/about/) is to tackle important research challenges by applying data science approaches to 
 large-scale biomedical data. Seminar Series started in September 2018 with an exciting line-up of talks, spanning various research 
@@ -12,6 +16,8 @@ themes including 'multi-omics', clinical informatics, rare diseases, the microbi
 hdruk-seminars@lists.cam.ac.uk (https://lists.cam.ac.uk/mailman/listinfo/hdruk-seminars and is possible to [subscribe or change 
 options](https://lists.cam.ac.uk/mailman/options/hdruk-seminars/ceu-group%40medschl.cam.ac.uk) (e.g., switch to or from digest mode) or 
 by email to hdruk-seminars-request@lists.cam.ac.uk with the word `help` in the subject or body (don't include the quote).
+
+## Timetables
 
 * **Timings**: 10:00 – 11:00.
 * **HDR UK seminar Timings**: 12:00 – 12:30, Free lunch will be provided; 12:30 – 13:30, Talks.

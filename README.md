@@ -9,7 +9,7 @@ These weekly meetings and Health Data Research (HDR) UK seminars are held jointl
 HDR UK's mission (https://www.hdruk.ac.uk/about/) is to tackle important research challenges by applying data science approaches to large-scale biomedical data.
 Seminar Series starting in September 2018 with an exciting line-up of talks, spanning various research themes including 'multi-omics', clinical informatics, rare diseases, the microbiome, and novel analytical methods.
 It has a mailing list hdruk-seminars@lists.cam.ac.uk (https://lists.cam.ac.uk/mailman/listinfo/hdruk-seminars and is possible to
-[subscribe or change options](https://lists.cam.ac.uk/mailman/options/hdruk-seminars/ceu-group%40medschl.cam.ac.uk) (e.g., switch to or from digest mode or by email
+[subscribe or change options](https://lists.cam.ac.uk/mailman/options/hdruk-seminars/ceu-group%40medschl.cam.ac.uk) (e.g., switch to or from digest mode) or by email
  hdruk-seminars-request@lists.cam.ac.uk with the word `help' in the subject or body (don't include the quote)
 
 * **Timings**: 10:00 – 11:00.

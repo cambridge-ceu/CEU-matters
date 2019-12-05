@@ -11,7 +11,7 @@ large-scale biomedical data. Seminar Series started in September 2018 with an ex
 themes including 'multi-omics', clinical informatics, rare diseases, the microbiome, and novel analytical methods. It has a mailing list 
 hdruk-seminars@lists.cam.ac.uk (https://lists.cam.ac.uk/mailman/listinfo/hdruk-seminars and is possible to [subscribe or change 
 options](https://lists.cam.ac.uk/mailman/options/hdruk-seminars/ceu-group%40medschl.cam.ac.uk) (e.g., switch to or from digest mode) or 
-by email to hdruk-seminars-request@lists.cam.ac.uk with the word `help' in the subject or body (don't include the quote).
+by email to hdruk-seminars-request@lists.cam.ac.uk with the word `help` in the subject or body (don't include the quote).
 
 * **Timings**: 10:00 – 11:00.
 * **HDR UK seminar Timings**: 12:00 – 12:30, Free lunch will be provided; 12:30 – 13:30, Talks.

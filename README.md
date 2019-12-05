@@ -2,7 +2,7 @@
 
 The repository intends to highlight information on seminars and presentations, etc., at the Cardiovascular Epidemiology Unit (CEU).
 
-The meetings are held jointly on Thursdays as notified via the CEU mail list.
+The meetings are notified via the CEU mail list.
 
 ## CEU scientific meetings
 
@@ -19,7 +19,7 @@ by email to hdruk-seminars-request@lists.cam.ac.uk with the word `help` in the s
 
 ## Schedules
 
-* **Timings**: 10:00 – 11:00.
+* **Timings**: 10:00 – 11:00 on Thursdays.
 * **HDR UK seminar Timings**: 12:00 – 12:30, Free lunch will be provided; 12:30 – 13:30, Talks.
 * **Venue**: The Thomas and Dorothy Seminar rooms at the Strangeways Site, Wort’s Causeway, Cambridge, CB1 8RN
       (5 mins walk from the Addenbrookes campus in the Babraham Road direction).

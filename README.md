@@ -2,7 +2,7 @@
 
 The repository intends to highlight information on seminars and presentations, etc., at the Cardiovascular Epidemiology Unit (CEU).
 
-The meetings are notified via the CEU mail list.
+The following meetings are notified via the CEU mail list.
 
 ## CEU scientific meetings
 

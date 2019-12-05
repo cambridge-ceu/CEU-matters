@@ -32,6 +32,12 @@ subscription or change of options (e.g., digest mode) [from the web](https://lis
 * [RSS 2020](https://www.statslife.org.uk/news/3999-bournemouth-chosen-to-host-rss-2020-conference).
 * [useR! 2020](https://user2020.r-project.org/).
 
+## Mailing lists
+
+* [Allstat](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=ALLSTAT).
+* [CSML](http://www.mailinglists.ucl.ac.uk/mailman/listinfo/csml).
+* [SEGEG](https://mailman.kcl.ac.uk/mailman/listinfo/segeg).
+
 ## External talks
 
 https://talks.cam.ac.uk/index
@@ -39,9 +45,3 @@ https://talks.cam.ac.uk/index
 * [MRC Biostatistics Unit](https://talks.cam.ac.uk/show/index/7411)
   * [Armitage Lectures and Workshops](https://www.mrc-bsu.cam.ac.uk/news-and-events/armitage-lectureships-and-workshops/)
 * [MRC Epidemiology Unit](http://www.mrc-epid.cam.ac.uk/events)
-
-## Mailing lists
-
-* [Allstat](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=ALLSTAT).
-* [CSML](http://www.mailinglists.ucl.ac.uk/mailman/listinfo/csml).
-* [SEGEG](https://mailman.kcl.ac.uk/mailman/listinfo/segeg).

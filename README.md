@@ -1,6 +1,6 @@
 <a href="http://phdcomics.com/comics/archive.php?comicid=719"> <img src="http://phdcomics.com/comics/archive/phd060406s.gif" width="560" height="250" align="right"> </a>
 
-The repository highlights information on seminars and presentations, etc., at the Cardiovascular Epidemiology Unit (CEU), as notified via <a href="mailto:ceu-group@medschl.cam.ac.uk">the mailing list (ceu-group@medschl.cam.ac.uk)</a>.
+The repository highlights information on seminars and presentations, etc., at the Cardiovascular Epidemiology Unit (CEU), as notified via <a href="mailto:ceu-group@medschl.cam.ac.uk">the mailing list</a> (ceu-group@medschl.cam.ac.uk).
 
 ## CEU scientific meetings
 
@@ -10,9 +10,9 @@ These are weekly meetings within CEU.
 
 HDR UK's mission (https://www.hdruk.ac.uk/about/) is to tackle important research challenges by applying data science approaches to large-scale 
 biomedical data. Seminar Series started in September 2018 with an exciting line-up of talks, spanning various research themes including 
-'multi-omics', clinical informatics, rare diseases, the microbiome, and novel analytical methods. It has a <a href="mailto:hdruk-seminars@lists.cam.ac.uk">mailing list (hdruk-seminars@lists.cam.ac.uk)</a> ([further 
+'multi-omics', clinical informatics, rare diseases, the microbiome, and novel analytical methods. It has a <a href="mailto:hdruk-seminars@lists.cam.ac.uk">mailing list</a> (hdruk-seminars@lists.cam.ac.uk) ([further 
 information](https://lists.cam.ac.uk/mailman/listinfo/hdruk-seminars)) and supports subscription or change of options (e.g., digest mode) [from the 
-web](https://lists.cam.ac.uk/mailman/options/hdruk-seminars/ceu-group%40medschl.cam.ac.uk) or <a href="mailto:hdruk-seminars-request@lists.cam.ac.uk">by email (hdruk-seminars-request@lists.cam.ac.uk)</a> (with the word `help` in the subject or 
+web](https://lists.cam.ac.uk/mailman/options/hdruk-seminars/ceu-group%40medschl.cam.ac.uk) or <a href="mailto:hdruk-seminars-request@lists.cam.ac.uk">by email</a> (hdruk-seminars-request@lists.cam.ac.uk) (with the word `help` in the subject or 
 body but no quote).
 
 ## Schedules

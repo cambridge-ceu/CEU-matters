@@ -33,6 +33,7 @@ body but no quote).
 * [JSM 2020](https://www.amstat.org/ASA/Meetings/Joint-Statistical-Meetings.aspx).
 * [RSS 2020](https://www.statslife.org.uk/news/3999-bournemouth-chosen-to-host-rss-2020-conference).
 * [useR! 2020](https://user2020.r-project.org/).
+* [Wellcome Genome Campus Advanced Courses and Scientific Conferences](https://coursesandconferences.wellcomegenomecampus.org/).
 
 ## Mailing lists
 

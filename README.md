@@ -45,6 +45,7 @@ body but no quote).
 
 https://talks.cam.ac.uk/index
 
+* [Cambridge Statistics Discussion Group](https://talks.cam.ac.uk/show/index/44749) (CSDG)
 * [MRC Biostatistics Unit](https://talks.cam.ac.uk/show/index/7411)
   * [Armitage Lectures and Workshops](https://www.mrc-bsu.cam.ac.uk/news-and-events/armitage-lectureships-and-workshops/)
 * [MRC Epidemiology Unit](http://www.mrc-epid.cam.ac.uk/events)

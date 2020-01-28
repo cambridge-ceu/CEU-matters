@@ -4,7 +4,19 @@ The repository highlights information on seminars and presentations, etc., at th
 
 ## CEU scientific meetings
 
-These are weekly meetings within CEU.
+We are establishing the 2020 weekly CEU scientific meetings on Thursdays 10-11am (or occasionally 12-1pm). 
+
+Each meeting will involve one scientific presentation and discussion. Generally, we suggest a 20-minute power-point style presentation focusing on “work in progress”.  We hope these meetings will provide opportunities 
+
+1. to disseminate our research to the CEU, 
+2. to gain scientific feedback on projects and 
+3. for generic presentation skills training. 
+
+If you have a conference presentation coming up, you may wish to practice it in one of these meetings. 
+
+We hope that over 2020, each member of the CEU will have an opportunity to give a presentation. We plan to rotate the focus of the meetings between general themes of “Epidemiology”, “Genomics” and “Biostatistics” and hope you will be willing to regularly participate in at least one of these themes. 
+
+The schedule and slides from presentations can be found in the shared folder: W:\Common\CEU meetings\2018 CEU Scientific Meetings.
 
 ## Health Data Research (HDR) UK's seminars
 

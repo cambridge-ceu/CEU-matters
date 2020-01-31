@@ -52,6 +52,7 @@ body but no quote).
 * [Allstat](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=ALLSTAT).
 * [CSML](http://www.mailinglists.ucl.ac.uk/mailman/listinfo/csml).
 * [SEGEG](https://mailman.kcl.ac.uk/mailman/listinfo/segeg).
+* [systems-genomics](https://systems-genomics.slack.com/).
 
 ## External talks
 

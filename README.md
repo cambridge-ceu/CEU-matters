@@ -47,7 +47,7 @@ body but no quote).
 * [useR! 2020](https://user2020.r-project.org/).
 * [Wellcome Genome Campus Advanced Courses and Scientific Conferences 2020](https://coursesandconferences.wellcomegenomecampus.org/).
 
-## Mailing lists
+## Mailing lists, slack channels and video conferencing
 
 * [Allstat](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=ALLSTAT).
 * [CSML](http://www.mailinglists.ucl.ac.uk/mailman/listinfo/csml).

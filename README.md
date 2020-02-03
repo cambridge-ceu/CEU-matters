@@ -34,6 +34,8 @@ body but no quote).
 * **Venue**: The Thomas and Dorothy Seminar rooms at the Strangeways Site, Wort’s Causeway, Cambridge, CB1 8RN
       (5 mins walk from the Addenbrookes campus in the Babraham Road direction).
 
+<img src="http://phdcomics.com/comics/archive/phd060406s.gif" width="560" height="250" align="right">
+
 ## 2020 conferences
 
 * [AHA 2020](https://www.pr-medicalevents.com/congress/aha-2020/).

@@ -55,6 +55,7 @@ body but no quote).
 * [SEGEG](https://mailman.kcl.ac.uk/mailman/listinfo/segeg).
 * [systems-genomics](https://systems-genomics.slack.com/).
 * [Webex](https://cart.webex.com/sign-up).
+* [Zoom](https://zoom.us/) ([Zoom Video Communications](https://en.wikipedia.org/wiki/Zoom_Video_Communications)).
 
 ## External talks
 

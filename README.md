@@ -16,7 +16,9 @@ The repository highlights information on seminars and presentations, etc., at th
 * <a href="tel:+442034815237">+44 203 481 5237</a> United Kingdom
 * <a href="tel:+442034815240">+44 203 481 5240</a> United Kingdom
 
-[Adam team recurring meeting - Zoom 149-761-448](https://zoom.us/j/149761448).
+### Adam team recurring meeting
+* Meeting ID: 149-761-448
+* Adam's Genetics Team recurring meetings: [https://zoom.us/j/149761448](https://zoom.us/j/149761448)
 
 We are establishing the 2020 weekly CEU scientific meetings on Thursdays 10-11am (or occasionally 12-1pm). 
 

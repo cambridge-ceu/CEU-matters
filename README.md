@@ -4,6 +4,22 @@ The repository highlights information on seminars and presentations, etc., at th
 
 ## CEU scientific meetings
 
+https://zoom.us/j/705626096
+```
+Meeting ID: 705 626 096
+
+One tap mobile
++441314601196,,705626096# United Kingdom
++442030512874,,705626096# United Kingdom 
+
+Dial by your location
++44 131 460 1196 United Kingdom
++44 203 051 2874 United Kingdom
++44 203 481 5237 United Kingdom
++44 203 481 5240 United Kingdom
+```
+[Genetics recurring meeting - Zoom 149-761-448](https://zoom.us/j/149761448).
+
 We are establishing the 2020 weekly CEU scientific meetings on Thursdays 10-11am (or occasionally 12-1pm). 
 
 Each meeting will involve one scientific presentation and discussion. Generally, we suggest a 20-minute power-point style presentation focusing on “work in progress”.  We hope these meetings will provide opportunities 

@@ -4,21 +4,19 @@ The repository highlights information on seminars and presentations, etc., at th
 
 ## CEU scientific meetings
 
-[https://zoom.us/j/705626096](https://zoom.us/j/705626096) (Meeting ID: 705 626 096)
+Meeting ID: 705 626 096
+
+URL: [https://zoom.us/j/705626096](https://zoom.us/j/705626096)
 
 ### One tap mobile
 
 <a href="tel:+441314601196">+441314601196,705626096#</a> United Kingdom
-
 <a href="tel:+442030512874">+442030512874,705626096#</a> United Kingdom 
 
 ### Dial by your location
 <a href="tel:+441314601196">+44 131 460 1196</a> United Kingdom
-
 <a href="tel:+442030512874">+44 203 051 2874</a> United Kingdom
-
 <a href="tel:+442034815237">+44 203 481 5237</a> United Kingdom
-
 <a href="tel:+442034815240">+44 203 481 5240</a> United Kingdom
 
 [Adam team recurring meeting - Zoom 149-761-448](https://zoom.us/j/149761448).

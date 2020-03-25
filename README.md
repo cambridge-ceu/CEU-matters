@@ -7,8 +7,8 @@ The repository highlights information on seminars and presentations, etc., at th
 * URL: [https://zoom.us/j/705626096](https://zoom.us/j/705626096)
 
 ### One tap mobile
-* <a href="tel:+441314601196">+441314601196,705626096#</a> United Kingdom
-* <a href="tel:+442030512874">+442030512874,705626096#</a> United Kingdom 
+* <a href="tel:+441314601196">+441314601196</a>,705626096# United Kingdom
+* <a href="tel:+442030512874">+442030512874</a>,705626096# United Kingdom 
 
 ### Dial by your location
 * <a href="tel:+441314601196">+44 131 460 1196</a> United Kingdom

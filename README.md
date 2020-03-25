@@ -3,10 +3,8 @@
 The repository highlights information on seminars and presentations, etc., at the Cardiovascular Epidemiology Unit (CEU), as notified via <a href="mailto:ceu-group@medschl.cam.ac.uk">the mailing list</a> (ceu-group@medschl.cam.ac.uk).
 
 ## CEU scientific meetings
-
-Meeting ID: 705 626 096
-
-URL: [https://zoom.us/j/705626096](https://zoom.us/j/705626096)
+* Meeting ID: 705 626 096
+* URL: [https://zoom.us/j/705626096](https://zoom.us/j/705626096)
 
 ### One tap mobile
 * <a href="tel:+441314601196">+441314601196,705626096#</a> United Kingdom

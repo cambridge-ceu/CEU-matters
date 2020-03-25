@@ -4,9 +4,7 @@ The repository highlights information on seminars and presentations, etc., at th
 
 ## CEU scientific meetings
 
-[https://zoom.us/j/705626096](https://zoom.us/j/705626096)
-
-Meeting ID: 705 626 096
+[https://zoom.us/j/705626096](https://zoom.us/j/705626096) (Meeting ID: 705 626 096)
 
 ### One tap mobile
 

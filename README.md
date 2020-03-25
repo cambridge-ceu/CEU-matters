@@ -23,7 +23,7 @@ Meeting ID: 705 626 096
 
 <a href="tel:+442034815240">+44 203 481 5240</a> United Kingdom
 
-[Genetics recurring meeting - Zoom 149-761-448](https://zoom.us/j/149761448).
+[Adam team recurring meeting - Zoom 149-761-448](https://zoom.us/j/149761448).
 
 We are establishing the 2020 weekly CEU scientific meetings on Thursdays 10-11am (or occasionally 12-1pm). 
 

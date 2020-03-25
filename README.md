@@ -16,7 +16,7 @@ The repository highlights information on seminars and presentations, etc., at th
 * <a href="tel:+442034815237">+44 203 481 5237</a> United Kingdom
 * <a href="tel:+442034815240">+44 203 481 5240</a> United Kingdom
 
-### Adam's genetics team recurring meeting
+### Adam's genetics team recurring meetings
 * Meeting ID: 149-761-448
 * URL: [https://zoom.us/j/149761448](https://zoom.us/j/149761448)
 

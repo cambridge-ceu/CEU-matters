@@ -75,6 +75,12 @@ body but no quote).
 * [Webex](https://cart.webex.com/sign-up).
 * [Zoom](https://zoom.us/) ([Zoom Video Communications](https://en.wikipedia.org/wiki/Zoom_Video_Communications)).
 
+## CSCS portal and emails
+
+* [CSCS Anywhere Citrix Portal](https://anywhere.medschl.cam.ac.uk/logon/LogonPoint/index.html).
+* [Configuring your Mobile Device for Exchange Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Configuring+your+Mobile+Device+for+Exchange+Email).
+* [Forwarding @cam Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Email%3A+Forwarding+@cam+Email).
+
 ## External talks
 
 [https://talks.cam.ac.uk/index](https://talks.cam.ac.uk/index)

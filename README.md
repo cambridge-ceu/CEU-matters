@@ -69,7 +69,8 @@ body but no quote).
 * [Allstat](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=ALLSTAT).
 * [CSML](http://www.mailinglists.ucl.ac.uk/mailman/listinfo/csml).
 * [SEGEG](https://mailman.kcl.ac.uk/mailman/listinfo/segeg).
-* [systems-genomics](https://systems-genomics.slack.com/).
+* [Slack](https://systems-genomics.slack.com/).
+* [Skype](https://www.skype.com/en/).
 * [Teams](https://products.office.com/en-gb/microsoft-teams/download-app).
 * [Webex](https://cart.webex.com/sign-up).
 * [Zoom](https://zoom.us/) ([Zoom Video Communications](https://en.wikipedia.org/wiki/Zoom_Video_Communications)).

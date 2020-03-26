@@ -50,6 +50,23 @@ body but no quote).
 * **Venue**: The Thomas and Dorothy Seminar rooms at the Strangeways Site, Wort’s Causeway, Cambridge, CB1 8RN
       (5 mins walk from the Addenbrookes campus in the Babraham Road direction).
 
+## CSCS portal and emails
+
+* [CSCS Anywhere Citrix Portal](https://anywhere.medschl.cam.ac.uk/logon/LogonPoint/index.html).
+* [Configuring your Mobile Device for Exchange Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Configuring+your+Mobile+Device+for+Exchange+Email).
+* [Forwarding @cam Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Email%3A+Forwarding+@cam+Email).
+
+## Mailing lists, slack channels and video conferencing
+
+* [Allstat](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=ALLSTAT).
+* [CSML](http://www.mailinglists.ucl.ac.uk/mailman/listinfo/csml).
+* [SEGEG](https://mailman.kcl.ac.uk/mailman/listinfo/segeg).
+* [Slack](https://systems-genomics.slack.com/).
+* [Skype](https://www.skype.com/en/).
+* [Teams](https://products.office.com/en-gb/microsoft-teams/download-app).
+* [Webex](https://cart.webex.com/sign-up).
+* [Zoom](https://zoom.us/) ([Zoom Video Communications](https://en.wikipedia.org/wiki/Zoom_Video_Communications)).
+
 <a href="https://github.com/cambridge-ceu/CEU-scientific-meetings#2020-conferences"> <img src="2020.jpg" width="400" height="280" align="right"> </a>
 ## 2020 conferences
 
@@ -63,23 +80,6 @@ body but no quote).
 * [RSS 2020](https://www.statslife.org.uk/news/3999-bournemouth-chosen-to-host-rss-2020-conference).
 * [useR! 2020](https://user2020.r-project.org/).
 * [Wellcome Genome Campus Advanced Courses and Scientific Conferences 2020](https://coursesandconferences.wellcomegenomecampus.org/).
-
-## Mailing lists, slack channels and video conferencing
-
-* [Allstat](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=ALLSTAT).
-* [CSML](http://www.mailinglists.ucl.ac.uk/mailman/listinfo/csml).
-* [SEGEG](https://mailman.kcl.ac.uk/mailman/listinfo/segeg).
-* [Slack](https://systems-genomics.slack.com/).
-* [Skype](https://www.skype.com/en/).
-* [Teams](https://products.office.com/en-gb/microsoft-teams/download-app).
-* [Webex](https://cart.webex.com/sign-up).
-* [Zoom](https://zoom.us/) ([Zoom Video Communications](https://en.wikipedia.org/wiki/Zoom_Video_Communications)).
-
-## CSCS portal and emails
-
-* [CSCS Anywhere Citrix Portal](https://anywhere.medschl.cam.ac.uk/logon/LogonPoint/index.html).
-* [Configuring your Mobile Device for Exchange Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Configuring+your+Mobile+Device+for+Exchange+Email).
-* [Forwarding @cam Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Email%3A+Forwarding+@cam+Email).
 
 ## External talks
 

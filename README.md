@@ -54,7 +54,7 @@ body but no quote).
 
 * [Configuring your Mobile Device for Exchange Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Configuring+your+Mobile+Device+for+Exchange+Email).
 * [Forwarding @cam Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Email%3A+Forwarding+@cam+Email).
-* [CSCS Anywhere Citrix Portal](https://anywhere.medschl.cam.ac.uk/logon/LogonPoint/index.html) (requires application from [CSCS IT Support Portal](https://itsupport.medschl.cam.ac.uk/HEAT/?Scope=SelfService&CommandId=NewServiceRequestByOfferingId&Tab=ServiceCatalog&Template=3ED659116D1E4E38A47F1D6D66A53C30)).
+* [CSCS Anywhere Citrix Portal](https://anywhere.medschl.cam.ac.uk/logon/LogonPoint/index.html) (requires application from [CSCS IT Support Portal](https://tinyurl.com/vz9huc9) followed by departmental approval).
 * [VPN (Virtual Private Network)](https://confluence.medschl.cam.ac.uk/x/64q4).
 
 ## Mailing lists, slack channels and video conferencing

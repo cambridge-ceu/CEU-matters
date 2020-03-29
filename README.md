@@ -2,15 +2,6 @@
 
 The repository highlights information on seminars and presentations, etc., at the Cardiovascular Epidemiology Unit (CEU), as notified via <a href="mailto:ceu-group@medschl.cam.ac.uk">the mailing list</a> (ceu-group@medschl.cam.ac.uk). Recent updates include information on remote access and video conferencing following the COVID-19 pandemic.
 
-## Zoom video communications
-* Meeting ID: 705 626 096
-* URL: [https://zoom.us/j/705626096](https://zoom.us/j/705626096)
-* Mobile: <a href="tel:+441314601196">+441314601196</a>,705626096#; <a href="tel:+442030512874">+442030512874</a>,705626096#
-* Phone: <a href="tel:+441314601196">+44 131 460 1196</a>, <a href="tel:+442030512874">+44 203 051 2874</a>, <a href="tel:+442034815237">+44 203 481 5237</a>, <a href="tel:+442034815240">+44 203 481 5240</a>
-* Adam's genetics team recurring meetings:
-  * Meeting ID: 149 761 448
-  * URL: [https://zoom.us/j/149761448](https://zoom.us/j/149761448)
-
 We are establishing the 2020 weekly CEU scientific meetings on Thursdays 10-11am (or occasionally 12-1pm). 
 
 Each meeting will involve one scientific presentation and discussion. Generally, we suggest a 20-minute power-point style presentation focusing on “work in progress”.  We hope these meetings will provide opportunities 
@@ -24,6 +15,15 @@ If you have a conference presentation coming up, you may wish to practice it in 
 We hope that over 2020, each member of the CEU will have an opportunity to give a presentation. We plan to rotate the focus of the meetings between general themes of “Epidemiology”, “Genomics” and “Biostatistics” and hope you will be willing to regularly participate in at least one of these themes. 
 
 The schedule and slides from presentations can be found in the shared folder: W:\Administration\CEU meetings.
+
+## Zoom video communications
+* Meeting ID: 705 626 096
+* URL: [https://zoom.us/j/705626096](https://zoom.us/j/705626096)
+* Mobile: <a href="tel:+441314601196">+441314601196</a>,705626096#; <a href="tel:+442030512874">+442030512874</a>,705626096#
+* Phone: <a href="tel:+441314601196">+44 131 460 1196</a>, <a href="tel:+442030512874">+44 203 051 2874</a>, <a href="tel:+442034815237">+44 203 481 5237</a>, <a href="tel:+442034815240">+44 203 481 5240</a>
+* Adam's genetics team recurring meetings:
+  * Meeting ID: 149 761 448
+  * URL: [https://zoom.us/j/149761448](https://zoom.us/j/149761448)
 
 ## Health Data Research (HDR) UK's seminars
 

@@ -33,12 +33,12 @@ web](https://lists.cam.ac.uk/mailman/options/hdruk-seminars/ceu-group%40medschl.
 body but no quote).
 
 ## Zoom video communications
-* Meeting ID: 705 626 096
+* Meeting ID ([https://zoom.us/join](https://zoom.us/join)): 705 626 096
 * URL: [https://zoom.us/j/705626096](https://zoom.us/j/705626096)
 * Mobile: <a href="tel:+441314601196">+441314601196</a>,705626096#; <a href="tel:+442030512874">+442030512874</a>,705626096#
 * Phone: <a href="tel:+441314601196">+44 131 460 1196</a>, <a href="tel:+442030512874">+44 203 051 2874</a>, <a href="tel:+442034815237">+44 203 481 5237</a>, <a href="tel:+442034815240">+44 203 481 5240</a>
 * Adam's genetics team recurring meetings:
-  * Meeting ID: 149 761 448
+  * Meeting ID ([https://zoom.us/join](https://zoom.us/join)): 149 761 448
   * URL: [https://zoom.us/j/149761448](https://zoom.us/j/149761448)
 
 ## CSCS portal and emails

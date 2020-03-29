@@ -16,14 +16,12 @@ We hope that over 2020, each member of the CEU will have an opportunity to give 
 
 The schedule and slides from presentations can be found in the shared folder: W:\Administration\CEU meetings.
 
-## Zoom video communications
-* Meeting ID: 705 626 096
-* URL: [https://zoom.us/j/705626096](https://zoom.us/j/705626096)
-* Mobile: <a href="tel:+441314601196">+441314601196</a>,705626096#; <a href="tel:+442030512874">+442030512874</a>,705626096#
-* Phone: <a href="tel:+441314601196">+44 131 460 1196</a>, <a href="tel:+442030512874">+44 203 051 2874</a>, <a href="tel:+442034815237">+44 203 481 5237</a>, <a href="tel:+442034815240">+44 203 481 5240</a>
-* Adam's genetics team recurring meetings:
-  * Meeting ID: 149 761 448
-  * URL: [https://zoom.us/j/149761448](https://zoom.us/j/149761448)
+## Schedules
+
+* **Timings**: 10:00 – 11:00 on Thursdays.
+* **HDR UK seminar Timings**: 12:00 – 12:30, Free lunch will be provided; 12:30 – 13:30, Talks.
+* **Venue**: The Thomas and Dorothy Seminar rooms at the Strangeways Site, Wort’s Causeway, Cambridge, CB1 8RN
+      (5 mins walk from the Addenbrookes campus in the Babraham Road direction).
 
 ## Health Data Research (HDR) UK's seminars
 
@@ -34,12 +32,14 @@ information](https://lists.cam.ac.uk/mailman/listinfo/hdruk-seminars)) and suppo
 web](https://lists.cam.ac.uk/mailman/options/hdruk-seminars/ceu-group%40medschl.cam.ac.uk) or <a href="mailto:hdruk-seminars-request@lists.cam.ac.uk">by email</a> (hdruk-seminars-request@lists.cam.ac.uk) (with the word `help` in the subject or 
 body but no quote).
 
-## Schedules
-
-* **Timings**: 10:00 – 11:00 on Thursdays.
-* **HDR UK seminar Timings**: 12:00 – 12:30, Free lunch will be provided; 12:30 – 13:30, Talks.
-* **Venue**: The Thomas and Dorothy Seminar rooms at the Strangeways Site, Wort’s Causeway, Cambridge, CB1 8RN
-      (5 mins walk from the Addenbrookes campus in the Babraham Road direction).
+## Zoom video communications
+* Meeting ID: 705 626 096
+* URL: [https://zoom.us/j/705626096](https://zoom.us/j/705626096)
+* Mobile: <a href="tel:+441314601196">+441314601196</a>,705626096#; <a href="tel:+442030512874">+442030512874</a>,705626096#
+* Phone: <a href="tel:+441314601196">+44 131 460 1196</a>, <a href="tel:+442030512874">+44 203 051 2874</a>, <a href="tel:+442034815237">+44 203 481 5237</a>, <a href="tel:+442034815240">+44 203 481 5240</a>
+* Adam's genetics team recurring meetings:
+  * Meeting ID: 149 761 448
+  * URL: [https://zoom.us/j/149761448](https://zoom.us/j/149761448)
 
 ## CSCS portal and emails
 

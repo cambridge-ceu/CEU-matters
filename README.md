@@ -1,6 +1,6 @@
 <a href="http://phdcomics.com/comics/archive.php?comicid=719"> <img src="http://phdcomics.com/comics/archive/phd060406s.gif" width="560" height="250" align="right"> </a>
 
-The repository highlights information on seminars and presentations, etc., at the Cardiovascular Epidemiology Unit (CEU), as notified via <a href="mailto:ceu-group@medschl.cam.ac.uk">the mailing list</a> (ceu-group@medschl.cam.ac.uk). Recent updates include information on remote access and video conferencing following the COVID-19 pandemic.
+The repository highlights information on seminars and presentations, etc., at the Cardiovascular Epidemiology Unit (CEU), as notified via <a href="mailto:ceu-group@medschl.cam.ac.uk">the mailing list</a> (ceu-group@medschl.cam.ac.uk). Recent updates and extensions include information on remote access and video conferencing following the COVID-19 pandemic.
 
 There is a Slack channel [ceu-world.slack.com](ceu-world.slack.com) as with a dedicated channel for COVID-19 related, and other channels in Slack for Cambridge-wide researchers discussing COVID-19 research approaches.
 
@@ -44,12 +44,13 @@ body but no quote).
 
 ## IT facilities
 
-* [University lookup service](https://www.lookup.cam.ac.uk/self).
+* [University lookup service](https://www.lookup.cam.ac.uk/self) (See [https://confluence.medschl.cam.ac.uk/x/gwtCBQ](https://confluence.medschl.cam.ac.uk/x/gwtCBQ)).
 * Microsoft Teams for DPHPC, [https://tinyurl.com/tlq3sqp](https://tinyurl.com/tlq3sqp) and for IPC [https://tinyurl.com/r7j6cym](https://tinyurl.com/r7j6cym) (sign in with your crsid@cam.ac.uk user account / Raven password).
 * [Configuring your Mobile Device for Exchange Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Configuring+your+Mobile+Device+for+Exchange+Email).
 * [Forwarding @cam Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Email%3A+Forwarding+@cam+Email).
 * [CSCS Anywhere Citrix Portal](https://anywhere.medschl.cam.ac.uk/logon/LogonPoint/index.html) (requires application from [CSCS IT Support Portal](https://tinyurl.com/vz9huc9) followed by departmental approval).
 * [VPN (Virtual Private Network)](https://confluence.medschl.cam.ac.uk/x/64q4).
+* [CSCS Service Desk](https://itsupport.medschl.cam.ac.uk).
 
 ## Mailing lists, slack channels and video conferencing
 

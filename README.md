@@ -50,7 +50,8 @@ body but no quote).
 * [Forwarding @cam Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Email%3A+Forwarding+@cam+Email).
 * [CSCS Anywhere Citrix Portal](https://anywhere.medschl.cam.ac.uk/logon/LogonPoint/index.html) (requires application from [CSCS IT Support Portal](https://tinyurl.com/vz9huc9) followed by departmental approval).
 * [VPN (Virtual Private Network)](https://confluence.medschl.cam.ac.uk/x/64q4).
-* [CSCS Service Desk](https://itsupport.medschl.cam.ac.uk).
+* [CSCS Service Desk](https://itsupport.medschl.cam.ac.uk) (9am – 5pm Monday to Friday).
+* Raven password recovery: [https://help.uis.cam.ac.uk/service/accounts-passwords](https://help.uis.cam.ac.uk/service/accounts-passwords) (CSCS oassword: [https://confluence.medschl.cam.ac.uk/x/_whCBQ](https://confluence.medschl.cam.ac.uk/x/_whCBQ)).
 
 ## Mailing lists, slack channels and video conferencing
 

@@ -44,7 +44,8 @@ body but no quote).
 
 ## IT facilities
 
-* Teams for DPHPC, [https://tinyurl.com/tlq3sqp](https://tinyurl.com/tlq3sqp) and for IPC [https://tinyurl.com/r7j6cym](https://tinyurl.com/r7j6cym) (sign in with your crsid@cam.ac.uk user account / Raven password).
+* [University lookup service](https://www.lookup.cam.ac.uk/self).
+* Microsoft Teams for DPHPC, [https://tinyurl.com/tlq3sqp](https://tinyurl.com/tlq3sqp) and for IPC [https://tinyurl.com/r7j6cym](https://tinyurl.com/r7j6cym) (sign in with your crsid@cam.ac.uk user account / Raven password).
 * [Configuring your Mobile Device for Exchange Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Configuring+your+Mobile+Device+for+Exchange+Email).
 * [Forwarding @cam Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Email%3A+Forwarding+@cam+Email).
 * [CSCS Anywhere Citrix Portal](https://anywhere.medschl.cam.ac.uk/logon/LogonPoint/index.html) (requires application from [CSCS IT Support Portal](https://tinyurl.com/vz9huc9) followed by departmental approval).

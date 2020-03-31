@@ -42,8 +42,9 @@ body but no quote).
   * Meeting ID ([https://zoom.us/join](https://zoom.us/join)): 149 761 448
   * URL: [https://zoom.us/j/149761448](https://zoom.us/j/149761448)
 
-## CSCS portal and emails
+## IT facilities
 
+* Teams for DPHPC, [https://tinyurl.com/tlq3sqp](https://tinyurl.com/tlq3sqp) and for IPC [https://tinyurl.com/r7j6cym](https://tinyurl.com/r7j6cym).
 * [Configuring your Mobile Device for Exchange Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Configuring+your+Mobile+Device+for+Exchange+Email).
 * [Forwarding @cam Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Email%3A+Forwarding+@cam+Email).
 * [CSCS Anywhere Citrix Portal](https://anywhere.medschl.cam.ac.uk/logon/LogonPoint/index.html) (requires application from [CSCS IT Support Portal](https://tinyurl.com/vz9huc9) followed by departmental approval).

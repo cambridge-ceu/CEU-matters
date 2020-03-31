@@ -4,9 +4,7 @@ The repository highlights information on seminars and presentations, etc., at th
 
 There is a Slack channel [ceu-world.slack.com](ceu-world.slack.com) and there will be a dedicated channel for all things COVID-19 related, and other channels already exist in Slack for Cambridge-wide researchers discussing COVID-19 research approaches.
 
-We are establishing the 2020 weekly CEU scientific meetings on Thursdays 10-11am (or occasionally 12-1pm). 
-
-Each meeting will involve one scientific presentation and discussion. Generally, we suggest a 20-minute power-point style presentation focusing on “work in progress”.  We hope these meetings will provide opportunities 
+The 2020 weekly CEU scientific meetings will be on Thursdays 10-11am (or occasionally 12-1pm). Each meeting will involve one scientific presentation and discussion. Generally, we suggest a 20-minute power-point style presentation focusing on “work in progress”.  We hope these meetings will provide opportunities 
 
 1. to disseminate our research to the CEU, 
 2. to gain scientific feedback on projects and 

@@ -1,6 +1,6 @@
 <a href="http://phdcomics.com/comics/archive.php?comicid=719"> <img src="http://phdcomics.com/comics/archive/phd060406s.gif" width="560" height="250" align="right"> </a>
 
-The repository highlights information on seminars and presentations, etc., at the Cardiovascular Epidemiology Unit (CEU), as notified via <a href="mailto:ceu-group@medschl.cam.ac.uk">the mailing list</a> (ceu-group@medschl.cam.ac.uk). Recent updates and extensions include information on remote access and video conferencing following the COVID-19 pandemic, see also [https://www.phpc.cam.ac.uk/covid-19-research-projects/](https://www.phpc.cam.ac.uk/covid-19-research-projects/).
+The repository highlights information on seminars and presentations, etc., at the Cardiovascular Epidemiology Unit (CEU), as notified via <a href="mailto:ceu-group@medschl.cam.ac.uk">the mailing list</a> (ceu-group@medschl.cam.ac.uk). Recent updates and extensions include information on remote access and video conferencing following the COVID-19 pandemic, see [https://www.cam.ac.uk/coronavirus/news](https://www.cam.ac.uk/coronavirus/news) and [https://www.phpc.cam.ac.uk/covid-19-research-projects/](https://www.phpc.cam.ac.uk/covid-19-research-projects/).
 
 There is a Slack channel [ceu-world.slack.com](ceu-world.slack.com) as with a dedicated channel for COVID-19 related, and other channels in Slack for Cambridge-wide researchers discussing COVID-19 research approaches.
 

@@ -15,14 +15,6 @@ We hope that over 2020, each member of the CEU will have an opportunity to give 
 
 The schedule and slides from presentations can be found in the shared folder: W:\Administration\CEU meetings.
 
-## Schedules
-
-* **Timings**: 10:00 – 11:00 on Thursdays.
-* **HDR UK seminar Timings**: 12:00 – 12:30, Free lunch will be provided; 12:30 – 13:30, Talks.
-* **Venue**: The Thomas and Dorothy Seminar rooms
-  - Strangeways Site, Wort’s Causeway, Cambridge, CB1 8RN, [https://goo.gl/maps/MDkBd9E88mf5TFZK7](https://goo.gl/maps/MDkBd9E88mf5TFZK7).
-  - (5 mins walk from the Addenbrookes campus in the Babraham Road direction).
-
 ## Health Data Research (HDR) UK's seminars
 
 HDR UK's mission (https://www.hdruk.ac.uk/about/) is to tackle important research challenges by applying data science approaches to large-scale 
@@ -32,6 +24,14 @@ information](https://lists.cam.ac.uk/mailman/listinfo/hdruk-seminars)) and suppo
 web](https://lists.cam.ac.uk/mailman/options/hdruk-seminars/ceu-group%40medschl.cam.ac.uk) or <a href="mailto:hdruk-seminars-request@lists.cam.ac.uk">by email</a> (hdruk-seminars-request@lists.cam.ac.uk) (with the word `help` in the subject or 
 body but no quote).
 
+## Schedules
+
+* **Timings**: 10:00 – 11:00 on Thursdays.
+* **HDR UK seminar Timings**: 12:00 – 12:30, Free lunch will be provided; 12:30 – 13:30, Talks.
+* **Venue**: The Thomas and Dorothy Seminar rooms
+  - Strangeways Site, Wort’s Causeway, Cambridge, CB1 8RN, [https://goo.gl/maps/MDkBd9E88mf5TFZK7](https://goo.gl/maps/MDkBd9E88mf5TFZK7).
+  - (5 mins walk from the Addenbrookes campus in the Babraham Road direction).
+
 ## Zoom video communications
 
 * Meeting ID ([https://zoom.us/join](https://zoom.us/join)): 281-333-850
@@ -39,6 +39,17 @@ body but no quote).
 * Mobile: <a href="tel:+443300885830">+443300885830</a>, <a href="tel:+441314601196">+441314601196</a>
 * Phone: <a href="tel:+442034815237">+44 203 481 5237</a>, <a href="tel:+442034815240">+44 203 481 5240</a>, <a href="tel:+442080806591">+44 208 080 6591</a>, <a href="tel:+442080806592">+44 208 080 6592</a>
 * HDR meeting ID ([https://zoom.us/join](https://zoom.us/join)): 629-876-417, URL: [https://zoom.us/j/629876417](https://zoom.us/j/620876417)
+* Phone: 
+ <a href="tel:+442034815237">+44 203 481 5237</a>,
+ <a href="tel:+442034815240">+44 203 481 5240</a>,
+ <a href="tel:+442080806591">+44 208 080 6591</a>,
+ <a href="tel:+442080806592">+44 208 080 6592</a>
+* Phone:
+ <a href="tel:+441314601196">+44 131 460 1196</a>,
+ <a href="tel:+442030512874">+44 203 051 2874</a>,
+ <a href="tel:+442034815237">+44 203 481 5237</a>,
+ <a href="tel:+442034815240">+44 203 481 5240</a>
+
 * Adam's genetics team recurring meetings:
   * Meeting ID ([https://zoom.us/join](https://zoom.us/join)): 149 761 448
   * URL: [https://zoom.us/j/149761448](https://zoom.us/j/149761448)

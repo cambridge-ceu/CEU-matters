@@ -34,6 +34,8 @@ body but no quote).
 
 ## Zoom video communications
 
+[How to use Zoom securely](https://help.uis.cam.ac.uk/service/security/wfh-security/zoom-security).
+
 * Meeting ID ([https://zoom.us/join](https://zoom.us/join)): 281-333-850
   * URL: [https://zoom.us/j/281333850](https://zoom.us/j/281333850)
   * Mobile: <a href="tel:+443300885830">+443300885830</a>, <a href="tel:+441314601196">+441314601196</a>

@@ -17,7 +17,7 @@ The schedule and slides from presentations can be found in the shared folder: W:
 
 ## Health Data Research (HDR) UK's seminars
 
-HDR UK's mission (https://www.hdruk.ac.uk/about/) is to tackle important research challenges by applying data science approaches to large-scale 
+HDR UK's mission (https://www.hdruk.ac.uk/about/, https://github.com/HDRUK) is to tackle important research challenges by applying data science approaches to large-scale 
 biomedical data. Seminar Series started in September 2018 with an exciting line-up of talks, spanning various research themes including 
 'multi-omics', clinical informatics, rare diseases, the microbiome, and novel analytical methods. It has a <a href="mailto:hdruk-seminars@lists.cam.ac.uk">mailing list</a> (hdruk-seminars@lists.cam.ac.uk) ([further 
 information](https://lists.cam.ac.uk/mailman/listinfo/hdruk-seminars)) and supports subscription or change of options (e.g., digest mode) [from the 

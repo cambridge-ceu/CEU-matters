@@ -45,7 +45,7 @@ body but no quote).
  <a href="tel:+442080806591">+44 208 080 6591</a>,
  <a href="tel:+442080806592">+44 208 080 6592</a>
 * HDR meeting ID ([https://zoom.us/join](https://zoom.us/join)): 629-876-417
-  * URL: [https://zoom.us/j/629876417](https://zoom.us/j/620876417)
+  * URL: [https://us02web.zoom.us/j/629876417](https://us02web.zoom.us/j/629876417)
   * Phone:
  <a href="tel:+441314601196">+44 131 460 1196</a>,
  <a href="tel:+442030512874">+44 203 051 2874</a>,

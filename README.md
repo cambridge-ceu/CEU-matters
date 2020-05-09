@@ -65,10 +65,11 @@ body but no quote).
 * [Forwarding @cam Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Email%3A+Forwarding+@cam+Email).
 * Microsoft Teams for DPHPC: [https://tinyurl.com/tlq3sqp](https://tinyurl.com/tlq3sqp) and for IPC: [https://tinyurl.com/r7j6cym](https://tinyurl.com/r7j6cym) (sign in with your crsid@cam.ac.uk user account / Raven password).
 * [Office 365](https://login.microsoftonline.com/)
+* [People DPHPC](https://dphpc.peoplehr.net/)
 * Raven password recovery: [https://help.uis.cam.ac.uk/service/accounts-passwords](https://help.uis.cam.ac.uk/service/accounts-passwords) (CSCS password: [https://confluence.medschl.cam.ac.uk/x/_whCBQ](https://confluence.medschl.cam.ac.uk/x/_whCBQ)).
-* [VPN (Virtual Private Network)](https://confluence.medschl.cam.ac.uk/x/64q4) (download and install [Software](https://software.medschl.cam.ac.uk/) and then use remote desktop to your office PC ip just as in your office).
 * [Symplectic Elements Login](https://elements.admin.cam.ac.uk/default.html)
 * [University lookup service](https://www.lookup.cam.ac.uk/self) (See [https://confluence.medschl.cam.ac.uk/x/gwtCBQ](https://confluence.medschl.cam.ac.uk/x/gwtCBQ)).
+* [VPN (Virtual Private Network)](https://confluence.medschl.cam.ac.uk/x/64q4) (download and install [Software](https://software.medschl.cam.ac.uk/) and then use remote desktop to your office PC ip just as in your office).
 
 ## Mailing lists, slack channels and video conferencing
 

@@ -60,7 +60,8 @@ body but no quote).
 
 * [CSCS Anywhere Citrix Portal](https://anywhere.medschl.cam.ac.uk/logon/LogonPoint/index.html) (requires application from [CSCS IT Support Portal](https://tinyurl.com/vz9huc9) followed by departmental approval).
 * [CSCS Service Desk](https://itsupport.medschl.cam.ac.uk) (01223 336261, 9am – 5pm Monday to Friday)
-* [Configuring your Mobile Device for Exchange Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Configuring+your+Mobile+Device+for+Exchange+Email).
+* [Configuring your Mobile Device for Exchange Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Configuring+your+Mobile+Device+for+Exchange+Email)
+* [Employee Self Service](https://chris.cam.ac.uk/hrlive_ess/ess/index.html#/login)
 * [Forwarding @cam Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Email%3A+Forwarding+@cam+Email).
 * Microsoft Teams for DPHPC: [https://tinyurl.com/tlq3sqp](https://tinyurl.com/tlq3sqp) and for IPC: [https://tinyurl.com/r7j6cym](https://tinyurl.com/r7j6cym) (sign in with your crsid@cam.ac.uk user account / Raven password).
 * [Office 365](https://login.microsoftonline.com/)

@@ -80,10 +80,10 @@ body but no quote).
 * [SEGEG](https://mailman.kcl.ac.uk/mailman/listinfo/segeg).
 * [Systems-genomics](https://systems-genomics.slack.com/).
 * [Skype](https://www.skype.com/en/).
-* [Teams](https://products.office.com/en-gb/microsoft-teams/download-app).
+* [Teams](https://products.office.com/en-gb/microsoft-teams/download-app), [Breakout rooms](https://myteamsday.com/2020/04/17/breakoutrooms-in-teams/).
 * [Timeout](https://timeout.srcf.net).
 * [Webex](https://cart.webex.com/sign-up).
-* [Zoom](https://zoom.us/) ([Zoom Video Communications](https://en.wikipedia.org/wiki/Zoom_Video_Communications)).
+* [Zoom](https://zoom.us/) ([Zoom Video Communications](https://en.wikipedia.org/wiki/Zoom_Video_Communications)), [Breakout rooms](https://support.zoom.us/hc/en-us/articles/206476093-Enabling-breakout-rooms), [Polling](https://blog.zoom.us/wordpress/2016/09/20/3-ways-to-use-polls-in-meetings/).
 
 <a href="https://github.com/cambridge-ceu/CEU-scientific-meetings#2020-conferences"> <img src="2020.jpg" width="400" height="280" align="right"> </a>
 ## 2020 conferences

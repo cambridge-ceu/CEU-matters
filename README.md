@@ -57,8 +57,9 @@ body but no quote).
   * URL: [https://zoom.us/j/149761448](https://zoom.us/j/149761448)
   * 6/5/2020: [https://us02web.zoom.us/j/84907849976](https://us02web.zoom.us/j/84907849976), Meeting ID: 849 0784 9976
 
-## IT facilities
+## Online facilities
 
+* [Clinical School HR Twitter](https://twitter.com/clinical_hr)
 * [CSCS Anywhere Citrix Portal](https://anywhere.medschl.cam.ac.uk/logon/LogonPoint/index.html) (requires application from [CSCS IT Support Portal](https://tinyurl.com/vz9huc9) followed by departmental approval).
 * [CSCS Service Desk](https://itsupport.medschl.cam.ac.uk) (01223 336261, 9am – 5pm Monday to Friday)
 * [Configuring your Mobile Device for Exchange Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Configuring+your+Mobile+Device+for+Exchange+Email)

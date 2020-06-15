@@ -48,8 +48,8 @@ body but no quote).
 * HDR meeting ID ([https://zoom.us/join](https://zoom.us/join)): 824 4718 0532
   * URL: [https://us02web.zoom.us/j/82447180532](https://us02web.zoom.us/j/82447180532?pwd=K2s2am14cWpSeGhUYkRvUUdwc3RYdz09)
   * Phone:
- <a href="tel:+441314601196">+44 131 460 1196</a>,82447180532# (UK),
- <a href="tel:+442030512874">+44 203 051 2874</a>,82447180532# (UK),
+ <a href="tel:+441314601196">+44 131 460 1196</a>, 82447180532# (UK),
+ <a href="tel:+442030512874">+44 203 051 2874</a>, 82447180532# (UK),
  <a href="tel:+442034815237">+44 203 481 5237</a>,
  <a href="tel:+442034815240">+44 203 481 5240</a>
 * Adam's genetics team recurring meetings:

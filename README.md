@@ -3,6 +3,8 @@
 The repository highlights information on seminars and presentations, etc., at the Cardiovascular Epidemiology Unit (CEU), as notified via <a href="mailto:ceu-group@medschl.cam.ac.uk">the mailing list</a> (ceu-group@medschl.cam.ac.uk). Recent updates and extensions include information on remote access and video conferencing following the COVID-19 pandemic, see [https://www.cam.ac.uk/coronavirus/news](https://www.cam.ac.uk/coronavirus/news) and [https://www.phpc.cam.ac.uk/covid-19-research-projects/](https://www.phpc.cam.ac.uk/covid-19-research-projects/) (via [ps.comms@medschl.cam.ac.uk](mailto:ps.comms@medschl.cam.ac.uk)).
 There is a Slack channel [ceu-world.slack.com](https://ceu-world.slack.com/) as with a dedicated channel for COVID-19 related, and other channels in Slack for Cambridge-wide researchers discussing COVID-19 research approaches.
 
+Access to SRL (in phases from Mondy June 22<sup>nd</sup> 2020) requires email ps.reception@medschl.cam.ac.uk to make appointments at least 24 hours’ notice of intention to come onsite.
+
 The 2020 weekly CEU scientific meetings will be on Thursdays 10-11am (or occasionally 12-1pm). Each meeting will involve one scientific presentation and discussion. Generally, we suggest a 20-minute power-point style presentation focusing on “work in progress”.  We hope these meetings will provide opportunities 
 
 1. to disseminate our research to the CEU, 

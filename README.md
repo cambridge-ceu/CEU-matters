@@ -58,6 +58,7 @@ body but no quote).
   * Meeting ID ([https://zoom.us/join](https://zoom.us/join)): 149 761 448
   * URL: [https://zoom.us/j/149761448](https://zoom.us/j/149761448)
   * 6/5/2020: [https://us02web.zoom.us/j/84907849976](https://us02web.zoom.us/j/84907849976), Meeting ID: 849 0784 9976
+  * 25/6/2020: [https://zoom.us/j/94103695686](https://zoom.us/j/94103695686)
 
 ## Online facilities
 

@@ -57,7 +57,6 @@ body but no quote).
 * Adam's genetics team recurring meetings:
   * Meeting ID ([https://zoom.us/join](https://zoom.us/join)): 149 761 448
   * URL: [https://zoom.us/j/149761448](https://zoom.us/j/149761448)
-  * 25/6/2020: [https://zoom.us/j/94103695686](https://zoom.us/j/94103695686)
 
 ## Online facilities
 

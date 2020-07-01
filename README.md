@@ -81,7 +81,7 @@ body but no quote).
 * [Allstat](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=ALLSTAT).
 * [CSML](http://www.mailinglists.ucl.ac.uk/mailman/listinfo/csml).
 * [SEGEG](https://mailman.kcl.ac.uk/mailman/listinfo/segeg).
-* [Systems-genomics](https://systems-genomics.slack.com/).
+* [Systems-genomics](https://systems-genomics.slack.com/) ([create-a-workspace](https://slack.com/intl/en-in/help/articles/206845317-Create-a-Slack-workspace)).
 * [Skype](https://www.skype.com/en/).
 * [Teams](https://products.office.com/en-gb/microsoft-teams/download-app), [Breakout rooms](https://myteamsday.com/2020/04/17/breakoutrooms-in-teams/).
 * [Timeout](https://timeout.srcf.net).

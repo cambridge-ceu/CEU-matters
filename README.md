@@ -36,7 +36,7 @@ body but no quote).
 
 Recent updates and extensions include information on remote access and video conferencing following the COVID-19 pandemic, see [https://www.cam.ac.uk/coronavirus/](https://www.cam.ac.uk/coronavirus/) and [https://www.phpc.cam.ac.uk/covid-19-research-projects/](https://www.phpc.cam.ac.uk/covid-19-research-projects/) (via [ps.comms@medschl.cam.ac.uk](mailto:ps.comms@medschl.cam.ac.uk)).
 
-There is a Slack channel [ceu-world.slack.com](https://ceu-world.slack.com/) as with a dedicated channel for COVID-19 related, and other channels in Slack for Cambridge-wide researchers discussing COVID-19 research approaches.
+There is a Slack channel [ceu-world.slack.com](https://ceu-world.slack.com/) as with a dedicated channel for COVID-19 related, and other channels in Slack for Cambridge-wide researchers discussing COVID-19 research approaches. There are also Microsoft Teams for DPHPC: [https://tinyurl.com/tlq3sqp](https://tinyurl.com/tlq3sqp) and for IPH: [https://tinyurl.com/r7j6cym](https://tinyurl.com/r7j6cym) (sign in with your crsid@cam.ac.uk user account / Raven password).
 
 Information is available on testing COVID-19 for [staff](https://www.cam.ac.uk/coronavirus/staff/health-and-wellbeing/testing-staff-for-covid-19) and [students](https://www.cam.ac.uk/coronavirus/students/health-and-wellbeing#testing).
 
@@ -74,7 +74,6 @@ Access to SRL (in phases from Monday June 22<sup>nd</sup> 2020) requires email p
 * [Configuring your Mobile Device for Exchange Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Configuring+your+Mobile+Device+for+Exchange+Email)
 * [Employee Self Service](https://chris.cam.ac.uk/hrlive_ess/ess/index.html#/login)
 * [Forwarding @cam Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Email%3A+Forwarding+@cam+Email).
-* Microsoft Teams for DPHPC: [https://tinyurl.com/tlq3sqp](https://tinyurl.com/tlq3sqp) and for IPC: [https://tinyurl.com/r7j6cym](https://tinyurl.com/r7j6cym) (sign in with your crsid@cam.ac.uk user account / Raven password).
 * [Office 365](https://login.microsoftonline.com/)
 * [People DPHPC](https://dphpc.peoplehr.net/)
 * Raven password recovery: [https://help.uis.cam.ac.uk/service/accounts-passwords](https://help.uis.cam.ac.uk/service/accounts-passwords) (CSCS password: [https://confluence.medschl.cam.ac.uk/x/_whCBQ](https://confluence.medschl.cam.ac.uk/x/_whCBQ)).

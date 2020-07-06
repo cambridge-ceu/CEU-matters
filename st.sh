@@ -1,10 +1,12 @@
-# 3-2-2020 JHZ
+# 6-7-2020 JHZ
 
+git remote add origin git@github.com:cambridge-ceu/CEU-scientific-meetings.git
 git add README.md
 git commit -m "README"
 git add 2020.jpg
 git commit -m "One-page 2020 calendar"
-git remote add origin git@github.com:cambridge-ceu/CEU-scientific-meetings.git
+git add fullcalendar-4.3.1
+git commit -m "Google Calendar"
 git add st.sh
 git commit -m "batch"
 git push -u origin master

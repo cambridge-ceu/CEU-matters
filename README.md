@@ -3,7 +3,7 @@
 The repository highlights information on seminars and presentations, etc., at the Cardiovascular Epidemiology Unit (CEU), as notified via <a href="mailto:ceu-group@medschl.cam.ac.uk">the mailing list</a> (ceu-group@medschl.cam.ac.uk). Recent updates and extensions include information on remote access and video conferencing following the COVID-19 pandemic, see [https://www.cam.ac.uk/coronavirus/](https://www.cam.ac.uk/coronavirus/) and [https://www.phpc.cam.ac.uk/covid-19-research-projects/](https://www.phpc.cam.ac.uk/covid-19-research-projects/) (via [ps.comms@medschl.cam.ac.uk](mailto:ps.comms@medschl.cam.ac.uk)).
 There is a Slack channel [ceu-world.slack.com](https://ceu-world.slack.com/) as with a dedicated channel for COVID-19 related, and other channels in Slack for Cambridge-wide researchers discussing COVID-19 research approaches.
 
-Information on testing COVID-19 for [staff](https://www.cam.ac.uk/coronavirus/staff/health-and-wellbeing/testing-staff-for-covid-19) and [students](https://www.cam.ac.uk/coronavirus/students/health-and-wellbeing#testing) is available.
+Information is available on testing COVID-19 for [staff](https://www.cam.ac.uk/coronavirus/staff/health-and-wellbeing/testing-staff-for-covid-19) and [students](https://www.cam.ac.uk/coronavirus/students/health-and-wellbeing#testing).
 
 Access to SRL (in phases from Mondy June 22<sup>nd</sup> 2020) requires email ps.reception@medschl.cam.ac.uk to make appointments at least 24 hours’ notice of intention to come onsite.
 

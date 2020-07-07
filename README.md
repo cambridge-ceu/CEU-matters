@@ -117,3 +117,5 @@ Access to SRL (in phases from Monday June 22<sup>nd</sup> 2020) requires email p
   * [Armitage Lectures and Workshops](https://www.mrc-bsu.cam.ac.uk/news-and-events/armitage-lectureships-and-workshops/).
 * [MRC Epidemiology Unit](http://www.mrc-epid.cam.ac.uk/events)
 * [Trinity College Science Society](http://talks.cam.ac.uk/show/index/28326) (TCSS).
+* The Royal Siciety of Medicine [Medical Genetics Section](https://www.rsm.ac.uk/sections/medical-genetics-section/)
+

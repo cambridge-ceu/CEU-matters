@@ -32,7 +32,7 @@ body but no quote).
   - Strangeways Site, Wort’s Causeway, Cambridge, CB1 8RN, [https://goo.gl/maps/MDkBd9E88mf5TFZK7](https://goo.gl/maps/MDkBd9E88mf5TFZK7).
   - (5 mins walk from the Addenbrookes campus in the Babraham Road direction).
 
-## COVID-19 outbreak
+## The COVID-19 pandemic
 
 Recent updates and extensions include information on remote access and video conferencing following the COVID-19 pandemic, see [https://www.cam.ac.uk/coronavirus/](https://www.cam.ac.uk/coronavirus/) and [https://www.phpc.cam.ac.uk/covid-19-research-projects/](https://www.phpc.cam.ac.uk/covid-19-research-projects/) (via [ps.comms@medschl.cam.ac.uk](mailto:ps.comms@medschl.cam.ac.uk)).
 

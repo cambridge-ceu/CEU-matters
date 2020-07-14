@@ -54,8 +54,8 @@ Access to SRL (in phases from Monday June 22<sup>nd</sup> 2020) requires email p
  <a href="tel:+442034815240">+44 203 481 5240</a>,
  <a href="tel:+442080806591">+44 208 080 6591</a>,
  <a href="tel:+442080806592">+44 208 080 6592</a>
-* HDR meeting ID ([https://zoom.us/join](https://zoom.us/join)): 824 4718 0532
-  * URL: [https://us02web.zoom.us/j/82447180532](https://us02web.zoom.us/j/82447180532?pwd=K2s2am14cWpSeGhUYkRvUUdwc3RYdz09)
+* HDR meeting ID ([https://zoom.us/join](https://zoom.us/join)): 629 876 6417
+  * URL: [https://us02web.zoom.us/j/6298766417](https://us02web.zoom.us/j/6298766417?pwd=K2s2am14cWpSeGhUYkRvUUdwc3RYdz09)
   * Phone:
  <a href="tel:+441314601196">+44 131 460 1196</a>, 82447180532# (UK),
  <a href="tel:+442030512874">+44 203 051 2874</a>, 82447180532# (UK),

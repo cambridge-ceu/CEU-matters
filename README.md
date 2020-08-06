@@ -76,11 +76,11 @@ Access to SRL (in phases from Monday June 22<sup>nd</sup> 2020) requires email p
 * [Forwarding @cam Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Email%3A+Forwarding+@cam+Email).
 * [Moodle account](https://www.vle.cam.ac.uk/login/index.php) as a virtual learning environment (VLE), [Understanding Unconscious/Implicit Bias](https://www.equality.admin.cam.ac.uk/training-overview/understanding-unconscious-implicit-bias)
 * [Office 365](https://login.microsoftonline.com/)
-* [People DPHPC](https://dphpc.peoplehr.net/)
+* [DPHPC People](https://dphpc.peoplehr.net/)
 * Raven password recovery: [https://help.uis.cam.ac.uk/service/accounts-passwords](https://help.uis.cam.ac.uk/service/accounts-passwords) (CSCS password: [https://confluence.medschl.cam.ac.uk/x/_whCBQ](https://confluence.medschl.cam.ac.uk/x/_whCBQ)).
-* [Recruitment restraint](https://www.hr.admin.cam.ac.uk/recruitment_protocol_2020_21)
 * REF2021 [Code of Practice](https://www.ref.admin.cam.ac.uk/sites/www.ref.admin.cam.ac.uk/files/revised_code_of_practice_170919_clean.pdf), [email](REF2021@admin.cam.ac.uk) and [Staff Circumstances](https://www.ref.admin.cam.ac.uk/code-practice/staff-circumstances) ([form](https://www.ref.admin.cam.ac.uk/code-practice/staff-eligibility), [email](REF2021staffcircumstances@admin.cam.ac.uk), [HR equality & diversity](Gina.Warren@admin.cam.ac.uk))
 * [Symplectic Elements Login](https://elements.admin.cam.ac.uk/default.html)
+* [University Human Resources](https://www.hr.admin.cam.ac.uk/), [Recruitment restraint](https://www.hr.admin.cam.ac.uk/recruitment_protocol_2020_21), [Equality and Diversity Team](equality@admin.cam.ac.uk)
 * [University lookup service](https://www.lookup.cam.ac.uk/self) (See [https://confluence.medschl.cam.ac.uk/x/gwtCBQ](https://confluence.medschl.cam.ac.uk/x/gwtCBQ)).
 * [VPN (Virtual Private Network)](https://confluence.medschl.cam.ac.uk/x/64q4) (download and install [Software](https://software.medschl.cam.ac.uk/) and then use remote desktop to your office PC is just as in your office).
 

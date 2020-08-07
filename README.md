@@ -72,11 +72,11 @@ Access to SRL (in phases from Monday June 22<sup>nd</sup> 2020) requires email p
 * [CSCS Remote support](http://remote-support.medschl.cam.ac.uk/)
 * [CSCS Service Desk](https://itsupport.medschl.cam.ac.uk) (01223 336261, 9am – 5pm Monday to Friday)
 * [Configuring your Mobile Device for Exchange Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Configuring+your+Mobile+Device+for+Exchange+Email)
+* [DPHPC People](https://dphpc.peoplehr.net/)
 * [Employee Self Service](https://chris.cam.ac.uk/hrlive_ess/ess/index.html#/login)
 * [Forwarding @cam Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Email%3A+Forwarding+@cam+Email).
 * [Moodle account](https://www.vle.cam.ac.uk/login/index.php) as a virtual learning environment (VLE), [Understanding Unconscious/Implicit Bias](https://www.equality.admin.cam.ac.uk/training-overview/understanding-unconscious-implicit-bias)
 * [Office 365](https://login.microsoftonline.com/)
-* [DPHPC People](https://dphpc.peoplehr.net/)
 * Raven password recovery: [https://help.uis.cam.ac.uk/service/accounts-passwords](https://help.uis.cam.ac.uk/service/accounts-passwords) (CSCS password: [https://confluence.medschl.cam.ac.uk/x/_whCBQ](https://confluence.medschl.cam.ac.uk/x/_whCBQ)).
 * REF2021 [Code of Practice](https://www.ref.admin.cam.ac.uk/sites/www.ref.admin.cam.ac.uk/files/revised_code_of_practice_170919_clean.pdf), [email](REF2021@admin.cam.ac.uk) and [Staff Circumstances](https://www.ref.admin.cam.ac.uk/code-practice/staff-circumstances) ([form](https://www.ref.admin.cam.ac.uk/code-practice/staff-eligibility), [email](REF2021staffcircumstances@admin.cam.ac.uk), [HR equality & diversity](Gina.Warren@admin.cam.ac.uk))
 * [Symplectic Elements Login](https://elements.admin.cam.ac.uk/default.html)

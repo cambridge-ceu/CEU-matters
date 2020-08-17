@@ -82,6 +82,7 @@ Access to SRL (in phases from Monday June 22<sup>nd</sup> 2020) requires email p
 * [Symplectic Elements Login](https://elements.admin.cam.ac.uk/default.html)
 * [University Human Resources](https://www.hr.admin.cam.ac.uk/), [Recruitment restraint](https://www.hr.admin.cam.ac.uk/recruitment_protocol_2020_21), [Equality and Diversity Team](equality@admin.cam.ac.uk)
 * [University lookup service](https://www.lookup.cam.ac.uk/self) (See [https://confluence.medschl.cam.ac.uk/x/gwtCBQ](https://confluence.medschl.cam.ac.uk/x/gwtCBQ)).
+* [University Telecoms Office](https://www.phone.cam.ac.uk/) ([My phone](https://my.phone.cam.ac.uk/myphone/calls))
 * [VPN (Virtual Private Network)](https://confluence.medschl.cam.ac.uk/x/64q4) (download and install [Software](https://software.medschl.cam.ac.uk/) and then use remote desktop to your office PC is just as in your office).
 
 ## Mailing lists, slack channels and video conferencing

@@ -67,27 +67,28 @@ Access to SRL (in phases from Monday June 22<sup>nd</sup> 2020) requires email p
 
 ## Online facilities
 
-* [Clinical School HR Twitter](https://twitter.com/clinical_hr)
+* Clinical School HR Twitter, https://twitter.com/clinical_hr
 * CSCS
   * Anywhere Citrix Portal, https://anywhere.medschl.cam.ac.uk/logon/LogonPoint/index.html (requires application from [CSCS IT Support Portal](https://tinyurl.com/vz9huc9) followed by departmental approval).
+  * [Configuring your Mobile Device for Exchange Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Configuring+your+Mobile+Device+for+Exchange+Email)
   * Remote support, http://remote-support.medschl.cam.ac.uk/
-  * Service Desk:  01223 (3)36261 (9am – 5pm Monday to Friday)
-  * Support Portal: https://itsupport.medschl.cam.ac.uk 
-  * User Guides: https://cscsguides.medschl.cam.ac.uk
-  * Website: https://cscs.medschl.cam.ac.uk/
-* [Configuring your Mobile Device for Exchange Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Configuring+your+Mobile+Device+for+Exchange+Email)
-* [DPHPC People](https://dphpc.peoplehr.net/)
-* [Employee Self Service](https://chris.cam.ac.uk/hrlive_ess/ess/index.html#/login)
-* [Forwarding @cam Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Email%3A+Forwarding+@cam+Email).
-* [Moodle account](https://www.vle.cam.ac.uk/login/index.php) as a virtual learning environment (VLE), [Understanding Unconscious/Implicit Bias](https://www.equality.admin.cam.ac.uk/training-overview/understanding-unconscious-implicit-bias)
-* [Office 365](https://login.microsoftonline.com/)
-* Raven password recovery: [https://help.uis.cam.ac.uk/service/accounts-passwords](https://help.uis.cam.ac.uk/service/accounts-passwords) (CSCS password: [https://confluence.medschl.cam.ac.uk/x/_whCBQ](https://confluence.medschl.cam.ac.uk/x/_whCBQ)).
-* REF2021 [Code of Practice](https://www.ref.admin.cam.ac.uk/sites/www.ref.admin.cam.ac.uk/files/revised_code_of_practice_170919_clean.pdf), [email](REF2021@admin.cam.ac.uk) and [Staff Circumstances](https://www.ref.admin.cam.ac.uk/code-practice/staff-circumstances) ([form](https://www.ref.admin.cam.ac.uk/code-practice/staff-eligibility), [email](REF2021staffcircumstances@admin.cam.ac.uk), [HR equality & diversity](Gina.Warren@admin.cam.ac.uk))
-* [Symplectic Elements Login](https://elements.admin.cam.ac.uk/default.html)
-* [University Human Resources](https://www.hr.admin.cam.ac.uk/), [Recruitment restraint](https://www.hr.admin.cam.ac.uk/recruitment_protocol_2020_21), [Equality and Diversity Team](equality@admin.cam.ac.uk)
-* [University lookup service](https://www.lookup.cam.ac.uk/self) (See [https://confluence.medschl.cam.ac.uk/x/gwtCBQ](https://confluence.medschl.cam.ac.uk/x/gwtCBQ)).
-* [University Telecoms Office](https://www.phone.cam.ac.uk/) ([My phone](https://my.phone.cam.ac.uk/myphone/calls))
-* [VPN (Virtual Private Network)](https://confluence.medschl.cam.ac.uk/x/64q4) (download and install [Software](https://software.medschl.cam.ac.uk/) and then use remote desktop to your office PC is just as in your office).
+  * Service Desk, 01223 (3)36261 (9am – 5pm Monday to Friday)
+  * Support Portal, https://itsupport.medschl.cam.ac.uk 
+  * User Guides, https://cscsguides.medschl.cam.ac.uk
+  * [VPN (Virtual Private Network)](https://confluence.medschl.cam.ac.uk/x/64q4) (download and install [Software](https://software.medschl.cam.ac.uk/) and then use remote desktop to your office PC is just as in your office).
+  * Website, https://cscs.medschl.cam.ac.uk/
+* DPHPC People, https://dphpc.peoplehr.net/
+* Office 365, https://login.microsoftonline.com/
+* University
+  * Employee Self Service, https://chris.cam.ac.uk/hrlive_ess/ess/index.html#/login
+  * Human Resources, https://www.hr.admin.cam.ac.uk/, [Recruitment restraint](https://www.hr.admin.cam.ac.uk/recruitment_protocol_2020_21), [Equality and Diversity Team](equality@admin.cam.ac.uk)
+  * Forwarding @cam Email, https://confluence.medschl.cam.ac.uk/display/FAQ/Email%3A+Forwarding+@cam+Email
+  * Lookup service, https://www.lookup.cam.ac.uk/self (See [https://confluence.medschl.cam.ac.uk/x/gwtCBQ](https://confluence.medschl.cam.ac.uk/x/gwtCBQ)).
+  * Moodle account, https://www.vle.cam.ac.uk/login/index.php as a virtual learning environment (VLE), [Understanding Unconscious/Implicit Bias](https://www.equality.admin.cam.ac.uk/training-overview/understanding-unconscious-implicit-bias)
+  * Raven password recovery, [https://help.uis.cam.ac.uk/service/accounts-passwords](https://help.uis.cam.ac.uk/service/accounts-passwords) (CSCS password: [https://confluence.medschl.cam.ac.uk/x/_whCBQ](https://confluence.medschl.cam.ac.uk/x/_whCBQ)).
+  * REF2021 [Code of Practice](https://www.ref.admin.cam.ac.uk/sites/www.ref.admin.cam.ac.uk/files/revised_code_of_practice_170919_clean.pdf), [email](REF2021@admin.cam.ac.uk) and [Staff Circumstances](https://www.ref.admin.cam.ac.uk/code-practice/staff-circumstances) ([form](https://www.ref.admin.cam.ac.uk/code-practice/staff-eligibility), [email](REF2021staffcircumstances@admin.cam.ac.uk), [HR equality & diversity](Gina.Warren@admin.cam.ac.uk))
+  * Symplectic Elements Login, https://elements.admin.cam.ac.uk/default.html
+  * Telecoms Office, https://www.phone.cam.ac.uk/ ([My phone](https://my.phone.cam.ac.uk/myphone/calls))
 
 ## Mailing lists, slack channels and video conferencing
 

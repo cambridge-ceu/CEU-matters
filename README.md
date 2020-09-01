@@ -67,8 +67,6 @@ Access to SRL (in phases from Monday June 22<sup>nd</sup> 2020) requires email p
 
 *HDR meeting on 3/9/20*
 ```
-https://us02web.zoom.us/j/88230875260?pwd=d3FLcnIvRmY3QlJwOWJnMkE5QWdqdz09
-
 Meeting ID: 882 3087 5260
 One tap mobile
 +441314601196,88230875260# United Kingdom

@@ -70,7 +70,6 @@ Access to SRL (in phases from Monday June 22<sup>nd</sup> 2020) requires email p
 https://us02web.zoom.us/j/88230875260?pwd=d3FLcnIvRmY3QlJwOWJnMkE5QWdqdz09
 
 Meeting ID: 882 3087 5260
-Passcode: 959151
 One tap mobile
 +441314601196,88230875260# United Kingdom
 +442030512874,88230875260# United Kingdom

@@ -1,4 +1,4 @@
-# 6-7-2020 JHZ
+# 1-9-2020 JHZ
 
 git remote add origin git@github.com:cambridge-ceu/CEU-scientific-meetings.git
 git add README.md
@@ -10,3 +10,6 @@ git commit -m "Google Calendar"
 git add st.sh
 git commit -m "batch"
 git push -u origin master
+
+# 959151
+# 920084

@@ -65,6 +65,22 @@ Access to SRL (in phases from Monday June 22<sup>nd</sup> 2020) requires email p
   * Meeting ID ([https://zoom.us/join](https://zoom.us/join)): 149 761 448
   * URL: [https://zoom.us/j/149761448](https://zoom.us/j/149761448)
 
+*HDR meeting on 3/9/20*
+```
+https://us02web.zoom.us/j/88230875260?pwd=d3FLcnIvRmY3QlJwOWJnMkE5QWdqdz09
+
+Meeting ID: 882 3087 5260
+Passcode: 959151
+One tap mobile
++441314601196,88230875260# United Kingdom
++442030512874,88230875260# United Kingdom
+
+Dial by location
++44 131 460 1196 United Kingdom
++44 203 051 2874 United Kingdom
++44 203 481 5237 United Kingdom
+```
+
 ## Online facilities
 
 * Clinical School HR Twitter, https://twitter.com/clinical_hr

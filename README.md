@@ -91,7 +91,12 @@ Dial by location
   * Service Desk, 01223 (3)36261 (9am – 5pm Monday to Friday)
   * Support Portal, https://itsupport.medschl.cam.ac.uk 
   * User Guides, https://cscsguides.medschl.cam.ac.uk
-  * [VPN (Virtual Private Network)](https://confluence.medschl.cam.ac.uk/x/64q4) (download and install [Software](https://software.medschl.cam.ac.uk/) and then use remote desktop to your office PC is just as in your office).
+  * [VPN (Virtual Private Network)](https://confluence.medschl.cam.ac.uk/x/64q4) (download and install [Software](https://software.medschl.cam.ac.uk/) and then use remote desktop to your office PC is just as in your office). To check for the active status, try
+  ```bash
+  # xxx is the serial number on the desktop at the office
+  ping CMxxx.private.medschl.cam.ac.uk
+  ```
+  from a Linux-based system.
   * Website, https://cscs.medschl.cam.ac.uk/
 * DPHPC People, https://dphpc.peoplehr.net/
 * University

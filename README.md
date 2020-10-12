@@ -123,7 +123,7 @@ Dial by location
 * [Webex](https://cart.webex.com/sign-up).
 * [Zoom](https://zoom.us/) ([Zoom Video Communications](https://en.wikipedia.org/wiki/Zoom_Video_Communications)), [Breakout rooms](https://support.zoom.us/hc/en-us/articles/206476093-Enabling-breakout-rooms), [Polling](https://blog.zoom.us/wordpress/2016/09/20/3-ways-to-use-polls-in-meetings/).
 
-<a href="https://github.com/cambridge-ceu/CEU-scientific-meetings#2020-conferences"> <img src="2020.jpg" width="400" height="280" align="right"> </a>
+<a href="https://github.com/cambridge-ceu/CEU-scientific-meetings#2020-conferences"> <img src="files/2020.jpg" width="400" height="280" align="right"> </a>
 ## 2020 conferences
 
 * [AHA 2020](https://www.pr-medicalevents.com/congress/aha-2020/).

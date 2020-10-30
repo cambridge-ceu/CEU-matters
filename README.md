@@ -65,7 +65,7 @@ Access to SRL (in phases from Monday June 22<sup>nd</sup> 2020) requires email p
   * Meeting ID ([https://zoom.us/join](https://zoom.us/join)): 149 761 448
   * URL: [https://zoom.us/j/149761448](https://zoom.us/j/149761448)
 
-*HDR meeting on 1/10/20*
+*HDR meeting on 3/11/20*
 ```
 Meeting ID: 882 3087 5260
 One tap mobile

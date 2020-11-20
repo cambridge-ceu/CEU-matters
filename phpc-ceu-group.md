@@ -10,7 +10,7 @@ https://lists.cam.ac.uk/mailman/listinfo/phpc-ceu-group
 
 If you ever want to unsubscribe or change your options (eg, switch to or from digest mode), visit your subscription page at:
 
-https://lists.cam.ac.uk/mailman/options/phpc-ceu-group/jhz22%40medschl.cam.ac.uk
+https://lists.cam.ac.uk/mailman/options/phpc-ceu-group/CRSid%40medschl.cam.ac.uk
 
 You can also make such adjustments via email by sending a message to:
 
@@ -22,4 +22,4 @@ Queries about the list can be made via
 
 phpc-ceu-group-owner@lists.cam.ac.uk
 
-20/11/2020
+**Circulated on 20/11/2020**

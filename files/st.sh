@@ -7,7 +7,7 @@ git add files/
 git commit -m "Auxiliary files"
 git add fullcalendar-4.3.1
 git commit -m "Google Calendar"
-git add phpc-ceu-group.md
+git add phpc-ceu-group-list.md
 git commit -m "CEU group mailing list"
 git add st.sh
 git commit -m "batch"

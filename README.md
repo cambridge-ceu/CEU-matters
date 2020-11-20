@@ -1,6 +1,6 @@
 <a href="http://phdcomics.com/comics/archive.php?comicid=719"> <img src="http://phdcomics.com/comics/archive/phd060406s.gif" width="560" height="250" align="right"> </a>
 
-The repository highlights information on seminars and presentations, etc., at the Cardiovascular Epidemiology Unit (CEU), as notified via <a href="mailto:ceu-group@medschl.cam.ac.uk">the mailing list</a> (ceu-group@medschl.cam.ac.uk and more recently phpc-ceu-group@lists.cam.ac.uk).
+The repository highlights information on seminars and presentations, etc., at the Cardiovascular Epidemiology Unit (CEU), as notified via <a href="mailto:phpc-ceu-group@medschl.cam.ac.uk">the mailing list</a> (phpc-ceu-group@medschl.cam.ac.uk) as noted in [phpc-ceu-group.md](phpc-ceu-group.md).
 
 The 2020 weekly CEU scientific meetings will be on Thursdays 10-11am (or occasionally 12-1pm). Each meeting will involve one scientific presentation and discussion. Generally, we suggest a 20-minute power-point style presentation focusing on “work in progress”.  We hope these meetings will provide opportunities 
 

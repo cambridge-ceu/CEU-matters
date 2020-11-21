@@ -12,7 +12,7 @@ If you have a conference presentation coming up, you may wish to practice it in 
 
 We hope that over 2020, each member of the CEU will have an opportunity to give a presentation. We plan to rotate the focus of the meetings between general themes of “Epidemiology”, “Genomics” and “Biostatistics” and hope you will be willing to regularly participate in at least one of these themes. 
 
-The schedule and slides from presentations can be found in the shared folder: W:\Administration\CEU meetings. Here is a [Google Calendar](fullcalendar-4.3.1/examples//google-calendar.html).
+The schedule and slides from presentations can be found in the shared folder: W:\Administration\CEU meetings. Here is a [Google Calendar](fullcalendar-4.3.1/examples//google-calendar.html) and a [Lunar calendar](https://hjdev.github.io/vue-lunar-fullcalendar/#/vue-lunar-fullCalendar).
 
 ## Health Data Research (HDR) UK's seminars
 

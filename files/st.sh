@@ -16,3 +16,5 @@ git push -u origin master
 # CM357
 # 959151
 # 920084
+# npm install --save vue-lunar-full-calendar
+

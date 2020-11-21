@@ -1,6 +1,8 @@
 #!/usr/bin/bash
 
 git remote add origin git@github.com:cambridge-ceu/CEU-scientific-meetings.git
+git add .gitignore
+git commit -m ".gitignore"
 git add README.md
 git commit -m "README"
 git add files/

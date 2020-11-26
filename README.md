@@ -83,7 +83,7 @@ Dial by location
 +44 203 481 5240 United Kingdom
 +44 203 901 7895 United Kingdom
 ```
-Find your local number: https://us02web.zoom.us/u/kqp0dvmpu 
+  * Find your local number: https://us02web.zoom.us/u/kqp0dvmpu 
 
 * Adam's genetics team recurring meetings:
   * Meeting ID ([https://zoom.us/join](https://zoom.us/join)): 149 761 448

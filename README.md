@@ -69,9 +69,6 @@ Access to SRL (in phases from Monday June 22<sup>nd</sup> 2020) requires email p
  <a href="tel:+442030512874">+44 203 051 2874</a>, 82447180532# (UK),
  <a href="tel:+442034815237">+44 203 481 5237</a>,
  <a href="tel:+442034815240">+44 203 481 5240</a>
-* Adam's genetics team recurring meetings:
-  * Meeting ID ([https://zoom.us/join](https://zoom.us/join)): 149 761 448
-  * URL: [https://zoom.us/j/149761448](https://zoom.us/j/149761448)
 
 *HDR meeting on 4/12/20*
 ```
@@ -88,6 +85,10 @@ Dial by location
 +44 203 901 7895 United Kingdom
 ```
 Find your local number: https://us02web.zoom.us/u/kqp0dvmpu 
+
+* Adam's genetics team recurring meetings:
+  * Meeting ID ([https://zoom.us/join](https://zoom.us/join)): 149 761 448
+  * URL: [https://zoom.us/j/149761448](https://zoom.us/j/149761448)
 
 ## Online facilities
 

@@ -69,8 +69,7 @@ Access to SRL (in phases from Monday June 22<sup>nd</sup> 2020) requires email p
  <a href="tel:+442030512874">+44 203 051 2874</a>, 82447180532# (UK),
  <a href="tel:+442034815237">+44 203 481 5237</a>,
  <a href="tel:+442034815240">+44 203 481 5240</a>
-
-*HDR meeting on 4/12/20*
+  * *HDR meeting on 4/12/20*
 ```
 Meeting ID: 882 3087 5260
 One tap mobile

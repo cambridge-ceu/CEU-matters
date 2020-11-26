@@ -73,7 +73,7 @@ Access to SRL (in phases from Monday June 22<sup>nd</sup> 2020) requires email p
   * Meeting ID ([https://zoom.us/join](https://zoom.us/join)): 149 761 448
   * URL: [https://zoom.us/j/149761448](https://zoom.us/j/149761448)
 
-*HDR meeting on 3/11/20*
+*HDR meeting on 4/12/20*
 ```
 Meeting ID: 882 3087 5260
 One tap mobile
@@ -87,6 +87,7 @@ Dial by location
 +44 203 481 5240 United Kingdom
 +44 203 901 7895 United Kingdom
 ```
+Find your local number: https://us02web.zoom.us/u/kqp0dvmpu 
 
 ## Online facilities
 

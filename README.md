@@ -14,6 +14,14 @@ We hope that over 2020, each member of the CEU will have an opportunity to give 
 
 The schedule and slides from presentations can be found in the shared folder: W:\Administration\CEU meetings. Here are a [Google calendar](fullcalendar-4.3.1/examples//google-calendar.html) and a [lunar calendar](https://hjdev.github.io/vue-lunar-fullcalendar/#/vue-lunar-fullCalendar).
 
+Look forward to 2021, the following topics will be welcome.
+
+* Work in progress
+* New ideas, projects, and datasets
+* Seminars about exciting papers, methods, and topics
+* Practice presentations for upcoming conferences, seminars, etc
+* And other suggestions that you might have!
+
 ## Health Data Research (HDR) UK's seminars
 
 HDR UK's mission (https://www.hdruk.ac.uk/about/, https://github.com/HDRUK) is to tackle important research challenges by applying data science approaches to large-scale 

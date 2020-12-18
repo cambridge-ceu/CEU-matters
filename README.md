@@ -46,7 +46,7 @@ Recent updates and extensions include information on remote access and video con
 
 There is a Slack channel [ceu-world.slack.com](https://ceu-world.slack.com/) as with a dedicated channel for COVID-19 related, and other channels in Slack for Cambridge-wide researchers discussing COVID-19 research approaches. There are also Microsoft Teams for DPHPC: [https://tinyurl.com/tlq3sqp](https://tinyurl.com/tlq3sqp) and for IPH: [https://tinyurl.com/r7j6cym](https://tinyurl.com/r7j6cym) (sign in with your crsid@cam.ac.uk user account / Raven password).
 
-Information is available on testing COVID-19 for [staff](https://www.cam.ac.uk/coronavirus/staff/health-and-wellbeing/testing-staff-for-covid-19) and [students](https://www.cam.ac.uk/coronavirus/students/health-and-wellbeing#testing).
+Information is available on testing COVID-19 for [staff](https://www.cam.ac.uk/coronavirus/staff/health-and-wellbeing/testing-staff-for-covid-19) and [students](https://www.cam.ac.uk/coronavirus/students/health-and-wellbeing#testing). See also [DPHPC Wellbeing Guide 2020.pdf](files/DPHPC Wellbeing Guide 2020.pdf) and [Mental Health Contacts.pdf](files/Mental Health Contacts.pdf).
 
 Access to SRL (in phases from Monday June 22<sup>nd</sup> 2020) requires email ps.reception@medschl.cam.ac.uk (Address: 2 Worts' Causeway, Cambridge CB1 8RN, Phone: 01223 748600) to make appointments at least 24 hours’ notice of intention to come onsite.
 

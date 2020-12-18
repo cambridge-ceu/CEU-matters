@@ -42,7 +42,7 @@ body but no quote).
 
 ## The COVID-19 pandemic
 
-Recent updates and extensions include information on remote access and video conferencing following the COVID-19 pandemic, see [https://www.cam.ac.uk/coronavirus/](https://www.cam.ac.uk/coronavirus/) and [https://www.phpc.cam.ac.uk/covid-19-research-projects/](https://www.phpc.cam.ac.uk/covid-19-research-projects/) (via [ps.comms@medschl.cam.ac.uk](mailto:ps.comms@medschl.cam.ac.uk)). See also [DPHPC Wellbeing Guide 2020.pdf](files/DPHPC Wellbeing Guide 2020.pdf) and [Mental Health Contacts.pdf](files/Mental Health Contacts.pdf).
+Recent updates and extensions include information on remote access and video conferencing following the COVID-19 pandemic, see [https://www.cam.ac.uk/coronavirus/](https://www.cam.ac.uk/coronavirus/) and [https://www.phpc.cam.ac.uk/covid-19-research-projects/](https://www.phpc.cam.ac.uk/covid-19-research-projects/) (via [ps.comms@medschl.cam.ac.uk](mailto:ps.comms@medschl.cam.ac.uk)). See also [DPHPC Wellbeing Guide 2020](files/DPHPC Wellbeing Guide 2020.pdf) and [Mental Health Contacts](files/Mental Health Contacts.pdf).
 
 There is a Slack channel [ceu-world.slack.com](https://ceu-world.slack.com/) as with a dedicated channel for COVID-19 related, and other channels in Slack for Cambridge-wide researchers discussing COVID-19 research approaches. There are also Microsoft Teams for DPHPC: [https://tinyurl.com/tlq3sqp](https://tinyurl.com/tlq3sqp) and for IPH: [https://tinyurl.com/r7j6cym](https://tinyurl.com/r7j6cym) (sign in with your crsid@cam.ac.uk user account / Raven password).
 

@@ -90,12 +90,12 @@ Access to SRL (in phases from Monday June 22<sup>nd</sup> 2020) requires email p
 
 ## Online facilities
 
-* Clinical School HR Twitter, https://twitter.com/clinical_hr
-* CSCS
+* Clinical School
   * Service Desk, 01223 (3)36261 (9am – 5pm Monday to Friday)
   * User Guides: [https://cscsguides.medschl.cam.ac.uk](https://cscsguides.medschl.cam.ac.uk)
   * Support Portal: [https://itsupport.medschl.cam.ac.uk](https://itsupport.medschl.cam.ac.uk)
   * Website: [https://cscs.medschl.cam.ac.uk/](https://cscs.medschl.cam.ac.uk/)
+  * Clinical School HR Twitter: [https://twitter.com/clinical_hr](https://twitter.com/clinical_h)
   * Various tips
     * Anywhere Citrix Portal, https://anywhere.medschl.cam.ac.uk/logon/LogonPoint/index.html (requires application from [CSCS IT Support Portal](https://tinyurl.com/vz9huc9) followed by departmental approval).
     * [Configuring your Mobile Device for Exchange Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Configuring+your+Mobile+Device+for+Exchange+Email)
@@ -108,7 +108,13 @@ Access to SRL (in phases from Monday June 22<sup>nd</sup> 2020) requires email p
     ping CMxxx.private.medschl.cam.ac.uk
     ```
     from a Linux-based system.
-* DPHPC People, https://dphpc.peoplehr.net/
+* DPHPC
+  * Accounts Team: [ps.accounts@medschl.cam.ac.uk](ps.accounts@medschl.cam.ac.uk)
+  * Comms Team: [ps.comms@medschl.cam.ac.uk](ps.comms@medschl.cam.ac.uk)
+  * Grants Team: [ps.grants@medschl.cam.ac.uk](ps.grants@medschl.cam.ac.uk)
+  * HR Team: [phpc.hr@medschl.cam.ac.uk](phpc.hr@medschl.cam.ac.uk)
+  * People, [https://dphpc.peoplehr.net/](https://dphpc.peoplehr.net/)
+  * Reception/Facilities Team: [ps.reception@medschl.cam.ac.uk](ps.reception@medschl.cam.ac.uk)
 * University
   * Employee Self Service, https://chris.cam.ac.uk/hrlive_ess/ess/index.html#/login
   * Human Resources, https://www.hr.admin.cam.ac.uk/, [Recruitment restraint](https://www.hr.admin.cam.ac.uk/recruitment_protocol_2020_21), [Equality and Diversity Team](equality@admin.cam.ac.uk)

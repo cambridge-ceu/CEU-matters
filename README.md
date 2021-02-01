@@ -139,8 +139,6 @@ Access to SRL (in phases from Monday June 22<sup>nd</sup> 2020) requires email p
 * [Webex](https://cart.webex.com/sign-up).
 * [Zoom](https://zoom.us/) ([Zoom Video Communications](https://en.wikipedia.org/wiki/Zoom_Video_Communications)), [Breakout rooms](https://support.zoom.us/hc/en-us/articles/206476093-Enabling-breakout-rooms), [Polling](https://blog.zoom.us/wordpress/2016/09/20/3-ways-to-use-polls-in-meetings/).
 
-<a href="https://github.com/cambridge-ceu/CEU-scientific-meetings#2020-conferences"> <img src="files/2020.jpg" width="400" height="280" align="right"> </a>
-
 ## External talks
 
 * [Cambridge Statistics Discussion Group](https://talks.cam.ac.uk/show/index/44749) (CSDG).
@@ -151,6 +149,7 @@ Access to SRL (in phases from Monday June 22<sup>nd</sup> 2020) requires email p
 * The Royal Society of Medicine ([Medical Genetics Section](https://www.rsm.ac.uk/sections/medical-genetics-section/)).
 * [Trinity College Science Society](http://talks.cam.ac.uk/show/index/28326) (TCSS).
 
+<a href="https://github.com/cambridge-ceu/CEU-scientific-meetings#2020-conferences"> <img src="files/2020.jpg" width="400" height="280" align="right"> </a>
 ## 2020 conferences
 
 * [AHA 2020](https://www.pr-medicalevents.com/congress/aha-2020/).

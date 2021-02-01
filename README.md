@@ -94,7 +94,7 @@ Access to SRL (in phases from Monday June 22<sup>nd</sup> 2020) requires email p
   * Accounts Team:  <a href="mailto:ps.accounts@medschl.cam.ac.uk">ps.accounts@medschl.cam.ac.uk</a>
   * Comms Team:  <a href="mailto:ps.comms@medschl.cam.ac.uk">ps.comms@medschl.cam.ac.uk</a>
   * Grants Team:  <a href="mailto:ps.grants@medschl.cam.ac.uk">ps.grants@medschl.cam.ac.uk</a>
-  * HR Team:  <a href="mailto:phpc.hr@medschl.cam.ac.uk">phpc.hr@medschl.cam.ac.uk)</a>
+  * HR Team:  <a href="mailto:phpc.hr@medschl.cam.ac.uk">phpc.hr@medschl.cam.ac.uk</a>
   * People, [https://dphpc.peoplehr.net/](https://dphpc.peoplehr.net/)
   * Reception/Facilities Team: [ps.reception@medschl.cam.ac.uk](ps.reception@medschl.cam.ac.uk)
 * The Clinical School

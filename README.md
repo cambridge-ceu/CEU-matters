@@ -140,6 +140,17 @@ Access to SRL (in phases from Monday June 22<sup>nd</sup> 2020) requires email p
 * [Zoom](https://zoom.us/) ([Zoom Video Communications](https://en.wikipedia.org/wiki/Zoom_Video_Communications)), [Breakout rooms](https://support.zoom.us/hc/en-us/articles/206476093-Enabling-breakout-rooms), [Polling](https://blog.zoom.us/wordpress/2016/09/20/3-ways-to-use-polls-in-meetings/).
 
 <a href="https://github.com/cambridge-ceu/CEU-scientific-meetings#2020-conferences"> <img src="files/2020.jpg" width="400" height="280" align="right"> </a>
+
+## External talks
+
+* [Cambridge Statistics Discussion Group](https://talks.cam.ac.uk/show/index/44749) (CSDG).
+* [Cambridge talks](https://talks.cam.ac.uk/index)
+* [MRC Biostatistics Unit](https://talks.cam.ac.uk/show/index/7411).
+  * [Armitage Lectures and Workshops](https://www.mrc-bsu.cam.ac.uk/news-and-events/armitage-lectureships-and-workshops/).
+* [MRC Epidemiology Unit](http://www.mrc-epid.cam.ac.uk/events).
+* The Royal Society of Medicine ([Medical Genetics Section](https://www.rsm.ac.uk/sections/medical-genetics-section/)).
+* [Trinity College Science Society](http://talks.cam.ac.uk/show/index/28326) (TCSS).
+
 ## 2020 conferences
 
 * [AHA 2020](https://www.pr-medicalevents.com/congress/aha-2020/).
@@ -152,14 +163,3 @@ Access to SRL (in phases from Monday June 22<sup>nd</sup> 2020) requires email p
 * [RSS 2020](https://www.statslife.org.uk/news/3999-bournemouth-chosen-to-host-rss-2020-conference).
 * [useR! 2020](https://user2020.r-project.org/).
 * [Wellcome Genome Campus Advanced Courses and Scientific Conferences 2020](https://coursesandconferences.wellcomegenomecampus.org/).
-
-## External talks
-
-* [Cambridge Statistics Discussion Group](https://talks.cam.ac.uk/show/index/44749) (CSDG).
-* [Cambridge talks](https://talks.cam.ac.uk/index)
-* [MRC Biostatistics Unit](https://talks.cam.ac.uk/show/index/7411).
-  * [Armitage Lectures and Workshops](https://www.mrc-bsu.cam.ac.uk/news-and-events/armitage-lectureships-and-workshops/).
-* [MRC Epidemiology Unit](http://www.mrc-epid.cam.ac.uk/events).
-* The Royal Society of Medicine ([Medical Genetics Section](https://www.rsm.ac.uk/sections/medical-genetics-section/)).
-* [Trinity College Science Society](http://talks.cam.ac.uk/show/index/28326) (TCSS).
-

@@ -92,20 +92,22 @@ Access to SRL (in phases from Monday June 22<sup>nd</sup> 2020) requires email p
 
 * Clinical School HR Twitter, https://twitter.com/clinical_hr
 * CSCS
-  * Anywhere Citrix Portal, https://anywhere.medschl.cam.ac.uk/logon/LogonPoint/index.html (requires application from [CSCS IT Support Portal](https://tinyurl.com/vz9huc9) followed by departmental approval).
-  * [Configuring your Mobile Device for Exchange Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Configuring+your+Mobile+Device+for+Exchange+Email)
-  * Office 365, https://login.microsoftonline.com/
-  * Remote support, http://remote-support.medschl.cam.ac.uk/
   * Service Desk, 01223 (3)36261 (9am – 5pm Monday to Friday)
-  * Support Portal, https://itsupport.medschl.cam.ac.uk 
-  * User Guides, https://cscsguides.medschl.cam.ac.uk
-  * [VPN (Virtual Private Network)](https://confluence.medschl.cam.ac.uk/x/64q4) (download and install [Software](https://software.medschl.cam.ac.uk/) and then use remote desktop to your office PC is just as in your office). To check for the active status, try
-  ```bash
-  # xxx is the serial number on the desktop at the office
-  ping CMxxx.private.medschl.cam.ac.uk
-  ```
-  from a Linux-based system.
-  * Website, https://cscs.medschl.cam.ac.uk/
+  * User Guides: [https://cscsguides.medschl.cam.ac.uk](https://cscsguides.medschl.cam.ac.uk)
+  * Support Portal: [https://itsupport.medschl.cam.ac.uk](https://itsupport.medschl.cam.ac.uk)
+  * Website: [https://cscs.medschl.cam.ac.uk/](https://cscs.medschl.cam.ac.uk/)
+  * Various tips
+    * Anywhere Citrix Portal, https://anywhere.medschl.cam.ac.uk/logon/LogonPoint/index.html (requires application from [CSCS IT Support Portal](https://tinyurl.com/vz9huc9) followed by departmental approval).
+    * [Configuring your Mobile Device for Exchange Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Configuring+your+Mobile+Device+for+Exchange+Email)
+    * Office 365, https://login.microsoftonline.com/
+    * Remote support, http://remote-support.medschl.cam.ac.uk/
+    * Support Portal, https://itsupport.medschl.cam.ac.uk 
+    * [VPN (Virtual Private Network)](https://confluence.medschl.cam.ac.uk/x/64q4) (download and install [Software](https://software.medschl.cam.ac.uk/) and then use remote desktop to your office PC is just as in your office). To check for the active status, try
+    ```bash
+    # xxx is the serial number on the desktop at the office
+    ping CMxxx.private.medschl.cam.ac.uk
+    ```
+    from a Linux-based system.
 * DPHPC People, https://dphpc.peoplehr.net/
 * University
   * Employee Self Service, https://chris.cam.ac.uk/hrlive_ess/ess/index.html#/login

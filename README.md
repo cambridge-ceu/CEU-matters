@@ -95,7 +95,8 @@ Access to SRL (in phases from Monday June 22<sup>nd</sup> 2020) requires email p
   * Comms Team:  <a href="mailto:ps.comms@medschl.cam.ac.uk">ps.comms@medschl.cam.ac.uk</a>
   * Grants Team:  <a href="mailto:ps.grants@medschl.cam.ac.uk">ps.grants@medschl.cam.ac.uk</a>
   * HR Team:  <a href="mailto:phpc.hr@medschl.cam.ac.uk">phpc.hr@medschl.cam.ac.uk</a>
-  * People, [https://dphpc.peoplehr.net/](https://dphpc.peoplehr.net/)
+  * PeopleHR: [https://dphpc.peoplehr.net/](https://dphpc.peoplehr.net/)
+  * Intranet: [https://intranet.phpc.cam.ac.uk](https://intranet.phpc.cam.ac.uk) 
   * Reception/Facilities Team: [ps.reception@medschl.cam.ac.uk](ps.reception@medschl.cam.ac.uk)
 * The Clinical School
   * Service Desk, 01223 (3)36261 (9am – 5pm Monday to Friday)

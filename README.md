@@ -151,8 +151,6 @@ Access to SRL (in phases from Monday June 22<sup>nd</sup> 2020) requires email p
 * The Royal Society of Medicine ([Medical Genetics Section](https://www.rsm.ac.uk/sections/medical-genetics-section/)).
 * [Trinity College Science Society](http://talks.cam.ac.uk/show/index/28326) (TCSS).
 
-<a href="https://github.com/cambridge-ceu/CEU-scientific-meetings#2020-conferences"> <img src="files/2020.jpg" width="400" height="280" align="right"> </a>
-
 ### 2021 conferences
 
 * [ASHG](https://www.ashg.org/meetings/2021meeting/)
@@ -164,6 +162,8 @@ Access to SRL (in phases from Monday June 22<sup>nd</sup> 2020) requires email p
 * [IGES](https://www.geneticepi.org/iges-2021)
 * [JSM](https://ww2.amstat.org/meetings/jsm/2021/)
 * [RSS](https://rss.org.uk/training-events/conference2021/)
+
+<a href="https://github.com/cambridge-ceu/CEU-scientific-meetings#2020-conferences"> <img src="files/2020.jpg" width="400" height="280" align="right"> </a>
 
 ## 2020 conferences
 

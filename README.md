@@ -157,11 +157,11 @@ Conference | Website |Submission_deadline | Date
 -----------|---------|--------------------------
 ASHG |https://www.ashg.org/meetings/2021meeting/ | June 10 | October 2021
 ESHG | https://2021.eshg.org/ | Closed | June 12-15
-EMGM | https://emgm2021.sciencesconf.org/ | Feb 28 | April 22-23
+EMGM | https://emgm2021.sciencesconf.org/ | February 28 | April 22-23
 Global Genomics	| https://globalgenomics.med.upenn.edu/symposium.html | Closed | Febuary 24-25
 ICDA | https://www.icda.bio | No 2021 dates | No 2021 dates
 IGES | https://www.geneticepi.org/iges-2021 | April 27 | Information Coming Soon
-JSM | https://ww2.amstat.org/meetings/jsm/2021/index.cfm | April 14 | Aug 7-12
+JSM | https://ww2.amstat.org/meetings/jsm/2021/index.cfm | April 14 | August 7-12
 RSS | https://rss.org.uk/training-events/conference2021/ | April 6 | September 6-9
 
 <a href="https://github.com/cambridge-ceu/CEU-scientific-meetings#2020-conferences"> <img src="files/2020.jpg" width="400" height="280" align="right"> </a>

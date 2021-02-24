@@ -14,18 +14,6 @@ The repository highlights information on seminars and presentations, etc., at th
 * [2021 conferences (as of 23/2)](https://cambridge-ceu.github.io/CEU-scientific-meetings/#2021-conferences-as-of-232)
 ---
 
-The 2020 weekly CEU scientific meetings will be on Thursdays 10-11am (or occasionally 12-1pm). Each meeting will involve one scientific presentation and discussion. Generally, we suggest a 20-minute power-point style presentation focusing on “work in progress”.  We hope these meetings will provide opportunities 
-
-1. to disseminate our research to the CEU, 
-2. to gain scientific feedback on projects and 
-3. for generic presentation skills training. 
-
-If you have a conference presentation coming up, you may wish to practice it in one of these meetings. 
-
-We hope that over 2020, each member of the CEU will have an opportunity to give a presentation. We plan to rotate the focus of the meetings between general themes of “Epidemiology”, “Genomics” and “Biostatistics” and hope you will be willing to regularly participate in at least one of these themes. 
-
-The schedule and slides from presentations can be found in the shared folder: W:\Administration\CEU meetings. Here are a [Google calendar](fullcalendar-4.3.1/examples//google-calendar.html) and a [lunar calendar](https://hjdev.github.io/vue-lunar-fullcalendar/#/vue-lunar-fullCalendar).
-
 Look forward to 2021, the following topics will be welcome.
 
 * Work in progress
@@ -176,6 +164,20 @@ ICQG | NA
 IGES | https://www.geneticepi.org/iges-2021 | April 27 | Information Coming Soon
 JSM | https://ww2.amstat.org/meetings/jsm/2021/index.cfm | April 14 | August 7-12
 RSS | https://rss.org.uk/training-events/conference2021/ | April 6 | September 6-9
+
+## 2020 Introduction
+
+The 2020 weekly CEU scientific meetings will be on Thursdays 10-11am (or occasionally 12-1pm). Each meeting will involve one scientific presentation and discussion. Generally, we suggest a 20-minute power-point style presentation focusing on “work in progress”.  We hope these meetings will provide opportunities 
+
+1. to disseminate our research to the CEU, 
+2. to gain scientific feedback on projects and 
+3. for generic presentation skills training. 
+
+If you have a conference presentation coming up, you may wish to practice it in one of these meetings. 
+
+We hope that over 2020, each member of the CEU will have an opportunity to give a presentation. We plan to rotate the focus of the meetings between general themes of “Epidemiology”, “Genomics” and “Biostatistics” and hope you will be willing to regularly participate in at least one of these themes. 
+
+The schedule and slides from presentations can be found in the shared folder: W:\Administration\CEU meetings. Here are a [Google calendar](fullcalendar-4.3.1/examples//google-calendar.html) and a [lunar calendar](https://hjdev.github.io/vue-lunar-fullcalendar/#/vue-lunar-fullCalendar).
 
 <a href="https://github.com/cambridge-ceu/CEU-scientific-meetings#2020-conferences"> <img src="files/2020.jpg" width="400" height="280" align="right"> </a>
 

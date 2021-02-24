@@ -2,6 +2,18 @@
 
 The repository highlights information on seminars and presentations, etc., at the Cardiovascular Epidemiology Unit (CEU), as notified via <a href="mailto:phpc-ceu-group@medschl.cam.ac.uk">the mailing list</a> as noted in [phpc-ceu-group.md](phpc-ceu-group.md).
 
+---
+
+* [Health Data Research (HDR) UK’s seminars](https://cambridge-ceu.github.io/CEU-scientific-meetings/#health-data-research-hdr-uks-seminars)
+* [Schedules](https://cambridge-ceu.github.io/CEU-scientific-meetings/#schedules)
+* [The COVID-19 pandemic](https://cambridge-ceu.github.io/CEU-scientific-meetings/#the-covid-19-pandemic)
+* [Zoom video communications](https://cambridge-ceu.github.io/CEU-scientific-meetings/#zoom-video-communications)
+* [Online facilities](https://cambridge-ceu.github.io/CEU-scientific-meetings/#online-facilities)
+* [Mailing lists, slack channels and video conferencing](https://cambridge-ceu.github.io/CEU-scientific-meetings/#mailing-lists-slack-channels-and-video-conferencing)
+* [External talks](https://cambridge-ceu.github.io/CEU-scientific-meetings/#external-talks)
+* [2021 conferences (as of 23/2)](https://cambridge-ceu.github.io/CEU-scientific-meetings/#2021-conferences-as-of-232)
+---
+
 The 2020 weekly CEU scientific meetings will be on Thursdays 10-11am (or occasionally 12-1pm). Each meeting will involve one scientific presentation and discussion. Generally, we suggest a 20-minute power-point style presentation focusing on “work in progress”.  We hope these meetings will provide opportunities 
 
 1. to disseminate our research to the CEU, 

@@ -12,6 +12,7 @@ The repository highlights information on seminars and presentations, etc., at th
 * [Mailing lists, slack channels and video conferencing](https://cambridge-ceu.github.io/CEU-scientific-meetings/#mailing-lists-slack-channels-and-video-conferencing)
 * [External talks](https://cambridge-ceu.github.io/CEU-scientific-meetings/#external-talks)
 * [2021 conferences (as of 23/2)](https://cambridge-ceu.github.io/CEU-scientific-meetings/#2021-conferences-as-of-232)
+
 ---
 
 Look forward to 2021, the following topics will be welcome.

@@ -1,7 +1,5 @@
 <a href="http://phdcomics.com/comics/archive.php?comicid=719"> <img src="http://phdcomics.com/comics/archive/phd060406s.gif" width="560" height="250" align="right"> </a>
 
-The repository highlights information on seminars and presentations, etc., at the Cardiovascular Epidemiology Unit (CEU), as notified via <a href="mailto:phpc-ceu-group@medschl.cam.ac.uk">the mailing list</a> as noted in [phpc-ceu-group.md](phpc-ceu-group.md).
-
 ---
 
 * [Health Data Research (HDR) UK’s seminars](https://cambridge-ceu.github.io/CEU-scientific-meetings/#health-data-research-hdr-uks-seminars)
@@ -14,6 +12,8 @@ The repository highlights information on seminars and presentations, etc., at th
 * [2021 conferences (as of 23/2)](https://cambridge-ceu.github.io/CEU-scientific-meetings/#2021-conferences-as-of-232)
 
 ---
+
+The repository highlights information on seminars and presentations, etc., at the Cardiovascular Epidemiology Unit (CEU), as notified via <a href="mailto:phpc-ceu-group@medschl.cam.ac.uk">the mailing list</a> as noted in [phpc-ceu-group.md](phpc-ceu-group.md).
 
 Look forward to 2021, the following topics will be welcome.
 

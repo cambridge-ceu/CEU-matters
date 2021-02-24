@@ -103,7 +103,7 @@ Access to SRL (in phases from Monday June 22<sup>nd</sup> 2020) requires email p
   * User Guides: [https://cscsguides.medschl.cam.ac.uk](https://cscsguides.medschl.cam.ac.uk)
   * Support Portal: [https://itsupport.medschl.cam.ac.uk](https://itsupport.medschl.cam.ac.uk)
   * Website: [https://cscs.medschl.cam.ac.uk/](https://cscs.medschl.cam.ac.uk/)
-  * Clinical School HR Twitter: [https://twitter.com/clinical_hr](https://twitter.com/clinical_h)
+  * Clinical School HR Twitter: [https://twitter.com/clinical_hr](https://twitter.com/clinical_hr)
   * Various tips
     * Anywhere Citrix Portal, https://anywhere.medschl.cam.ac.uk/logon/LogonPoint/index.html (requires application from [CSCS IT Support Portal](https://tinyurl.com/vz9huc9) followed by departmental approval).
     * [Configuring your Mobile Device for Exchange Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Configuring+your+Mobile+Device+for+Exchange+Email)

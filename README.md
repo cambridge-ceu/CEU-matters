@@ -117,18 +117,18 @@ Access to SRL (in phases from Monday June 22<sup>nd</sup> 2020) requires email p
     ping CMPCxxx.medschl.private.cam.ac.uk
     ```
     from a Linux-based system and obtains
-```
-Pinging CMPC357.medschl.private.cam.ac.uk [172.27.11.159] with 32 bytes of data:
-Reply from 172.27.11.159: bytes=32 time=16ms TTL=127
-Reply from 172.27.11.159: bytes=32 time=16ms TTL=127
-Reply from 172.27.11.159: bytes=32 time=16ms TTL=127
-Reply from 172.27.11.159: bytes=32 time=24ms TTL=127
+    ```
+    Pinging CMPC357.medschl.private.cam.ac.uk [172.27.11.159] with 32 bytes of data:
+    Reply from 172.27.11.159: bytes=32 time=16ms TTL=127
+    Reply from 172.27.11.159: bytes=32 time=16ms TTL=127
+    Reply from 172.27.11.159: bytes=32 time=16ms TTL=127
+    Reply from 172.27.11.159: bytes=32 time=24ms TTL=127
 
-Ping statistics for 172.27.11.159:
-    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 16ms, Maximum = 24ms, Average = 18ms
-```
+    Ping statistics for 172.27.11.159:
+        Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+    Approximate round trip times in milli-seconds:
+        Minimum = 16ms, Maximum = 24ms, Average = 18ms
+    ```
 * The University
   * Forwarding @cam Email, https://confluence.medschl.cam.ac.uk/display/FAQ/Email%3A+Forwarding+@cam+Email
   * Emergency Childcare, https://www.emergencychildcare.co.uk/ (contact <a href="mailto:csreward@admin.cam.ac.uk">csreward@admin.cam.ac.uk</a>)

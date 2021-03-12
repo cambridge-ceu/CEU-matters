@@ -117,6 +117,7 @@ Access to SRL (in phases from Monday June 22<sup>nd</sup> 2020) requires email p
     ping CMPCxxx.medschl.private.cam.ac.uk
     ```
     from a Linux-based system and obtains
+
     ```
     Pinging CMPC357.medschl.private.cam.ac.uk [172.27.11.159] with 32 bytes of data:
     Reply from 172.27.11.159: bytes=32 time=16ms TTL=127

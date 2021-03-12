@@ -113,8 +113,8 @@ Access to SRL (in phases from Monday June 22<sup>nd</sup> 2020) requires email p
     * Support Portal, https://itsupport.medschl.cam.ac.uk 
     * [VPN (Virtual Private Network)](https://confluence.medschl.cam.ac.uk/x/64q4) (download and install [Software](https://software.medschl.cam.ac.uk/) and then use remote desktop to your office PC is just as in your office). To check for the active status, try
     ```bash
-    # xxx is the serial number on the desktop at the office
-    ping CMxxx.private.medschl.cam.ac.uk
+    # xxx (e.g., 357) is the serial number on the desktop at the office
+    ping CMPCxxx.medschl.private.cam.ac.uk
     ```
     from a Linux-based system.
 * The University

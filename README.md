@@ -130,6 +130,12 @@ Access to SRL (in phases from Monday June 22<sup>nd</sup> 2020) requires email p
     Approximate round trip times in milli-seconds:
         Minimum = 16ms, Maximum = 24ms, Average = 18ms
     ```
+    Equivalently, we could issue
+
+    ```
+    ping 172.27.11.159
+    ```
+    and received similar information. The IP address is also the one in the remote desktop entry. It appears helpful when the computer is restarted for updates.
 * The University
   * Forwarding @cam Email, https://confluence.medschl.cam.ac.uk/display/FAQ/Email%3A+Forwarding+@cam+Email
   * Emergency Childcare, https://www.emergencychildcare.co.uk/ (contact <a href="mailto:csreward@admin.cam.ac.uk">csreward@admin.cam.ac.uk</a>)

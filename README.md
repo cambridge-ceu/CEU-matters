@@ -140,6 +140,7 @@ Access to SRL (in phases from Monday June 22<sup>nd</sup> 2020) requires email p
   * Forwarding @cam Email, https://confluence.medschl.cam.ac.uk/display/FAQ/Email%3A+Forwarding+@cam+Email
   * Emergency Childcare, https://www.emergencychildcare.co.uk/ (contact <a href="mailto:csreward@admin.cam.ac.uk">csreward@admin.cam.ac.uk</a>)
   * Employee Self Service, https://chris.cam.ac.uk/hrlive_ess/ess/index.html#/login
+  * Google account, [https://help.uis.cam.ac.uk/service/collaboration/workspace/registration-and-login](https://help.uis.cam.ac.uk/service/collaboration/workspace/registration-and-login)
   * Human Resources, https://www.hr.admin.cam.ac.uk/, [Recruitment restraint](https://www.hr.admin.cam.ac.uk/recruitment_protocol_2020_21), [Equality and Diversity Team](equality@admin.cam.ac.uk)
   * Lookup service, https://www.lookup.cam.ac.uk/self (See [https://confluence.medschl.cam.ac.uk/x/gwtCBQ](https://confluence.medschl.cam.ac.uk/x/gwtCBQ)).
   * Moodle account, https://www.vle.cam.ac.uk/login/index.php as a virtual learning environment (VLE), [Understanding Unconscious/Implicit Bias](https://www.equality.admin.cam.ac.uk/training-overview/understanding-unconscious-implicit-bias)

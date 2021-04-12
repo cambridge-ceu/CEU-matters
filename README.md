@@ -51,6 +51,8 @@ Information is available on testing COVID-19 for [staff](https://www.cam.ac.uk/c
 
 Access to SRL (in phases from Monday June 22<sup>nd</sup> 2020) requires email ps.reception@medschl.cam.ac.uk (Address: 2 Worts' Causeway, Cambridge CB1 8RN, Phone: 01223 748600) to make appointments at least 24 hours’ notice of intention to come onsite.
 
+The government's [Roadmap out of lockdown](https://www.gov.uk/government/publications/covid-19-response-spring-2021/covid-19-response-spring-2021-summary#roadmap-out-of-lockdown)
+
 ## Zoom video communications
 
 [How to use Zoom securely](https://help.uis.cam.ac.uk/service/security/wfh-security/zoom-security).

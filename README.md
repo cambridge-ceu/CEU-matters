@@ -190,6 +190,8 @@ IGES | https://www.geneticepi.org/iges-2021 | April 27 | Information Coming Soon
 JSM | https://ww2.amstat.org/meetings/jsm/2021/index.cfm | April 14 | August 7-12
 RSS | https://rss.org.uk/training-events/conference2021/ | April 6 | September 6-9
 
+---
+
 ## 2020 Introduction
 
 The 2020 weekly CEU scientific meetings will be on Thursdays 10-11am (or occasionally 12-1pm). Each meeting will involve one scientific presentation and discussion. Generally, we suggest a 20-minute power-point style presentation focusing on “work in progress”.  We hope these meetings will provide opportunities 

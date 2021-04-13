@@ -1,6 +1,5 @@
 #!/usr/bin/bash
 
-git remote add origin git@github.com:cambridge-ceu/CEU-scientific-meetings.git
 git add .gitignore
 git commit -m ".gitignore"
 git add README.md
@@ -16,7 +15,8 @@ git commit -m "batch"
 git push -u origin master
 
 # CM357
-# 959151
+# 123456
 # 920084
+# git remote add origin git@github.com:cambridge-ceu/CEU-scientific-meetings.git
 # npm install --save vue-lunar-full-calendar
 

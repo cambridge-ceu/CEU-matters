@@ -152,11 +152,12 @@ The government's [Roadmap out of lockdown](https://www.gov.uk/government/publica
   * Symplectic Elements Login, https://elements.admin.cam.ac.uk/default.html
   * Telecoms Office, https://www.phone.cam.ac.uk/ ([My phone](https://my.phone.cam.ac.uk/myphone/calls))
 
-## Mailing lists, slack channels and video conferencing
+## Mailing lists, events, slack channels and video conferencing
 
 * [Allstat](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=ALLSTAT).
 * [CSML](http://www.mailinglists.ucl.ac.uk/mailman/listinfo/csml).
 * [GoToMeeting](https://www.gotomeeting.com).
+* [eventbrite](https://www.eventbrite.co.uk/organizations/events/all).
 * [SEGEG](https://mailman.kcl.ac.uk/mailman/listinfo/segeg).
 * [Systems-genomics](https://systems-genomics.slack.com/) ([create-a-workspace](https://slack.com/intl/en-in/help/articles/206845317-Create-a-Slack-workspace)).
 * [Skype](https://www.skype.com/en/).

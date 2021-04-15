@@ -30,7 +30,7 @@ biomedical data. Seminar Series started in September 2018 with an exciting line-
 'multi-omics', clinical informatics, rare diseases, the microbiome, and novel analytical methods. It has a <a href="mailto:hdruk-seminars@lists.cam.ac.uk">mailing list</a> (hdruk-seminars@lists.cam.ac.uk) ([further 
 information](https://lists.cam.ac.uk/mailman/listinfo/hdruk-seminars)) and supports subscription or change of options (e.g., digest mode) [from the 
 web](https://lists.cam.ac.uk/mailman/options/hdruk-seminars/ceu-group%40medschl.cam.ac.uk) or <a href="mailto:hdruk-seminars-request@lists.cam.ac.uk">by email</a> (hdruk-seminars-request@lists.cam.ac.uk) (with the word `help` in the subject or 
-body but no quote).
+body but no quote). Check [here](https://www.hdruk.ac.uk/health-data-research-uk-quinquennial-review/) for contribution to the quinquennial reviews.
 
 ## Schedules
 

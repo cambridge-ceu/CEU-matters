@@ -118,7 +118,7 @@ The government's [Roadmap out of lockdown](https://www.gov.uk/government/publica
     # xxx (e.g., 357) is the serial number on the desktop at the office
     ping CMPCxxx.medschl.private.cam.ac.uk
     ```
-    from a Linux-based system/Windows MS-DOS prompt (invoke with Windows key + r, type in "cmd" in the box and return) and obtains
+    from a CLI (Linux/Windows MS-DOS prompt, invoke with Windows key + r, type in "cmd" in the box and return) and obtains
 
     ```
     Pinging CMPC357.medschl.private.cam.ac.uk [172.27.11.159] with 32 bytes of data:

@@ -113,12 +113,12 @@ The government's [Roadmap out of lockdown](https://www.gov.uk/government/publica
     * Office 365, https://login.microsoftonline.com/
     * Remote support, http://remote-support.medschl.cam.ac.uk/
     * Support Portal, https://itsupport.medschl.cam.ac.uk 
-    * [VPN (Virtual Private Network)](https://confluence.medschl.cam.ac.uk/x/64q4) (download and install [Software](https://software.medschl.cam.ac.uk/) and then use remote desktop to your office PC is just as in your office). To check for the active status, try
+    * [VPN (Virtual Private Network)](https://confluence.medschl.cam.ac.uk/x/64q4) (download and install [Software](https://software.medschl.cam.ac.uk/) and then use remote desktop to your office PC is just as in your office). To check for the active status, ping from a CLI (Linux/Windows MS-DOS prompt, invoke with Windows key + r, type in "cmd" in the box and hit the return key)
     ```bash
     # xxx (e.g., 357) is the serial number on the desktop at the office
     ping CMPCxxx.medschl.private.cam.ac.uk
     ```
-    from a CLI (Linux/Windows MS-DOS prompt, invoke with Windows key + r, type in "cmd" in the box and return) and obtains
+    and obtains
 
     ```
     Pinging CMPC357.medschl.private.cam.ac.uk [172.27.11.159] with 32 bytes of data:

@@ -23,7 +23,7 @@ Look forward to 2021, the following topics will be welcome.
 * Practice presentations for upcoming conferences, seminars, etc
 * And other suggestions that you might have!
 
-## Health Data Research (HDR) UK's seminars
+## Health Data Research (HDR) UK
 
 Web: [https://www.hdruk.ac.uk](https://www.hdruk.ac.uk/)
 

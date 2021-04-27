@@ -31,10 +31,10 @@ HDR UK's mission is to tackle important research challenges by applying data sci
 Seminar Series started in September 2018 with an exciting line-up of talks, spanning various research themes including 
 'multi-omics', clinical informatics, rare diseases, the microbiome, and novel analytical methods. Additional information includes,
 
-* Page at [GitHub](https://github.com/HDRUK).
 * <a href="mailto:hdruk-seminars@lists.cam.ac.uk">mailing list</a> (hdruk-seminars@lists.cam.ac.uk, https://lists.cam.ac.uk/mailman/listinfo/hdruk-seminars) and supports subscription or change of options (e.g., digest mode), [from the web](https://lists.cam.ac.uk/mailman/options/hdruk-seminars/ceu-group%40medschl.cam.ac.uk) or <a href="mailto:hdruk-seminars-request@lists.cam.ac.uk">by email</a> (hdruk-seminars-request@lists.cam.ac.uk) (with the word `help` in the subject or body but no quote)).
-* [Quinquennial reviews](https://www.hdruk.ac.uk/health-data-research-uk-quinquennial-review/).
 * [Cohort discovery search tool](https://www.healthdatagateway.org/pages/cohort-discovery-search-tool).
+* [GitHub](https://github.com/HDRUK) page.
+* [Quinquennial reviews](https://www.hdruk.ac.uk/health-data-research-uk-quinquennial-review/).
 
 ## Schedules
 

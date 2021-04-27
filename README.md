@@ -2,7 +2,7 @@
 
 ---
 
-* [Health Data Research (HDR) UK’s seminars](https://cambridge-ceu.github.io/CEU-scientific-meetings/#health-data-research-hdr-uks-seminars)
+* [Health Data Research (HDR) UK](https://cambridge-ceu.github.io/CEU-scientific-meetings/#health-data-research-hdr-uk)
 * [Schedules](https://cambridge-ceu.github.io/CEU-scientific-meetings/#schedules)
 * [The COVID-19 pandemic](https://cambridge-ceu.github.io/CEU-scientific-meetings/#the-covid-19-pandemic)
 * [Zoom video communications](https://cambridge-ceu.github.io/CEU-scientific-meetings/#zoom-video-communications)

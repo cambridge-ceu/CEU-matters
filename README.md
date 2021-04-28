@@ -25,7 +25,7 @@ Look forward to 2021, the following topics will be welcome.
 
 ## Health Data Research (HDR) UK
 
-Web: [https://www.hdruk.ac.uk](https://www.hdruk.ac.uk/)
+Web: [https://www.hdruk.ac.uk](https://www.hdruk.ac.uk/) ([Events](https://www.hdruk.ac.uk/news-opinion-events/events/), [News](https://www.hdruk.ac.uk/news-opinion-events/news/))
 
 HDR UK's mission is to tackle important research challenges by applying data science approaches to large-scale biomedical data.
 Seminar Series started in September 2018 with an exciting line-up of talks, spanning various research themes including 
@@ -33,6 +33,9 @@ Seminar Series started in September 2018 with an exciting line-up of talks, span
 
 * [Cohort discovery search tool](https://www.healthdatagateway.org/pages/cohort-discovery-search-tool).
 * [GitHub](https://github.com/HDRUK) page.
+* [HDR UK Hubs](https://www.youtube.com/watch?v=jOP5RpYaEaQ).
+* <a href="mailto:enquiries@hdruk.ac.uk">HIVE</a> contact for monthly updates.
+* [Innovation gateway](https://www.healthdatagateway.org/).
 * <a href="mailto:hdruk-seminars@lists.cam.ac.uk">mailing list</a> (hdruk-seminars@lists.cam.ac.uk, [https://lists.cam.ac.uk/mailman/listinfo/hdruk-seminars](https://lists.cam.ac.uk/mailman/listinfo/hdruk-seminars)) and supports subscription or change of options (e.g., digest mode), [from the web](https://lists.cam.ac.uk/mailman/options/hdruk-seminars/ceu-group%40medschl.cam.ac.uk) or <a href="mailto:hdruk-seminars-request@lists.cam.ac.uk">by email</a> (hdruk-seminars-request@lists.cam.ac.uk) (with the word `help` in the subject or body but no quote)).
 * [Quinquennial reviews](https://www.hdruk.ac.uk/health-data-research-uk-quinquennial-review/).
 

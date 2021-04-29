@@ -195,6 +195,7 @@ ICDA | https://www.icda.bio | No 2021 dates | No 2021 dates
 ICQG | NA
 IGES | https://www.geneticepi.org/iges-2021 | April 27 | Information Coming Soon
 JSM | https://ww2.amstat.org/meetings/jsm/2021/index.cfm | April 14 | August 7-12
+RSCPG | [https://warwick.ac.uk/fac/sci/statistics/staff/research_students/ignatieva/conference/](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/ignatieva/conference/)
 RSS | https://rss.org.uk/training-events/conference2021/ | April 6 | September 6-9
 
 ---

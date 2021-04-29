@@ -25,7 +25,7 @@ Look forward to 2021, the following topics will be welcome.
 
 ## Health Data Research (HDR) UK
 
-Web: [https://www.hdruk.ac.uk](https://www.hdruk.ac.uk/) ([Events](https://www.hdruk.ac.uk/news-opinion-events/events/), [News](https://www.hdruk.ac.uk/news-opinion-events/news/), *<a href="mailto:enquiries@hdruk.ac.uk">enquiries@hdruk.ac.uk</a> for monthly updates)
+Web: [https://www.hdruk.ac.uk](https://www.hdruk.ac.uk/) ([Events](https://www.hdruk.ac.uk/news-opinion-events/events/), [News](https://www.hdruk.ac.uk/news-opinion-events/news/), <a href="mailto:enquiries@hdruk.ac.uk">enquiries@hdruk.ac.uk</a> for monthly updates)
 
 HDR UK's mission is to tackle important research challenges by applying data science approaches to large-scale biomedical data.
 Seminar Series started in September 2018 with an exciting line-up of talks, spanning various research themes including 

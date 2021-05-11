@@ -184,7 +184,7 @@ The government's [Roadmap out of lockdown](https://www.gov.uk/government/publica
 
 ### 2021 conferences
 
-**Conference** | **Website** |**Submission_deadline** | **Date**
+**Conference** | **Website** |**Abstract deadline** | **Date**
 ===========|=========|====================|=====
 ASHG | [https://www.ashg.org/meetings/2021meeting/](https://www.ashg.org/meetings/2021meeting/) | June 10 | October 18-22
 ESHG | [https://2021.eshg.org/](https://2021.eshg.org/) | Closed | June 12-15

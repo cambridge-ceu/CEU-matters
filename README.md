@@ -9,7 +9,7 @@
 * [Online facilities](https://cambridge-ceu.github.io/CEU-scientific-meetings/#online-facilities)
 * [Mailing lists, slack channels and video conferencing](https://cambridge-ceu.github.io/CEU-scientific-meetings/#mailing-lists-slack-channels-and-video-conferencing)
 * [External talks](https://cambridge-ceu.github.io/CEU-scientific-meetings/#external-talks)
-* [2021 conferences (as of 23/2)](https://cambridge-ceu.github.io/CEU-scientific-meetings/#2021-conferences-as-of-232)
+* [2021 conferences](https://cambridge-ceu.github.io/CEU-scientific-meetings/#2021-conferences)
 
 ---
 
@@ -182,7 +182,7 @@ The government's [Roadmap out of lockdown](https://www.gov.uk/government/publica
 * The Royal Society of Medicine ([Medical Genetics Section](https://www.rsm.ac.uk/sections/medical-genetics-section/)).
 * [Trinity College Science Society](http://talks.cam.ac.uk/show/index/28326) (TCSS).
 
-### 2021 conferences (as of 23/2)
+### 2021 conferences
 
 **Conference** | **Website** |**Submission_deadline** | **Date**
 ===========|=========|====================|=====

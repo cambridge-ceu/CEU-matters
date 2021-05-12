@@ -191,7 +191,7 @@ ESHG | [https://2021.eshg.org/](https://2021.eshg.org/) | Closed | June 12-15
 EMGM | [https://emgm2021.sciencesconf.org/](https://emgm2021.sciencesconf.org/) | February 28 | April 22-23
 Global Genomics	| [https://globalgenomics.med.upenn.edu/symposium.html](https://globalgenomics.med.upenn.edu/symposium.html) | Closed | Febuary 24-25
 ICDA | [https://www.icda.bio](https://www.icda.bio) | NA | NA
-ICQG | NA
+ICQG | https://icqg6.org/faqs/ | NA | NA
 IGES | [https://www.geneticepi.org/iges-2021](https://www.geneticepi.org/iges-2021) | May 28 | October 13-16
 JSM | [https://ww2.amstat.org/meetings/jsm/2021/index.cfm](https://ww2.amstat.org/meetings/jsm/2021/index.cfm) | April 14 | August 8-12
 RSCPG | [https://warwick.ac.uk/fac/sci/statistics/staff/research_students/ignatieva/conference/](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/ignatieva/conference/) | June 30 | July 21-23

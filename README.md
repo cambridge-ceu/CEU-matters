@@ -193,6 +193,7 @@ Global Genomics	| [https://globalgenomics.med.upenn.edu/symposium.html](https://
 ICDA | [https://www.icda.bio](https://www.icda.bio) | NA | NA
 ICQG | [https://icqg6.org/faqs/](https://icqg6.org/faqs/) | NA | NA
 IGES | [https://www.geneticepi.org/iges-2021](https://www.geneticepi.org/iges-2021) | May 28 | October 13-16
+IMforFUTURE | [https://tinyurl.com/ybmrfynm](https://tinyurl.com/ybmrfynm), imforfuture@leeds.ac.uk | May 17 | June 28-30
 JSM | [https://ww2.amstat.org/meetings/jsm/2021/index.cfm](https://ww2.amstat.org/meetings/jsm/2021/index.cfm) | April 14 | August 8-12
 RSCPG | [https://warwick.ac.uk/fac/sci/statistics/staff/research_students/ignatieva/conference/](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/ignatieva/conference/) | June 30 | July 21-23
 RSS | [https://rss.org.uk/training-events/conference2021/](https://rss.org.uk/training-events/conference2021/) | April 6 | September 6-9

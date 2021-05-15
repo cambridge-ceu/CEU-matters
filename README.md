@@ -7,7 +7,7 @@
 * [The COVID-19 pandemic](https://cambridge-ceu.github.io/CEU-scientific-meetings/#the-covid-19-pandemic)
 * [Zoom video communications](https://cambridge-ceu.github.io/CEU-scientific-meetings/#zoom-video-communications)
 * [Online facilities](https://cambridge-ceu.github.io/CEU-scientific-meetings/#online-facilities)
-* [Mailing lists, slack channels and video conferencing](https://cambridge-ceu.github.io/CEU-scientific-meetings/#mailing-lists-slack-channels-and-video-conferencing)
+* [Mailing lists, slack channels and video conferencing](https://cambridge-ceu.github.io/CEU-scientific-meetings/#mailing-lists-events-slack-channels-and-video-conferencing)
 * [External talks](https://cambridge-ceu.github.io/CEU-scientific-meetings/#external-talks)
 * [2021 conferences](https://cambridge-ceu.github.io/CEU-scientific-meetings/#2021-conferences)
 

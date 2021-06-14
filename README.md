@@ -187,7 +187,7 @@ The government's [Roadmap out of lockdown](https://www.gov.uk/government/publica
 **Conference** | **Website** |**Abstract deadline** | **Date**
 ===========|=========|====================|=====
 ASHG | [https://www.ashg.org/meetings/2021meeting/](https://www.ashg.org/meetings/2021meeting/) | June 10 | October 18-22
-BMS-ANd | [https://www.vvsor.nl/biometrics/events/graphical-models-and-their-applications-in-genomics/](https://www.vvsor.nl/biometrics/events/graphical-models-and-their-applications-in-genomics/) | NA | May 21
+BMS-ANd | [https://www.vvsor.nl/biometrics/events/graphical-models-and-their-applications-in-genomics/](https://www.vvsor.nl/biometrics/events/graphical-models-and-their-applications-in-genomics/) | &nbsp; | May 21
 ESHG | [https://2021.eshg.org/](https://2021.eshg.org/) | Closed | June 12-15
 EMGM | [https://emgm2021.sciencesconf.org/](https://emgm2021.sciencesconf.org/) | February 28 | April 22-23
 Global Genomics	| [https://globalgenomics.med.upenn.edu/symposium.html](https://globalgenomics.med.upenn.edu/symposium.html) | Closed | Febuary 24-25

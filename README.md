@@ -199,7 +199,7 @@ JSM | [https://ww2.amstat.org/meetings/jsm/2021/index.cfm](https://ww2.amstat.or
 mixOmics | [http://mixomics.org/2021/05/june-28-30-2021-palmerston-north-nz-beginner/](http://mixomics.org/2021/05/june-28-30-2021-palmerston-north-nz-beginner/) | June 7 | June 28-30
 RSCPG | [https://warwick.ac.uk/fac/sci/statistics/staff/research_students/ignatieva/conference/](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/ignatieva/conference/) | June 30 | July 21-23
 RSS | [https://rss.org.uk/training-events/conference2021/](https://rss.org.uk/training-events/conference2021/) | April 6 | September 6-9
-SEGEG | [Register](https://www.eventbrite.co.uk/e/south-of-england-genetic-epidemiology-webinar-tickets-158718753063) | &nbsp; | June 25, 14:00-17:00pm.
+SEGEG | [South of England Genetic Epidemiology Webinar](https://www.eventbrite.co.uk/e/south-of-england-genetic-epidemiology-webinar-tickets-158718753063) | &nbsp; | June 25, 14:00-17:00pm.
 
 ---
 

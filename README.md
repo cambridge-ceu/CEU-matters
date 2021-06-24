@@ -15,6 +15,10 @@ The repository highlights information on seminars and presentations, etc., at th
 
 ---
 
+<figure>
+  <img src="files/2021.webp"  width="400" height="280" align="right">
+  <figcaption>
+<p style="text-align:right">
 Look forward to 2021, the following topics will be welcome.
 
 * Work in progress
@@ -23,9 +27,9 @@ Look forward to 2021, the following topics will be welcome.
 * Practice presentations for upcoming conferences, seminars, etc
 * And other suggestions that you might have!
 
-<figure>
-  <img src="files/2021.webp"  width="400" height="280" align="right">
-  <figcaption><p style="text-align:right">(https://www.reddit.com/r/coolguides/comments/kkalio/a_cool_2021_one_page_calendar/)</p></figcaption>
+(Figure from https://www.reddit.com/r/coolguides/comments/kkalio/a_cool_2021_one_page_calendar/)
+</p>
+  </figcaption>
 </figure> 
 
 ## Health Data Research (HDR) UK

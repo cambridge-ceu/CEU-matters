@@ -15,7 +15,10 @@
 
 The repository highlights information on seminars and presentations, etc., at the Cardiovascular Epidemiology Unit (CEU), as notified via <a href="mailto:phpc-ceu-group@medschl.cam.ac.uk">the mailing list</a> as noted in [phpc-ceu-group.md](phpc-ceu-group.md).
 
-<img src="files/2021.webp" width="400" height="280" align="right"> 
+<figure>
+  <img src="files/2021.webp"  width="400" height="280" align="right">
+  <figcaption>https://www.reddit.com/r/coolguides/comments/kkalio/a_cool_2021_one_page_calendar/</figcaption>
+</figure> 
 
 Look forward to 2021, the following topics will be welcome.
 

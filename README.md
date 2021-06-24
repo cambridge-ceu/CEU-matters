@@ -15,6 +15,8 @@
 
 The repository highlights information on seminars and presentations, etc., at the Cardiovascular Epidemiology Unit (CEU), as notified via <a href="mailto:phpc-ceu-group@medschl.cam.ac.uk">the mailing list</a> as noted in [phpc-ceu-group.md](phpc-ceu-group.md).
 
+<img src="files/2021.webp" width="400" height="280" align="right"> 
+
 Look forward to 2021, the following topics will be welcome.
 
 * Work in progress
@@ -183,8 +185,6 @@ The government's [Roadmap out of lockdown](https://www.gov.uk/government/publica
 * [Trinity College Science Society](http://talks.cam.ac.uk/show/index/28326) (TCSS).
 
 ### 2021 conferences
-
-<img src="files/2021.webp" width="400" height="280" align="right"> 
 
 **Conference** | **Website** |**Abstract deadline** | **Date**
 ===========|=========|====================|=====

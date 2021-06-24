@@ -1,5 +1,7 @@
 <a href="http://phdcomics.com/comics/archive.php?comicid=719"> <img src="http://phdcomics.com/comics/archive/phd060406s.gif" width="560" height="250" align="right"> </a>
 
+The repository highlights information on seminars and presentations, etc., at the Cardiovascular Epidemiology Unit (CEU), as notified via <a href="mailto:phpc-ceu-group@medschl.cam.ac.uk">the mailing list</a> as noted in [phpc-ceu-group.md](phpc-ceu-group.md).
+
 ---
 
 * [Health Data Research (HDR) UK](https://cambridge-ceu.github.io/CEU-scientific-meetings/#health-data-research-hdr-uk)
@@ -13,11 +15,9 @@
 
 ---
 
-The repository highlights information on seminars and presentations, etc., at the Cardiovascular Epidemiology Unit (CEU), as notified via <a href="mailto:phpc-ceu-group@medschl.cam.ac.uk">the mailing list</a> as noted in [phpc-ceu-group.md](phpc-ceu-group.md).
-
 <figure>
   <img src="files/2021.webp"  width="400" height="280" align="right">
-  <figcaption>https://www.reddit.com/r/coolguides/comments/kkalio/a_cool_2021_one_page_calendar/</figcaption>
+  <figcaption><p style="text-align:right">(https://www.reddit.com/r/coolguides/comments/kkalio/a_cool_2021_one_page_calendar/)</p></figcaption>
 </figure> 
 
 Look forward to 2021, the following topics will be welcome.

@@ -59,7 +59,7 @@ There is a Slack channel [ceu-world.slack.com](https://ceu-world.slack.com/) as 
 
 Information is available on testing COVID-19 for [staff](https://www.cam.ac.uk/coronavirus/staff/health-and-wellbeing/testing-staff-for-covid-19) and [students](https://www.cam.ac.uk/coronavirus/students/health-and-wellbeing#testing).
 
-Access to SRL (in phases from Monday June 22<sup>nd</sup> 2020) requires email phpc.reception@medschl.cam.ac.uk (Address: 2 Worts' Causeway, Cambridge CB1 8RN, Phone: 01223 748600) to make appointments at least 24 hours’ notice of intention to come onsite.
+Access to SRL (in phases from Monday June 22<sup>nd</sup> 2020) requires email [phpc.reception@medschl.cam.ac.uk](phpc.reception@medschl.cam.ac.uk) (Address: 2 Worts' Causeway, Cambridge CB1 8RN, Phone: 01223 748600) to make appointments at least 24 hours’ notice of intention to come onsite.
 
 The government's [Roadmap out of lockdown](https://www.gov.uk/government/publications/covid-19-response-spring-2021/covid-19-response-spring-2021-summary#roadmap-out-of-lockdown)
 

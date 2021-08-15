@@ -148,7 +148,7 @@ The government's [Roadmap out of lockdown](https://www.gov.uk/government/publica
     ping 172.27.11.159
     ```
     and received similar information. The IP address is also the one in the remote desktop entry. It appears helpful when the computer is restarted for updates.
-    * [New VPN client settings](https://confluence.medschl.cam.ac.uk/display/FAQ/New+VPN+Client+settings+for+Biomedical+Campus) (.cam.ac.uk required to view)
+    * VPN can be furnished with [forticlient](https://www.fortinet.com/support/product-downloads) using the [new settings](https://confluence.medschl.cam.ac.uk/display/FAQ/New+VPN+Client+settings+for+Biomedical+Campus) (.cam.ac.uk required to view)
 * The University
   * Forwarding @cam Email, https://confluence.medschl.cam.ac.uk/display/FAQ/Email%3A+Forwarding+@cam+Email
   * Emergency Childcare, https://www.emergencychildcare.co.uk/ (contact <a href="mailto:csreward@admin.cam.ac.uk">csreward@admin.cam.ac.uk</a>)

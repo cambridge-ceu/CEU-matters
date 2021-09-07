@@ -11,4 +11,4 @@ The repository highlights information on seminars and presentations, etc., at th
 * [External talks](external-events.md)
 * [2021 conferences](2021.md)
 
-<a href="http://phdcomics.com/comics/archive.php?comicid=719"> <img src="http://phdcomics.com/comics/archive/phd060406s.gif" width="860" height="450" align="right"> </a>
+<a href="http://phdcomics.com/comics/archive.php?comicid=719"> <img src="http://phdcomics.com/comics/archive/phd060406s.gif" width="860" height="400" align="right"> </a>

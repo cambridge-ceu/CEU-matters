@@ -23,14 +23,14 @@
     * Support Portal, https://itsupport.medschl.cam.ac.uk 
     * [VPN (Virtual Private Network)](https://confluence.medschl.cam.ac.uk/x/64q4) (download and install [Software](https://software.medschl.cam.ac.uk/) and then use remote desktop to your office PC is just as in your office). To check for the active status, ping from a CLI (Linux/Windows MS-DOS prompt, invoke with Windows key + r, type in "cmd" in the box and hit the return key)
 
-    ```bash
+```bash
     # xxx (e.g., 357) is the serial number on the desktop at the office
     ping CMPCxxx.medschl.private.cam.ac.uk
-    ```
+```
 
     and obtain
 
-    ```
+```
     Pinging CMPC357.medschl.private.cam.ac.uk [172.27.11.159] with 32 bytes of data:
     Reply from 172.27.11.159: bytes=32 time=16ms TTL=127
     Reply from 172.27.11.159: bytes=32 time=16ms TTL=127
@@ -41,7 +41,7 @@
         Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
     Approximate round trip times in milli-seconds:
         Minimum = 16ms, Maximum = 24ms, Average = 18ms
-    ```
+```
 
     Equivalently, we could issue
 

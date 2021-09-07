@@ -1,7 +1,5 @@
 The repository highlights information on seminars and presentations, etc., at the Cardiovascular Epidemiology Unit (CEU), as notified via <a href="mailto:phpc-ceu-group@medschl.cam.ac.uk">the mailing list</a> as noted in [phpc-ceu-group.md](phpc-ceu-group.md).
 
-<a href="http://phdcomics.com/comics/archive.php?comicid=719"> <img src="http://phdcomics.com/comics/archive/phd060406s.gif" width="560" height="250" align="right"> </a>
-
 ## Contents
 
 * [Health Data Research (HDR) UK](HDR.md)
@@ -12,3 +10,5 @@ The repository highlights information on seminars and presentations, etc., at th
 * [Mailing lists, slack channels and video conferencing](media.md)
 * [External talks](external-events.md)
 * [2021 conferences](2021.md)
+
+<a href="http://phdcomics.com/comics/archive.php?comicid=719"> <img src="http://phdcomics.com/comics/archive/phd060406s.gif" width="860" height="450" align="right"> </a>

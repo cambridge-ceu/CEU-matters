@@ -8,7 +8,7 @@ The repository highlights information on seminars and presentations, etc., at th
 * [Zoom video communications](zoom.md)
 * [Online facilities](online.md)
 * [Mailing lists, slack channels and video conferencing](media.md)
-* [External talks](external-events.md)
+* [External events](external-events.md)
 * [2021](2021.md)
 
 <a href="http://phdcomics.com/comics/archive.php?comicid=719"> <img src="http://phdcomics.com/comics/archive/phd060406s.gif" width="860" height="400" align="right"> </a>

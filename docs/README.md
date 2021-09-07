@@ -4,14 +4,14 @@ The repository highlights information on seminars and presentations, etc., at th
 
 ---
 
-* [Health Data Research (HDR) UK](https://cambridge-ceu.github.io/CEU-scientific-meetings/#health-data-research-hdr-uk)
-* [Schedules](https://cambridge-ceu.github.io/CEU-scientific-meetings/#schedules)
-* [The COVID-19 pandemic](https://cambridge-ceu.github.io/CEU-scientific-meetings/#the-covid-19-pandemic)
-* [Zoom video communications](https://cambridge-ceu.github.io/CEU-scientific-meetings/#zoom-video-communications)
-* [Online facilities](https://cambridge-ceu.github.io/CEU-scientific-meetings/#online-facilities)
-* [Mailing lists, slack channels and video conferencing](https://cambridge-ceu.github.io/CEU-scientific-meetings/#mailing-lists-events-slack-channels-and-video-conferencing)
-* [External talks](https://cambridge-ceu.github.io/CEU-scientific-meetings/#external-talks)
-* [2021 conferences](https://cambridge-ceu.github.io/CEU-scientific-meetings/#2021-conferences)
+* [Health Data Research (HDR) UK](HDR.md)
+* [Schedules](schedules.md)
+* [The COVID-19 pandemic](COVID-19.md)
+* [Zoom video communications](zoom.md)
+* [Online facilities](online.md)
+* [Mailing lists, slack channels and video conferencing](media.md)
+* [External talks](external-events.md)
+* [2021 conferences](2021.md)
 
 ---
 

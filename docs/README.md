@@ -14,16 +14,3 @@ The repository highlights information on seminars and presentations, etc., at th
 * [2021 conferences](2021.md)
 
 <img src="files/2021.webp"  width="400" height="280" align="right">
-
-## Topics
-
-Look forward to 2021, the following topics will be welcome.
-
-* Work in progress
-* New ideas, projects, and datasets
-* Seminars about exciting papers, methods, and topics
-* Practice presentations for upcoming conferences, seminars, etc
-* And other suggestions that you might have!
-
-<p style="text-align:right"> (Calendar from https://www.reddit.com/r/coolguides/comments/kkalio/a_cool_2021_one_page_calendar/)</p>
-

@@ -2,7 +2,7 @@ The repository highlights information on seminars and presentations, etc., at th
 
 <a href="http://phdcomics.com/comics/archive.php?comicid=719"> <img src="http://phdcomics.com/comics/archive/phd060406s.gif" width="560" height="250" align="right"> </a>
 
----
+## Contents
 
 * [Health Data Research (HDR) UK](HDR.md)
 * [Schedules](schedules.md)
@@ -13,9 +13,9 @@ The repository highlights information on seminars and presentations, etc., at th
 * [External talks](external-events.md)
 * [2021 conferences](2021.md)
 
----
-
 <img src="files/2021.webp"  width="400" height="280" align="right">
+
+## Topics
 
 Look forward to 2021, the following topics will be welcome.
 

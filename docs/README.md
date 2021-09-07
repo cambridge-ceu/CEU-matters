@@ -12,5 +12,3 @@ The repository highlights information on seminars and presentations, etc., at th
 * [Mailing lists, slack channels and video conferencing](media.md)
 * [External talks](external-events.md)
 * [2021 conferences](2021.md)
-
-<img src="files/2021.webp"  width="400" height="280" align="right">

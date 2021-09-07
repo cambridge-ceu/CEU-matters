@@ -113,10 +113,6 @@
 <ul class="nav flex-column">
 </ul>
 </li>
-</ul>
-</li>
-<li class="nav-item" data-level="1"><a class="nav-link" href="#xxx-eg-357-is-the-serial-number-on-the-desktop-at-the-office">xxx (e.g., 357) is the serial number on the desktop at the office</a>
-<ul class="nav flex-column">
 <li class="nav-item" data-level="2"><a class="nav-link" href="#the-university">The University</a>
 <ul class="nav flex-column">
 </ul>
@@ -145,9 +141,7 @@
 <li>Support Portal: <a href="https://itsupport.medschl.cam.ac.uk">https://itsupport.medschl.cam.ac.uk</a></li>
 <li>Website: <a href="https://cscs.medschl.cam.ac.uk/">https://cscs.medschl.cam.ac.uk/</a></li>
 <li>Clinical School HR Twitter: <a href="https://twitter.com/clinical_hr">https://twitter.com/clinical_hr</a></li>
-<li>
-<p>Various tips</p>
-<ul>
+<li>Various tips<ul>
 <li>Anywhere Citrix Portal, https://anywhere.medschl.cam.ac.uk/logon/LogonPoint/index.html (requires application from <a href="https://tinyurl.com/vz9huc9">CSCS IT Support Portal</a> followed by departmental approval).</li>
 <li><a href="https://confluence.medschl.cam.ac.uk/display/FAQ/Configuring+your+Mobile+Device+for+Exchange+Email">Configuring your Mobile Device for Exchange Email</a></li>
 <li>Office 365, https://login.microsoftonline.com/</li>
@@ -155,28 +149,33 @@
 <li>Support Portal, https://itsupport.medschl.cam.ac.uk </li>
 <li><a href="https://confluence.medschl.cam.ac.uk/x/64q4">VPN (Virtual Private Network)</a> (download and install <a href="https://software.medschl.cam.ac.uk/">Software</a> and then use remote desktop to your office PC is just as in your office). To check for the active status, ping from a CLI (Linux/Windows MS-DOS prompt, invoke with Windows key + r, type in "cmd" in the box and hit the return key)</li>
 </ul>
-<p>```bash</p>
-<h1 id="xxx-eg-357-is-the-serial-number-on-the-desktop-at-the-office">xxx (e.g., 357) is the serial number on the desktop at the office</h1>
-<p>ping CMPCxxx.medschl.private.cam.ac.uk
-```</p>
-<p>and obtain</p>
-<p>```
-Pinging CMPC357.medschl.private.cam.ac.uk [172.27.11.159] with 32 bytes of data:
-Reply from 172.27.11.159: bytes=32 time=16ms TTL=127
-Reply from 172.27.11.159: bytes=32 time=16ms TTL=127
-Reply from 172.27.11.159: bytes=32 time=16ms TTL=127
-Reply from 172.27.11.159: bytes=32 time=24ms TTL=127</p>
-<p>Ping statistics for 172.27.11.159:
-    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 16ms, Maximum = 24ms, Average = 18ms
-```</p>
-<p>Equivalently, we could issue</p>
-<p><code>ping 172.27.11.159</code></p>
-<p>and received similar information. The IP address is also the one in the remote desktop entry. It appears helpful when the computer is restarted for updates.
-* VPN can be furnished with <a href="https://www.fortinet.com/support/product-downloads">forticlient</a> using the <a href="https://confluence.medschl.cam.ac.uk/display/FAQ/New+VPN+Client+settings+for+Biomedical+Campus">new settings</a>.</p>
 </li>
 </ul>
+<pre><code class="language-bash">    # xxx (e.g., 357) is the serial number on the desktop at the office
+    ping CMPCxxx.medschl.private.cam.ac.uk
+</code></pre>
+<pre><code>and obtain
+</code></pre>
+<pre><code>    Pinging CMPC357.medschl.private.cam.ac.uk [172.27.11.159] with 32 bytes of data:
+    Reply from 172.27.11.159: bytes=32 time=16ms TTL=127
+    Reply from 172.27.11.159: bytes=32 time=16ms TTL=127
+    Reply from 172.27.11.159: bytes=32 time=16ms TTL=127
+    Reply from 172.27.11.159: bytes=32 time=24ms TTL=127
+
+    Ping statistics for 172.27.11.159:
+        Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+    Approximate round trip times in milli-seconds:
+        Minimum = 16ms, Maximum = 24ms, Average = 18ms
+</code></pre>
+<pre><code>Equivalently, we could issue
+
+```
+ping 172.27.11.159
+```
+
+and received similar information. The IP address is also the one in the remote desktop entry. It appears helpful when the computer is restarted for updates.
+* VPN can be furnished with [forticlient](https://www.fortinet.com/support/product-downloads) using the [new settings](https://confluence.medschl.cam.ac.uk/display/FAQ/New+VPN+Client+settings+for+Biomedical+Campus).
+</code></pre>
 <h2 id="the-university">The University</h2>
 <ul>
 <li>Forwarding @cam Email, https://confluence.medschl.cam.ac.uk/display/FAQ/Email%3A+Forwarding+@cam+Email</li>

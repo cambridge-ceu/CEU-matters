@@ -1,6 +1,6 @@
-## Online facilities
+# Online facilities
 
-* DPHPC
+#* DPHPC
   * Accounts Team:  <a href="mailto:ps.accounts@medschl.cam.ac.uk">ps.accounts@medschl.cam.ac.uk</a>
   * Comms Team:  <a href="mailto:ps.comms@medschl.cam.ac.uk">ps.comms@medschl.cam.ac.uk</a>
   * Grants Team:  <a href="mailto:ps.grants@medschl.cam.ac.uk">ps.grants@medschl.cam.ac.uk</a>
@@ -8,7 +8,8 @@
   * PeopleHR: [https://dphpc.peoplehr.net/](https://dphpc.peoplehr.net/)
   * Intranet: [https://intranet.phpc.cam.ac.uk](https://intranet.phpc.cam.ac.uk) 
   * Reception/Facilities Team: [phpc.reception@medschl.cam.ac.uk](phpc.reception@medschl.cam.ac.uk)
-* The Clinical School
+
+## The Clinical School
   * Service Desk, 01223 (3)36261 (9am – 5pm Monday to Friday)
   * User Guides: [https://cscsguides.medschl.cam.ac.uk](https://cscsguides.medschl.cam.ac.uk)
   * Support Portal: [https://itsupport.medschl.cam.ac.uk](https://itsupport.medschl.cam.ac.uk)
@@ -46,7 +47,8 @@
     ```
     and received similar information. The IP address is also the one in the remote desktop entry. It appears helpful when the computer is restarted for updates.
     * VPN can be furnished with [forticlient](https://www.fortinet.com/support/product-downloads) using the [new settings](https://confluence.medschl.cam.ac.uk/display/FAQ/New+VPN+Client+settings+for+Biomedical+Campus).
-* The University
+
+## The University
   * Forwarding @cam Email, https://confluence.medschl.cam.ac.uk/display/FAQ/Email%3A+Forwarding+@cam+Email
   * Emergency Childcare, https://www.emergencychildcare.co.uk/ (contact <a href="mailto:csreward@admin.cam.ac.uk">csreward@admin.cam.ac.uk</a>)
   * Employee Self Service, https://chris.cam.ac.uk/hrlive_ess/ess/index.html#/login

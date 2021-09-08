@@ -58,7 +58,7 @@
   * Employee Self Service, [https://chris.cam.ac.uk/hrlive_ess/ess/index.html#/login](https://chris.cam.ac.uk/hrlive_ess/ess/index.html#/login)
   * Google account, [https://help.uis.cam.ac.uk/service/collaboration/workspace/registration-and-login](https://help.uis.cam.ac.uk/service/collaboration/workspace/registration-and-login)
   * Human Resources, [https://www.hr.admin.cam.ac.uk/](https://www.hr.admin.cam.ac.uk/), [Recruitment restraint](https://www.hr.admin.cam.ac.uk/recruitment_protocol_2020_21), <a href="equality@admin.cam.ac.uk">Equality and Diversity Team</a>
-  * Information Service Twitter, [https://twitter.com/UniCamIT](https://twitter.com/UniCamIT)
+  * Information Services Twitter, [https://twitter.com/UniCamIT](https://twitter.com/UniCamIT)
   * Lookup service, [https://www.lookup.cam.ac.uk/self](https://www.lookup.cam.ac.uk/self) (See [https://confluence.medschl.cam.ac.uk/x/gwtCBQ](https://confluence.medschl.cam.ac.uk/x/gwtCBQ)).
   * Moodle account, [https://www.vle.cam.ac.uk/login/index.php](https://www.vle.cam.ac.uk/login/index.php) as a virtual learning environment (VLE), [Understanding Unconscious/Implicit Bias](https://www.equality.admin.cam.ac.uk/training-overview/understanding-unconscious-implicit-bias)
   * Multi-factor authentication, [set up multi-factor authentication on your University Microsoft account](https://help.uis.cam.ac.uk/service/accounts-passwords/set-multi-factor-authentication-your-university-microsoft-account)

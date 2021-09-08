@@ -13,7 +13,7 @@
   * HR Team:  <a href="mailto:phpc.hr@medschl.cam.ac.uk">phpc.hr@medschl.cam.ac.uk</a>
   * PeopleHR: [https://dphpc.peoplehr.net/](https://dphpc.peoplehr.net/)
   * Intranet: [https://intranet.phpc.cam.ac.uk](https://intranet.phpc.cam.ac.uk) 
-  * Reception/Facilities Team: [phpc.reception@medschl.cam.ac.uk](phpc.reception@medschl.cam.ac.uk)
+  * Reception/Facilities Team: <a href="mailto:phpc.reception@medschl.cam.ac.uk>phpc.reception@medschl.cam.ac.uk</a>
 
 ## The Clinical School
   * Service Desk, 01223 (3)36261 (9am – 5pm Monday to Friday)

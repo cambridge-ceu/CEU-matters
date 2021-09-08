@@ -31,7 +31,6 @@
     * [VPN at medschl](https://confluence.medschl.cam.ac.uk/x/64q4) (download and install [Software](https://software.medschl.cam.ac.uk/) and then use remote desktop to your office PC is just as in your office). To check for the active status, ping from a CLI (Linux/Windows MS-DOS prompt, invoke with Windows key + r, type in "cmd" in the box and hit the return key)
 ```
       ping CMPCxxx.medschl.private.cam.ac.uk
-      ping 172.27.11.159
 ```
       (xxx (e.g., 357) is the serial number on the desktop at the office) for
 ```
@@ -45,6 +44,10 @@
           Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
       Approximate round trip times in milli-seconds:
           Minimum = 16ms, Maximum = 24ms, Average = 18ms
+```
+      Equivalently, one can use
+```
+      ping 172.27.11.159
 ```
       and received similar information. The IP address is also the one in the remote desktop entry. It appears helpful when the computer is restarted for updates.
 

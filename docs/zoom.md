@@ -37,7 +37,7 @@
 ```
 
 ## Find your local number
-  * https://us02web.zoom.us/u/kqp0dvmpu 
+  * [https://us02web.zoom.us/u/kqp0dvmpu](https://us02web.zoom.us/u/kqp0dvmpu)
 
 ## Adam's genetics team recurring meetings:
   * ID ([https://zoom.us/join](https://zoom.us/join)): 149 761 448

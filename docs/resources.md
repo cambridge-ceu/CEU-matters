@@ -16,7 +16,7 @@
   * Reception/Facilities Team: <a href="mailto:phpc.reception@medschl.cam.ac.uk">phpc.reception@medschl.cam.ac.uk</a>
 
 ## Clinical School
-  * Service Desk, **01223 (3)36261** (9am – 5pm Monday to Friday)
+  * Service Desk: <a href="tel:+4401223336261">+44 203 481 5237</a>**01223 (3)36261**</a> (9am – 5pm Monday to Friday)
   * User Guides: [https://cscsguides.medschl.cam.ac.uk](https://cscsguides.medschl.cam.ac.uk)
   * Support Portal: [https://itsupport.medschl.cam.ac.uk](https://itsupport.medschl.cam.ac.uk)
   * Website: [https://cscs.medschl.cam.ac.uk/](https://cscs.medschl.cam.ac.uk/)

@@ -42,7 +42,7 @@
     	Approximate round trip times in milli-seconds:
     	    Minimum = 16ms, Maximum = 24ms, Average = 18ms
 ```
-   Equivalently, one can use `ping 172.27.11.159` and received similar information. The IP address is also the one in the remote desktop entry. It appears helpful when the computer is restarted for updates.
+   	Equivalently, one can use `ping 172.27.11.159` and received similar information. The IP address is also the one in the remote desktop entry. It appears helpful when the computer is restarted for updates.
 
 ## University
   * Forwarding @cam Email, [https://confluence.medschl.cam.ac.uk/display/FAQ/Email%3A+Forwarding+@cam+Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Email%3A+Forwarding+@cam+Email)

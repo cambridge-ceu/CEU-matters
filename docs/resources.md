@@ -33,24 +33,24 @@
 ```bash
       ping CMPCxxx.medschl.private.cam.ac.uk
 ```
-      (xxx is the serial number, e.g., 357, on the desktop at the office) for
-```
-      Pinging CMPC357.medschl.private.cam.ac.uk [172.27.11.159] with 32 bytes of data:
-      Reply from 172.27.11.159: bytes=32 time=16ms TTL=127
-      Reply from 172.27.11.159: bytes=32 time=16ms TTL=127
-      Reply from 172.27.11.159: bytes=32 time=16ms TTL=127
-      Reply from 172.27.11.159: bytes=32 time=24ms TTL=127
+   (xxx is the serial number, e.g., 357, on the desktop at the office) for
 
-      Ping statistics for 172.27.11.159:
-          Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
-      Approximate round trip times in milli-seconds:
-          Minimum = 16ms, Maximum = 24ms, Average = 18ms
-```
-      Equivalently, one can use
+    Pinging CMPC357.medschl.private.cam.ac.uk [172.27.11.159] with 32 bytes of data:
+    Reply from 172.27.11.159: bytes=32 time=16ms TTL=127
+    Reply from 172.27.11.159: bytes=32 time=16ms TTL=127
+    Reply from 172.27.11.159: bytes=32 time=16ms TTL=127
+    Reply from 172.27.11.159: bytes=32 time=24ms TTL=127
+
+    Ping statistics for 172.27.11.159:
+        Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+    Approximate round trip times in milli-seconds:
+        Minimum = 16ms, Maximum = 24ms, Average = 18ms
+
+   Equivalently, one can use
 ```bash
       ping 172.27.11.159
 ```
-      and received similar information. The IP address is also the one in the remote desktop entry. It appears helpful when the computer is restarted for updates.
+   and received similar information. The IP address is also the one in the remote desktop entry. It appears helpful when the computer is restarted for updates.
 
 ## University
   * Forwarding @cam Email, [https://confluence.medschl.cam.ac.uk/display/FAQ/Email%3A+Forwarding+@cam+Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Email%3A+Forwarding+@cam+Email)

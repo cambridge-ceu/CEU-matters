@@ -5,10 +5,10 @@ nav:
   - Schedules: schedules.md
   - Zoom: zoom.md
   - Resources: resources.md
-  - COVID-19: COVID-19.md
   - Channels: channels.md
   - Talks: talks.md
   - Chronicle:
+    - COVID-19.md
     - 2021.md
     - 2020.md
 theme:

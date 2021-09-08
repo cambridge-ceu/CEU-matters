@@ -1,4 +1,4 @@
-The repository highlights information on seminars and presentations, etc., at the Cardiovascular Epidemiology Unit (CEU), as notified via <a href="mailto:phpc-ceu-group@medschl.cam.ac.uk">the mailing list</a> as noted in [phpc-ceu-group.md](phpc-ceu-group.md).
+The repository highlights information on seminars and presentations, etc., at the Cardiovascular Epidemiology Unit (CEU), as notified via <a href="mailto:phpc-ceu-group@medschl.cam.ac.uk">the mailing list</a>.
 
 ## Contents
 

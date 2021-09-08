@@ -1,4 +1,4 @@
-## Schedules
+# Schedules
 
 * **Timings**: 10:00 – 11:00 on Thursdays.
 * **Schedules**: [Google document](https://tinyurl.com/ychhtwun)

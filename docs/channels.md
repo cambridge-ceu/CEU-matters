@@ -1,4 +1,6 @@
-## Mailing lists, events, slack channels and video conferencing
+# Communication channels
+
+The following list gives informaiton on active mailing lists, events, slack channels and video conferencing (software).
 
 * [Allstat](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=ALLSTAT).
 * [CSML](http://www.mailinglists.ucl.ac.uk/mailman/listinfo/csml).

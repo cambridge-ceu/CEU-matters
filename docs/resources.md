@@ -30,26 +30,23 @@
     * VPN (Virtual Private Network) can be furnished with [forticlient](https://www.fortinet.com/support/product-downloads) using the [new settings](https://confluence.medschl.cam.ac.uk/display/FAQ/New+VPN+Client+settings+for+Biomedical+Campus).
     * [VPN at medschl](https://confluence.medschl.cam.ac.uk/x/64q4) (download and install [Software](https://software.medschl.cam.ac.uk/) and then use remote desktop to your office PC is just as in your office). To check for the active status, ping from a CLI (Linux/Windows MS-DOS prompt, invoke with Windows key + r, type in "cmd" in the box and hit the return key)
 ```
-ping CMPCxxx.medschl.private.cam.ac.uk
+      ping CMPCxxx.medschl.private.cam.ac.uk
+      ping 172.27.11.159
 ```
-(xxx (e.g., 357) is the serial number on the desktop at the office) for
+      (xxx (e.g., 357) is the serial number on the desktop at the office) for
 ```
-Pinging CMPC357.medschl.private.cam.ac.uk [172.27.11.159] with 32 bytes of data:
-Reply from 172.27.11.159: bytes=32 time=16ms TTL=127
-Reply from 172.27.11.159: bytes=32 time=16ms TTL=127
-Reply from 172.27.11.159: bytes=32 time=16ms TTL=127
-Reply from 172.27.11.159: bytes=32 time=24ms TTL=127
+      Pinging CMPC357.medschl.private.cam.ac.uk [172.27.11.159] with 32 bytes of data:
+      Reply from 172.27.11.159: bytes=32 time=16ms TTL=127
+      Reply from 172.27.11.159: bytes=32 time=16ms TTL=127
+      Reply from 172.27.11.159: bytes=32 time=16ms TTL=127
+      Reply from 172.27.11.159: bytes=32 time=24ms TTL=127
 
-Ping statistics for 172.27.11.159:
-    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 16ms, Maximum = 24ms, Average = 18ms
+      Ping statistics for 172.27.11.159:
+          Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+      Approximate round trip times in milli-seconds:
+          Minimum = 16ms, Maximum = 24ms, Average = 18ms
 ```
-Equivalently, we could issue
-```
-ping 172.27.11.159
-```
-and received similar information. The IP address is also the one in the remote desktop entry. It appears helpful when the computer is restarted for updates.
+      and received similar information. The IP address is also the one in the remote desktop entry. It appears helpful when the computer is restarted for updates.
 
 ## University
   * Forwarding @cam Email, [https://confluence.medschl.cam.ac.uk/display/FAQ/Email%3A+Forwarding+@cam+Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Email%3A+Forwarding+@cam+Email)

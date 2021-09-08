@@ -19,9 +19,10 @@
   * Service Desk: <a href="tel:+4401223336261">**01223 (3)36261**</a> (9am – 5pm Monday to Friday)
   * User Guides: [https://cscsguides.medschl.cam.ac.uk](https://cscsguides.medschl.cam.ac.uk)
   * Support Portal: [https://itsupport.medschl.cam.ac.uk](https://itsupport.medschl.cam.ac.uk)
+  * CSCS Twitter: [https://twitter.com/Cambridge_CSCS](https://twitter.com/Cambridge_CSCS)
+  * HR Twitter: [https://twitter.com/clinical_hr](https://twitter.com/clinical_hr)
   * Website: [https://cscs.medschl.cam.ac.uk/](https://cscs.medschl.cam.ac.uk/)
-  * Clinical School HR Twitter: [https://twitter.com/clinical_hr](https://twitter.com/clinical_hr)
-  * Various tips
+  * Tips
     * Anywhere Citrix Portal, [https://anywhere.medschl.cam.ac.uk/logon/LogonPoint/index.html](https://anywhere.medschl.cam.ac.uk/logon/LogonPoint/index.html) (requires application from [CSCS IT Support Portal](https://tinyurl.com/vz9huc9) followed by departmental approval).
     * [Configuring your Mobile Device for Exchange Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Configuring+your+Mobile+Device+for+Exchange+Email)
     * Office 365, [https://login.microsoftonline.com/](https://login.microsoftonline.com/)
@@ -32,7 +33,7 @@
 ```bash
       ping CMPCxxx.medschl.private.cam.ac.uk
 ```
-      (xxx is the serial number, e.g., 357  on the desktop at the office) for
+      (xxx is the serial number, e.g., 357, on the desktop at the office) for
 ```
       Pinging CMPC357.medschl.private.cam.ac.uk [172.27.11.159] with 32 bytes of data:
       Reply from 172.27.11.159: bytes=32 time=16ms TTL=127

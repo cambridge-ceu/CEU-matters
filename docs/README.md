@@ -6,10 +6,11 @@ The repository highlights information on seminars and presentations, etc., at th
 * [Schedules](schedules.md)
 * [Zoom video communications](zoom.md)
 * [Resources](resources.md)
-* [Mailing lists, slack channels and video conferencing](channels.md)
+* [Channels](channels.md)
 * [Talks](talks.md)
-* [The COVID-19 pandemic](COVID-19.md)
-* [2021](2021.md)
-* [2020](2020.md)
+* Chronicle:
+  * [The COVID-19 pandemic](COVID-19.md)
+  * [2021](2021.md)
+  * [2020](2020.md)
 
 <a href="http://phdcomics.com/comics/archive.php?comicid=719"> <img src="http://phdcomics.com/comics/archive/phd060406s.gif" width="860" height="400" align="right"> </a>

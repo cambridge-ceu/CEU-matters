@@ -8,9 +8,6 @@ The repository highlights information on seminars and presentations, etc., at th
 * [Resources](resources.md)
 * [Channels](channels.md)
 * [Talks](talks.md)
-* Chronicle:
-  * [The COVID-19 pandemic](COVID-19.md)
-  * [2021](2021.md)
-  * [2020](2020.md)
+* Chronicle: [The COVID-19 pandemic](COVID-19.md), [2021](2021.md), [2020](2020.md)
 
 <a href="http://phdcomics.com/comics/archive.php?comicid=719"> <img src="http://phdcomics.com/comics/archive/phd060406s.gif" width="860" height="400" align="right"> </a>

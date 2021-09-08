@@ -1,4 +1,4 @@
-## External talks
+# External talks
 
 * [Cambridge Statistics Discussion Group](https://talks.cam.ac.uk/show/index/44749) (CSDG).
 * [Cambridge talks](https://talks.cam.ac.uk/index)

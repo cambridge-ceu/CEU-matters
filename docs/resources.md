@@ -22,7 +22,7 @@
   * Website: [https://cscs.medschl.cam.ac.uk/](https://cscs.medschl.cam.ac.uk/)
   * Clinical School HR Twitter: [https://twitter.com/clinical_hr](https://twitter.com/clinical_hr)
   * Various tips
-    * Anywhere Citrix Portal, https://anywhere.medschl.cam.ac.uk/logon/LogonPoint/index.html (requires application from [CSCS IT Support Portal](https://tinyurl.com/vz9huc9) followed by departmental approval).
+    * Anywhere Citrix Portal, [https://anywhere.medschl.cam.ac.uk/logon/LogonPoint/index.html](https://anywhere.medschl.cam.ac.uk/logon/LogonPoint/index.html) (requires application from [CSCS IT Support Portal](https://tinyurl.com/vz9huc9) followed by departmental approval).
     * [Configuring your Mobile Device for Exchange Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Configuring+your+Mobile+Device+for+Exchange+Email)
     * Office 365, [https://login.microsoftonline.com/](https://login.microsoftonline.com/)
     * Remote support, [http://remote-support.medschl.cam.ac.uk/](http://remote-support.medschl.cam.ac.uk/)

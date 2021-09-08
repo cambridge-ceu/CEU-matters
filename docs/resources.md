@@ -2,9 +2,9 @@
 
 ## CEU mailing list
 
-* To post to this list, send your email to: <a href="mailto:phpc-ceu-group@lists.cam.ac.uk">the mailing list</a>.
-* General information about the mailing list is at: [https://lists.cam.ac.uk/mailman/listinfo/phpc-ceu-group](https://lists.cam.ac.uk/mailman/listinfo/phpc-ceu-group). If you ever want to unsubscribe or change your options (eg, switch to or from digest mode), visit your subscription page at: [https://lists.cam.ac.uk/mailman/options/phpc-ceu-group/CRSid%40medschl.cam.ac.uk](https://lists.cam.ac.uk/mailman/options/phpc-ceu-group/CRSid%40medschl.cam.ac.uk). You can also make such adjustments via email by sending a message to: <a href="mailto:phpc-ceu-group-request@lists.cam.ac.uk">phpc-ceu-group-request</a>. with the word `help' in the subject or body (don't include the quotes), and you will get back a message with instructions.
-* Queries about the list can be made via <a href="mailto:phpc-ceu-group-owner@lists.cam.ac.uk">phpc-ceu-group-owner</a>.
+* To post to this list, send your email to: <a href="mailto:phpc-ceu-group@lists.cam.ac.uk">phpc-ceu-group@lists.cam.ac.uk</a>.
+* General information about the mailing list is at: [https://lists.cam.ac.uk/mailman/listinfo/phpc-ceu-group](https://lists.cam.ac.uk/mailman/listinfo/phpc-ceu-group). If you ever want to unsubscribe or change your options (eg, switch to or from digest mode), visit your subscription page at: [https://lists.cam.ac.uk/mailman/options/phpc-ceu-group/CRSid%40medschl.cam.ac.uk](https://lists.cam.ac.uk/mailman/options/phpc-ceu-group/CRSid%40medschl.cam.ac.uk). You can also make such adjustments via email by sending a message to: <a href="mailto:phpc-ceu-group-request@lists.cam.ac.uk">phpc-ceu-group-request@lists.cam.ac.uk</a>. with the word `help' in the subject or body (don't include the quotes), and you will get back a message with instructions.
+* Queries about the list can be made via <a href="mailto:phpc-ceu-group-owner@lists.cam.ac.uk">phpc-ceu-group-owner@lists.cam.ac.uk</a>.
 
 ## DPHPC
   * Accounts Team:  <a href="mailto:ps.accounts@medschl.cam.ac.uk">ps.accounts@medschl.cam.ac.uk</a>

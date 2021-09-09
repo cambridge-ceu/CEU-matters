@@ -2,12 +2,25 @@
 
 The following list gives informaiton on active mailing lists, events, slack channels and video conferencing (software).
 
+## Mailing lists
+
 * [Allstat](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=ALLSTAT).
 * [CSML](http://www.mailinglists.ucl.ac.uk/mailman/listinfo/csml).
-* [GoToMeeting](https://www.gotomeeting.com).
-* [eventbrite](https://www.eventbrite.co.uk/organizations/events/all).
+* [R mailing lists](https://www.r-project.org/mail.html).
 * [SEGEG](https://mailman.kcl.ac.uk/mailman/listinfo/segeg).
+
+## Online services
+
+* [Doodle](https://doodle.com/en/).
+* [eventbrite](https://www.eventbrite.co.uk/organizations/events/all).
+
+## Slack channel
+
 * [Systems-genomics](https://systems-genomics.slack.com/) ([create-a-workspace](https://slack.com/intl/en-in/help/articles/206845317-Create-a-Slack-workspace)).
+
+## Software
+
+* [GoToMeeting](https://www.gotomeeting.com).
 * [Skype](https://www.skype.com/en/).
 * [Teams](https://products.office.com/en-gb/microsoft-teams/download-app), [Breakout rooms](https://myteamsday.com/2020/04/17/breakoutrooms-in-teams/).
 * [Timeout](https://timeout.srcf.net).

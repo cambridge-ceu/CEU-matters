@@ -12,7 +12,7 @@ The following list gives informaiton on active mailing lists, events, slack chan
 ## Online services
 
 * [Doodle](https://doodle.com/en/).
-* [eventbrite](https://www.eventbrite.co.uk/organizations/events/all).
+* [eventbrite](https://www.eventbrite.co.uk/).
 
 ## Slack channel
 

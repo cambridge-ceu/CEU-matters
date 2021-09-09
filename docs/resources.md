@@ -44,10 +44,10 @@
 ```
 
 ## University
-  * Forwarding @cam Email, [https://confluence.medschl.cam.ac.uk/display/FAQ/Email%3A+Forwarding+@cam+Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Email%3A+Forwarding+@cam+Email)
   * Emergency Childcare, [https://www.emergencychildcare.co.uk/](https://www.emergencychildcare.co.uk/) (contact <a href="mailto:csreward@admin.cam.ac.uk">csreward@admin.cam.ac.uk</a>)
   * Employee Self Service, [https://chris.cam.ac.uk/hrlive_ess/ess/index.html#/login](https://chris.cam.ac.uk/hrlive_ess/ess/index.html#/login)
   * Google account, [https://help.uis.cam.ac.uk/service/collaboration/workspace/registration-and-login](https://help.uis.cam.ac.uk/service/collaboration/workspace/registration-and-login)
+  * Hermes webmail, [https://help.uis.cam.ac.uk/webmail](https://help.uis.cam.ac.uk/webmail)
   * Human Resources, [https://www.hr.admin.cam.ac.uk/](https://www.hr.admin.cam.ac.uk/), [Recruitment restraint](https://www.hr.admin.cam.ac.uk/recruitment_protocol_2020_21), <a href="equality@admin.cam.ac.uk">Equality and Diversity Team</a>
   * Information Services Twitter, [https://twitter.com/UniCamIT](https://twitter.com/UniCamIT)
   * Lookup service, [https://www.lookup.cam.ac.uk/self](https://www.lookup.cam.ac.uk/self) (See [https://confluence.medschl.cam.ac.uk/x/gwtCBQ](https://confluence.medschl.cam.ac.uk/x/gwtCBQ)).

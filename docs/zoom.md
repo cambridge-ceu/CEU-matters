@@ -44,7 +44,7 @@ Find your local number: [https://us02web.zoom.us/u/kbut54X5YO](https://us02web.z
  <a href="tel:+442034815237">+44 203 481 5237</a>,
  <a href="tel:+442034815240">+44 203 481 5240</a>
 
-## *HDR meeting on 4/12/20*
+## 4/12/20 details
 ```
 	ID: 882 3087 5260
 	One tap mobile

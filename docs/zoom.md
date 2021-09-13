@@ -17,7 +17,7 @@
 [https://us02web.zoom.us/j/87250487122?pwd=a0xGc3RJVjI2RjdJalBZNGV2T3ZPdz09](https://us02web.zoom.us/j/87250487122?pwd=a0xGc3RJVjI2RjdJalBZNGV2T3ZPdz09)
 
 ```
-Meeting ID: 872 5048 7122
+ID: 872 5048 7122
 One tap mobile
 +443300885830,,87250487122# United Kingdom
 +441314601196,,87250487122# United Kingdom
@@ -30,7 +30,6 @@ Dial by your location
 +44 203 901 7895 United Kingdom
 +44 208 080 6591 United Kingdom
 +44 208 080 6592 United Kingdom
-Meeting ID: 872 5048 7122
 ```
 
 Find your local number: [https://us02web.zoom.us/u/kbut54X5YO](https://us02web.zoom.us/u/kbut54X5YO)

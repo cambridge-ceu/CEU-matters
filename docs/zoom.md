@@ -31,8 +31,9 @@ Dial by your location
 +44 208 080 6591 United Kingdom
 +44 208 080 6592 United Kingdom
 Meeting ID: 872 5048 7122
-Find your local number: https://us02web.zoom.us/u/kbut54X5YO
 ```
+
+Find your local number: [https://us02web.zoom.us/u/kbut54X5YO](https://us02web.zoom.us/u/kbut54X5YO)
 
 ## HDR meeting
   * ID ([https://zoom.us/join](https://zoom.us/join)): 629 876 6417

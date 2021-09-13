@@ -12,9 +12,9 @@
  <a href="tel:+442080806591">+44 208 080 6591</a>,
  <a href="tel:+442080806592">+44 208 080 6592</a>
 
-## 16/9/ details
+## 16/9/21 details
 
-https://us02web.zoom.us/j/87250487122?pwd=a0xGc3RJVjI2RjdJalBZNGV2T3ZPdz09
+[https://us02web.zoom.us/j/87250487122?pwd=a0xGc3RJVjI2RjdJalBZNGV2T3ZPdz09](https://us02web.zoom.us/j/87250487122?pwd=a0xGc3RJVjI2RjdJalBZNGV2T3ZPdz09)
 
 ```
 Meeting ID: 872 5048 7122
@@ -32,7 +32,7 @@ Dial by your location
 +44 208 080 6592 United Kingdom
 Meeting ID: 872 5048 7122
 Find your local number: https://us02web.zoom.us/u/kbut54X5YO
-``
+```
 
 ## HDR meeting
   * ID ([https://zoom.us/join](https://zoom.us/join)): 629 876 6417

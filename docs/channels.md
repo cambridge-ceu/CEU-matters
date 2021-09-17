@@ -2,6 +2,10 @@
 
 The following list gives informaiton on active mailing lists, events, slack channels and video conferencing (software).
 
+## Kudoboard
+
+* [CEU kudoboard](https://ceu2.kudoboard.com/)
+
 ## Mailing lists
 
 * [Allstat](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=ALLSTAT).
@@ -13,6 +17,7 @@ The following list gives informaiton on active mailing lists, events, slack chan
 
 * [Doodle](https://doodle.com/en/).
 * [eventbrite](https://www.eventbrite.co.uk/).
+* [Microsoft Forms](https://www.microsoft.com/en-us/microsoft-365/online-surveys-polls-quizzes)
 
 ## Slack channel
 

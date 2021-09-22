@@ -12,7 +12,7 @@
  <a href="tel:+442080806591">+44 208 080 6591</a>,
  <a href="tel:+442080806592">+44 208 080 6592</a>
 
-## 16/9/21 details
+## 23/9/21 details
 
 [https://us02web.zoom.us/j/87250487122?pwd=a0xGc3RJVjI2RjdJalBZNGV2T3ZPdz09](https://us02web.zoom.us/j/87250487122?pwd=a0xGc3RJVjI2RjdJalBZNGV2T3ZPdz09)
 

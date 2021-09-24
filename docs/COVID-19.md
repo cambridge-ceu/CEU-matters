@@ -10,3 +10,6 @@ Access to SRL (in phases from Monday June 22<sup>nd</sup> 2020) requires email <
 
 The government's [Roadmap out of lockdown](https://www.gov.uk/government/publications/covid-19-response-spring-2021/covid-19-response-spring-2021-summary#roadmap-out-of-lockdown)
 
+## Updates
+
+[StaySafeCambridgeUni](https://www.cam.ac.uk/coronavirus/stay-safe-cambridge-uni/)

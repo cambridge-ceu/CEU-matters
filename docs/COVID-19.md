@@ -12,4 +12,5 @@ The government's [Roadmap out of lockdown](https://www.gov.uk/government/publica
 
 ## Updates
 
-[StaySafeCambridgeUni](https://www.cam.ac.uk/coronavirus/stay-safe-cambridge-uni/)
+* [Latest information](https://www.safety.admin.cam.ac.uk/latest-information/covid-19)
+* [StaySafeCambridgeUni](https://www.cam.ac.uk/coronavirus/stay-safe-cambridge-uni/)

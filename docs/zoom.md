@@ -34,12 +34,6 @@ Dial by your location
 
 Find your local number: [https://us02web.zoom.us/u/kbut54X5YO](https://us02web.zoom.us/u/kbut54X5YO)
 
-## Cambridge/Baker Symposium
-
-29 September 2021 08:00-10:00
-
-Zoom details, [https://bakeridi.zoom.us/j/94600162854?pwd=eW9Vbm95WUpTME9HYXdMc3hqRGVwdz09](https://bakeridi.zoom.us/j/94600162854?pwd=eW9Vbm95WUpTME9HYXdMc3hqRGVwdz09)
-
 ## HDR meeting
   * ID ([https://zoom.us/join](https://zoom.us/join)): 629 876 6417
   * URL: [https://zoom.us/j/6298766417](https://zoom.us/j/6298766417?pwd=K2s2am14cWpSeGhUYkRvUUdwc3RYdz09)

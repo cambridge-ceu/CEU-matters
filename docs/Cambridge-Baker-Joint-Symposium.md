@@ -1,4 +1,4 @@
-## Cambridge/Baker Joint Symposium
+## The 2021 Cambridge/Baker Joint Symposium
 
 29 September 2021 08:00-10:00am
 

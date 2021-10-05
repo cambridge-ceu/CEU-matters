@@ -44,6 +44,8 @@
 ```
 
 ## University
+  * [CAMbens SmartHub](https://cambridge.rewardgateway.co.uk)
+  * [CULP](https://www.langcen.cam.ac.uk/culp/culp-general-courses.html) ([Online booking system](https://www.training.cam.ac.uk/lc/theme/CULP?providerId=399495))
   * Emergency Childcare, [https://www.emergencychildcare.co.uk/](https://www.emergencychildcare.co.uk/) (contact <a href="mailto:csreward@admin.cam.ac.uk">csreward@admin.cam.ac.uk</a>)
   * Employee Self Service, [https://chris.cam.ac.uk/hrlive_ess/ess/index.html#/login](https://chris.cam.ac.uk/hrlive_ess/ess/index.html#/login)
   * Google account, [https://help.uis.cam.ac.uk/service/collaboration/workspace/registration-and-login](https://help.uis.cam.ac.uk/service/collaboration/workspace/registration-and-login)

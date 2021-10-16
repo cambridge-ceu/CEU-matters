@@ -1,6 +1,6 @@
 site_name: CEU scientific meetings
 nav:
-  - Contents: README.md
+  - "": README.md
   - Chronicle:
     - COVID-19.md
     - Cambridge-Baker-Joint-Symposium.md

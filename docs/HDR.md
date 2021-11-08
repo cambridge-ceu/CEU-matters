@@ -6,7 +6,7 @@ HDR UK's mission is to tackle important research challenges by applying data sci
 Seminar Series started in September 2018 with an exciting line-up of talks, spanning various research themes including 
 'multi-omics', clinical informatics, rare diseases, the microbiome, and novel analytical methods. Additional information includes,
 
-* [Cohort discovery search tool](https://www.healthdatagateway.org/pages/cohort-discovery-search-tool).
+* [Gateway to health data and tools for research](https://www.healthdatagateway.org/).
 * [GitHub](https://github.com/HDRUK) page.
 * [Hubs](https://www.youtube.com/watch?v=jOP5RpYaEaQ).
 * [Innovation gateway](https://www.healthdatagateway.org/).

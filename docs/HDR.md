@@ -9,8 +9,6 @@ Seminar Series started in September 2018 with an exciting line-up of talks, span
 * [Gateway to health data and tools for research](https://www.healthdatagateway.org/).
 * [GitHub](https://github.com/HDRUK) page.
 * [Hubs](https://www.youtube.com/watch?v=jOP5RpYaEaQ).
-* [Innovation gateway](https://www.healthdatagateway.org/).
 * Mailing list (<a href="mailto:hdruk-seminars@lists.cam.ac.uk">hdruk-seminars@lists.cam.ac.uk</a>) ([https://lists.cam.ac.uk/mailman/listinfo/hdruk-seminars](https://lists.cam.ac.uk/mailman/listinfo/hdruk-seminars)) and supports subscription or change of options (e.g., digest mode), [from the web](https://lists.cam.ac.uk/mailman/options/hdruk-seminars/ceu-group%40medschl.cam.ac.uk) or by email (<a href="mailto:hdruk-seminars-request@lists.cam.ac.uk">hdruk-seminars-request@lists.cam.ac.uk</a>) (with the word `help` in the subject or body but no quote)).
 * [Phenotype library](https://phenotypes.healthdatagateway.org/)
 * [Quinquennial reviews](https://www.hdruk.ac.uk/health-data-research-uk-quinquennial-review/).
-

@@ -9,3 +9,4 @@
 * The Early Researchers Seminar Series (ERSS), [https://bit.ly/ERSS-2021](https://bit.ly/ERSS-2021) ([archive](https://bit.ly/ERSSintro)).
 * The Royal Society of Medicine ([Medical Genetics Section](https://www.rsm.ac.uk/sections/medical-genetics-section/)).
 * [Trinity College Science Society](http://talks.cam.ac.uk/show/index/28326) (TCSS).
+* UK Biobank [Scientific Conference 2021](https://www.ukbiobank.ac.uk/learn-more-about-uk-biobank/scientific-conference-2021)

@@ -2,7 +2,7 @@ The repository highlights information on seminars and presentations, etc., at th
 
 # Contents
 
-* Chronicle: [The COVID-19 pandemic](COVID-19.md), [2022](2022.md), [2021](2021.md), [2020](2020.md)
+* Chronicle: [The COVID-19 pandemic](COVID-19.md), [2022](2022.md), [2021](2021.md)
 * [Health Data Research (HDR) UK](HDR.md)
 * [Schedules](schedules.md)
 * [Zoom video communications](zoom.md)

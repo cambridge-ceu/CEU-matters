@@ -48,13 +48,14 @@
   * CAMbens SmartHub, [https://cambridge.rewardgateway.co.uk](https://cambridge.rewardgateway.co.uk)
   * Cambridge Science Festival, [https://www.festival.cam.ac.uk/](https://www.festival.cam.ac.uk/) ([Events management](https://webservices.admin.cam.ac.uk/events/admin), [Practical information](https://www.cam.ac.uk/public-engagement/get-involved/cambridge-festival-coordinators-page))
   * CULP courses, [https://www.langcen.cam.ac.uk/culp/culp-general-courses.html](https://www.langcen.cam.ac.uk/culp/culp-general-courses.html) ([Online booking system](https://www.training.cam.ac.uk/lc/theme/CULP?providerId=399495))
+  * Email delivery of @cam address [https://confluence.medschl.cam.ac.uk/x/gwtCBQ](https://confluence.medschl.cam.ac.uk/x/gwtCBQ).
   * Emergency Childcare, [https://www.emergencychildcare.co.uk/](https://www.emergencychildcare.co.uk/) (contact <a href="mailto:csreward@admin.cam.ac.uk">csreward@admin.cam.ac.uk</a>)
   * Employee Self Service, [https://chris.cam.ac.uk/hrlive_ess/ess/index.html#/login](https://chris.cam.ac.uk/hrlive_ess/ess/index.html#/login)
   * Google account, [https://help.uis.cam.ac.uk/service/collaboration/workspace/registration-and-login](https://help.uis.cam.ac.uk/service/collaboration/workspace/registration-and-login)
   * Hermes webmail, [https://help.uis.cam.ac.uk/webmail](https://help.uis.cam.ac.uk/webmail)
   * Human Resources, [https://www.hr.admin.cam.ac.uk/](https://www.hr.admin.cam.ac.uk/), [Recruitment restraint](https://www.hr.admin.cam.ac.uk/recruitment_protocol_2020_21), <a href="equality@admin.cam.ac.uk">Equality and Diversity Team</a>
   * Information Services Twitter, [https://twitter.com/UniCamIT](https://twitter.com/UniCamIT)
-  * Lookup service, [https://www.lookup.cam.ac.uk/self](https://www.lookup.cam.ac.uk/self) (See [https://confluence.medschl.cam.ac.uk/x/gwtCBQ](https://confluence.medschl.cam.ac.uk/x/gwtCBQ)).
+  * Lookup service, [https://www.lookup.cam.ac.uk/self](https://www.lookup.cam.ac.uk/self) ([https://www.lookup.cam.ac.uk/person/crsid/your-crsid](https://www.lookup.cam.ac.uk/person/crsid/your-crsid))
   * Moodle account, [https://www.vle.cam.ac.uk/login/index.php](https://www.vle.cam.ac.uk/login/index.php) as a virtual learning environment (VLE), [Understanding Unconscious/Implicit Bias](https://www.equality.admin.cam.ac.uk/training-overview/understanding-unconscious-implicit-bias)
   * Multi-factor authentication, [set up multi-factor authentication on your University Microsoft account](https://help.uis.cam.ac.uk/service/accounts-passwords/set-multi-factor-authentication-your-university-microsoft-account)
   * Postdoc Academy, [(https://www.postdocacademy.cam.ac.uk/](https://www.postdocacademy.cam.ac.uk/) ([Fellowships](https://www.postdocacademy.cam.ac.uk/professional-opportunities/fellowships))

@@ -5,6 +5,7 @@ The following list gives informaiton on active mailing lists, events, slack chan
 ## Kudoboard
 
 * [CEU kudoboard](https://ceu2.kudoboard.com/)
+* [Collection pot](https://www.collectionpot.com/)
 
 ## Mailing lists
 

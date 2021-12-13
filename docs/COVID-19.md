@@ -14,3 +14,4 @@ The government's [Roadmap out of lockdown](https://www.gov.uk/government/publica
 
 * [Latest information](https://www.safety.admin.cam.ac.uk/latest-information/covid-19)
 * [StaySafeCambridgeUni](https://www.cam.ac.uk/coronavirus/stay-safe-cambridge-uni/)
+* [Enhanced COVID-19 measures](https://www.cam.ac.uk/coronavirus/news/message-from-the-vice-chancellor-about-enhanced-covid-19-measures)

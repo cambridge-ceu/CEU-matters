@@ -16,11 +16,12 @@
   * Reception/Facilities Team: <a href="mailto:phpc.reception@medschl.cam.ac.uk">phpc.reception@medschl.cam.ac.uk</a>
 
 ## Clinical School
-  * Website: [https://cscs.medschl.cam.ac.uk/](https://cscs.medschl.cam.ac.uk/)
-  * Service Desk: <a href="tel:+4401223336261">**01223 (3)36261**</a> (9am – 5pm Monday to Friday), <a href="mailto:servicedesk@medschl.cam.ac.uk"> servicedesk@medschl.cam.ac.uk</a>
+  * CSCS Self-service Portal: [https://itsupport.medschl.cam.ac.uk](https://itsupport.medschl.cam.ac.uk)
+  * CSCS Service Desk: <a href="tel:+4401223336261">**01223 (3)36261**</a> (9am – 5pm Monday to Friday), <a href="mailto:servicedesk@medschl.cam.ac.uk"> servicedesk@medschl.cam.ac.uk</a>
+  * CSCS Service status: [https://cscs.medschl.cam.ac.uk/information/service-status/](https://cscs.medschl.cam.ac.uk/information/service-status/)
+  * CSCS Service Twitter: [https://twitter.com/Cambridge_CSCS](https://twitter.com/Cambridge_CSCS)
+  * CSCS Service website: [https://cscs.medschl.cam.ac.uk/](https://cscs.medschl.cam.ac.uk/)
   * User Guides: [https://cscsguides.medschl.cam.ac.uk](https://cscsguides.medschl.cam.ac.uk)
-  * Support Portal: [https://itsupport.medschl.cam.ac.uk](https://itsupport.medschl.cam.ac.uk)
-  * CSCS Twitter: [https://twitter.com/Cambridge_CSCS](https://twitter.com/Cambridge_CSCS)
   * HR Twitter: [https://twitter.com/clinical_hr](https://twitter.com/clinical_hr)
   * Declaration of interest: [https://www.medschl.cam.ac.uk/declaration-of-interests/](https://www.medschl.cam.ac.uk/declaration-of-interests/)
   * Tips
@@ -65,3 +66,4 @@
   * Research Strategy Office, [https://www.research-strategy.admin.cam.ac.uk/](https://www.research-strategy.admin.cam.ac.uk/)
   * Symplectic Elements Login, [https://elements.admin.cam.ac.uk/default.html](https://elements.admin.cam.ac.uk/default.html)
   * Telecoms Office, [https://www.phone.cam.ac.uk/](https://www.phone.cam.ac.uk/) ([My phone](https://my.phone.cam.ac.uk/myphone/calls))
+  * UIS Status, [https://status.uis.cam.ac.uk/](https://status.uis.cam.ac.uk/)

@@ -21,7 +21,7 @@
   * CSCS Service status: [https://cscs.medschl.cam.ac.uk/information/service-status/](https://cscs.medschl.cam.ac.uk/information/service-status/)
   * CSCS Service Twitter: [https://twitter.com/Cambridge_CSCS](https://twitter.com/Cambridge_CSCS)
   * CSCS Service website: [https://cscs.medschl.cam.ac.uk/](https://cscs.medschl.cam.ac.uk/)
-  * User Guides: [https://cscsguides.medschl.cam.ac.uk](https://cscsguides.medschl.cam.ac.uk)
+  * CSCS User Guides: [https://cscsguides.medschl.cam.ac.uk](https://cscsguides.medschl.cam.ac.uk)
   * HR Twitter: [https://twitter.com/clinical_hr](https://twitter.com/clinical_hr)
   * Declaration of interest: [https://www.medschl.cam.ac.uk/declaration-of-interests/](https://www.medschl.cam.ac.uk/declaration-of-interests/)
   * Tips

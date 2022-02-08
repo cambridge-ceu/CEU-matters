@@ -1,6 +1,6 @@
 The repository highlights information on seminars and presentations, etc., at the Cardiovascular Epidemiology Unit (CEU), as notified via <a href="mailto:phpc-ceu-group@medschl.cam.ac.uk">the mailing list</a>.
 
-# Contents
+# Quick guides
 
 * Chronicle: [The COVID-19 pandemic](COVID-19.md), [2022](2022.md)
 * [Health Data Research (HDR) UK](HDR.md)

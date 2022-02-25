@@ -7,12 +7,15 @@
 * Queries about the list can be made via <a href="mailto:phpc-ceu-group-owner@lists.cam.ac.uk">phpc-ceu-group-owner@lists.cam.ac.uk</a>.
 
 ## DPHPC
+  * CEU Publications Mailbox [ceupublications@medschl.cam.ac.uk](mailto:ceupublications@medschl.cam.ac.uk); please email when you submit a paper. 
+  * DSE Forms [https://www.oh.admin.cam.ac.uk/oh-forms/display-screen-equipment-self-assessment-checklist](https://www.oh.admin.cam.ac.uk/oh-forms/display-screen-equipment-self-assessment-checklist)
+  * ---
   * Accounts Team:  <a href="mailto:ps.accounts@medschl.cam.ac.uk">ps.accounts@medschl.cam.ac.uk</a>
   * Comms Team:  <a href="mailto:ps.comms@medschl.cam.ac.uk">ps.comms@medschl.cam.ac.uk</a>
   * Grants Team:  <a href="mailto:ps.grants@medschl.cam.ac.uk">ps.grants@medschl.cam.ac.uk</a>
   * HR Team:  <a href="mailto:phpc.hr@medschl.cam.ac.uk">phpc.hr@medschl.cam.ac.uk</a>
   * PeopleHR: [https://dphpc.peoplehr.net/](https://dphpc.peoplehr.net/)
-  * Intranet: [https://intranet.phpc.cam.ac.uk](https://intranet.phpc.cam.ac.uk) 
+  * Intranet: [https://intranet.phpc.cam.ac.uk](https://intranet.phpc.cam.ac.uk) ([Staff card](https://intranet.phpc.cam.ac.uk/facilities-and-comms/accountservices/); check your card validity)
   * Reception/Facilities Team: <a href="mailto:phpc.reception@medschl.cam.ac.uk">phpc.reception@medschl.cam.ac.uk</a>
 
 ## Clinical School

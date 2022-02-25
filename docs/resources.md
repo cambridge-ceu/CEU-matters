@@ -9,7 +9,7 @@
 ## DPHPC
   * CEU Publications Mailbox [ceupublications@medschl.cam.ac.uk](mailto:ceupublications@medschl.cam.ac.uk); please email when you submit a paper. 
   * DSE Forms [https://www.oh.admin.cam.ac.uk/oh-forms/display-screen-equipment-self-assessment-checklist](https://www.oh.admin.cam.ac.uk/oh-forms/display-screen-equipment-self-assessment-checklist)
-  * ---
+  * * * *
   * Accounts Team:  <a href="mailto:ps.accounts@medschl.cam.ac.uk">ps.accounts@medschl.cam.ac.uk</a>
   * Comms Team:  <a href="mailto:ps.comms@medschl.cam.ac.uk">ps.comms@medschl.cam.ac.uk</a>
   * Grants Team:  <a href="mailto:ps.grants@medschl.cam.ac.uk">ps.grants@medschl.cam.ac.uk</a>

@@ -47,9 +47,9 @@
     	Approximate round trip times in milli-seconds:
     	    Minimum = 16ms, Maximum = 24ms, Average = 18ms
 ```
-    * MAC address (as the last line below) follows [this link](https://confluence.medschl.cam.ac.uk/display/FAQ/How+to+find+a+computer%27s+MAC+address)
+    * MAC address (as the last line below) follows https://confluence.medschl.cam.ac.uk/display/FAQ/How+to+find+a+computer%27s+MAC+address,
 ```
-        U:\Downloads>getmac -v
+        U:\>getmac -v
 
         Connection Name Network Adapter Physical Address    Transport Name
         =============== =============== =================== ==========================================================

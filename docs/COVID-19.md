@@ -12,6 +12,8 @@ The government's [Roadmap out of lockdown](https://www.gov.uk/government/publica
 
 ## Updates
 
+* [April 2022 Guidance](https://www.gov.uk/guidance/people-with-symptoms-of-a-respiratory-infection-including-covid-19) ([in the workplace](https://www.gov.uk/guidance/reducing-the-spread-of-respiratory-infections-including-covid-19-in-the-workplace))
+* [University of Cambridge Safety Office](https://www.safety.admin.cam.ac.uk/system/files/hsd097m.pdf) ([the Communicable Disease Helpdesk](mailto:mailto:covid-helpdesk@admin.cam.ac.uk))
 * [Latest information](https://www.safety.admin.cam.ac.uk/latest-information/covid-19)
 * [StaySafeCambridgeUni](https://www.cam.ac.uk/coronavirus/stay-safe-cambridge-uni/)
 * [Enhanced COVID-19 measures](https://www.cam.ac.uk/coronavirus/news/message-from-the-vice-chancellor-about-enhanced-covid-19-measures)

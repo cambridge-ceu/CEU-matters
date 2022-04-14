@@ -1,6 +1,6 @@
 # Communication channels
 
-The following list gives informaiton on active mailing lists, events, slack channels and video conferencing (software).
+The following list gives information on active mailing lists, events, slack channels and video conferencing (software).
 
 ## Kudoboard & collection pot
 

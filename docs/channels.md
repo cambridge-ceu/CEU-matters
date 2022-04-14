@@ -18,7 +18,8 @@ The following list gives informaiton on active mailing lists, events, slack chan
 
 * [Doodle](https://doodle.com/en/).
 * [eventbrite](https://www.eventbrite.co.uk/).
-* [Microsoft Forms](https://www.microsoft.com/en-us/microsoft-365/online-surveys-polls-quizzes)
+* [Microsoft Forms](https://www.microsoft.com/en-us/microsoft-365/online-surveys-polls-quizzes).
+* PPIE planner, [https://planner.voice-global.org/](https://planner.voice-global.org/).
 
 ## Slack channel
 
@@ -32,4 +33,3 @@ The following list gives informaiton on active mailing lists, events, slack chan
 * [Timeout](https://timeout.srcf.net).
 * [Webex](https://cart.webex.com/sign-up).
 * [Zoom](https://zoom.us/) ([Zoom Video Communications](https://en.wikipedia.org/wiki/Zoom_Video_Communications)), [Breakout rooms](https://support.zoom.us/hc/en-us/articles/206476093-Enabling-breakout-rooms), [Polling](https://blog.zoom.us/wordpress/2016/09/20/3-ways-to-use-polls-in-meetings/).
-* PPIE planner, [https://planner.voice-global.org/](https://planner.voice-global.org/).

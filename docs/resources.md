@@ -15,7 +15,9 @@
   * Grants Team:  <a href="mailto:ps.grants@medschl.cam.ac.uk">ps.grants@medschl.cam.ac.uk</a>
   * HR Team:  <a href="mailto:phpc.hr@medschl.cam.ac.uk">phpc.hr@medschl.cam.ac.uk</a>
   * PeopleHR: [https://dphpc.peoplehr.net/](https://dphpc.peoplehr.net/)
-  * Intranet: [https://intranet.phpc.cam.ac.uk](https://intranet.phpc.cam.ac.uk) ([Staff card](https://intranet.phpc.cam.ac.uk/facilities-and-comms/accountservices/); check your card validity)
+  * Intranet: [https://intranet.phpc.cam.ac.uk](https://intranet.phpc.cam.ac.uk)
+    - Staff card, [https://intranet.phpc.cam.ac.uk/facilities-and-comms/accountservices/](https://intranet.phpc.cam.ac.uk/facilities-and-comms/accountservices/); check your card validity
+    - Printers, [https://intranet.phpc.cam.ac.uk/facilities-and-comms/accountservices/printing/](https://intranet.phpc.cam.ac.uk/facilities-and-comms/accountservices/printing/) ([lookup](https://www.lookup.cam.ac.uk/self), [Printer Setup Instructions](https://intranet.phpc.cam.ac.uk/wp-content/uploads/2020/03/Printer-Setup-Instructions.docx), [Scanning Guide](https://intranet.phpc.cam.ac.uk/wp-content/uploads/2020/03/Scanning-Guide.docx), [email for help](mailto:ps.comms@medschl.cam.ac.uk))
   * Reception/Facilities Team: <a href="mailto:phpc.reception@medschl.cam.ac.uk">phpc.reception@medschl.cam.ac.uk</a>
 
 ## Clinical School

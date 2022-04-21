@@ -49,18 +49,17 @@
     	Approximate round trip times in milli-seconds:
     	    Minimum = 16ms, Maximum = 24ms, Average = 18ms
 ```
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* MAC address (as the last line below) follows https://confluence.medschl.cam.ac.uk/display/FAQ/How+to+find+a+computer%27s+MAC+address,
-```
-        U:\>getmac -v
-
-        Connection Name Network Adapter Physical Address    Transport Name
-        =============== =============== =================== ==========================================================
-        vEthernet (nat) Hyper-V Virtual 00-15-5D-23-52-3D   \Device\Tcpip_{1B4E8617-BC29-4833-A456-C0C64A493AFE}
-        VirtualBox Host VirtualBox Host 0A-00-27-00-00-0B   \Device\Tcpip_{53CCE470-7C3C-40AB-91B0-A892285AA122}
-        Ethernet 2      TAP-Windows Ada 00-FF-DF-42-55-EB   Media disconnected
-        vEthernet (Defa Hyper-V Virtual 00-15-5D-25-8F-34   \Device\Tcpip_{79500A5B-7A98-4CAC-8879-4439AD68046C}
-        Ethernet        Intel(R) Ethern 54-BF-64-81-E7-29   \Device\Tcpip_{29441362-9902-493B-A2DE-BAF0BC3FB153}
-```
+>   * MAC address (as the last line below) follows https://confluence.medschl.cam.ac.uk/display/FAQ/How+to+find+a+computer%27s+MAC+address,
+>
+>        U:\>getmac -v
+>
+>        Connection Name Network Adapter Physical Address    Transport Name
+>        =============== =============== =================== ==========================================================
+>        vEthernet (nat) Hyper-V Virtual 00-15-5D-23-52-3D   \Device\Tcpip_{1B4E8617-BC29-4833-A456-C0C64A493AFE}
+>        VirtualBox Host VirtualBox Host 0A-00-27-00-00-0B   \Device\Tcpip_{53CCE470-7C3C-40AB-91B0-A892285AA122}
+>        Ethernet 2      TAP-Windows Ada 00-FF-DF-42-55-EB   Media disconnected
+>        vEthernet (Defa Hyper-V Virtual 00-15-5D-25-8F-34   \Device\Tcpip_{79500A5B-7A98-4CAC-8879-4439AD68046C}
+>        Ethernet        Intel(R) Ethern 54-BF-64-81-E7-29   \Device\Tcpip_{29441362-9902-493B-A2DE-BAF0BC3FB153}
 
 ## University
   * CAMbens SmartHub, [https://cambridge.rewardgateway.co.uk](https://cambridge.rewardgateway.co.uk)

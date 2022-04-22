@@ -204,6 +204,11 @@
 <li>Telecoms Office, <a href="https://www.phone.cam.ac.uk/">https://www.phone.cam.ac.uk/</a> (<a href="https://my.phone.cam.ac.uk/myphone/calls">My phone</a>)</li>
 <li>UIS Status, <a href="https://status.uis.cam.ac.uk/">https://status.uis.cam.ac.uk/</a></li>
 </ul>
+<div class="footnote">
+<hr/>
+<ol>
+<li id="fn:1">
+<p>To check for the active status, ping from a CLI (Linux/Windows MS-DOS prompt, invoke with Windows key + r, type in "cmd" in the box and hit the return key) and issue </p>
 <blockquote>
 <p>ping CMPCxxx.medschl.private.cam.ac.uk</p>
 <p>where (xxx is the serial number, e.g., 357, on the desktop at the office). Equivalently, one can use <code>ping 172.27.11.159</code>. The IP address is also the one in the remote desktop entry. It appears helpful when the computer is restarted for updates.</p>
@@ -217,6 +222,12 @@
    Approximate round trip times in milli-seconds:
         Minimum = 16ms, Maximum = 24ms, Average = 18ms
 </p>
+</blockquote>
+<p><a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">↩</a></p>
+</li>
+<li id="fn:2">
+<p>An example output from <code>getmac -v</code>.</p>
+<blockquote>
 <p>U:&gt;getmac -v</p>
 <p>Connection Name Network Adapter Physical Address    Transport Name
    =============== =============== =================== ==========================================================
@@ -226,14 +237,7 @@
    vEthernet (Defa Hyper-V Virtual 00-15-5D-25-8F-34   \Device\Tcpip_{79500A5B-7A98-4CAC-8879-4439AD68046C}
    Ethernet        Intel(R) Ethern 54-BF-64-81-E7-29   \Device\Tcpip_{29441362-9902-493B-A2DE-BAF0BC3FB153}</p>
 </blockquote>
-<div class="footnote">
-<hr/>
-<ol>
-<li id="fn:1">
-<p>To check for the active status, ping from a CLI (Linux/Windows MS-DOS prompt, invoke with Windows key + r, type in "cmd" in the box and hit the return key) and issue <a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">↩</a></p>
-</li>
-<li id="fn:2">
-<p>An example output from <code>getmac -v</code>. <a class="footnote-backref" href="#fnref:2" title="Jump back to footnote 2 in the text">↩</a></p>
+<p><a class="footnote-backref" href="#fnref:2" title="Jump back to footnote 2 in the text">↩</a></p>
 </li>
 </ol>
 </div></div>

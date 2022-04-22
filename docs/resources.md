@@ -65,6 +65,7 @@
   * UIS Status, [https://status.uis.cam.ac.uk/](https://status.uis.cam.ac.uk/)
 
 [^1]: To check for the active status, ping from a CLI (Linux/Windows MS-DOS prompt, invoke with Windows key + r, type in "cmd" in the box and hit the return key) and issue `ping CMPCxxx.medschl.private.cam.ac.uk` (xxx is the serial number, e.g., 357, on the desktop at the office). Equivalently, one can use `ping 172.27.11.159`. The IP address is also the one in the remote desktop entry. It appears helpful when the computer is restarted for updates.
+```
     >       Pinging CMPC357.medschl.private.cam.ac.uk [172.27.11.159] with 32 bytes of data:
     >       Reply from 172.27.11.159: bytes=32 time=16ms TTL=127
     >       Reply from 172.27.11.159: bytes=32 time=16ms TTL=127
@@ -76,8 +77,9 @@
     >       Approximate round trip times in milli-seconds:
     >           Minimum = 16ms, Maximum = 24ms, Average = 18ms
     >
-
+```
 [^2]: An example output from `getmac -v`.
+```
     >
     >        U:\>getmac -v
     >
@@ -88,5 +90,4 @@
     >        Ethernet 2      TAP-Windows Ada 00-FF-DF-42-55-EB   Media disconnected
     >        vEthernet (Defa Hyper-V Virtual 00-15-5D-25-8F-34   \Device\Tcpip_{79500A5B-7A98-4CAC-8879-4439AD68046C}
     >        Ethernet        Intel(R) Ethern 54-BF-64-81-E7-29   \Device\Tcpip_{29441362-9902-493B-A2DE-BAF0BC3FB153}
-
-
+```

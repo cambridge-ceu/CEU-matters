@@ -36,8 +36,8 @@
     * Remote support, [http://remote-support.medschl.cam.ac.uk/](http://remote-support.medschl.cam.ac.uk/)
     * Support Portal, [https://itsupport.medschl.cam.ac.uk](https://itsupport.medschl.cam.ac.uk)
     * VPN (Virtual Private Network) can be furnished with [forticlient](https://www.fortinet.com/support/product-downloads) using the [new settings](https://confluence.medschl.cam.ac.uk/display/FAQ/New+VPN+Client+settings+for+Biomedical+Campus).
-    * [VPN at medschl](https://confluence.medschl.cam.ac.uk/x/64q4) (download and install [Software](https://software.medschl.cam.ac.uk/) and then use remote desktop to your office PC is just as in your office)[^1].
-    * MAC address (as the last line below) follows [this link](https://confluence.medschl.cam.ac.uk/display/FAQ/How+to+find+a+computer%27s+MAC+address)[^2],
+    * [VPN at medschl](https://confluence.medschl.cam.ac.uk/x/64q4) (download and install [Software](https://software.medschl.cam.ac.uk/) and then use remote desktop to your office PC is just as in your office) [^1].
+    * MAC address (as the last line below) follows [this link](https://confluence.medschl.cam.ac.uk/display/FAQ/How+to+find+a+computer%27s+MAC+address) [^2].
 
 ## University
   * CAMbens SmartHub, [https://cambridge.rewardgateway.co.uk](https://cambridge.rewardgateway.co.uk)
@@ -64,30 +64,33 @@
   * Telecoms Office, [https://www.phone.cam.ac.uk/](https://www.phone.cam.ac.uk/) ([My phone](https://my.phone.cam.ac.uk/myphone/calls))
   * UIS Status, [https://status.uis.cam.ac.uk/](https://status.uis.cam.ac.uk/)
 
-[^1]: To check for the active status, ping from a CLI (Linux/Windows MS-DOS prompt, invoke with Windows key + r, type in "cmd" in the box and hit the return key) and issue `ping CMPCxxx.medschl.private.cam.ac.uk` (xxx is the serial number, e.g., 357, on the desktop at the office). Equivalently, one can use `ping 172.27.11.159`. The IP address is also the one in the remote desktop entry. It appears helpful when the computer is restarted for updates.
+[^1]: To check for the active status, ping from a CLI (Linux/Windows MS-DOS prompt, invoke with Windows key + r, type in "cmd" in the box and hit the return key) and issue 
+```bas
+ping CMPCxxx.medschl.private.cam.ac.uk
+``` 
+where (xxx is the serial number, e.g., 357, on the desktop at the office). Equivalently, one can use `ping 172.27.11.159`. The IP address is also the one in the remote desktop entry. It appears helpful when the computer is restarted for updates.
 ```
-    >       Pinging CMPC357.medschl.private.cam.ac.uk [172.27.11.159] with 32 bytes of data:
-    >       Reply from 172.27.11.159: bytes=32 time=16ms TTL=127
-    >       Reply from 172.27.11.159: bytes=32 time=16ms TTL=127
-    >       Reply from 172.27.11.159: bytes=32 time=16ms TTL=127
-    >       Reply from 172.27.11.159: bytes=32 time=24ms TTL=127
-    >
-    >       Ping statistics for 172.27.11.159:
-    >	        Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
-    >       Approximate round trip times in milli-seconds:
-    >           Minimum = 16ms, Maximum = 24ms, Average = 18ms
-    >
+      Pinging CMPC357.medschl.private.cam.ac.uk [172.27.11.159] with 32 bytes of data:
+      Reply from 172.27.11.159: bytes=32 time=16ms TTL=127
+      Reply from 172.27.11.159: bytes=32 time=16ms TTL=127
+      Reply from 172.27.11.159: bytes=32 time=16ms TTL=127
+      Reply from 172.27.11.159: bytes=32 time=24ms TTL=127
+    
+      Ping statistics for 172.27.11.159:
+           Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+      Approximate round trip times in milli-seconds:
+           Minimum = 16ms, Maximum = 24ms, Average = 18ms
+    
 ```
 [^2]: An example output from `getmac -v`.
 ```
-    >
-    >        U:\>getmac -v
-    >
-    >        Connection Name Network Adapter Physical Address    Transport Name
-    >        =============== =============== =================== ==========================================================
-    >        vEthernet (nat) Hyper-V Virtual 00-15-5D-23-52-3D   \Device\Tcpip_{1B4E8617-BC29-4833-A456-C0C64A493AFE}
-    >        VirtualBox Host VirtualBox Host 0A-00-27-00-00-0B   \Device\Tcpip_{53CCE470-7C3C-40AB-91B0-A892285AA122}
-    >        Ethernet 2      TAP-Windows Ada 00-FF-DF-42-55-EB   Media disconnected
-    >        vEthernet (Defa Hyper-V Virtual 00-15-5D-25-8F-34   \Device\Tcpip_{79500A5B-7A98-4CAC-8879-4439AD68046C}
-    >        Ethernet        Intel(R) Ethern 54-BF-64-81-E7-29   \Device\Tcpip_{29441362-9902-493B-A2DE-BAF0BC3FB153}
+      U:\>getmac -v
+    
+      Connection Name Network Adapter Physical Address    Transport Name
+      =============== =============== =================== ==========================================================
+      vEthernet (nat) Hyper-V Virtual 00-15-5D-23-52-3D   \Device\Tcpip_{1B4E8617-BC29-4833-A456-C0C64A493AFE}
+      VirtualBox Host VirtualBox Host 0A-00-27-00-00-0B   \Device\Tcpip_{53CCE470-7C3C-40AB-91B0-A892285AA122}
+      Ethernet 2      TAP-Windows Ada 00-FF-DF-42-55-EB   Media disconnected
+      vEthernet (Defa Hyper-V Virtual 00-15-5D-25-8F-34   \Device\Tcpip_{79500A5B-7A98-4CAC-8879-4439AD68046C}
+      Ethernet        Intel(R) Ethern 54-BF-64-81-E7-29   \Device\Tcpip_{29441362-9902-493B-A2DE-BAF0BC3FB153}
 ```

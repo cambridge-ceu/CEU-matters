@@ -173,8 +173,8 @@
 <li>Remote support, <a href="http://remote-support.medschl.cam.ac.uk/">http://remote-support.medschl.cam.ac.uk/</a></li>
 <li>Support Portal, <a href="https://itsupport.medschl.cam.ac.uk">https://itsupport.medschl.cam.ac.uk</a></li>
 <li>VPN (Virtual Private Network) can be furnished with <a href="https://www.fortinet.com/support/product-downloads">forticlient</a> using the <a href="https://confluence.medschl.cam.ac.uk/display/FAQ/New+VPN+Client+settings+for+Biomedical+Campus">new settings</a>.</li>
-<li><a href="https://confluence.medschl.cam.ac.uk/x/64q4">VPN at medschl</a> (download and install <a href="https://software.medschl.cam.ac.uk/">Software</a> and then use remote desktop to your office PC is just as in your office) [^1].</li>
-<li>MAC address (as the last line below) follows <a href="https://confluence.medschl.cam.ac.uk/display/FAQ/How+to+find+a+computer%27s+MAC+address">this link</a> [^2].</li>
+<li><a href="https://confluence.medschl.cam.ac.uk/x/64q4">VPN at medschl</a> (download and install <a href="https://software.medschl.cam.ac.uk/">Software</a> and then use remote desktop to your office PC is just as in your office) <sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup>.</li>
+<li>MAC address (as the last line below) follows <a href="https://confluence.medschl.cam.ac.uk/display/FAQ/How+to+find+a+computer%27s+MAC+address">this link</a> <sup id="fnref:2"><a class="footnote-ref" href="#fn:2">2</a></sup>.</li>
 </ul>
 </li>
 </ul>
@@ -204,7 +204,6 @@
 <li>Telecoms Office, <a href="https://www.phone.cam.ac.uk/">https://www.phone.cam.ac.uk/</a> (<a href="https://my.phone.cam.ac.uk/myphone/calls">My phone</a>)</li>
 <li>UIS Status, <a href="https://status.uis.cam.ac.uk/">https://status.uis.cam.ac.uk/</a></li>
 </ul>
-<p>[^1]: To check for the active status, ping from a CLI (Linux/Windows MS-DOS prompt, invoke with Windows key + r, type in "cmd" in the box and hit the return key) and issue </p>
 <pre><code class="language-bas">ping CMPCxxx.medschl.private.cam.ac.uk
 </code></pre>
 <p>where (xxx is the serial number, e.g., 357, on the desktop at the office). Equivalently, one can use <code>ping 172.27.11.159</code>. The IP address is also the one in the remote desktop entry. It appears helpful when the computer is restarted for updates.</p>
@@ -220,7 +219,6 @@
            Minimum = 16ms, Maximum = 24ms, Average = 18ms
 
 </code></pre>
-<p>[^2]: An example output from <code>getmac -v</code>.</p>
 <pre><code>      U:\&gt;getmac -v
 
       Connection Name Network Adapter Physical Address    Transport Name
@@ -230,7 +228,18 @@
       Ethernet 2      TAP-Windows Ada 00-FF-DF-42-55-EB   Media disconnected
       vEthernet (Defa Hyper-V Virtual 00-15-5D-25-8F-34   \Device\Tcpip_{79500A5B-7A98-4CAC-8879-4439AD68046C}
       Ethernet        Intel(R) Ethern 54-BF-64-81-E7-29   \Device\Tcpip_{29441362-9902-493B-A2DE-BAF0BC3FB153}
-</code></pre></div>
+</code></pre>
+<div class="footnote">
+<hr/>
+<ol>
+<li id="fn:1">
+<p>To check for the active status, ping from a CLI (Linux/Windows MS-DOS prompt, invoke with Windows key + r, type in "cmd" in the box and hit the return key) and issue <a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">↩</a></p>
+</li>
+<li id="fn:2">
+<p>An example output from <code>getmac -v</code>. <a class="footnote-backref" href="#fnref:2" title="Jump back to footnote 2 in the text">↩</a></p>
+</li>
+</ol>
+</div></div>
 </div>
 </div>
 <footer class="col-md-12">

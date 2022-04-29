@@ -1,4 +1,4 @@
-## The COVID-19 pandemic
+# The COVID-19 pandemic
 
 Recent updates and extensions include information on remote access and video conferencing following the COVID-19 pandemic, see [https://www.cam.ac.uk/coronavirus/](https://www.cam.ac.uk/coronavirus/) and [https://www.phpc.cam.ac.uk/covid-19-research-projects/](https://www.phpc.cam.ac.uk/covid-19-research-projects/) (via [ps.comms@medschl.cam.ac.uk](mailto:ps.comms@medschl.cam.ac.uk)). See also [DPHPC Wellbeing Guide 2020](files/DPHPC_Wellbeing_Guide_2020.pdf) and [Mental Health Contacts](files/Mental_Health_Contacts.pdf).
 

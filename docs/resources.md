@@ -63,9 +63,7 @@
   * Symplectic Elements Login, [https://elements.admin.cam.ac.uk/default.html](https://elements.admin.cam.ac.uk/default.html)
   * Telecoms Office, [https://www.phone.cam.ac.uk/](https://www.phone.cam.ac.uk/) ([My phone](https://my.phone.cam.ac.uk/myphone/calls))
   * UIS
-    - Research Computing Services
-      - Research data store, [https://www.hpc.cam.ac.uk/research-data-storage-services/research-data-store](https://www.hpc.cam.ac.uk/research-data-storage-services/research-data-store)
-      - Price list, [https://www.hpc.cam.ac.uk/research-data-storage-services/price-list](https://www.hpc.cam.ac.uk/research-data-storage-services/price-list)
+    - Research Computing Services [Research data store](https://www.hpc.cam.ac.uk/research-data-storage-services/research-data-store), [Price list](https://www.hpc.cam.ac.uk/research-data-storage-services/price-list)
     - Status, [https://status.uis.cam.ac.uk/](https://status.uis.cam.ac.uk/)
 
 ---

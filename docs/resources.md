@@ -62,7 +62,13 @@
   * Research Strategy Office, [https://www.research-strategy.admin.cam.ac.uk/](https://www.research-strategy.admin.cam.ac.uk/)
   * Symplectic Elements Login, [https://elements.admin.cam.ac.uk/default.html](https://elements.admin.cam.ac.uk/default.html)
   * Telecoms Office, [https://www.phone.cam.ac.uk/](https://www.phone.cam.ac.uk/) ([My phone](https://my.phone.cam.ac.uk/myphone/calls))
-  * UIS Status, [https://status.uis.cam.ac.uk/](https://status.uis.cam.ac.uk/)
+  * UIS
+    - Research Computing Services
+      - Research data store, [https://www.hpc.cam.ac.uk/research-data-storage-services/research-data-store](https://www.hpc.cam.ac.uk/research-data-storage-services/research-data-store)
+      - Price list, [https://www.hpc.cam.ac.uk/research-data-storage-services/price-list](https://www.hpc.cam.ac.uk/research-data-storage-services/price-list)
+    - Status, [https://status.uis.cam.ac.uk/](https://status.uis.cam.ac.uk/)
+
+---
 
 [^1]: To check for the active status, ping from a CLI (Linux/Windows MS-DOS prompt, invoke with Windows key + r, type in "cmd" in the box and hit the return key) and issue 
     >

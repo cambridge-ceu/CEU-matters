@@ -46,7 +46,7 @@
   * Email delivery of @cam address [https://confluence.medschl.cam.ac.uk/x/gwtCBQ](https://confluence.medschl.cam.ac.uk/x/gwtCBQ).
   * Emergency Childcare, [https://www.emergencychildcare.co.uk/](https://www.emergencychildcare.co.uk/) (contact <a href="mailto:csreward@admin.cam.ac.uk">csreward@admin.cam.ac.uk</a>)
   * Employee Self Service, [https://chris.cam.ac.uk/hrlive_ess/ess/index.html#/login](https://chris.cam.ac.uk/hrlive_ess/ess/index.html#/login)
-  * Expense Management System, [https://www.expenses.admin.cam.ac.uk](https://www.expenses.admin.cam.ac.uk) ([Online learning](https://www.expenses.admin.cam.ac.uk/learning-paths) ([videos](https://web.microsoftstream.com/video/8a1386a4-6615-4f8f-8f27-cf08d6e541b6)), [Contact](mailto:expensesproject@admin.cam.ac.uk)) and [queries](mailto:concur_enquiries@admin.cam.ac.uk).
+  * Expense Management System, [https://www.expenses.admin.cam.ac.uk](https://www.expenses.admin.cam.ac.uk) ([Online learning](https://www.expenses.admin.cam.ac.uk/learning-paths) ([videos](https://web.microsoftstream.com/video/8a1386a4-6615-4f8f-8f27-cf08d6e541b6)), [Contact](mailto:expensesproject@admin.cam.ac.uk) and [queries](mailto:concur_enquiries@admin.cam.ac.uk)).
     - Training for specific roles:
       - Claimants: https://www.expenses.admin.cam.ac.uk/learning-path-basics-and-claims
       - Approvers: https://www.expenses.admin.cam.ac.uk/learning-path-approvers

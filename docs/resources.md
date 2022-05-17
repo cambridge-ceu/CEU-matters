@@ -5,6 +5,9 @@
 * To post to this list, send your email to: <a href="mailto:phpc-ceu-group@lists.cam.ac.uk">phpc-ceu-group@lists.cam.ac.uk</a>.
 * General information about the mailing list is at: [https://lists.cam.ac.uk/mailman/listinfo/phpc-ceu-group](https://lists.cam.ac.uk/mailman/listinfo/phpc-ceu-group). If you ever want to unsubscribe or change your options (eg, switch to or from digest mode), visit your subscription page at: [https://lists.cam.ac.uk/mailman/options/phpc-ceu-group/CRSid%40medschl.cam.ac.uk](https://lists.cam.ac.uk/mailman/options/phpc-ceu-group/CRSid%40medschl.cam.ac.uk). You can also make such adjustments via email by sending a message to: <a href="mailto:phpc-ceu-group-request@lists.cam.ac.uk">phpc-ceu-group-request@lists.cam.ac.uk</a>. with the word `help' in the subject or body (don't include the quotes), and you will get back a message with instructions.
 * Queries about the list can be made via <a href="mailto:phpc-ceu-group-owner@lists.cam.ac.uk">phpc-ceu-group-owner@lists.cam.ac.uk</a>.
+* Past [CEU talks](https://www.youtube.com/channel/UCeS9CPB2_QGcBsnORnNQyjQ)
+* Interval Study [Animation](https://www.youtube.com/watch?v=bcgMhpuYyPo)
+* COMPARE Study [Animation](https://www.youtube.com/watch?v=Xd_h63-OhOg)
 
 ## DPHPC
   * CEU Publications Mailbox [ceupublications@medschl.cam.ac.uk](mailto:ceupublications@medschl.cam.ac.uk); please email when you submit a paper. 
@@ -51,6 +54,7 @@
     - Approvers: [https://www.expenses.admin.cam.ac.uk/learning-path-approvers](https://www.expenses.admin.cam.ac.uk/learning-path-approvers)
     - Finance Teams : [https://www.expenses.admin.cam.ac.uk/learning-path-finance-teams](https://www.expenses.admin.cam.ac.uk/learning-path-finance-teams)
     - Credit Card Holders: [https://www.expenses.admin.cam.ac.uk/learning-path-card-holder](https://www.expenses.admin.cam.ac.uk/learning-path-card-holder)
+    - Subsistence rates: [https://www.expenses.admin.cam.ac.uk/expense-rates/subsistence-rates](https://www.expenses.admin.cam.ac.uk/expense-rates/subsistence-rates)
   * GitHub education programme, [https://help.uis.cam.ac.uk/news/github-education](https://help.uis.cam.ac.uk/news/github-education)
   * Google account, [https://help.uis.cam.ac.uk/service/collaboration/workspace/registration-and-login](https://help.uis.cam.ac.uk/service/collaboration/workspace/registration-and-login)
   * Hermes webmail, [https://help.uis.cam.ac.uk/webmail](https://help.uis.cam.ac.uk/webmail)

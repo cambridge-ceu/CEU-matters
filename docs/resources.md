@@ -7,8 +7,8 @@
   * Queries about the list can be made via <a href="mailto:phpc-ceu-group-owner@lists.cam.ac.uk">phpc-ceu-group-owner@lists.cam.ac.uk</a>.
   * Twitter, [https://twitter.com/CAMBRIDGE_CEU](https://twitter.com/CAMBRIDGE_CEU)
   * YouTube, [home](https://www.youtube.com/channel/UCeS9CPB2_QGcBsnORnNQyjQ)
-    - Interval Study, [video](https://www.youtube.com/watch?v=bcgMhpuYyPo)
-    - COMPARE Study, [video](https://www.youtube.com/watch?v=Xd_h63-OhOg)
+    - Interval Study ([web](https://www.intervalstudy.org.uk/), [video](https://www.youtube.com/watch?v=bcgMhpuYyPo))
+    - COMPARE Study ([web](http://www.donorhealth-btru.nihr.ac.uk/studies/compare-study/), [video](https://www.youtube.com/watch?v=Xd_h63-OhOg))
 
 ## DPHPC
   * CEU Publications Mailbox [ceupublications@medschl.cam.ac.uk](mailto:ceupublications@medschl.cam.ac.uk); please email when you submit a paper. 

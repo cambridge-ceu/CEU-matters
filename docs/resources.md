@@ -43,7 +43,7 @@
     * [VPN at medschl](https://confluence.medschl.cam.ac.uk/x/64q4) (download and install [Software](https://software.medschl.cam.ac.uk/) and then use remote desktop to your office PC is just as in your office) [^1].
     * MAC address (as the last line below) follows [this link](https://confluence.medschl.cam.ac.uk/display/FAQ/How+to+find+a+computer%27s+MAC+address) [^2].
 
-## University
+## The university
   * CAMbens SmartHub, [https://cambridge.rewardgateway.co.uk](https://cambridge.rewardgateway.co.uk)
   * Cambridge Science Festival, [https://www.festival.cam.ac.uk/](https://www.festival.cam.ac.uk/) ([Events management](https://webservices.admin.cam.ac.uk/events/admin), [Practical information](https://www.cam.ac.uk/public-engagement/get-involved/cambridge-festival-coordinators-page))
   * CULP courses, [https://www.langcen.cam.ac.uk/culp/culp-general-courses.html](https://www.langcen.cam.ac.uk/culp/culp-general-courses.html) ([Online booking system](https://www.training.cam.ac.uk/lc/theme/CULP?providerId=399495))

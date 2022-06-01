@@ -17,4 +17,4 @@ The government's [Roadmap out of lockdown](https://www.gov.uk/government/publica
 * [Latest information](https://www.safety.admin.cam.ac.uk/latest-information/covid-19)
 * [StaySafeCambridgeUni](https://www.cam.ac.uk/coronavirus/stay-safe-cambridge-uni/)
 * [Enhanced COVID-19 measures](https://www.cam.ac.uk/coronavirus/news/message-from-the-vice-chancellor-about-enhanced-covid-19-measures)
-* [Risk assessment form](https://forms.office.com/Pages/ResponsePage.aspx?id=RQSlSfq9eUut41R7TzmG6V_73Lw5f1lGsOfkEOfY86lUQjdCWUROREFCTkZPOVMzQVVRTzRRTDZRRS4u)
+* [Risk assessment form](https://forms.office.com/Pages/ResponsePage.aspx?id=RQSlSfq9eUut41R7TzmG6V_73Lw5f1lGsOfkEOfY86lUQjdCWUROREFCTkZPOVMzQVVRTzRRTDZRRS4u) (CRSid@cam.ac.uk account with MicroSoft authenticator)

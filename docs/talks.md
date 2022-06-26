@@ -7,6 +7,8 @@
     - <span style="color:red">[Biostatistics for chronic diseases](https://www.eventbrite.co.uk/e/biostatistics-for-chronic-diseases-symposium-tickets-176328091067?ref=estw)</span>
     - <span style="color:red">[Learning from Data in Single-Cell Transcriptomics](https://www.eventbrite.co.uk/e/cambridge-bsu-lecture-in-biomedical-data-science-prof-sandrine-dudoit-tickets-251259533027)</span>
 * [MRC Epidemiology Unit](http://www.mrc-epid.cam.ac.uk/events).
+* [MRC IEU Unit](https://www.bristol.ac.uk/integrative-epidemiology/seminars)
+    - [Mendel at 200](https://www.bristol.ac.uk/integrative-epidemiology/seminars/mendel_200/)
 * The Early Researchers Seminar Series (ERSS), [https://bit.ly/ERSS-2021](https://bit.ly/ERSS-2021) ([archive](https://bit.ly/ERSSintro)).
 * The Royal Society of Medicine ([Medical Genetics Section](https://www.rsm.ac.uk/sections/medical-genetics-section/)).
 * [Trinity College Science Society](http://talks.cam.ac.uk/show/index/28326) (TCSS).

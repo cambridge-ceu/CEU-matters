@@ -24,7 +24,7 @@
     - Printers, [https://intranet.phpc.cam.ac.uk/facilities-and-comms/accountservices/printing/](https://intranet.phpc.cam.ac.uk/facilities-and-comms/accountservices/printing/) ([lookup](https://www.lookup.cam.ac.uk/self), [Printer Setup Instructions](https://intranet.phpc.cam.ac.uk/wp-content/uploads/2020/03/Printer-Setup-Instructions.docx), [Scanning Guide](https://intranet.phpc.cam.ac.uk/wp-content/uploads/2020/03/Scanning-Guide.docx), [email for help](mailto:ps.comms@medschl.cam.ac.uk))
   * Reception/Facilities Team: <a href="mailto:phpc.reception@medschl.cam.ac.uk">phpc.reception@medschl.cam.ac.uk</a>
 
-## Clinical School
+## School
   * CSCS Self-service Portal: [https://itsupport.medschl.cam.ac.uk](https://itsupport.medschl.cam.ac.uk)
   * CSCS Service Desk: <a href="tel:+4401223336261">**01223 (3)36261**</a> (9am – 5pm Monday to Friday), <a href="mailto:servicedesk@medschl.cam.ac.uk"> servicedesk@medschl.cam.ac.uk</a>
   * CSCS Service status: [https://cscs.medschl.cam.ac.uk/information/service-status/](https://cscs.medschl.cam.ac.uk/information/service-status/)
@@ -40,10 +40,10 @@
     * Remote support, [http://remote-support.medschl.cam.ac.uk/](http://remote-support.medschl.cam.ac.uk/)
     * Support Portal, [https://itsupport.medschl.cam.ac.uk](https://itsupport.medschl.cam.ac.uk)
     * VPN (Virtual Private Network) can be furnished with [forticlient](https://www.fortinet.com/support/product-downloads) using the [new settings](https://confluence.medschl.cam.ac.uk/display/FAQ/New+VPN+Client+settings+for+Biomedical+Campus).
-    * [VPN at medschl](https://confluence.medschl.cam.ac.uk/x/64q4) (download and install [Software](https://software.medschl.cam.ac.uk/) and then use remote desktop to your office PC is just as in your office) [^1].
-    * MAC address (as the last line below) follows [this link](https://confluence.medschl.cam.ac.uk/display/FAQ/How+to+find+a+computer%27s+MAC+address) [^2].
+    * [VPN at medschl](https://confluence.medschl.cam.ac.uk/x/64q4) (download and install [Software](https://software.medschl.cam.ac.uk/) and then use remote desktop to your office PC is just as in your office) [^VPN].
+    * MAC address (as the last line below) follows [this link](https://confluence.medschl.cam.ac.uk/display/FAQ/How+to+find+a+computer%27s+MAC+address) [^MAC].
 
-## The university
+## University
   * CAMbens SmartHub, [https://cambridge.rewardgateway.co.uk](https://cambridge.rewardgateway.co.uk)
   * Cambridge Science Festival, [https://www.festival.cam.ac.uk/](https://www.festival.cam.ac.uk/) ([Events management](https://webservices.admin.cam.ac.uk/events/admin), [Practical information](https://www.cam.ac.uk/public-engagement/get-involved/cambridge-festival-coordinators-page))
   * CULP courses, [https://www.langcen.cam.ac.uk/culp/culp-general-courses.html](https://www.langcen.cam.ac.uk/culp/culp-general-courses.html) ([Online booking system](https://www.training.cam.ac.uk/lc/theme/CULP?providerId=399495))
@@ -76,7 +76,7 @@
     - Research Computing Services [Research data store](https://www.hpc.cam.ac.uk/research-data-storage-services/research-data-store), [Price list](https://www.hpc.cam.ac.uk/research-data-storage-services/price-list)
     - Status, [https://status.uis.cam.ac.uk/](https://status.uis.cam.ac.uk/)
 
-[^1]: To check for the active status, ping from a CLI (Linux/Windows MS-DOS prompt, invoke with Windows key + r, type in "cmd" in the box and hit the return key) and issue 
+[^VPN]: To check for the active status, ping from a CLI (Linux/Windows MS-DOS prompt, invoke with Windows key + r, type in "cmd" in the box and hit the return key) and issue 
     >
     > ping CMPCxxx.medschl.private.cam.ac.uk
     > 
@@ -94,7 +94,7 @@
     >           Minimum = 16ms, Maximum = 24ms, Average = 18ms
     >  
 
-[^2]: An example output from `getmac -v`.
+[^MAC]: An example output from `getmac -v`.
     >
     >      U:\>getmac -v
     >    

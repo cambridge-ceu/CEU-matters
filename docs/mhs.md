@@ -16,7 +16,7 @@ Unsure of where to access support? [https://www.studentwellbeing.admin.cam.ac.uk
   
 NHS First Response service: [https://www.cpft.nhs.uk/service-detail/service/first-response-service-frs-21/](https://www.cpft.nhs.uk/service-detail/service/first-response-service-frs-21/)
  
-**Members of the general public** can call Samaritans for free on 116 123, email them at [jo@samaritans.org](mailto:jo@samaritans.org), or visit [samaritans.org](samaritans.org). Or they can contact Samaritans (Cambridge): [https://www.samaritans.org/branches/cambridge/](https://www.samaritans.org/branches/cambridge/)
+**Members of the general public** can call Samaritans for free on 116 123, email them at [jo@samaritans.org](mailto:jo@samaritans.org), or visit [samaritans.org](https://www.samaritans.org/). Or they can contact Samaritans (Cambridge): [https://www.samaritans.org/branches/cambridge/](https://www.samaritans.org/branches/cambridge/)
 Cambridge Nightline (peer-led listening & information): [https://cambridge.nightline.ac.uk/](https://cambridge.nightline.ac.uk/).
 
 Quotation from message from the Vice-Chancellor on ***12/7/2022***.

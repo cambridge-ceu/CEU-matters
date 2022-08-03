@@ -80,9 +80,9 @@
     >
     > ping CMPCxxx.medschl.private.cam.ac.uk
     > 
-
+    
     where (xxx is the serial number, e.g., 357, on the desktop at the office). Equivalently, one can use `ping 172.27.11.159`. The IP address is also the one in the remote desktop entry. It appears helpful when the computer is restarted for updates.
-
+    
     >
     > Pinging CMPC357.medschl.private.cam.ac.uk [172.27.11.159] with 32 bytes of data:
     > Reply from 172.27.11.159: bytes=32 time=16ms TTL=127
@@ -94,9 +94,9 @@
     >      Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
     > Approximate round trip times in milli-seconds:
     >      Minimum = 16ms, Maximum = 24ms, Average = 18ms
-  
+    
     However when the computer is down, we have the following instead.  
-  
+    
     > ping 172.27.11.159
     > Pinging 172.27.11.159 with 32 bytes of data:
     > Request timed out.

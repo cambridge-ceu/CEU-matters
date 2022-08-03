@@ -114,3 +114,5 @@
     >      Ethernet 2      TAP-Windows Ada 00-FF-DF-42-55-EB   Media disconnected
     >      vEthernet (Defa Hyper-V Virtual 00-15-5D-25-8F-34   \Device\Tcpip_{79500A5B-7A98-4CAC-8879-4439AD68046C}
     >      Ethernet        Intel(R) Ethern 54-BF-64-81-E7-29   \Device\Tcpip_{29441362-9902-493B-A2DE-BAF0BC3FB153}
+    >
+    > In this case, the last line is what is needed.

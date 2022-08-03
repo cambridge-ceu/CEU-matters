@@ -106,7 +106,6 @@
 [^MAC]: An example output from `getmac -v`.
     >
     >      U:\>getmac -v
-    > U:\>getmac -v
     >
     >      Connection Name Network Adapter Physical Address    Transport Name
     >      =============== =============== =================== ==========================================================

@@ -80,7 +80,7 @@
     >
     > ping CMPCxxx.medschl.private.cam.ac.uk
     > 
-    > where (xxx is the serial number, e.g., 357, on the desktop at the office). Equivalently, one can use `ping 172.27.11.159`. The IP address is also the one in the remote desktop connection dialog window. It appears helpful when the computer is restarted for updates.
+    > where (xxx is the serial number, e.g., 357, on the desktop at the office). Equivalently, one can use `ping 172.27.11.159`. The IP address is also the one in the remote desktop connection dialog box. It appears helpful when the computer is restarted for updates.
     >
     >      Pinging CMPC357.medschl.private.cam.ac.uk [172.27.11.159] with 32 bytes of data:
     >      Reply from 172.27.11.159: bytes=32 time=16ms TTL=127

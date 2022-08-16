@@ -33,3 +33,7 @@ The following list gives information on active mailing lists, events, slack chan
 * [Timeout](https://timeout.srcf.net).
 * [Webex](https://cart.webex.com/sign-up).
 * [Zoom](https://zoom.us/) ([Zoom Video Communications](https://en.wikipedia.org/wiki/Zoom_Video_Communications)), [Breakout rooms](https://support.zoom.us/hc/en-us/articles/206476093-Enabling-breakout-rooms), [Polling](https://blog.zoom.us/wordpress/2016/09/20/3-ways-to-use-polls-in-meetings/).
+
+## WhatsApp
+
+* [CEU at the pub](https://chat.whatsapp.com/E8vDwCmn4inKuAG4MpRU5D)

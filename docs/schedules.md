@@ -7,6 +7,8 @@
   The Thomas and Dorothy Seminar rooms,
   Strangeways Site, Wort’s Causeway, Cambridge, CB1 8RN, [https://goo.gl/maps/MDkBd9E88mf5TFZK7](https://goo.gl/maps/MDkBd9E88mf5TFZK7)
   (5 mins walk from the Addenbrookes campus in the Babraham Road direction).
+* **The HLRI**:
+  Moving to the [HLRI](https://www.cam.ac.uk/stories/heart-and-lung-research-institute) commences at the week beginning from 19 September 2022.
 
 ## Zoom video communications
 

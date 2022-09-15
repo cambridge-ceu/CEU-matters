@@ -7,6 +7,8 @@
   * HLRI
     - Induction [to activate the access card](https://www.eventbrite.com/e/hlri-building-induction-tickets-352488170607)
     - Reception: [HLRI-Reception@medschl.cam.ac.uk](mailto:HLRI-Reception@medschl.cam.ac.uk)
+    - Meeting rooms Booker system contacts: Lilly Zafer - johndaneshpa@medschl.cam.ao.uk; z453@medschl.cam.ac.uk; Angelika Price - emanueledapa@medschl.cam.ac.uk; amp231@medschl.cam.ac.uk; Svetlana Shadrina - ss608@medschl.cam.ac.uk.
+
   * Queries about the list can be made via <a href="mailto:phpc-ceu-group-owner@lists.cam.ac.uk">phpc-ceu-group-owner@lists.cam.ac.uk</a>.
   * Twitter, [https://twitter.com/CAMBRIDGE_CEU](https://twitter.com/CAMBRIDGE_CEU)
   * YouTube

@@ -85,8 +85,8 @@
     - Research Computing Services [Research data store](https://www.hpc.cam.ac.uk/research-data-storage-services/research-data-store), [Price list](https://www.hpc.cam.ac.uk/research-data-storage-services/price-list)
     - Status, [https://status.uis.cam.ac.uk/](https://status.uis.cam.ac.uk/)
 
-[^U]: U:\drive
-
+[^U]: Network drives
+    >
     > U:\>net use
     > New connections will be remembered.
     >
@@ -106,7 +106,6 @@
     >                                                  Microsoft Windows Network
     > The command completed successfully.
     >
-
 [^VPN]: To check for the active status, ping from a CLI (Linux/Windows MS-DOS prompt, invoke with Windows key + r, type in "cmd" in the box and hit the return key) and issue 
     >
     > ping CMPCxxx.medschl.private.cam.ac.uk

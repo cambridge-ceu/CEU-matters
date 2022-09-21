@@ -14,6 +14,7 @@
     - CEU past talks, [home](https://www.youtube.com/channel/UCeS9CPB2_QGcBsnORnNQyjQ)
     - Interval Study, [video](https://www.youtube.com/watch?v=bcgMhpuYyPo) ([web](https://www.intervalstudy.org.uk/))
     - COMPARE Study, [video](https://www.youtube.com/watch?v=Xd_h63-OhOg) ([web](http://www.donorhealth-btru.nihr.ac.uk/studies/compare-study/))
+  * U:\ and other drives which can be useful [^U].
 
 ## DPHPC
   * CEU Publications Mailbox [ceupublications@medschl.cam.ac.uk](mailto:ceupublications@medschl.cam.ac.uk); please email when you submit a paper. 
@@ -83,6 +84,28 @@
   * UIS
     - Research Computing Services [Research data store](https://www.hpc.cam.ac.uk/research-data-storage-services/research-data-store), [Price list](https://www.hpc.cam.ac.uk/research-data-storage-services/price-list)
     - Status, [https://status.uis.cam.ac.uk/](https://status.uis.cam.ac.uk/)
+
+[^U]: U:\drive
+
+    > U:\>net use
+    > New connections will be remembered.
+    >
+    >
+    > Status       Local     Remote                    Network
+    >
+    > -------------------------------------------------------------------------------
+    > OK           K:        \\me-stata3\stata14       Microsoft Windows Network
+    > OK           L:        \\me-stata3\stata15       Microsoft Windows Network
+    >              S:        \\me-filer1\groups$\MGEU\Factors\High_dimensional_genetics\Olink\INF1
+    >                                                  Microsoft Windows Network
+    >              U:        \\me-filer1.medschl.cam.ac.uk\home$\jhz22
+    >                                                  Microsoft Windows Network
+    >              V:        \\ME-FILER1\GROUPS$\MEU   Microsoft Windows Network
+    >              W:        \\ME-FILER1\GROUPS$\MGEU  Microsoft Windows Network
+    >              X:        \\me-filer1\groups3$\CEU-Biobank data
+    >                                                  Microsoft Windows Network
+    > The command completed successfully.
+    >
 
 [^VPN]: To check for the active status, ping from a CLI (Linux/Windows MS-DOS prompt, invoke with Windows key + r, type in "cmd" in the box and hit the return key) and issue 
     >

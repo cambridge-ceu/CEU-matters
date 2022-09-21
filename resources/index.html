@@ -153,6 +153,7 @@
 <li>COMPARE Study, <a href="https://www.youtube.com/watch?v=Xd_h63-OhOg">video</a> (<a href="http://www.donorhealth-btru.nihr.ac.uk/studies/compare-study/">web</a>)</li>
 </ul>
 </li>
+<li>U:\ and other drives which can be useful <sup id="fnref:U"><a class="footnote-ref" href="#fn:U">1</a></sup>.</li>
 </ul>
 <h2 id="dphpc">DPHPC</h2>
 <ul>
@@ -191,8 +192,8 @@
 <li>Remote support, <a href="http://remote-support.medschl.cam.ac.uk/">http://remote-support.medschl.cam.ac.uk/</a></li>
 <li>Support Portal, <a href="https://itsupport.medschl.cam.ac.uk">https://itsupport.medschl.cam.ac.uk</a></li>
 <li>VPN (Virtual Private Network) can be furnished with <a href="https://www.fortinet.com/support/product-downloads">forticlient</a> using the <a href="https://confluence.medschl.cam.ac.uk/display/FAQ/New+VPN+Client+settings+for+Biomedical+Campus">new settings</a>.</li>
-<li><a href="https://confluence.medschl.cam.ac.uk/x/64q4">VPN at medschl</a> (download and install <a href="https://software.medschl.cam.ac.uk/">Software</a> and then use remote desktop to your office PC is just as in your office) <sup id="fnref:VPN"><a class="footnote-ref" href="#fn:VPN">1</a></sup>.</li>
-<li>MAC address (as the last line below) follows <a href="https://confluence.medschl.cam.ac.uk/display/FAQ/How+to+find+a+computer%27s+MAC+address">this link</a> <sup id="fnref:MAC"><a class="footnote-ref" href="#fn:MAC">2</a></sup>.</li>
+<li><a href="https://confluence.medschl.cam.ac.uk/x/64q4">VPN at medschl</a> (download and install <a href="https://software.medschl.cam.ac.uk/">Software</a> and then use remote desktop to your office PC is just as in your office) <sup id="fnref:VPN"><a class="footnote-ref" href="#fn:VPN">2</a></sup>.</li>
+<li>MAC address (as the last line below) follows <a href="https://confluence.medschl.cam.ac.uk/display/FAQ/How+to+find+a+computer%27s+MAC+address">this link</a> <sup id="fnref:MAC"><a class="footnote-ref" href="#fn:MAC">3</a></sup>.</li>
 </ul>
 </li>
 </ul>
@@ -241,6 +242,28 @@
 <div class="footnote">
 <hr/>
 <ol>
+<li id="fn:U">
+<p>U:\drive</p>
+<blockquote>
+<p>U:&gt;net use
+New connections will be remembered.</p>
+<p>Status       Local     Remote                    Network</p>
+<hr/>
+<p>OK           K:        \me-stata3\stata14       Microsoft Windows Network
+OK           L:        \me-stata3\stata15       Microsoft Windows Network
+             S:        \me-filer1\groups<span class="arithmatex">\(\MGEU\Factors\High_dimensional_genetics\Olink\INF1
+                                                 Microsoft Windows Network
+             U:        \\me-filer1.medschl.cam.ac.uk\home\)</span>\jhz22
+                                                 Microsoft Windows Network
+             V:        \ME-FILER1\GROUPS<span class="arithmatex">\(\MEU   Microsoft Windows Network
+             W:        \\ME-FILER1\GROUPS\)</span>\MGEU  Microsoft Windows Network
+             X:        \me-filer1\groups3$\CEU-Biobank data
+                                                 Microsoft Windows Network
+The command completed successfully.
+</p>
+</blockquote>
+<p><a class="footnote-backref" href="#fnref:U" title="Jump back to footnote 1 in the text">↩</a></p>
+</li>
 <li id="fn:VPN">
 <p>To check for the active status, ping from a CLI (Linux/Windows MS-DOS prompt, invoke with Windows key + r, type in "cmd" in the box and hit the return key) and issue </p>
 <blockquote>
@@ -267,7 +290,7 @@
       Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
 </code></pre>
 </blockquote>
-<p><a class="footnote-backref" href="#fnref:VPN" title="Jump back to footnote 1 in the text">↩</a></p>
+<p><a class="footnote-backref" href="#fnref:VPN" title="Jump back to footnote 2 in the text">↩</a></p>
 </li>
 <li id="fn:MAC">
 <p>An example output from <code>getmac -v</code>.</p>
@@ -284,7 +307,7 @@
 </code></pre>
 <p>In this case, the last line is what is needed.</p>
 </blockquote>
-<p><a class="footnote-backref" href="#fnref:MAC" title="Jump back to footnote 2 in the text">↩</a></p>
+<p><a class="footnote-backref" href="#fnref:MAC" title="Jump back to footnote 3 in the text">↩</a></p>
 </li>
 </ol>
 </div></div>

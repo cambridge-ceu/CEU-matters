@@ -13,7 +13,7 @@
   * Twitter, [https://twitter.com/CAMBRIDGE_CEU](https://twitter.com/CAMBRIDGE_CEU)
   * YouTube
     - CEU past talks, [home](https://www.youtube.com/channel/UCeS9CPB2_QGcBsnORnNQyjQ)
-    - Interval Study, [video](https://www.youtube.com/watch?v=bcgMhpuYyPo) ([web](https://www.intervalstudy.org.uk/))
+    - INTERVAL Study, [video](https://www.youtube.com/watch?v=bcgMhpuYyPo) ([web](https://www.intervalstudy.org.uk/))
     - COMPARE Study, [video](https://www.youtube.com/watch?v=Xd_h63-OhOg) ([web](http://www.donorhealth-btru.nihr.ac.uk/studies/compare-study/))
 
 ## DPHPC

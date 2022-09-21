@@ -8,7 +8,7 @@
   * HLRI
     - Induction [to activate the access card](https://www.eventbrite.com/e/hlri-building-induction-tickets-352488170607)
     - Reception: [HLRI-Reception@medschl.cam.ac.uk](mailto:HLRI-Reception@medschl.cam.ac.uk)
-    - Reconnect your PC from SRL. It is useful to run from command prompt, `ipconfig/release` and `ipconfig/renew` followed by a restart to connect to U:\ or other drives [^U].
+    - Reconnect your PC from SRL. It is useful to run from command prompt, `**ipconfig /release**` and `**ipconfig /renew**` followed by a restart to connect to U:\ or other drives [^U].
     - Meeting rooms Booker system contacts: Lilly Zafer - johndaneshpa@medschl.cam.ao.uk; z453@medschl.cam.ac.uk; Angelika Price - emanueledapa@medschl.cam.ac.uk; amp231@medschl.cam.ac.uk; Svetlana Shadrina - ss608@medschl.cam.ac.uk.
   * Twitter, [https://twitter.com/CAMBRIDGE_CEU](https://twitter.com/CAMBRIDGE_CEU)
   * YouTube

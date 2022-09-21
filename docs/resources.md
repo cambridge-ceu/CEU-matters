@@ -88,23 +88,24 @@
 [^U]: Network drives
     >
     > U:\>net use
+    >
     > New connections will be remembered.
     >
     >
-    > Status       Local     Remote                    Network
+    >      Status       Local     Remote                    Network
     >
-    > -------------------------------------------------------------------------------
-    > OK           K:        \\me-stata3\stata14       Microsoft Windows Network
-    > OK           L:        \\me-stata3\stata15       Microsoft Windows Network
-    >              S:        \\me-filer1\groups$\MGEU\Factors\High_dimensional_genetics\Olink\INF1
+    >      -------------------------------------------------------------------------------
+    >      OK           K:        \\me-stata3\stata14       Microsoft Windows Network
+    >      OK           L:        \\me-stata3\stata15       Microsoft Windows Network
+    >                   S:        \\me-filer1\groups$\MGEU\Factors\High_dimensional_genetics\Olink\INF1
+    >                                                       Microsoft Windows Network
+    >                   U:        \\me-filer1.medschl.cam.ac.uk\home$\jhz22
+    >                                                       Microsoft Windows Network
+    >                   V:        \\ME-FILER1\GROUPS$\MEU   Microsoft Windows Network
+    >                   W:        \\ME-FILER1\GROUPS$\MGEU  Microsoft Windows Network
+    >                   X:        \\me-filer1\groups3$\CEU-Biobank data
     >                                                  Microsoft Windows Network
-    >              U:        \\me-filer1.medschl.cam.ac.uk\home$\jhz22
-    >                                                  Microsoft Windows Network
-    >              V:        \\ME-FILER1\GROUPS$\MEU   Microsoft Windows Network
-    >              W:        \\ME-FILER1\GROUPS$\MGEU  Microsoft Windows Network
-    >              X:        \\me-filer1\groups3$\CEU-Biobank data
-    >                                                  Microsoft Windows Network
-    > The command completed successfully.
+    >      The command completed successfully.
     > 
     >
 [^VPN]: To check for the active status, ping from a CLI (Linux/Windows MS-DOS prompt, invoke with Windows key + r, type in "cmd" in the box and hit the return key) and issue 
@@ -126,12 +127,12 @@
     >
     > However, the following message shows that the computer is down.
     >
-    >       Pinging 172.27.11.159 with 32 bytes of data:
-    >       Request timed out.
-    >       Request timed out.
-    >       Request timed out.
-    >       Request timed out.
-    >       Ping statistics for 172.27.11.159:
+    >      Pinging 172.27.11.159 with 32 bytes of data:
+    >      Request timed out.
+    >      Request timed out.
+    >      Request timed out.
+    >      Request timed out.
+    >      Ping statistics for 172.27.11.159:
     >           Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
     >
 [^MAC]: An example output from `getmac -v`.

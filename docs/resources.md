@@ -86,7 +86,7 @@
     - Status, [https://status.uis.cam.ac.uk/](https://status.uis.cam.ac.uk/)
 
 [^U]: Network drives
-    >```
+    > ```
     > U:\>net use
     > New connections will be remembered.
     >
@@ -105,7 +105,7 @@
     >              X:        \\me-filer1\groups3$\CEU-Biobank data
     >                                                  Microsoft Windows Network
     > The command completed successfully.
-    >``` 
+    > ``` 
     >
 [^VPN]: To check for the active status, ping from a CLI (Linux/Windows MS-DOS prompt, invoke with Windows key + r, type in "cmd" in the box and hit the return key) and issue 
     >

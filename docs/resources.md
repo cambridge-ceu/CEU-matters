@@ -7,7 +7,7 @@
   * Queries about the list can be made via <a href="mailto:phpc-ceu-group-owner@lists.cam.ac.uk">phpc-ceu-group-owner@lists.cam.ac.uk</a>.
   * HLRI
     - Induction [to activate the access card](https://www.eventbrite.com/e/hlri-building-induction-tickets-352488170607)
-    - Letter Head, [CEU Letterhead- HLRI.docx](https://cambridge-ceu.github.io/CEU-scientific-meetings/files/CEU Letterhead- HLRI.docx)
+    - Letter Head, [CEU Letterhead - HLRI.docx](https://cambridge-ceu.github.io/CEU-scientific-meetings/files/CEU Letterhead- HLRI.docx)
     - Reception: [HLRI-Reception@medschl.cam.ac.uk](mailto:HLRI-Reception@medschl.cam.ac.uk)
     - Reconnect your PC from SRL. It is useful to run from command prompt, ***ipconfig /release*** and ***ipconfig /renew*** followed by a restart to connect to U:\ or other drives [^U].
     - Meeting rooms Booker system contacts: Lilly Zafer - johndaneshpa@medschl.cam.ao.uk; z453@medschl.cam.ac.uk; Angelika Price - emanueledapa@medschl.cam.ac.uk; amp231@medschl.cam.ac.uk; Svetlana Shadrina - ss608@medschl.cam.ac.uk.

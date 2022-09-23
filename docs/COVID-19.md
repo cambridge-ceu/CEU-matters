@@ -18,3 +18,23 @@ The government's [Roadmap out of lockdown](https://www.gov.uk/government/publica
 * [StaySafeCambridgeUni](https://www.cam.ac.uk/coronavirus/stay-safe-cambridge-uni/)
 * [Enhanced COVID-19 measures](https://www.cam.ac.uk/coronavirus/news/message-from-the-vice-chancellor-about-enhanced-covid-19-measures)
 * [Risk assessment form](https://forms.office.com/Pages/ResponsePage.aspx?id=RQSlSfq9eUut41R7TzmG6V_73Lw5f1lGsOfkEOfY86lUQjdCWUROREFCTkZPOVMzQVVRTzRRTDZRRS4u) (CRSid@cam.ac.uk account with MicroSoft authenticator)
+
+## Back to the office policy CEU
+
+**23 September 2022**
+
+- Considerations:
+: Working in the office will have many advantages: creating opportunities to improve creativity, collaboration, efficiency, training, enjoyment.
+: Every situation is different, and we try to do our best to accommodate everyone’s wishing as much as possible
+: Working from home has many advantages, and we don’t want to lose these.
+- Hybrid working policy:
+: We encourage people to come into the office, preferable at least 60% of their time.
+: There will be one CEU day per week where we hope most of the colleagues will be in.
+: If someone’s work will require to be in the office because it will be difficult to do from home (at the discretion of the line manager), staff are expected to come in. 
+: Line managers will work with their team which days they will be in, but will also discuss with their individual team members on exceptions to coming into the office. 
+: Meetings will have hybrid options (in person combined with video conference)
+: Start from 26th September 2022, but acknowledge a transition period.
+: This Hybrid working policy is a pilot, with review Q1 2023. 
+
+
+

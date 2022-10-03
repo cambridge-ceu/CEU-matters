@@ -39,7 +39,10 @@
   * CSCS Service Twitter: [https://twitter.com/Cambridge_CSCS](https://twitter.com/Cambridge_CSCS)
   * CSCS Service website: [https://cscs.medschl.cam.ac.uk/](https://cscs.medschl.cam.ac.uk/) (news, [https://cscs.medschl.cam.ac.uk/news/](https://cscs.medschl.cam.ac.uk/news/))
   * CSCS User Guides: [https://cscsguides.medschl.cam.ac.uk](https://cscsguides.medschl.cam.ac.uk)
-  * HR Twitter: [https://twitter.com/clinical_hr](https://twitter.com/clinical_hr)
+  * HR
+    * [Botanical Gardens](https://www.botanic.cam.ac.uk/), [passes](https://tinyurl.com/u67rcjha)
+    * Clinical School Cookbook, [https://tinyurl.com/3jn2mzsh](https://tinyurl.com/3jn2mzsh) (Share recipes via [cswellbeing@admin.cam.ac.uk](mailto:cswellbeing@admin.cam.ac.uk))
+    * Twitter, [https://twitter.com/clinical_hr](https://twitter.com/clinical_hr)
   * Declaration of interest: [https://www.medschl.cam.ac.uk/declaration-of-interests/](https://www.medschl.cam.ac.uk/declaration-of-interests/)
   * Tips
     * Anywhere Citrix Portal, [https://anywhere.medschl.cam.ac.uk/logon/LogonPoint/index.html](https://anywhere.medschl.cam.ac.uk/logon/LogonPoint/index.html) (requires application from [CSCS IT Support Portal](https://tinyurl.com/vz9huc9) followed by departmental approval).

@@ -8,7 +8,7 @@
   * HLRI
     - Address
       ```
-      (Next to the Papworth hospital at the Biomedical Campus):
+      (Cambridge Biomedical Campus):
       Department of Public Health and Primary Care / Cardiovascular Epidemiology Unit
       Heart and Lung Research Institute
       University of Cambridge

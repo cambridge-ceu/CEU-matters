@@ -18,7 +18,7 @@
     - Induction [to activate the access card](https://www.eventbrite.com/e/hlri-building-induction-tickets-352488170607)
     - IT Support: [Information](files/HLRI Move in - 1 pager v.04.pdf)
     - Letter Head: [CEU Letterhead - HLRI.docx](files/CEU Letterhead- HLRI.docx)
-    - Meeting rooms (1st floor R06/R067, 2nd floor R058) Booker system contacts: Lilly Zafer - johndaneshpa@medschl.cam.ao.uk; z453@medschl.cam.ac.uk; Angelika Price - emanueledapa@medschl.cam.ac.uk; amp231@medschl.cam.ac.uk; Svetlana Shadrina - ss608@medschl.cam.ac.uk.
+    - Meeting rooms (1st floor R066/R067, 2nd floor R058) Booker system contacts: Lilly Zafer - johndaneshpa@medschl.cam.ao.uk; z453@medschl.cam.ac.uk; Angelika Price - emanueledapa@medschl.cam.ac.uk; amp231@medschl.cam.ac.uk; Svetlana Shadrina - ss608@medschl.cam.ac.uk.
     - Ordering requipment: [https://tinyurl.com/8bzxm76v](https://forms.office.com/Pages/ResponsePage.aspx?id=RQSlSfq9eUut41R7TzmG6RBc7ERcsoZGrltSTr3vNxxUN0hYMzg3NEJFWEJZQUZQSFpWVkg4VEtIMi4u)
     - Printing (\\me-print\hlripr03/04): [Windows 10](https://cscs-itsupport.atlassian.net/wiki/spaces/FAQ/pages/21365361/Adding+a+printer+to+Windows+10) and [Mac](https://cscs-itsupport.atlassian.net/wiki/spaces/FAQ/pages/21365494/Adding+a+printer+on+a+Mac).
     - Reception: [HLRI-Reception@medschl.cam.ac.uk](mailto:HLRI-Reception@medschl.cam.ac.uk)

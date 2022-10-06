@@ -7,12 +7,12 @@
   * Queries about the list can be made via <a href="mailto:phpc-ceu-group-owner@lists.cam.ac.uk">phpc-ceu-group-owner@lists.cam.ac.uk</a>.
   * HLRI
     - Address
-      >
-      >  Department of Public Health and Primary Care / Cardiovascular Epidemiology Unit
-      >  Heart and Lung Research Institute
-      >  University of Cambridge
-      >  Papworth Road, Cambridge CB2 0BB
-      >
+      ```
+      Department of Public Health and Primary Care / Cardiovascular Epidemiology Unit
+      Heart and Lung Research Institute
+      University of Cambridge
+      Papworth Road, Cambridge CB2 0BB
+      ```
     - Display Screen Equipment: [assessment form](files/display_screen_equipment_self-assessment_checklist_v4-1.docx)
     - Induction [to activate the access card](https://www.eventbrite.com/e/hlri-building-induction-tickets-352488170607)
     - IT Support: [Information](files/HLRI Move in - 1 pager v.04.pdf)

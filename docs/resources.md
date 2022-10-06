@@ -6,9 +6,9 @@
   * General information about the mailing list is at: [https://lists.cam.ac.uk/mailman/listinfo/phpc-ceu-group](https://lists.cam.ac.uk/mailman/listinfo/phpc-ceu-group). If you ever want to unsubscribe or change your options (eg, switch to or from digest mode), visit your subscription page at: [https://lists.cam.ac.uk/mailman/options/phpc-ceu-group/CRSid%40medschl.cam.ac.uk](https://lists.cam.ac.uk/mailman/options/phpc-ceu-group/CRSid%40medschl.cam.ac.uk). You can also make such adjustments via email by sending a message to: <a href="mailto:phpc-ceu-group-request@lists.cam.ac.uk">phpc-ceu-group-request@lists.cam.ac.uk</a>. with the word `help' in the subject or body (don't include the quotes), and you will get back a message with instructions.
   * Queries about the list can be made via <a href="mailto:phpc-ceu-group-owner@lists.cam.ac.uk">phpc-ceu-group-owner@lists.cam.ac.uk</a>.
   * HLRI
-    - Address:
+    - Address
       ```
-      -
+      (Next to the Papworth hospital at the Biomedical Campus):
       Department of Public Health and Primary Care / Cardiovascular Epidemiology Unit
       Heart and Lung Research Institute
       University of Cambridge
@@ -18,7 +18,7 @@
     - Induction [to activate the access card](https://www.eventbrite.com/e/hlri-building-induction-tickets-352488170607)
     - IT Support: [Information](files/HLRI Move in - 1 pager v.04.pdf)
     - Letter Head: [CEU Letterhead - HLRI.docx](files/CEU Letterhead- HLRI.docx)
-    - Meeting rooms (1st floor R066/R067, 2nd floor R058) Booker system contacts: Lilly Zafer - johndaneshpa@medschl.cam.ao.uk; z453@medschl.cam.ac.uk; Angelika Price - emanueledapa@medschl.cam.ac.uk; amp231@medschl.cam.ac.uk; Svetlana Shadrina - ss608@medschl.cam.ac.uk.
+    - Meeting rooms (1st floor R066/R067, 2nd floor R058) booker system contacts (Name - email@medschl.cam.ac.uk): Lilly Zafer - johndaneshpa; z453; Angelika Price - emanueledapa; amp231; Svetlana Shadrina - ss608.
     - Ordering requipment: [https://tinyurl.com/8bzxm76v](https://forms.office.com/Pages/ResponsePage.aspx?id=RQSlSfq9eUut41R7TzmG6RBc7ERcsoZGrltSTr3vNxxUN0hYMzg3NEJFWEJZQUZQSFpWVkg4VEtIMi4u)
     - Printing (\\me-print\hlripr03/04): [Windows 10](https://cscs-itsupport.atlassian.net/wiki/spaces/FAQ/pages/21365361/Adding+a+printer+to+Windows+10) and [Mac](https://cscs-itsupport.atlassian.net/wiki/spaces/FAQ/pages/21365494/Adding+a+printer+on+a+Mac).
     - Reception: [HLRI-Reception@medschl.cam.ac.uk](mailto:HLRI-Reception@medschl.cam.ac.uk)

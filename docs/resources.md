@@ -84,7 +84,10 @@
   * GitHub education programme, [https://help.uis.cam.ac.uk/news/github-education](https://help.uis.cam.ac.uk/news/github-education)
   * Google account, [https://help.uis.cam.ac.uk/service/collaboration/workspace/registration-and-login](https://help.uis.cam.ac.uk/service/collaboration/workspace/registration-and-login)
   * Hermes webmail, [https://help.uis.cam.ac.uk/webmail](https://help.uis.cam.ac.uk/webmail)
-  * Human Resources, [https://www.hr.admin.cam.ac.uk/](https://www.hr.admin.cam.ac.uk/), [Recruitment restraint](https://www.hr.admin.cam.ac.uk/recruitment_protocol_2020_21), <a href="equality@admin.cam.ac.uk">Equality and Diversity Team</a>
+  * Human Resources, [https://www.hr.admin.cam.ac.uk/](https://www.hr.admin.cam.ac.uk/)
+    - [Equality and Diversity Team](mailto:equality@admin.cam.ac.uk")
+    - [Policies and procedures](https://www.hr.admin.cam.ac.uk/policies-procedures)
+    - [Recruitment restraint](https://www.hr.admin.cam.ac.uk/recruitment_protocol_2020_21)
   * Information Services Twitter, [https://twitter.com/UniCamIT](https://twitter.com/UniCamIT)
   * Lookup service, [https://www.lookup.cam.ac.uk/self](https://www.lookup.cam.ac.uk/self) ([https://www.lookup.cam.ac.uk/person/crsid/your-crsid](https://www.lookup.cam.ac.uk/person/crsid/your-crsid))
   * Moodle account, [https://www.vle.cam.ac.uk/login/index.php](https://www.vle.cam.ac.uk/login/index.php) as a virtual learning environment (VLE), [Understanding Unconscious/Implicit Bias](https://www.equality.admin.cam.ac.uk/training-overview/understanding-unconscious-implicit-bias)

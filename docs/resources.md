@@ -86,7 +86,7 @@
   * Hermes webmail, [https://help.uis.cam.ac.uk/webmail](https://help.uis.cam.ac.uk/webmail)
   * Human Resources, [https://www.hr.admin.cam.ac.uk/](https://www.hr.admin.cam.ac.uk/)
     - [Equality and Diversity Team](mailto:equality@admin.cam.ac.uk")
-    - [Policies and procedures](https://www.hr.admin.cam.ac.uk/policies-procedures)
+    - [Policies and procedures](https://www.hr.admin.cam.ac.uk/policies-procedures) ([SR promotion 2023](https://www.hr.admin.cam.ac.uk/policies-procedures/senior-research-promotions-procedures-and-guidance-2023))
     - [Recruitment restraint](https://www.hr.admin.cam.ac.uk/recruitment_protocol_2020_21)
   * Information Services Twitter, [https://twitter.com/UniCamIT](https://twitter.com/UniCamIT)
   * Lookup service, [https://www.lookup.cam.ac.uk/self](https://www.lookup.cam.ac.uk/self) ([https://www.lookup.cam.ac.uk/person/crsid/your-crsid](https://www.lookup.cam.ac.uk/person/crsid/your-crsid))

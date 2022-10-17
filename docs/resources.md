@@ -47,12 +47,13 @@
   * Reception/Facilities Team: <a href="mailto:phpc.reception@medschl.cam.ac.uk">phpc.reception@medschl.cam.ac.uk</a>
 
 ## School
-  * CSCS Self-service Portal: [https://itsupport.medschl.cam.ac.uk](https://itsupport.medschl.cam.ac.uk)
-  * CSCS Service Desk: <a href="tel:+4401223336261">**01223 (3)36261**</a> (9am – 5pm Monday to Friday), <a href="mailto:servicedesk@medschl.cam.ac.uk"> servicedesk@medschl.cam.ac.uk</a>
-  * CSCS Service status: [https://cscs.medschl.cam.ac.uk/information/service-status/](https://cscs.medschl.cam.ac.uk/information/service-status/)
-  * CSCS Service Twitter: [https://twitter.com/Cambridge_CSCS](https://twitter.com/Cambridge_CSCS)
-  * CSCS Service website: [https://cscs.medschl.cam.ac.uk/](https://cscs.medschl.cam.ac.uk/) (news, [https://cscs.medschl.cam.ac.uk/news/](https://cscs.medschl.cam.ac.uk/news/))
-  * CSCS User Guides: [https://cscsguides.medschl.cam.ac.uk](https://cscsguides.medschl.cam.ac.uk)
+  * Clinical School Computing Service (CSCS)
+    - Self-service Portal: [https://itsupport.medschl.cam.ac.uk](https://itsupport.medschl.cam.ac.uk)
+    - Service Desk: <a href="tel:+4401223336261">**01223 (3)36261**</a> (9am – 5pm Monday to Friday), <a href="mailto:servicedesk@medschl.cam.ac.uk"> servicedesk@medschl.cam.ac.uk</a>
+    - Service status: [https://cscs.medschl.cam.ac.uk/information/service-status/](https://cscs.medschl.cam.ac.uk/information/service-status/)
+    - Service Twitter: [https://twitter.com/Cambridge_CSCS](https://twitter.com/Cambridge_CSCS)
+    - Service website: [https://cscs.medschl.cam.ac.uk/](https://cscs.medschl.cam.ac.uk/) (news, [https://cscs.medschl.cam.ac.uk/news/](https://cscs.medschl.cam.ac.uk/news/))
+    - User Guides: [https://cscsguides.medschl.cam.ac.uk](https://cscsguides.medschl.cam.ac.uk)
   * HR
     * [Botanical Gardens](https://www.botanic.cam.ac.uk/), [passes](https://tinyurl.com/u67rcjha)
     * Clinical School Cookbook, [https://tinyurl.com/3jn2mzsh](https://tinyurl.com/3jn2mzsh) (Share recipes via [cswellbeing@admin.cam.ac.uk](mailto:cswellbeing@admin.cam.ac.uk))

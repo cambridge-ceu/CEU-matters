@@ -81,7 +81,7 @@
   * Expense Management System, [https://www.expenses.admin.cam.ac.uk](https://www.expenses.admin.cam.ac.uk) ([Online learning](https://www.expenses.admin.cam.ac.uk/learning-paths) ([videos](https://web.microsoftstream.com/video/8a1386a4-6615-4f8f-8f27-cf08d6e541b6)), [Contact](mailto:expensesproject@admin.cam.ac.uk) & [queries](mailto:concur_enquiries@admin.cam.ac.uk), [use of the mobile app](https://www.expenses.admin.cam.ac.uk/learning-path-mobile-app)). Training for specific roles:
     - Claimants: [https://www.expenses.admin.cam.ac.uk/learning-path-basics-and-claims](https://www.expenses.admin.cam.ac.uk/learning-path-basics-and-claims)
     - Approvers: [https://www.expenses.admin.cam.ac.uk/learning-path-approvers](https://www.expenses.admin.cam.ac.uk/learning-path-approvers)
-    - Finance Teams : [https://www.expenses.admin.cam.ac.uk/learning-path-finance-teams](https://www.expenses.admin.cam.ac.uk/learning-path-finance-teams)
+    - Finance Teams: [https://www.expenses.admin.cam.ac.uk/learning-path-finance-teams](https://www.expenses.admin.cam.ac.uk/learning-path-finance-teams)
     - Credit Card Holders: [https://www.expenses.admin.cam.ac.uk/learning-path-card-holder](https://www.expenses.admin.cam.ac.uk/learning-path-card-holder)
     - Subsistence rates: [https://www.expenses.admin.cam.ac.uk/expense-rates/subsistence-rates](https://www.expenses.admin.cam.ac.uk/expense-rates/subsistence-rates)
   * GitHub education programme, [https://help.uis.cam.ac.uk/news/github-education](https://help.uis.cam.ac.uk/news/github-education)
@@ -91,7 +91,6 @@
     - [Equality and Diversity Team](mailto:equality@admin.cam.ac.uk")
     - [Policies and procedures](https://www.hr.admin.cam.ac.uk/policies-procedures) ([SR promotion 2023](https://www.hr.admin.cam.ac.uk/policies-procedures/senior-research-promotions-procedures-and-guidance-2023))
     - [Recruitment restraint](https://www.hr.admin.cam.ac.uk/recruitment_protocol_2020_21)
-  * Information Services Twitter, [https://twitter.com/UniCamIT](https://twitter.com/UniCamIT)
   * Lookup service, [https://www.lookup.cam.ac.uk/self](https://www.lookup.cam.ac.uk/self) ([https://www.lookup.cam.ac.uk/person/crsid/your-crsid](https://www.lookup.cam.ac.uk/person/crsid/your-crsid))
   * Moodle account, [https://www.vle.cam.ac.uk/login/index.php](https://www.vle.cam.ac.uk/login/index.php) as a virtual learning environment (VLE), [Understanding Unconscious/Implicit Bias](https://www.equality.admin.cam.ac.uk/training-overview/understanding-unconscious-implicit-bias)
   * Multi-factor authentication, [set up multi-factor authentication on your University Microsoft account](https://help.uis.cam.ac.uk/service/accounts-passwords/set-multi-factor-authentication-your-university-microsoft-account)
@@ -106,6 +105,7 @@
   * UIS
     - Research Computing Services [Research data store](https://www.hpc.cam.ac.uk/research-data-storage-services/research-data-store), [Price list](https://www.hpc.cam.ac.uk/research-data-storage-services/price-list)
     - Status, [https://status.uis.cam.ac.uk/](https://status.uis.cam.ac.uk/)
+    - Twitter, [https://twitter.com/UniCamIT](https://twitter.com/UniCamIT)
 
 [^U]: Network drives
     >

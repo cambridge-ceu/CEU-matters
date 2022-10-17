@@ -23,14 +23,15 @@
     - Printing (\\me-print\hlripr03/04): [Windows 10](https://cscs-itsupport.atlassian.net/wiki/spaces/FAQ/pages/21365361/Adding+a+printer+to+Windows+10) and [Mac](https://cscs-itsupport.atlassian.net/wiki/spaces/FAQ/pages/21365494/Adding+a+printer+on+a+Mac).
     - Reception: [HLRI-Reception@medschl.cam.ac.uk](mailto:HLRI-Reception@medschl.cam.ac.uk)
     - Reconnect your PC from SRL: It is useful to run from command prompt, ***ipconfig /release*** and ***ipconfig /renew*** followed by a restart to connect to U:\ or other drives [^U].
+  * Publications Mailbox [ceupublications@medschl.cam.ac.uk](mailto:ceupublications@medschl.cam.ac.uk); please email when you submit a paper. 
   * Twitter, [https://twitter.com/CAMBRIDGE_CEU](https://twitter.com/CAMBRIDGE_CEU)
+  * UKB data access for approved users, [register](https://www.ukbiobank.ac.uk/enable-your-research/register)
   * YouTube
     - CEU past talks, [home](https://www.youtube.com/channel/UCeS9CPB2_QGcBsnORnNQyjQ)
     - INTERVAL Study, [video](https://www.youtube.com/watch?v=bcgMhpuYyPo) ([web](https://www.intervalstudy.org.uk/))
     - COMPARE Study, [video](https://www.youtube.com/watch?v=Xd_h63-OhOg) ([web](http://www.donorhealth-btru.nihr.ac.uk/studies/compare-study/))
 
 ## DPHPC
-  * CEU Publications Mailbox [ceupublications@medschl.cam.ac.uk](mailto:ceupublications@medschl.cam.ac.uk); please email when you submit a paper. 
   * DSE Forms [https://www.oh.admin.cam.ac.uk/oh-forms/display-screen-equipment-self-assessment-checklist](https://www.oh.admin.cam.ac.uk/oh-forms/display-screen-equipment-self-assessment-checklist)
   * * * *
   * Accounts Team:  <a href="mailto:ps.accounts@medschl.cam.ac.uk">ps.accounts@medschl.cam.ac.uk</a>

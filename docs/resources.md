@@ -73,9 +73,7 @@
   * CAMbens SmartHub, [https://cambridge.rewardgateway.co.uk](https://cambridge.rewardgateway.co.uk)
   * Cambridge Science Festival, [https://www.festival.cam.ac.uk/](https://www.festival.cam.ac.uk/) ([Events management](https://webservices.admin.cam.ac.uk/events/admin), [Practical information](https://www.cam.ac.uk/public-engagement/get-involved/cambridge-festival-coordinators-page))
   * CULP courses, [https://www.langcen.cam.ac.uk/culp/culp-general-courses.html](https://www.langcen.cam.ac.uk/culp/culp-general-courses.html) ([Online booking system](https://www.training.cam.ac.uk/lc/theme/CULP?providerId=399495))
-  * Email delivery of @cam address [https://confluence.medschl.cam.ac.uk/x/gwtCBQ](https://confluence.medschl.cam.ac.uk/x/gwtCBQ).
   * Emergency Childcare, [https://www.emergencychildcare.co.uk/](https://www.emergencychildcare.co.uk/) (contact <a href="mailto:csreward@admin.cam.ac.uk">csreward@admin.cam.ac.uk</a>)
-  * Employee Self Service, [https://chris.cam.ac.uk/hrlive_ess/ess/index.html#/login](https://chris.cam.ac.uk/hrlive_ess/ess/index.html#/login)
   * Estates Division, [https://www.em.admin.cam.ac.uk/](https://www.em.admin.cam.ac.uk/)
     - Car parking applications, [https://www.em.admin.cam.ac.uk/what-we-do/estate-operations/facilities-services/car-parking-applications](https://www.em.admin.cam.ac.uk/what-we-do/estate-operations/facilities-services/car-parking-applications)
   * Expense Management System, [https://www.expenses.admin.cam.ac.uk](https://www.expenses.admin.cam.ac.uk) ([Online learning](https://www.expenses.admin.cam.ac.uk/learning-paths) ([videos](https://web.microsoftstream.com/video/8a1386a4-6615-4f8f-8f27-cf08d6e541b6)), [Contact](mailto:expensesproject@admin.cam.ac.uk) & [queries](mailto:concur_enquiries@admin.cam.ac.uk), [use of the mobile app](https://www.expenses.admin.cam.ac.uk/learning-path-mobile-app)). Training for specific roles:
@@ -85,6 +83,7 @@
     - Credit Card Holders: [https://www.expenses.admin.cam.ac.uk/learning-path-card-holder](https://www.expenses.admin.cam.ac.uk/learning-path-card-holder)
     - Subsistence rates: [https://www.expenses.admin.cam.ac.uk/expense-rates/subsistence-rates](https://www.expenses.admin.cam.ac.uk/expense-rates/subsistence-rates)
   * Human Resources, [https://www.hr.admin.cam.ac.uk/](https://www.hr.admin.cam.ac.uk/)
+    - Employee Self Service, [https://chris.cam.ac.uk/hrlive_ess/ess/index.html#/login](https://chris.cam.ac.uk/hrlive_ess/ess/index.html#/login)
     - [Equality and Diversity Team](mailto:equality@admin.cam.ac.uk")
     - [Policies and procedures](https://www.hr.admin.cam.ac.uk/policies-procedures) ([SR promotion 2023](https://www.hr.admin.cam.ac.uk/policies-procedures/senior-research-promotions-procedures-and-guidance-2023))
     - [Recruitment restraint](https://www.hr.admin.cam.ac.uk/recruitment_protocol_2020_21)
@@ -98,6 +97,7 @@
   * Telecoms Office, [https://www.phone.cam.ac.uk/](https://www.phone.cam.ac.uk/) ([My phone](https://my.phone.cam.ac.uk/myphone/calls))
   * Transport strategy 2019-2024, [https://www.environment.admin.cam.ac.uk/files/university_of_cambridge_transport_strategy_2019-2024.pdf](https://www.environment.admin.cam.ac.uk/files/university_of_cambridge_transport_strategy_2019-2024.pdf)
   * UIS
+    - Email delivery of @cam address [https://confluence.medschl.cam.ac.uk/x/gwtCBQ](https://confluence.medschl.cam.ac.uk/x/gwtCBQ).
     - GitHub education programme, [https://help.uis.cam.ac.uk/news/github-education](https://help.uis.cam.ac.uk/news/github-education)
     - Google account, [https://help.uis.cam.ac.uk/service/collaboration/workspace/registration-and-login](https://help.uis.cam.ac.uk/service/collaboration/workspace/registration-and-login)
     - Hermes webmail, [https://help.uis.cam.ac.uk/webmail](https://help.uis.cam.ac.uk/webmail)

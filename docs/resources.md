@@ -56,12 +56,12 @@
     - Tips
         - Anywhere Citrix Portal, [https://anywhere.medschl.cam.ac.uk/logon/LogonPoint/index.html](https://anywhere.medschl.cam.ac.uk/logon/LogonPoint/index.html) (requires application from [CSCS IT Support Portal](https://tinyurl.com/vz9huc9) followed by departmental approval).
         - [Configuring your Mobile Device for Exchange Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Configuring+your+Mobile+Device+for+Exchange+Email)
+        - MAC address (as the last line below) follows [this link](https://confluence.medschl.cam.ac.uk/display/FAQ/How+to+find+a+computer%27s+MAC+address) [^MAC].
         - Office 365, [https://login.microsoftonline.com/](https://login.microsoftonline.com/)
         - Remote support, [http://remote-support.medschl.cam.ac.uk/](http://remote-support.medschl.cam.ac.uk/)
         - Support Portal, [https://itsupport.medschl.cam.ac.uk](https://itsupport.medschl.cam.ac.uk)
         - VPN (Virtual Private Network) can be furnished with [forticlient](https://www.fortinet.com/support/product-downloads) using the [new settings](https://confluence.medschl.cam.ac.uk/display/FAQ/New+VPN+Client+settings+for+Biomedical+Campus).
         - [VPN at medschl](https://confluence.medschl.cam.ac.uk/x/64q4) (download and install [Software](https://software.medschl.cam.ac.uk/) and then use remote desktop to your office PC is just as in your office) [^VPN].
-        - MAC address (as the last line below) follows [this link](https://confluence.medschl.cam.ac.uk/display/FAQ/How+to+find+a+computer%27s+MAC+address) [^MAC].
     - User Guides: [https://cscsguides.medschl.cam.ac.uk](https://cscsguides.medschl.cam.ac.uk)
   * Declaration of interest: [https://www.medschl.cam.ac.uk/declaration-of-interests/](https://www.medschl.cam.ac.uk/declaration-of-interests/)
   * HR
@@ -143,6 +143,19 @@
     >      The command completed successfully.
     > 
     >
+[^MAC]: An example output from `getmac -v`.
+    >
+    >      U:\>getmac -v
+    >
+    >      Connection Name Network Adapter Physical Address    Transport Name
+    >      =============== =============== =================== ==========================================================
+    >      vEthernet (nat) Hyper-V Virtual 00-15-5D-23-52-3D   \Device\Tcpip_{1B4E8617-BC29-4833-A456-C0C64A493AFE}
+    >      VirtualBox Host VirtualBox Host 0A-00-27-00-00-0B   \Device\Tcpip_{53CCE470-7C3C-40AB-91B0-A892285AA122}
+    >      Ethernet 2      TAP-Windows Ada 00-FF-DF-42-55-EB   Media disconnected
+    >      vEthernet (Defa Hyper-V Virtual 00-15-5D-25-8F-34   \Device\Tcpip_{79500A5B-7A98-4CAC-8879-4439AD68046C}
+    >      Ethernet        Intel(R) Ethern 54-BF-64-81-E7-29   \Device\Tcpip_{29441362-9902-493B-A2DE-BAF0BC3FB153}
+    >
+    > In this case, the last line is what is needed.
 [^VPN]: To check for the active status, ping from a CLI (Linux/Windows MS-DOS prompt, invoke with Windows key + r, type in "cmd" in the box and hit the return key) and issue 
     >
     > ping CMPCxxx.medschl.private.cam.ac.uk
@@ -170,16 +183,3 @@
     >      Ping statistics for 172.27.11.159:
     >           Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
     >
-[^MAC]: An example output from `getmac -v`.
-    >
-    >      U:\>getmac -v
-    >
-    >      Connection Name Network Adapter Physical Address    Transport Name
-    >      =============== =============== =================== ==========================================================
-    >      vEthernet (nat) Hyper-V Virtual 00-15-5D-23-52-3D   \Device\Tcpip_{1B4E8617-BC29-4833-A456-C0C64A493AFE}
-    >      VirtualBox Host VirtualBox Host 0A-00-27-00-00-0B   \Device\Tcpip_{53CCE470-7C3C-40AB-91B0-A892285AA122}
-    >      Ethernet 2      TAP-Windows Ada 00-FF-DF-42-55-EB   Media disconnected
-    >      vEthernet (Defa Hyper-V Virtual 00-15-5D-25-8F-34   \Device\Tcpip_{79500A5B-7A98-4CAC-8879-4439AD68046C}
-    >      Ethernet        Intel(R) Ethern 54-BF-64-81-E7-29   \Device\Tcpip_{29441362-9902-493B-A2DE-BAF0BC3FB153}
-    >
-    > In this case, the last line is what is needed.

@@ -101,12 +101,20 @@
   * Telecoms Office, [https://www.phone.cam.ac.uk/](https://www.phone.cam.ac.uk/) ([My phone](https://my.phone.cam.ac.uk/myphone/calls))
   * Transport strategy 2019-2024, [https://www.environment.admin.cam.ac.uk/files/university_of_cambridge_transport_strategy_2019-2024.pdf](https://www.environment.admin.cam.ac.uk/files/university_of_cambridge_transport_strategy_2019-2024.pdf)
   * UIS
+    - Antivirus software, [https://help.uis.cam.ac.uk/service/security/antivirus](https://help.uis.cam.ac.uk/service/security/antivirus)
+    - Cybersecurity awareness course, [https://help.uis.cam.ac.uk/service/security/cyber-security-awareness](https://help.uis.cam.ac.uk/service/security/cyber-security-awareness)
+        - Password managers, [https://help.uis.cam.ac.uk/service/security/cyber-security-awareness/password-managers](https://help.uis.cam.ac.uk/service/security/cyber-security-awareness/password-managers)
+        - Phishing, [https://help.uis.cam.ac.uk/service/security/cyber-security-awareness/phishing](https://help.uis.cam.ac.uk/service/security/cyber-security-awareness/phishing)
+        - Security updates, [https://help.uis.cam.ac.uk/service/security/cyber-security-awareness/wfh-security/update-os](https://help.uis.cam.ac.uk/service/security/cyber-security-awareness/wfh-security/update-os)
     - Email delivery of @cam address [https://confluence.medschl.cam.ac.uk/x/gwtCBQ](https://confluence.medschl.cam.ac.uk/x/gwtCBQ).
     - GitHub education programme, [https://help.uis.cam.ac.uk/news/github-education](https://help.uis.cam.ac.uk/news/github-education)
     - Google account, [https://help.uis.cam.ac.uk/service/collaboration/workspace/registration-and-login](https://help.uis.cam.ac.uk/service/collaboration/workspace/registration-and-login)
     - Hermes webmail, [https://help.uis.cam.ac.uk/webmail](https://help.uis.cam.ac.uk/webmail)
-    - Multi-factor authentication, [set up multi-factor authentication on your University Microsoft account](https://help.uis.cam.ac.uk/service/accounts-passwords/set-multi-factor-authentication-your-university-microsoft-account)
+    - Multi-factor authentication
+        - Manage your multi-factor authentication methods, [https://help.uis.cam.ac.uk/service/accounts-passwords/multi-factor-authentication/managing-mfa](https://help.uis.cam.ac.uk/service/accounts-passwords/multi-factor-authentication/managing-mfa)
+        - [set up multi-factor authentication on your University Microsoft account](https://help.uis.cam.ac.uk/service/accounts-passwords/set-multi-factor-authentication-your-university-microsoft-account)
     - Raven password recovery, [https://help.uis.cam.ac.uk/service/accounts-passwords](https://help.uis.cam.ac.uk/service/accounts-passwords) (CSCS password: [https://confluence.medschl.cam.ac.uk/x/_whCBQ](https://confluence.medschl.cam.ac.uk/x/_whCBQ)).
+    - Report a security incident, [https://help.uis.cam.ac.uk/service/security/ir](https://help.uis.cam.ac.uk/service/security/ir)
     - Research Computing Services [Research data store](https://www.hpc.cam.ac.uk/research-data-storage-services/research-data-store), [Price list](https://www.hpc.cam.ac.uk/research-data-storage-services/price-list)
     - Status, [https://status.uis.cam.ac.uk/](https://status.uis.cam.ac.uk/)
     - Twitter, [https://twitter.com/UniCamIT](https://twitter.com/UniCamIT)

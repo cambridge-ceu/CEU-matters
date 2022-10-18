@@ -33,8 +33,6 @@
     - COMPARE Study, [video](https://www.youtube.com/watch?v=Xd_h63-OhOg) ([web](http://www.donorhealth-btru.nihr.ac.uk/studies/compare-study/))
 
 ## DPHPC
-  * DSE Forms [https://www.oh.admin.cam.ac.uk/oh-forms/display-screen-equipment-self-assessment-checklist](https://www.oh.admin.cam.ac.uk/oh-forms/display-screen-equipment-self-assessment-checklist)
-  * * * *
   * Accounts Team:  <a href="mailto:ps.accounts@medschl.cam.ac.uk">ps.accounts@medschl.cam.ac.uk</a>
   * Comms Team:  <a href="mailto:ps.comms@medschl.cam.ac.uk">ps.comms@medschl.cam.ac.uk</a>
   * Finance:  <a href="mailto:PHPC.Finance.Manager@medschl.cam.ac.uk">PHPC.Finance.Manager@medschl.cam.ac.uk</a>
@@ -89,6 +87,8 @@
     - [Recruitment restraint](https://www.hr.admin.cam.ac.uk/recruitment_protocol_2020_21)
   * Lookup service, [https://www.lookup.cam.ac.uk/self](https://www.lookup.cam.ac.uk/self) ([https://www.lookup.cam.ac.uk/person/crsid/your-crsid](https://www.lookup.cam.ac.uk/person/crsid/your-crsid))
   * Moodle account, [https://www.vle.cam.ac.uk/login/index.php](https://www.vle.cam.ac.uk/login/index.php) as a virtual learning environment (VLE), [Understanding Unconscious/Implicit Bias](https://www.equality.admin.cam.ac.uk/training-overview/understanding-unconscious-implicit-bias)
+  * Occupational health, [https://www.oh.admin.cam.ac.uk/](https://www.oh.admin.cam.ac.uk/)
+    - DSE Forms [https://www.oh.admin.cam.ac.uk/oh-forms/display-screen-equipment-self-assessment-checklist](https://www.oh.admin.cam.ac.uk/oh-forms/display-screen-equipment-self-assessment-checklist)
   * Postdoc Academy, [(https://www.postdocacademy.cam.ac.uk/](https://www.postdocacademy.cam.ac.uk/) ([Fellowships](https://www.postdocacademy.cam.ac.uk/professional-opportunities/fellowships))
   * Priorities Framework, [https://www.v-c.admin.cam.ac.uk/projects/extraordinary-cambridge](https://www.v-c.admin.cam.ac.uk/projects/extraordinary-cambridge)
   * REF2021 [Code of Practice](https://www.ref.admin.cam.ac.uk/sites/www.ref.admin.cam.ac.uk/files/revised_code_of_practice_170919_clean.pdf), <a href="mailto:REF2021@admin.cam.ac.uk">email</a> and [Staff Circumstances](https://www.ref.admin.cam.ac.uk/code-practice/staff-circumstances) ([form](https://www.ref.admin.cam.ac.uk/code-practice/staff-eligibility), <a href="mailto:(REF2021staffcircumstances@admin.cam.ac.uk">email</a>, <a href="mailto:Gina.Warren@admin.cam.ac.uk">HR equality & diversity</a>)

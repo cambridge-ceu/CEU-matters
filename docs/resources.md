@@ -54,20 +54,20 @@
     - Service Twitter: [https://twitter.com/Cambridge_CSCS](https://twitter.com/Cambridge_CSCS)
     - Service website: [https://cscs.medschl.cam.ac.uk/](https://cscs.medschl.cam.ac.uk/) (news, [https://cscs.medschl.cam.ac.uk/news/](https://cscs.medschl.cam.ac.uk/news/))
     - User Guides: [https://cscsguides.medschl.cam.ac.uk](https://cscsguides.medschl.cam.ac.uk)
+    - Tips
+      * Anywhere Citrix Portal, [https://anywhere.medschl.cam.ac.uk/logon/LogonPoint/index.html](https://anywhere.medschl.cam.ac.uk/logon/LogonPoint/index.html) (requires application from [CSCS IT Support Portal](https://tinyurl.com/vz9huc9) followed by departmental approval).
+      * [Configuring your Mobile Device for Exchange Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Configuring+your+Mobile+Device+for+Exchange+Email)
+      * Office 365, [https://login.microsoftonline.com/](https://login.microsoftonline.com/)
+      * Remote support, [http://remote-support.medschl.cam.ac.uk/](http://remote-support.medschl.cam.ac.uk/)
+      * Support Portal, [https://itsupport.medschl.cam.ac.uk](https://itsupport.medschl.cam.ac.uk)
+      * VPN (Virtual Private Network) can be furnished with [forticlient](https://www.fortinet.com/support/product-downloads) using the [new settings](https://confluence.medschl.cam.ac.uk/display/FAQ/New+VPN+Client+settings+for+Biomedical+Campus).
+      * [VPN at medschl](https://confluence.medschl.cam.ac.uk/x/64q4) (download and install [Software](https://software.medschl.cam.ac.uk/) and then use remote desktop to your office PC is just as in your office) [^VPN].
+      * MAC address (as the last line below) follows [this link](https://confluence.medschl.cam.ac.uk/display/FAQ/How+to+find+a+computer%27s+MAC+address) [^MAC].
+  * Declaration of interest: [https://www.medschl.cam.ac.uk/declaration-of-interests/](https://www.medschl.cam.ac.uk/declaration-of-interests/)
   * HR
     * [Botanical Gardens](https://www.botanic.cam.ac.uk/), [passes](https://tinyurl.com/u67rcjha)
     * Clinical School Cookbook, [https://tinyurl.com/3jn2mzsh](https://tinyurl.com/3jn2mzsh) (Share recipes via [cswellbeing@admin.cam.ac.uk](mailto:cswellbeing@admin.cam.ac.uk))
     * Twitter, [https://twitter.com/clinical_hr](https://twitter.com/clinical_hr)
-  * Declaration of interest: [https://www.medschl.cam.ac.uk/declaration-of-interests/](https://www.medschl.cam.ac.uk/declaration-of-interests/)
-  * Tips
-    * Anywhere Citrix Portal, [https://anywhere.medschl.cam.ac.uk/logon/LogonPoint/index.html](https://anywhere.medschl.cam.ac.uk/logon/LogonPoint/index.html) (requires application from [CSCS IT Support Portal](https://tinyurl.com/vz9huc9) followed by departmental approval).
-    * [Configuring your Mobile Device for Exchange Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Configuring+your+Mobile+Device+for+Exchange+Email)
-    * Office 365, [https://login.microsoftonline.com/](https://login.microsoftonline.com/)
-    * Remote support, [http://remote-support.medschl.cam.ac.uk/](http://remote-support.medschl.cam.ac.uk/)
-    * Support Portal, [https://itsupport.medschl.cam.ac.uk](https://itsupport.medschl.cam.ac.uk)
-    * VPN (Virtual Private Network) can be furnished with [forticlient](https://www.fortinet.com/support/product-downloads) using the [new settings](https://confluence.medschl.cam.ac.uk/display/FAQ/New+VPN+Client+settings+for+Biomedical+Campus).
-    * [VPN at medschl](https://confluence.medschl.cam.ac.uk/x/64q4) (download and install [Software](https://software.medschl.cam.ac.uk/) and then use remote desktop to your office PC is just as in your office) [^VPN].
-    * MAC address (as the last line below) follows [this link](https://confluence.medschl.cam.ac.uk/display/FAQ/How+to+find+a+computer%27s+MAC+address) [^MAC].
 
 ## University
   * CAMbens SmartHub, [https://cambridge.rewardgateway.co.uk](https://cambridge.rewardgateway.co.uk)
@@ -93,6 +93,7 @@
   * Priorities Framework, [https://www.v-c.admin.cam.ac.uk/projects/extraordinary-cambridge](https://www.v-c.admin.cam.ac.uk/projects/extraordinary-cambridge)
   * REF2021 [Code of Practice](https://www.ref.admin.cam.ac.uk/sites/www.ref.admin.cam.ac.uk/files/revised_code_of_practice_170919_clean.pdf), <a href="mailto:REF2021@admin.cam.ac.uk">email</a> and [Staff Circumstances](https://www.ref.admin.cam.ac.uk/code-practice/staff-circumstances) ([form](https://www.ref.admin.cam.ac.uk/code-practice/staff-eligibility), <a href="mailto:(REF2021staffcircumstances@admin.cam.ac.uk">email</a>, <a href="mailto:Gina.Warren@admin.cam.ac.uk">HR equality & diversity</a>)
   * Research Strategy Office, [https://www.research-strategy.admin.cam.ac.uk/](https://www.research-strategy.admin.cam.ac.uk/)
+  * Student run computing facilities (SRCF), [https://www.srcf.net/](https://www.srcf.net/)
   * Symplectic Elements Login, [https://elements.admin.cam.ac.uk/default.html](https://elements.admin.cam.ac.uk/default.html)
   * Telecoms Office, [https://www.phone.cam.ac.uk/](https://www.phone.cam.ac.uk/) ([My phone](https://my.phone.cam.ac.uk/myphone/calls))
   * Transport strategy 2019-2024, [https://www.environment.admin.cam.ac.uk/files/university_of_cambridge_transport_strategy_2019-2024.pdf](https://www.environment.admin.cam.ac.uk/files/university_of_cambridge_transport_strategy_2019-2024.pdf)

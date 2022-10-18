@@ -112,7 +112,7 @@
     - Hermes webmail, [https://help.uis.cam.ac.uk/webmail](https://help.uis.cam.ac.uk/webmail)
     - Multi-factor authentication
         - Manage your multi-factor authentication methods, [https://help.uis.cam.ac.uk/service/accounts-passwords/multi-factor-authentication/managing-mfa](https://help.uis.cam.ac.uk/service/accounts-passwords/multi-factor-authentication/managing-mfa)
-        - [set up multi-factor authentication on your University Microsoft account](https://help.uis.cam.ac.uk/service/accounts-passwords/set-multi-factor-authentication-your-university-microsoft-account)
+        - [Set up multi-factor authentication on your University Microsoft account](https://help.uis.cam.ac.uk/service/accounts-passwords/set-multi-factor-authentication-your-university-microsoft-account)
     - Raven password recovery, [https://help.uis.cam.ac.uk/service/accounts-passwords](https://help.uis.cam.ac.uk/service/accounts-passwords) (CSCS password: [https://confluence.medschl.cam.ac.uk/x/_whCBQ](https://confluence.medschl.cam.ac.uk/x/_whCBQ)).
     - Report a security incident, [https://help.uis.cam.ac.uk/service/security/ir](https://help.uis.cam.ac.uk/service/security/ir)
     - Research Computing Services [Research data store](https://www.hpc.cam.ac.uk/research-data-storage-services/research-data-store), [Price list](https://www.hpc.cam.ac.uk/research-data-storage-services/price-list)

@@ -53,16 +53,16 @@
     - Service status: [https://cscs.medschl.cam.ac.uk/information/service-status/](https://cscs.medschl.cam.ac.uk/information/service-status/)
     - Service Twitter: [https://twitter.com/Cambridge_CSCS](https://twitter.com/Cambridge_CSCS)
     - Service website: [https://cscs.medschl.cam.ac.uk/](https://cscs.medschl.cam.ac.uk/) (news, [https://cscs.medschl.cam.ac.uk/news/](https://cscs.medschl.cam.ac.uk/news/))
+    - Tips
+       - Anywhere Citrix Portal, [https://anywhere.medschl.cam.ac.uk/logon/LogonPoint/index.html](https://anywhere.medschl.cam.ac.uk/logon/LogonPoint/index.html) (requires application from [CSCS IT Support Portal](https://tinyurl.com/vz9huc9) followed by departmental approval).
+       - [Configuring your Mobile Device for Exchange Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Configuring+your+Mobile+Device+for+Exchange+Email)
+       - Office 365, [https://login.microsoftonline.com/](https://login.microsoftonline.com/)
+       - Remote support, [http://remote-support.medschl.cam.ac.uk/](http://remote-support.medschl.cam.ac.uk/)
+       - Support Portal, [https://itsupport.medschl.cam.ac.uk](https://itsupport.medschl.cam.ac.uk)
+       - VPN (Virtual Private Network) can be furnished with [forticlient](https://www.fortinet.com/support/product-downloads) using the [new settings](https://confluence.medschl.cam.ac.uk/display/FAQ/New+VPN+Client+settings+for+Biomedical+Campus).
+       - [VPN at medschl](https://confluence.medschl.cam.ac.uk/x/64q4) (download and install [Software](https://software.medschl.cam.ac.uk/) and then use remote desktop to your office PC is just as in your office) [^VPN].
+       - MAC address (as the last line below) follows [this link](https://confluence.medschl.cam.ac.uk/display/FAQ/How+to+find+a+computer%27s+MAC+address) [^MAC].
     - User Guides: [https://cscsguides.medschl.cam.ac.uk](https://cscsguides.medschl.cam.ac.uk)
-  * ~~~
-    - Anywhere Citrix Portal, [https://anywhere.medschl.cam.ac.uk/logon/LogonPoint/index.html](https://anywhere.medschl.cam.ac.uk/logon/LogonPoint/index.html) (requires application from [CSCS IT Support Portal](https://tinyurl.com/vz9huc9) followed by departmental approval).
-    - [Configuring your Mobile Device for Exchange Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Configuring+your+Mobile+Device+for+Exchange+Email)
-    - Office 365, [https://login.microsoftonline.com/](https://login.microsoftonline.com/)
-    - Remote support, [http://remote-support.medschl.cam.ac.uk/](http://remote-support.medschl.cam.ac.uk/)
-    - Support Portal, [https://itsupport.medschl.cam.ac.uk](https://itsupport.medschl.cam.ac.uk)
-    - VPN (Virtual Private Network) can be furnished with [forticlient](https://www.fortinet.com/support/product-downloads) using the [new settings](https://confluence.medschl.cam.ac.uk/display/FAQ/New+VPN+Client+settings+for+Biomedical+Campus).
-    - [VPN at medschl](https://confluence.medschl.cam.ac.uk/x/64q4) (download and install [Software](https://software.medschl.cam.ac.uk/) and then use remote desktop to your office PC is just as in your office) [^VPN].
-    - MAC address (as the last line below) follows [this link](https://confluence.medschl.cam.ac.uk/display/FAQ/How+to+find+a+computer%27s+MAC+address) [^MAC].
   * Declaration of interest: [https://www.medschl.cam.ac.uk/declaration-of-interests/](https://www.medschl.cam.ac.uk/declaration-of-interests/)
   * HR
     - [Botanical Gardens](https://www.botanic.cam.ac.uk/), [passes](https://tinyurl.com/u67rcjha)

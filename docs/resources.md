@@ -21,7 +21,7 @@
     - Letter Head: [CEU Letterhead - HLRI.docx](files/CEU Letterhead- HLRI.docx)
     - Meeting rooms (1st floor R066/R067, 2nd floor R058) booker system contacts (Name - email@medschl.cam.ac.uk): Lilly Zafer - johndaneshpa; z453; Angelika Price - emanueledapa; amp231; Svetlana Shadrina - ss608.
     - Ordering requipment: [https://tinyurl.com/8bzxm76v](https://forms.office.com/Pages/ResponsePage.aspx?id=RQSlSfq9eUut41R7TzmG6RBc7ERcsoZGrltSTr3vNxxUN0hYMzg3NEJFWEJZQUZQSFpWVkg4VEtIMi4u)
-    - Printing (\\me-print\hlripr03/04): [Windows 10](https://cscs-itsupport.atlassian.net/wiki/spaces/FAQ/pages/21365361/Adding+a+printer+to+Windows+10) and [Mac](https://cscs-itsupport.atlassian.net/wiki/spaces/FAQ/pages/21365494/Adding+a+printer+on+a+Mac).
+    - Printing (\\\me-print\hlripr03/04): [Windows 10](https://cscs-itsupport.atlassian.net/wiki/spaces/FAQ/pages/21365361/Adding+a+printer+to+Windows+10) and [Mac](https://cscs-itsupport.atlassian.net/wiki/spaces/FAQ/pages/21365494/Adding+a+printer+on+a+Mac).
     - Reception: [HLRI-Reception@medschl.cam.ac.uk](mailto:HLRI-Reception@medschl.cam.ac.uk)
     - Reconnect your PC from SRL: It is useful to run from command prompt, ***ipconfig /release*** and ***ipconfig /renew*** followed by a restart to connect to U:\ or other drives [^U].
   * Publications Mailbox [ceupublications@medschl.cam.ac.uk](mailto:ceupublications@medschl.cam.ac.uk); please email when you submit a paper. 
@@ -54,15 +54,15 @@
     - Service Twitter: [https://twitter.com/Cambridge_CSCS](https://twitter.com/Cambridge_CSCS)
     - Service website: [https://cscs.medschl.cam.ac.uk/](https://cscs.medschl.cam.ac.uk/) (news, [https://cscs.medschl.cam.ac.uk/news/](https://cscs.medschl.cam.ac.uk/news/))
     - User Guides: [https://cscsguides.medschl.cam.ac.uk](https://cscsguides.medschl.cam.ac.uk)
-    - Tips
-      1. Anywhere Citrix Portal, [https://anywhere.medschl.cam.ac.uk/logon/LogonPoint/index.html](https://anywhere.medschl.cam.ac.uk/logon/LogonPoint/index.html) (requires application from [CSCS IT Support Portal](https://tinyurl.com/vz9huc9) followed by departmental approval).
-      2. [Configuring your Mobile Device for Exchange Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Configuring+your+Mobile+Device+for+Exchange+Email)
-      3. Office 365, [https://login.microsoftonline.com/](https://login.microsoftonline.com/)
-      4. Remote support, [http://remote-support.medschl.cam.ac.uk/](http://remote-support.medschl.cam.ac.uk/)
-      5. Support Portal, [https://itsupport.medschl.cam.ac.uk](https://itsupport.medschl.cam.ac.uk)
-      6. VPN (Virtual Private Network) can be furnished with [forticlient](https://www.fortinet.com/support/product-downloads) using the [new settings](https://confluence.medschl.cam.ac.uk/display/FAQ/New+VPN+Client+settings+for+Biomedical+Campus).
-      7. [VPN at medschl](https://confluence.medschl.cam.ac.uk/x/64q4) (download and install [Software](https://software.medschl.cam.ac.uk/) and then use remote desktop to your office PC is just as in your office) [^VPN].
-      8. MAC address (as the last line below) follows [this link](https://confluence.medschl.cam.ac.uk/display/FAQ/How+to+find+a+computer%27s+MAC+address) [^MAC].
+  * Tips
+    1. Anywhere Citrix Portal, [https://anywhere.medschl.cam.ac.uk/logon/LogonPoint/index.html](https://anywhere.medschl.cam.ac.uk/logon/LogonPoint/index.html) (requires application from [CSCS IT Support Portal](https://tinyurl.com/vz9huc9) followed by departmental approval).
+    2. [Configuring your Mobile Device for Exchange Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Configuring+your+Mobile+Device+for+Exchange+Email)
+    3. Office 365, [https://login.microsoftonline.com/](https://login.microsoftonline.com/)
+    4. Remote support, [http://remote-support.medschl.cam.ac.uk/](http://remote-support.medschl.cam.ac.uk/)
+    5. Support Portal, [https://itsupport.medschl.cam.ac.uk](https://itsupport.medschl.cam.ac.uk)
+    6. VPN (Virtual Private Network) can be furnished with [forticlient](https://www.fortinet.com/support/product-downloads) using the [new settings](https://confluence.medschl.cam.ac.uk/display/FAQ/New+VPN+Client+settings+for+Biomedical+Campus).
+    7. [VPN at medschl](https://confluence.medschl.cam.ac.uk/x/64q4) (download and install [Software](https://software.medschl.cam.ac.uk/) and then use remote desktop to your office PC is just as in your office) [^VPN].
+    8. MAC address (as the last line below) follows [this link](https://confluence.medschl.cam.ac.uk/display/FAQ/How+to+find+a+computer%27s+MAC+address) [^MAC].
   * Declaration of interest: [https://www.medschl.cam.ac.uk/declaration-of-interests/](https://www.medschl.cam.ac.uk/declaration-of-interests/)
   * HR
     - [Botanical Gardens](https://www.botanic.cam.ac.uk/), [passes](https://tinyurl.com/u67rcjha)

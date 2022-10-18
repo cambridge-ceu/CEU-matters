@@ -21,7 +21,7 @@
     - Letter Head: [CEU Letterhead - HLRI.docx](files/CEU Letterhead- HLRI.docx)
     - Meeting rooms (1st floor R066/R067, 2nd floor R058) booker system contacts (Name - email@medschl.cam.ac.uk): Lilly Zafer - johndaneshpa; z453; Angelika Price - emanueledapa; amp231; Svetlana Shadrina - ss608.
     - Ordering requipment: [https://tinyurl.com/8bzxm76v](https://forms.office.com/Pages/ResponsePage.aspx?id=RQSlSfq9eUut41R7TzmG6RBc7ERcsoZGrltSTr3vNxxUN0hYMzg3NEJFWEJZQUZQSFpWVkg4VEtIMi4u)
-    - Printing (\\\me-print\hlripr03/04): [Windows 10](https://cscs-itsupport.atlassian.net/wiki/spaces/FAQ/pages/21365361/Adding+a+printer+to+Windows+10) and [Mac](https://cscs-itsupport.atlassian.net/wiki/spaces/FAQ/pages/21365494/Adding+a+printer+on+a+Mac).
+    - Printing (\\\\me-print\\hlripr03/04): [Windows 10](https://cscs-itsupport.atlassian.net/wiki/spaces/FAQ/pages/21365361/Adding+a+printer+to+Windows+10) and [Mac](https://cscs-itsupport.atlassian.net/wiki/spaces/FAQ/pages/21365494/Adding+a+printer+on+a+Mac).
     - Reception: [HLRI-Reception@medschl.cam.ac.uk](mailto:HLRI-Reception@medschl.cam.ac.uk)
     - Reconnect your PC from SRL: It is useful to run from command prompt, ***ipconfig /release*** and ***ipconfig /renew*** followed by a restart to connect to U:\ or other drives [^U].
   * Publications Mailbox [ceupublications@medschl.cam.ac.uk](mailto:ceupublications@medschl.cam.ac.uk); please email when you submit a paper. 

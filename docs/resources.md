@@ -102,7 +102,8 @@
   * Transport strategy 2019-2024, [https://www.environment.admin.cam.ac.uk/files/university_of_cambridge_transport_strategy_2019-2024.pdf](https://www.environment.admin.cam.ac.uk/files/university_of_cambridge_transport_strategy_2019-2024.pdf)
   * UIS
     - Antivirus software, [https://help.uis.cam.ac.uk/service/security/antivirus](https://help.uis.cam.ac.uk/service/security/antivirus)
-    - Cybersecurity awareness course, [https://help.uis.cam.ac.uk/service/security/cyber-security-awareness](https://help.uis.cam.ac.uk/service/security/cyber-security-awareness)
+    - Cybersecurity awareness
+        - Cyber security training on MyCompliance, [https://help.uis.cam.ac.uk/service/security/cyber-security-awareness](https://help.uis.cam.ac.uk/service/security/cyber-security-awareness)
         - Password managers, [https://help.uis.cam.ac.uk/service/security/cyber-security-awareness/password-managers](https://help.uis.cam.ac.uk/service/security/cyber-security-awareness/password-managers)
         - Phishing, [https://help.uis.cam.ac.uk/service/security/cyber-security-awareness/phishing](https://help.uis.cam.ac.uk/service/security/cyber-security-awareness/phishing)
         - Security updates, [https://help.uis.cam.ac.uk/service/security/cyber-security-awareness/wfh-security/update-os](https://help.uis.cam.ac.uk/service/security/cyber-security-awareness/wfh-security/update-os)

@@ -17,7 +17,7 @@
       ```
     - Display Screen Equipment: [assessment form](files/display_screen_equipment_self-assessment_checklist_v4-1.docx)
     - Induction [to activate the access card](https://www.eventbrite.com/e/hlri-building-induction-tickets-352488170607)
-    - IT Support: [Information](files/HLRI Move in - 1 pager v.04.pdf)
+    - IT Support: [Information](files/HLRI IT Support Leaflet.pdf)
     - Letter Head: [CEU Letterhead - HLRI.docx](files/CEU Letterhead- HLRI.docx)
     - Meeting rooms (1st floor R066/R067, 2nd floor R058) booker system contacts (Name - email@medschl.cam.ac.uk): Lilly Zafer - johndaneshpa; z453; Angelika Price - emanueledapa; amp231; Svetlana Shadrina - ss608.
     - Ordering requipment: [https://tinyurl.com/8bzxm76v](https://forms.office.com/Pages/ResponsePage.aspx?id=RQSlSfq9eUut41R7TzmG6RBc7ERcsoZGrltSTr3vNxxUN0hYMzg3NEJFWEJZQUZQSFpWVkg4VEtIMi4u)

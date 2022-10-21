@@ -35,6 +35,7 @@
       Tel - (01223) 762755
       ```
     - Reconnect your PC from SRL: It is useful to run from command prompt, ***ipconfig /release*** and ***ipconfig /renew*** followed by a restart to connect to U:\ or other drives [^U].
+    - Working Group Sign-up, [https://www.surveymonkey.co.uk/r/Q8MJ5NW](https://www.surveymonkey.co.uk/r/Q8MJ5NW)
   * Publications Mailbox [ceupublications@medschl.cam.ac.uk](mailto:ceupublications@medschl.cam.ac.uk); please email when you submit a paper. 
   * Twitter, [https://twitter.com/CAMBRIDGE_CEU](https://twitter.com/CAMBRIDGE_CEU)
   * UKB data access for approved users, [register](https://www.ukbiobank.ac.uk/enable-your-research/register)

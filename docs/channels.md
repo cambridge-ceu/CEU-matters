@@ -21,6 +21,7 @@ The following list gives information on active mailing lists, events, slack chan
 * [eventbrite](https://www.eventbrite.co.uk/).
 * [Microsoft Forms](https://www.microsoft.com/en-us/microsoft-365/online-surveys-polls-quizzes).
 * PPIE planner, [https://planner.voice-global.org/](https://planner.voice-global.org/).
+* SurveyMonkey, [https://www.surveymonkey.co.uk/](https://www.surveymonkey.co.uk/)
 
 ## Slack channel
 

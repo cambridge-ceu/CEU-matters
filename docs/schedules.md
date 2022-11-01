@@ -3,9 +3,9 @@
 ## HLRI
 
 * **Timings**: 10:00 – 11:00 on Thursdays.
-* **Timing**: 25 --- 45 mins.
+* **Duration**: 25 -- 45 mins.
 * **Venue**:
-  0.R100 --- 0.R101 and on Zoom.
+  0.R100 -- 0.R101 and on Zoom.
 * **Zoom video communications**:
     - [How to use Zoom securely](https://help.uis.cam.ac.uk/service/security/wfh-security/zoom-security).
     - [Zoom International Dial-in Numbers](https://us02web.zoom.us/u/kbut54X5YO).

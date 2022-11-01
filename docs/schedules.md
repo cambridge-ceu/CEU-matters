@@ -8,16 +8,16 @@
   0.R100 --- 0.R101 and on Zoom.
 * **Zoom video communications**:
     - [How to use Zoom securely](https://help.uis.cam.ac.uk/service/security/wfh-security/zoom-security).
-    - [Zoom International Dial-in Numbers](https://us02web.zoom.us/u/kbut54X5YO)
+    - [Zoom International Dial-in Numbers](https://us02web.zoom.us/u/kbut54X5YO).
 
 ## SRL
 
 * **Schedules**: [Google document](https://tinyurl.com/ychhtwun)
 * **HDR UK seminar Timings**: 12:00 – 12:30, Free lunch will be provided; 12:30 – 13:30, Talks.
 * **Venue**: 
-  The Thomas and Dorothy Seminar rooms,
-  Strangeways Site, Wort’s Causeway, Cambridge, CB1 8RN, [https://goo.gl/maps/MDkBd9E88mf5TFZK7](https://goo.gl/maps/MDkBd9E88mf5TFZK7)
-  (5 mins walk from the Addenbrookes campus in the Babraham Road direction).
+    > The Thomas and Dorothy Seminar rooms,
+    > Strangeways Site, Wort’s Causeway, Cambridge, CB1 8RN, [https://goo.gl/maps/MDkBd9E88mf5TFZK7](https://goo.gl/maps/MDkBd9E88mf5TFZK7)
+    > (5 mins walk from the Addenbrookes campus in the Babraham Road direction).
 
 ### Meeting
   * ID ([https://zoom.us/join](https://zoom.us/join)): 281-333-850
@@ -37,7 +37,3 @@
  <a href="tel:+442030512874">+44 203 051 2874</a>, 82447180532# (UK),
  <a href="tel:+442034815237">+44 203 481 5237</a>,
  <a href="tel:+442034815240">+44 203 481 5240</a>
-
-### Adam's genetics team recurring meetings
-  * ID ([https://zoom.us/join](https://zoom.us/join)): 149 761 448
-  * URL: [https://zoom.us/j/149761448](https://zoom.us/j/149761448)

@@ -2,12 +2,13 @@ site_name: CEU scientific meetings
 nav:
   - "": README.md
   - Chronicle:
-    - mhs.md
-    - COVID-19.md
-    - Cambridge-Baker-Joint-Symposium.md
+    - 2023.md
     - 2022.md
     - 2021.md
     - 2020.md
+    - mhs.md
+    - COVID-19.md
+    - Cambridge-Baker-Joint-Symposium.md
   - HDR(UK): HDR.md
   - Schedules: schedules.md
   - Resources: resources.md

@@ -2,7 +2,7 @@ The repository highlights information on seminars and presentations, etc., at th
 
 # Quick guides
 
-* Chronicle: [Mental health support](mhs.md), [The COVID-19 pandemic](COVID-19.md), [2022](2022.md)
+* Chronicle: [Mental health support](mhs.md), [The COVID-19 pandemic](COVID-19.md), [2022](2022.md), [2023](2023.md).
 * [Health Data Research (HDR) UK](HDR.md)
 * [Schedules](schedules.md) including Zoom video communications (check local times remotely, [https://time.is/](https://time.is/)).
 * [Resources](resources.md) hosts a variety of links to departmental, school and university facilities.

@@ -38,12 +38,17 @@
     - Reconnect your PC from SRL: It is useful to run from command prompt, ***ipconfig /release*** and ***ipconfig /renew*** followed by a restart to connect to U:\ or other drives [^U].
     - Working Group Sign-up, [https://www.surveymonkey.co.uk/r/Q8MJ5NW](https://www.surveymonkey.co.uk/r/Q8MJ5NW)
   * Publications Mailbox [ceupublications@medschl.cam.ac.uk](mailto:ceupublications@medschl.cam.ac.uk); please email when you submit a paper. 
+  * Studies
+    - Website:
+        - INTERVAL Study, [http://www.donorhealth-btru.nihr.ac.uk/studies/interval-study/](http://www.donorhealth-btru.nihr.ac.uk/studies/interval-study/)
+        - COMPARE Study, [http://www.donorhealth-btru.nihr.ac.uk/studies/compare-study/](http://www.donorhealth-btru.nihr.ac.uk/studies/compare-study/)
+        - Newsletter, [Nov 8, 2022](http://www.donorhealth-btru.nihr.ac.uk/wp-content/uploads/2022/11/Blood-Donors-Studies-Newsletter-Winter-2022_08.11.22.pdf)
+    - YouTube
+        - CEU past talks, [home](https://www.youtube.com/channel/UCeS9CPB2_QGcBsnORnNQyjQ)
+        - INTERVAL Study, [video](https://www.youtube.com/watch?v=bcgMhpuYyPo) ([web](https://www.intervalstudy.org.uk/))
+        - COMPARE Study, [video](https://www.youtube.com/watch?v=Xd_h63-OhOg) ([web](http://www.donorhealth-btru.nihr.ac.uk/studies/compare-study/))
   * Twitter, [https://twitter.com/CAMBRIDGE_CEU](https://twitter.com/CAMBRIDGE_CEU)
   * UKB data access for approved users, [register](https://www.ukbiobank.ac.uk/enable-your-research/register)
-  * YouTube
-    - CEU past talks, [home](https://www.youtube.com/channel/UCeS9CPB2_QGcBsnORnNQyjQ)
-    - INTERVAL Study, [video](https://www.youtube.com/watch?v=bcgMhpuYyPo) ([web](https://www.intervalstudy.org.uk/))
-    - COMPARE Study, [video](https://www.youtube.com/watch?v=Xd_h63-OhOg) ([web](http://www.donorhealth-btru.nihr.ac.uk/studies/compare-study/))
 
 ## DPHPC
 

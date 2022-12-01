@@ -47,7 +47,9 @@
         - CEU past talks, [home](https://www.youtube.com/channel/UCeS9CPB2_QGcBsnORnNQyjQ)
         - INTERVAL Study, [video](https://www.youtube.com/watch?v=bcgMhpuYyPo) ([web](https://www.intervalstudy.org.uk/))
         - COMPARE Study, [video](https://www.youtube.com/watch?v=Xd_h63-OhOg) ([web](http://www.donorhealth-btru.nihr.ac.uk/studies/compare-study/))
-  * Twitter, [https://twitter.com/CAMBRIDGE_CEU](https://twitter.com/CAMBRIDGE_CEU)
+  * Twitter
+    - [@CAMBRIDGE_CEU](https://twitter.com/CAMBRIDGE_CEU)
+    - [@DonorHealthBTRU](https://twitter.com/donorhealthbtru)
   * UKB data access for approved users, [register](https://www.ukbiobank.ac.uk/enable-your-research/register)
 
 ## DPHPC

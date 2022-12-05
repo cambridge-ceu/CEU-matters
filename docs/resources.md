@@ -65,6 +65,7 @@
   * Mailing list, [phpc-all@lists.cam.ac.uk](mailto:phpc-all@lists.cam.ac.uk) (also <phpc-research-assistants-request@lists.cam.ac.uk>)
   * PeopleHR: [https://dphpc.peoplehr.net/](https://dphpc.peoplehr.net/)
   * Reception/Facilities Team: <a href="mailto:phpc.reception@medschl.cam.ac.uk">phpc.reception@medschl.cam.ac.uk</a>
+  * Staff profile, [https://intranet.phpc.cam.ac.uk/facilities-and-comms/communications/profiles/](https://intranet.phpc.cam.ac.uk/facilities-and-comms/communications/profiles/)
 
 ## School
 

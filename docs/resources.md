@@ -99,6 +99,7 @@
   * CULP courses, [https://www.langcen.cam.ac.uk/culp/culp-general-courses.html](https://www.langcen.cam.ac.uk/culp/culp-general-courses.html) ([Online booking system](https://www.training.cam.ac.uk/lc/theme/CULP?providerId=399495))
   * Emergency Childcare, [https://www.emergencychildcare.co.uk/](https://www.emergencychildcare.co.uk/) (contact <a href="mailto:csreward@admin.cam.ac.uk">csreward@admin.cam.ac.uk</a>)
   * Estates Division, [https://www.em.admin.cam.ac.uk/](https://www.em.admin.cam.ac.uk/)
+    - Buildings emergencies, [https://www.em.admin.cam.ac.uk/operating-estate/security](https://www.em.admin.cam.ac.uk/operating-estate/security)
     - Car parking applications, [https://www.em.admin.cam.ac.uk/what-we-do/estate-operations/facilities-services/car-parking-applications](https://www.em.admin.cam.ac.uk/what-we-do/estate-operations/facilities-services/car-parking-applications)
   * Expense Management System, [https://www.expenses.admin.cam.ac.uk](https://www.expenses.admin.cam.ac.uk) ([Online learning](https://www.expenses.admin.cam.ac.uk/learning-paths) ([videos](https://web.microsoftstream.com/video/8a1386a4-6615-4f8f-8f27-cf08d6e541b6)), [Contact](mailto:expensesproject@admin.cam.ac.uk) & [queries](mailto:concur_enquiries@admin.cam.ac.uk), [use of the mobile app](https://www.expenses.admin.cam.ac.uk/learning-path-mobile-app)). Training for specific roles:
     - Claimants: [https://www.expenses.admin.cam.ac.uk/learning-path-basics-and-claims](https://www.expenses.admin.cam.ac.uk/learning-path-basics-and-claims)

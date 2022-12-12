@@ -93,7 +93,6 @@
 
 ## University
 
-  * Adverse weather policy, [https://www.hr.admin.cam.ac.uk/policies-procedures/adverse-weather-policy](https://www.hr.admin.cam.ac.uk/policies-procedures/adverse-weather-policy)
   * Brand resources, [https://www.cam.ac.uk/brand-resources](https://www.cam.ac.uk/brand-resources)
   * CAMbens SmartHub, [https://cambridge.rewardgateway.co.uk](https://cambridge.rewardgateway.co.uk)
   * Cambridge Science Festival, [https://www.festival.cam.ac.uk/](https://www.festival.cam.ac.uk/) ([Events management](https://webservices.admin.cam.ac.uk/events/admin), [Practical information](https://www.cam.ac.uk/public-engagement/get-involved/cambridge-festival-coordinators-page))
@@ -111,7 +110,9 @@
   * Human Resources, [https://www.hr.admin.cam.ac.uk/](https://www.hr.admin.cam.ac.uk/)
     - Employee Self Service, [https://chris.cam.ac.uk/hrlive_ess/ess/index.html#/login](https://chris.cam.ac.uk/hrlive_ess/ess/index.html#/login)
     - [Equality and Diversity Team](mailto:equality@admin.cam.ac.uk")
-    - [Policies and procedures](https://www.hr.admin.cam.ac.uk/policies-procedures) ([SRP 2023](https://www.hr.admin.cam.ac.uk/policies-procedures/senior-research-promotions-procedures-and-guidance-2023))
+    - [Policies and procedures](https://www.hr.admin.cam.ac.uk/policies-procedures)
+        + ([SRP 2023](https://www.hr.admin.cam.ac.uk/policies-procedures/senior-research-promotions-procedures-and-guidance-2023))
+        + Adverse weather policy, [https://www.hr.admin.cam.ac.uk/policies-procedures/adverse-weather-policy](https://www.hr.admin.cam.ac.uk/policies-procedures/adverse-weather-policy)
     - [Recruitment restraint](https://www.hr.admin.cam.ac.uk/recruitment_protocol_2020_21)
   * Industrial action, [https://www.industrialaction.admin.cam.ac.uk/](https://www.industrialaction.admin.cam.ac.uk/) ([university forms](https://www.industrialaction.admin.cam.ac.uk/forms))
   * Lookup service, [https://www.lookup.cam.ac.uk/self](https://www.lookup.cam.ac.uk/self) ([https://www.lookup.cam.ac.uk/person/crsid/your-crsid](https://www.lookup.cam.ac.uk/person/crsid/your-crsid))

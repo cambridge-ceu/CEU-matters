@@ -155,6 +155,7 @@
     - Raven password recovery, [https://help.uis.cam.ac.uk/service/accounts-passwords](https://help.uis.cam.ac.uk/service/accounts-passwords) (CSCS password: [https://confluence.medschl.cam.ac.uk/x/_whCBQ](https://confluence.medschl.cam.ac.uk/x/_whCBQ)).
     - Report a security incident, [https://help.uis.cam.ac.uk/service/security/ir](https://help.uis.cam.ac.uk/service/security/ir)
     - Research Computing Services [Research data store](https://www.hpc.cam.ac.uk/research-data-storage-services/research-data-store), [Price list](https://www.hpc.cam.ac.uk/research-data-storage-services/price-list)
+    - Self-service portal, [https://uniofcam.saasiteu.com/](https://uniofcam.saasiteu.com/)
     - Status, [https://status.uis.cam.ac.uk/](https://status.uis.cam.ac.uk/)
     - Twitter, [https://twitter.com/UniCamIT](https://twitter.com/UniCamIT)
 

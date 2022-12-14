@@ -157,7 +157,9 @@
     - Research Computing Services [Research data store](https://www.hpc.cam.ac.uk/research-data-storage-services/research-data-store), [Price list](https://www.hpc.cam.ac.uk/research-data-storage-services/price-list)
     - Self-service portal, [https://uniofcam.saasiteu.com/](https://uniofcam.saasiteu.com/)
     - Status, [https://status.uis.cam.ac.uk/](https://status.uis.cam.ac.uk/)
+    - token, [https://tokens.uis.cam.ac.uk/](https://tokens.uis.cam.ac.uk/)
     - Twitter, [https://twitter.com/UniCamIT](https://twitter.com/UniCamIT)
+    - [UIS-VPN](https://help.uis.cam.ac.uk/service/network-services/remote-access/uis-vpn)
 
 [^U]: Network drives
     >

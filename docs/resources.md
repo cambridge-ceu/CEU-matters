@@ -159,7 +159,7 @@
     - Status, [https://status.uis.cam.ac.uk/](https://status.uis.cam.ac.uk/)
     - token, [https://tokens.uis.cam.ac.uk/](https://tokens.uis.cam.ac.uk/)
     - Twitter, [https://twitter.com/UniCamIT](https://twitter.com/UniCamIT)
-    - [UIS-VPN](https://help.uis.cam.ac.uk/service/network-services/remote-access/uis-vpn)
+    - VPN service, [https://help.uis.cam.ac.uk/service/network-services/remote-access/uis-vpn](https://help.uis.cam.ac.uk/service/network-services/remote-access/uis-vpn)
 
 [^U]: Network drives
     >

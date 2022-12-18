@@ -40,8 +40,8 @@
     - Working Group Sign-up, [https://www.surveymonkey.co.uk/r/Q8MJ5NW](https://www.surveymonkey.co.uk/r/Q8MJ5NW)
   * Publications Mailbox [ceupublications@medschl.cam.ac.uk](mailto:ceupublications@medschl.cam.ac.uk); please email when you submit a paper. 
   * Studies
-    - Website:
-        - INTERVAL Study, [http://www.donorhealth-btru.nihr.ac.uk/studies/interval-study/](http://www.donorhealth-btru.nihr.ac.uk/studies/interval-study/)
+    - Web:
+        - INTERVAL Study, [http://www.donorhealth-btru.nihr.ac.uk/studies/interval-study/](http://www.donorhealth-btru.nihr.ac.uk/studies/interval-study/) (<helpdesk@intervalstudy.org.uk>)
         - COMPARE Study, [http://www.donorhealth-btru.nihr.ac.uk/studies/compare-study/](http://www.donorhealth-btru.nihr.ac.uk/studies/compare-study/)
         - Newsletter, [Nov 8, 2022](http://www.donorhealth-btru.nihr.ac.uk/wp-content/uploads/2022/11/Blood-Donors-Studies-Newsletter-Winter-2022_08.11.22.pdf)
     - YouTube
@@ -55,11 +55,11 @@
 
 ## DPHPC
 
-  * Accounts Team:  <a href="mailto:ps.accounts@medschl.cam.ac.uk">ps.accounts@medschl.cam.ac.uk</a>
-  * Comms Team:  <a href="mailto:ps.comms@medschl.cam.ac.uk">ps.comms@medschl.cam.ac.uk</a>
-  * Finance:  <a href="mailto:PHPC.Finance.Manager@medschl.cam.ac.uk">PHPC.Finance.Manager@medschl.cam.ac.uk</a>
-  * Grants Team:  <a href="mailto:ps.grants@medschl.cam.ac.uk">ps.grants@medschl.cam.ac.uk</a>
-  * HR Team:  <a href="mailto:phpc.hr@medschl.cam.ac.uk">phpc.hr@medschl.cam.ac.uk</a>
+  * Accounts Team: <a href="mailto:ps.accounts@medschl.cam.ac.uk">ps.accounts@medschl.cam.ac.uk</a>
+  * Comms Team: <a href="mailto:ps.comms@medschl.cam.ac.uk">ps.comms@medschl.cam.ac.uk</a>
+  * Finance: <a href="mailto:PHPC.Finance.Manager@medschl.cam.ac.uk">PHPC.Finance.Manager@medschl.cam.ac.uk</a>
+  * Grants Team: <a href="mailto:ps.grants@medschl.cam.ac.uk">ps.grants@medschl.cam.ac.uk</a>
+  * HR Team: <a href="mailto:phpc.hr@medschl.cam.ac.uk">phpc.hr@medschl.cam.ac.uk</a>
   * Intranet: [https://intranet.phpc.cam.ac.uk](https://intranet.phpc.cam.ac.uk)
     - Staff card, [https://intranet.phpc.cam.ac.uk/facilities-and-comms/accountservices/](https://intranet.phpc.cam.ac.uk/facilities-and-comms/accountservices/) ([New Starter form](https://intranet.phpc.cam.ac.uk/human-resources/new-starters/)); check your card validity
     - Printers, [https://intranet.phpc.cam.ac.uk/facilities-and-comms/accountservices/printing/](https://intranet.phpc.cam.ac.uk/facilities-and-comms/accountservices/printing/) ([lookup](https://www.lookup.cam.ac.uk/self), [Printer Setup Instructions](https://intranet.phpc.cam.ac.uk/wp-content/uploads/2020/03/Printer-Setup-Instructions.docx), [Scanning Guide](https://intranet.phpc.cam.ac.uk/wp-content/uploads/2020/03/Scanning-Guide.docx), [email for help](mailto:ps.comms@medschl.cam.ac.uk))

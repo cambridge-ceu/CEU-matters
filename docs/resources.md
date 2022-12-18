@@ -40,9 +40,12 @@
     - Working Group Sign-up, [https://www.surveymonkey.co.uk/r/Q8MJ5NW](https://www.surveymonkey.co.uk/r/Q8MJ5NW)
   * Publications Mailbox [ceupublications@medschl.cam.ac.uk](mailto:ceupublications@medschl.cam.ac.uk); please email when you submit a paper. 
   * Studies
-    - Web:
-        - INTERVAL Study, [http://www.donorhealth-btru.nihr.ac.uk/studies/interval-study/](http://www.donorhealth-btru.nihr.ac.uk/studies/interval-study/) (<helpdesk@intervalstudy.org.uk>)
-        - COMPARE Study, [http://www.donorhealth-btru.nihr.ac.uk/studies/compare-study/](http://www.donorhealth-btru.nihr.ac.uk/studies/compare-study/)
+    - Web: National Institute for Health and Care Research (NIHR) Blood and Transplant Research Unit (BTRU) in Donor Health and Behaviour <http://www.donorhealth-btru.nihr.ac.uk/>
+        - INTERVAL Study, <http://www.donorhealth-btru.nihr.ac.uk/studies/interval-study/> and <https://www.intervalstudy.org.uk/> (<helpdesk@intervalstudy.org.uk>)
+        - COMPARE Study, <http://www.donorhealth-btru.nihr.ac.uk/studies/compare-study/>
+        - STRIDES Study, <http://www.donorhealth-btru.nihr.ac.uk/studies/strides-study/>
+        - CARRIAGES Study, <http://www.donorhealth-btru.nihr.ac.uk/studies/carriage-study/>
+        - TRACK-COVID Study, <http://www.donorhealth-btru.nihr.ac.uk/studies/track-covid-study/>
         - Newsletter, [Nov 8, 2022](http://www.donorhealth-btru.nihr.ac.uk/wp-content/uploads/2022/11/Blood-Donors-Studies-Newsletter-Winter-2022_08.11.22.pdf)
     - YouTube
         - CEU past talks, [home](https://www.youtube.com/channel/UCeS9CPB2_QGcBsnORnNQyjQ)

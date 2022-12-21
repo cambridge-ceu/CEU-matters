@@ -83,7 +83,10 @@
         - Anywhere Citrix Portal, [https://anywhere.medschl.cam.ac.uk/logon/LogonPoint/index.html](https://anywhere.medschl.cam.ac.uk/logon/LogonPoint/index.html) (requires application from [CSCS IT Support Portal](https://tinyurl.com/vz9huc9) followed by departmental approval).
         - [Configuring your Mobile Device for Exchange Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Configuring+your+Mobile+Device+for+Exchange+Email)
         - MAC address (as the last line below) follows [this link](https://confluence.medschl.cam.ac.uk/display/FAQ/How+to+find+a+computer%27s+MAC+address) [^MAC].
-        - Office 365, [https://login.microsoftonline.com/](https://login.microsoftonline.com/)
+        - Office
+            + 365, [https://login.microsoftonline.com/](https://login.microsoftonline.com/)
+            + macOS: [Check your Office version (MacOS) & Self-serve update](https://cscs-itsupport.atlassian.net/l/cp/9L0xkZ1N)
+            + Windows: [Check your Office version (Windows) & Self-serve update](https://cscs-itsupport.atlassian.net/l/cp/w8oDnZm1)
         - Remote support, [http://remote-support.medschl.cam.ac.uk/](http://remote-support.medschl.cam.ac.uk/)
         - Support Portal, [https://itsupport.medschl.cam.ac.uk](https://itsupport.medschl.cam.ac.uk)
         - VPN (Virtual Private Network) can be furnished with [forticlient](https://www.fortinet.com/support/product-downloads) using the [new settings](https://confluence.medschl.cam.ac.uk/display/FAQ/New+VPN+Client+settings+for+Biomedical+Campus).

@@ -162,6 +162,7 @@
     - Report a security incident, [https://help.uis.cam.ac.uk/service/security/ir](https://help.uis.cam.ac.uk/service/security/ir)
     - Research Computing Services [Research data store](https://www.hpc.cam.ac.uk/research-data-storage-services/research-data-store), [Price list](https://www.hpc.cam.ac.uk/research-data-storage-services/price-list)
     - Self-service portal, [https://uniofcam.saasiteu.com/](https://uniofcam.saasiteu.com/)
+    - [Set up Thunderbird for Exchange Online ](https://help.uis.cam.ac.uk/service/collaboration/365/exchange-online/how-access-your-mailbox/set-thunderbird-exchange-online)
     - Status, [https://status.uis.cam.ac.uk/](https://status.uis.cam.ac.uk/)
     - token, [https://tokens.uis.cam.ac.uk/](https://tokens.uis.cam.ac.uk/)
     - Twitter, [https://twitter.com/UniCamIT](https://twitter.com/UniCamIT)

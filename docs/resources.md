@@ -2,6 +2,7 @@
 
 ## CEU
 
+  * Applying for Research Grants, [v9 11.01.2023](files/Applying for Research Grants v9 11.01.2023.docx)
   * CEU mailing list
     - To post to the list, send your email to: <a href="mailto:phpc-ceu-group@lists.cam.ac.uk">phpc-ceu-group@lists.cam.ac.uk</a>.
     - General information about the mailing list is at: [https://lists.cam.ac.uk/mailman/listinfo/phpc-ceu-group](https://lists.cam.ac.uk/mailman/listinfo/phpc-ceu-group). If you ever want to unsubscribe or change your options (eg, switch to or from digest mode), visit your subscription page at: [https://lists.cam.ac.uk/mailman/options/phpc-ceu-group/CRSid%40medschl.cam.ac.uk](https://lists.cam.ac.uk/mailman/options/phpc-ceu-group/CRSid%40medschl.cam.ac.uk). You can also make such adjustments via email by sending a message to: <a href="mailto:phpc-ceu-group-request@lists.cam.ac.uk">phpc-ceu-group-request@lists.cam.ac.uk</a>. with the word `help' in the subject or body (don't include the quotes), and you will get back a message with instructions.
@@ -51,6 +52,7 @@
         - CEU past talks, [home](https://www.youtube.com/channel/UCeS9CPB2_QGcBsnORnNQyjQ)
         - INTERVAL Study, [video](https://www.youtube.com/watch?v=bcgMhpuYyPo) ([web](https://www.intervalstudy.org.uk/))
         - COMPARE Study, [video](https://www.youtube.com/watch?v=Xd_h63-OhOg) ([web](http://www.donorhealth-btru.nihr.ac.uk/studies/compare-study/))
+  * Travel policy, [20.01.2023](files/CEU Travel Policy 20.01.2023.docx)
   * Twitter
     - [@CAMBRIDGE_CEU](https://twitter.com/CAMBRIDGE_CEU)
     - [@DonorHealthBTRU](https://twitter.com/donorhealthbtru)

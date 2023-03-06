@@ -4,7 +4,7 @@ The following list gives information on active mailing lists, events, slack chan
 
 ## Kudoboard & collection pot
 
-* [CEU kudoboard](https://ceu2.kudoboard.com/)
+* Kudoboard, <https://https.kudoboard.com/boards/> ([CEU kudoboard](https://ceu2.kudoboard.com/))
 * [Collection pot](https://www.collectionpot.com/)
 * [Just Giving](https://www.justgiving.com/)
 

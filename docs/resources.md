@@ -192,6 +192,7 @@
     >                                                  Microsoft Windows Network
     >      The command completed successfully.
     > 
+    > The user profile is available from \\me-filer2.medschl.cam.ac.uk\profiles$\CRSid.v#
     >
 [^MAC]: An example output from `getmac -v`.
     >

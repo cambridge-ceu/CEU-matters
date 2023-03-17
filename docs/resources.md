@@ -192,7 +192,11 @@
     >                                                  Microsoft Windows Network
     >      The command completed successfully.
     > 
-    > The user profile is available from `\\me-filer2.medschl.cam.ac.uk\profiles$\CRSid.v#`, and is again handy to map it to a drive. In case of error(s), a run as administrator from a `cmd` session with `sfc/scannow` to fix.
+    > The user profile is available from `\\me-filer2.medschl.cam.ac.uk\profiles$\CRSid.v#`, and is again handy to map it to a drive, i.e.,
+    >
+    > net use Z: \\me-filer2.medschl.cam.ac.uk\profiles$\CRSid.v#
+    >
+    > The `AppData/Roaming` directory can be used when appropriate. In case of error(s), a run as administrator from a `cmd` session with `sfc/scannow` to fix.
     >
 [^MAC]: An example output from `getmac -v`.
     >

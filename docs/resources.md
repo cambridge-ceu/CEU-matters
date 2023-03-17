@@ -192,7 +192,7 @@
     >                                                  Microsoft Windows Network
     >      The command completed successfully.
     > 
-    > The user profile is available from `\\me-filer2.medschl.cam.ac.uk\profiles$\CRSid.v#`, and is again handy to map it to a drive, i.e.,
+    > The user profile is available from `\\me-filer2.medschl.cam.ac.uk\profiles$\CRSid.v#`, and is again handy to map it to a drive, e.g., via MS-DOS,
     >
     > net use Z: \\me-filer2.medschl.cam.ac.uk\profiles$\CRSid.v#
     >

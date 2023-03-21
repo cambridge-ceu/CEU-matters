@@ -171,6 +171,8 @@
     - Twitter, [https://twitter.com/UniCamIT](https://twitter.com/UniCamIT)
     - VPN service, [https://help.uis.cam.ac.uk/service/network-services/remote-access/uis-vpn](https://help.uis.cam.ac.uk/service/network-services/remote-access/uis-vpn)
 
+## Footnotes
+
 [^U]: Network drives
     >
     > U:\>net use

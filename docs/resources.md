@@ -12,8 +12,8 @@
     - Address
       ```
       (Cambridge Biomedical Campus):
-      Department of Public Health and Primary Care / Cardiovascular Epidemiology Unit
-      Heart and Lung Research Institute
+      Department of Public Health and Primary Care / British Heart Foundation Cardiovascular Epidemiology Unit
+      Victor Phillip Dahdaleh Heart and Lung Research Institute
       University of Cambridge
       Papworth Road, Cambridge CB2 0BB
       ```
@@ -29,7 +29,7 @@
       ```
       (Address):
       Building Services Team
-      Heart and Lung Research Institute,
+      Victor Phillip Dahdaleh Heart and Lung Research Institute,
       University of Cambridge,
       Papworth Road,
       Cambridge
@@ -155,6 +155,7 @@
         - Phishing, [https://help.uis.cam.ac.uk/service/security/cyber-security-awareness/phishing](https://help.uis.cam.ac.uk/service/security/cyber-security-awareness/phishing)
         - Security updates, [https://help.uis.cam.ac.uk/service/security/cyber-security-awareness/wfh-security/update-os](https://help.uis.cam.ac.uk/service/security/cyber-security-awareness/wfh-security/update-os)
     - Email delivery of @cam address [https://confluence.medschl.cam.ac.uk/x/gwtCBQ](https://confluence.medschl.cam.ac.uk/x/gwtCBQ).
+    - Email policy, <https://help.uis.cam.ac.uk/email-policy> (contact isc@admin.cam.ac.uk for questions).
     - GitHub education programme, [https://help.uis.cam.ac.uk/news/github-education](https://help.uis.cam.ac.uk/news/github-education)
     - Google account, [https://help.uis.cam.ac.uk/service/collaboration/workspace/registration-and-login](https://help.uis.cam.ac.uk/service/collaboration/workspace/registration-and-login)
     - Hermes webmail, [https://help.uis.cam.ac.uk/webmail](https://help.uis.cam.ac.uk/webmail)

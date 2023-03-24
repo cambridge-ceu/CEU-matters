@@ -4,15 +4,16 @@
 
   * Applying for Research Grants, v9 11.01.2023
   * CEU mailing list
-    - To post to the list, send your email to: <a href="mailto:phpc-ceu-group@lists.cam.ac.uk">phpc-ceu-group@lists.cam.ac.uk</a>.
-    - General information about the mailing list is at: [https://lists.cam.ac.uk/mailman/listinfo/phpc-ceu-group](https://lists.cam.ac.uk/mailman/listinfo/phpc-ceu-group). If you ever want to unsubscribe or change your options (eg, switch to or from digest mode), visit your subscription page at: [https://lists.cam.ac.uk/mailman/options/phpc-ceu-group/CRSid%40medschl.cam.ac.uk](https://lists.cam.ac.uk/mailman/options/phpc-ceu-group/CRSid%40medschl.cam.ac.uk). You can also make such adjustments via email by sending a message to: <a href="mailto:phpc-ceu-group-request@lists.cam.ac.uk">phpc-ceu-group-request@lists.cam.ac.uk</a>. with the word `help' in the subject or body (don't include the quotes), and you will get back a message with instructions.
-    - Queries about the list can be made via <a href="mailto:phpc-ceu-group-owner@lists.cam.ac.uk">phpc-ceu-group-owner@lists.cam.ac.uk</a>.
+    - To post to the list, send your email to: <phpc-ceu-group@lists.cam.ac.uk>.
+    - General information about the mailing list is at: [https://lists.cam.ac.uk/mailman/listinfo/phpc-ceu-group](https://lists.cam.ac.uk/mailman/listinfo/phpc-ceu-group). If you ever want to unsubscribe or change your options (eg, switch to or from digest mode), visit your subscription page at: [https://lists.cam.ac.uk/mailman/options/phpc-ceu-group/CRSid%40medschl.cam.ac.uk](https://lists.cam.ac.uk/mailman/options/phpc-ceu-group/CRSid%40medschl.cam.ac.uk). You can also make such adjustments via email by sending a message to: <phpc-ceu-group-request@lists.cam.ac.uk>. with the word `help' in the subject or body (don't include the quotes), and you will get back a message with instructions.
+    - Queries about the list can be made via <phpc-ceu-group-owner@lists.cam.ac.uk>.
   * CEU Management Team <CEUManagement@medschl.cam.ac.uk>
   * HLRI
     - Address
       ```
       (Cambridge Biomedical Campus):
-      Department of Public Health and Primary Care / British Heart Foundation Cardiovascular Epidemiology Unit
+      British Heart Foundation Cardiovascular Epidemiology Unit
+      Department of Public Health and Primary Care
       Victor Phillip Dahdaleh Heart and Lung Research Institute
       University of Cambridge
       Papworth Road, Cambridge CB2 0BB
@@ -34,12 +35,12 @@
       Papworth Road,
       Cambridge
       CB2 0BB
-      Email - HLRI-Reception@medschl.cam.ac.uk
+      Email - <HLRI-Reception@medschl.cam.ac.uk>
       Tel - (01223) 762755
       ```
     - Reconnect your PC from SRL: It is useful to run from command prompt, ***ipconfig /release*** and ***ipconfig /renew*** followed by a restart to connect to U:\ or other drives [^U].
     - Working Group Sign-up, [https://www.surveymonkey.co.uk/r/Q8MJ5NW](https://www.surveymonkey.co.uk/r/Q8MJ5NW)
-  * Publications Mailbox [ceupublications@medschl.cam.ac.uk](mailto:ceupublications@medschl.cam.ac.uk); please email when you submit a paper. 
+  * Publications Mailbox <ceupublications@medschl.cam.ac.uk>; please email when you submit a paper. 
   * Studies
     - Web: National Institute for Health and Care Research (NIHR) Blood and Transplant Research Unit (BTRU) in Donor Health and Behaviour <http://www.donorhealth-btru.nihr.ac.uk/>
         - INTERVAL Study, <http://www.donorhealth-btru.nihr.ac.uk/studies/interval-study/> and <https://www.intervalstudy.org.uk/> (<helpdesk@intervalstudy.org.uk>)
@@ -60,24 +61,24 @@
 
 ## DPHPC
 
-  * Accounts Team: <a href="mailto:ps.accounts@medschl.cam.ac.uk">ps.accounts@medschl.cam.ac.uk</a>
-  * Comms Team: <a href="mailto:ps.comms@medschl.cam.ac.uk">ps.comms@medschl.cam.ac.uk</a>
-  * Finance: <a href="mailto:PHPC.Finance.Manager@medschl.cam.ac.uk">PHPC.Finance.Manager@medschl.cam.ac.uk</a>
-  * Grants Team: <a href="mailto:ps.grants@medschl.cam.ac.uk">ps.grants@medschl.cam.ac.uk</a>
-  * HR Team: <a href="mailto:phpc.hr@medschl.cam.ac.uk">phpc.hr@medschl.cam.ac.uk</a>
+  * Accounts Team: <ps.accounts@medschl.cam.ac.uk>
+  * Comms Team: <ps.comms@medschl.cam.ac.uk>
+  * Finance: <PHPC.Finance.Manager@medschl.cam.ac.uk>
+  * Grants Team: <ps.grants@medschl.cam.ac.uk>
+  * HR Team: <phpc.hr@medschl.cam.ac.uk>
   * Intranet: [https://intranet.phpc.cam.ac.uk](https://intranet.phpc.cam.ac.uk)
     - Staff card, [https://intranet.phpc.cam.ac.uk/facilities-and-comms/accountservices/](https://intranet.phpc.cam.ac.uk/facilities-and-comms/accountservices/) ([New Starter form](https://intranet.phpc.cam.ac.uk/human-resources/new-starters/)); check your card validity
     - Printers, [https://intranet.phpc.cam.ac.uk/facilities-and-comms/accountservices/printing/](https://intranet.phpc.cam.ac.uk/facilities-and-comms/accountservices/printing/) ([lookup](https://www.lookup.cam.ac.uk/self), [Printer Setup Instructions](https://intranet.phpc.cam.ac.uk/wp-content/uploads/2020/03/Printer-Setup-Instructions.docx), [Scanning Guide](https://intranet.phpc.cam.ac.uk/wp-content/uploads/2020/03/Scanning-Guide.docx), [email for help](mailto:ps.comms@medschl.cam.ac.uk))
-  * Mailing list, [phpc-all@lists.cam.ac.uk](mailto:phpc-all@lists.cam.ac.uk) (also <phpc-research-assistants-request@lists.cam.ac.uk>)
+  * Mailing list, <phpc-all@lists.cam.ac.uk> (also <phpc-research-assistants-request@lists.cam.ac.uk>)
   * PeopleHR: [https://dphpc.peoplehr.net/](https://dphpc.peoplehr.net/)
-  * Reception/Facilities Team: <a href="mailto:phpc.reception@medschl.cam.ac.uk">phpc.reception@medschl.cam.ac.uk</a>
+  * Reception/Facilities Team: <phpc.reception@medschl.cam.ac.uk>
   * Staff profile, [https://intranet.phpc.cam.ac.uk/facilities-and-comms/communications/profiles/](https://intranet.phpc.cam.ac.uk/facilities-and-comms/communications/profiles/)
 
 ## School
 
   * Clinical School Computing Service (CSCS)
     - Self-service Portal: [https://itsupport.medschl.cam.ac.uk](https://itsupport.medschl.cam.ac.uk)
-    - Service Desk: <a href="tel:+4401223336261">**01223 (3)36261**</a> (9am – 5pm Monday to Friday), <a href="mailto:servicedesk@medschl.cam.ac.uk"> servicedesk@medschl.cam.ac.uk</a>
+    - Service Desk: <a href="tel:+4401223336261">**01223 (3)36261**</a> (9am – 5pm Monday to Friday), <servicedesk@medschl.cam.ac.uk>
     - Service status: [https://cscs.medschl.cam.ac.uk/information/service-status/](https://cscs.medschl.cam.ac.uk/information/service-status/)
     - Service Twitter: [https://twitter.com/Cambridge_CSCS](https://twitter.com/Cambridge_CSCS)
     - Service website: [https://cscs.medschl.cam.ac.uk/](https://cscs.medschl.cam.ac.uk/) (news, [https://cscs.medschl.cam.ac.uk/news/](https://cscs.medschl.cam.ac.uk/news/))
@@ -98,7 +99,7 @@
   * Declaration of interest: [https://www.medschl.cam.ac.uk/declaration-of-interests/](https://www.medschl.cam.ac.uk/declaration-of-interests/)
   * HR
     - [Botanical Gardens](https://www.botanic.cam.ac.uk/), [passes](https://tinyurl.com/u67rcjha)
-    - Clinical School Cookbook, [https://tinyurl.com/3jn2mzsh](https://tinyurl.com/3jn2mzsh) (Share recipes via [cswellbeing@admin.cam.ac.uk](mailto:cswellbeing@admin.cam.ac.uk))
+    - Clinical School Cookbook, [https://tinyurl.com/3jn2mzsh](https://tinyurl.com/3jn2mzsh) (Share recipes via <cswellbeing@admin.cam.ac.uk>)
     - Twitter, [https://twitter.com/clinical_hr](https://twitter.com/clinical_hr)
 
 ## University
@@ -107,7 +108,7 @@
   * CAMbens SmartHub, [https://cambridge.rewardgateway.co.uk](https://cambridge.rewardgateway.co.uk)
   * Cambridge Science Festival, [https://www.festival.cam.ac.uk/](https://www.festival.cam.ac.uk/) ([Events management](https://webservices.admin.cam.ac.uk/events/admin), [Practical information](https://www.cam.ac.uk/public-engagement/get-involved/cambridge-festival-coordinators-page))
   * CULP courses, [https://www.langcen.cam.ac.uk/culp/culp-general-courses.html](https://www.langcen.cam.ac.uk/culp/culp-general-courses.html) ([Online booking system](https://www.training.cam.ac.uk/lc/theme/CULP?providerId=399495))
-  * Emergency Childcare, [https://www.emergencychildcare.co.uk/](https://www.emergencychildcare.co.uk/) (contact <a href="mailto:csreward@admin.cam.ac.uk">csreward@admin.cam.ac.uk</a>)
+  * Emergency Childcare, [https://www.emergencychildcare.co.uk/](https://www.emergencychildcare.co.uk/) (contact <csreward@admin.cam.ac.uk>)
   * Estates Division, [https://www.em.admin.cam.ac.uk/](https://www.em.admin.cam.ac.uk/)
     - Buildings emergencies, [https://www.em.admin.cam.ac.uk/operating-estate/security](https://www.em.admin.cam.ac.uk/operating-estate/security)
     - Car parking applications, [https://www.em.admin.cam.ac.uk/what-we-do/estate-operations/facilities-services/car-parking-applications](https://www.em.admin.cam.ac.uk/what-we-do/estate-operations/facilities-services/car-parking-applications)
@@ -155,7 +156,7 @@
         - Phishing, [https://help.uis.cam.ac.uk/service/security/cyber-security-awareness/phishing](https://help.uis.cam.ac.uk/service/security/cyber-security-awareness/phishing)
         - Security updates, [https://help.uis.cam.ac.uk/service/security/cyber-security-awareness/wfh-security/update-os](https://help.uis.cam.ac.uk/service/security/cyber-security-awareness/wfh-security/update-os)
     - Email delivery of @cam address [https://confluence.medschl.cam.ac.uk/x/gwtCBQ](https://confluence.medschl.cam.ac.uk/x/gwtCBQ).
-    - Email policy, <https://help.uis.cam.ac.uk/email-policy> (contact isc@admin.cam.ac.uk for questions).
+    - Email policy, <https://help.uis.cam.ac.uk/email-policy> (contact <isc@admin.cam.ac.uk> for questions).
     - GitHub education programme, [https://help.uis.cam.ac.uk/news/github-education](https://help.uis.cam.ac.uk/news/github-education)
     - Google account, [https://help.uis.cam.ac.uk/service/collaboration/workspace/registration-and-login](https://help.uis.cam.ac.uk/service/collaboration/workspace/registration-and-login)
     - Hermes webmail, [https://help.uis.cam.ac.uk/webmail](https://help.uis.cam.ac.uk/webmail)

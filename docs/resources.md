@@ -88,7 +88,7 @@
         - MAC address (as the last line below) follows [this link](https://confluence.medschl.cam.ac.uk/display/FAQ/How+to+find+a+computer%27s+MAC+address) [^MAC].
         - Office
             + 365: [https://login.microsoftonline.com/](https://login.microsoftonline.com/)
-            + Email access: <https://outlook.office.com> with CRSid@cam.ac.uk/Raven password.
+            + Email access: <webmail.medschl.cam.ac.uk> with MINTS password or <https://outlook.office.com> with CRSid@cam.ac.uk/Raven password.
             + macOS: [Check your Office version (MacOS) & Self-serve update](https://cscs-itsupport.atlassian.net/l/cp/9L0xkZ1N)
             + Windows: [Check your Office version (Windows) & Self-serve update](https://cscs-itsupport.atlassian.net/l/cp/w8oDnZm1)
         - Remote support, [http://remote-support.medschl.cam.ac.uk/](http://remote-support.medschl.cam.ac.uk/)

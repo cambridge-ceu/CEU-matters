@@ -93,7 +93,7 @@
             + Windows: [Check your Office version (Windows) & Self-serve update](https://cscs-itsupport.atlassian.net/l/cp/w8oDnZm1)
         - Remote support, [http://remote-support.medschl.cam.ac.uk/](http://remote-support.medschl.cam.ac.uk/)
         - Support Portal, [https://itsupport.medschl.cam.ac.uk](https://itsupport.medschl.cam.ac.uk)
-        - VPN (Virtual Private Network) can be furnished with [forticlient](https://www.fortinet.com/support/product-downloads) using the [new settings](https://confluence.medschl.cam.ac.uk/display/FAQ/New+VPN+Client+settings+for+Biomedical+Campus).
+        - VPN (Virtual Private Network) can be furnished with [forticlient](https://www.fortinet.com/support/product-downloads) using the [new settings](https://cscs-itsupport.atlassian.net/wiki/spaces/FAQ/pages/21365847/VPN+Connection+Settings).
         - [VPN at medschl](https://confluence.medschl.cam.ac.uk/x/64q4) (download and install [Software](https://software.medschl.cam.ac.uk/) and then use remote desktop to your office PC is just as in your office) [^VPN].
     - User Guides: [https://cscsguides.medschl.cam.ac.uk](https://cscsguides.medschl.cam.ac.uk)
   * Declaration of interest: [https://www.medschl.cam.ac.uk/declaration-of-interests/](https://www.medschl.cam.ac.uk/declaration-of-interests/)

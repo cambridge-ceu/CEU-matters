@@ -12,6 +12,7 @@ The following list gives information on active mailing lists, events, slack chan
 
 * [Allstat](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=ALLSTAT).
 * [CSML](http://www.mailinglists.ucl.ac.uk/mailman/listinfo/csml).
+* [Discord](https://packt.link/MLwPyTorch)
 * [R mailing lists](https://www.r-project.org/mail.html).
 * [SEGEG](https://mailman.kcl.ac.uk/mailman/listinfo/segeg).
 

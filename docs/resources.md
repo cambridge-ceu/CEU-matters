@@ -67,76 +67,76 @@
   * Finance: <PHPC.Finance.Manager@medschl.cam.ac.uk>
   * Grants Team: <ps.grants@medschl.cam.ac.uk>
   * HR Team: <phpc.hr@medschl.cam.ac.uk>
-  * Intranet: [https://intranet.phpc.cam.ac.uk](https://intranet.phpc.cam.ac.uk)
-    - Staff card, [https://intranet.phpc.cam.ac.uk/facilities-and-comms/accountservices/](https://intranet.phpc.cam.ac.uk/facilities-and-comms/accountservices/) ([New Starter form](https://intranet.phpc.cam.ac.uk/human-resources/new-starters/)); check your card validity
-    - Printers, [https://intranet.phpc.cam.ac.uk/facilities-and-comms/accountservices/printing/](https://intranet.phpc.cam.ac.uk/facilities-and-comms/accountservices/printing/) ([lookup](https://www.lookup.cam.ac.uk/self), [Printer Setup Instructions](https://intranet.phpc.cam.ac.uk/wp-content/uploads/2020/03/Printer-Setup-Instructions.docx), [Scanning Guide](https://intranet.phpc.cam.ac.uk/wp-content/uploads/2020/03/Scanning-Guide.docx), [email for help](mailto:ps.comms@medschl.cam.ac.uk))
+  * Intranet: <https://intranet.phpc.cam.ac.uk>
+    - Staff card, <https://intranet.phpc.cam.ac.uk/facilities-and-comms/accountservices/> ([New Starter form](https://intranet.phpc.cam.ac.uk/human-resources/new-starters/)); check your card validity
+    - Printers, <https://intranet.phpc.cam.ac.uk/facilities-and-comms/accountservices/printing/> ([lookup](https://www.lookup.cam.ac.uk/self), [Printer Setup Instructions](https://intranet.phpc.cam.ac.uk/wp-content/uploads/2020/03/Printer-Setup-Instructions.docx), [Scanning Guide](https://intranet.phpc.cam.ac.uk/wp-content/uploads/2020/03/Scanning-Guide.docx), [email for help](mailto:ps.comms@medschl.cam.ac.uk))
   * Mailing list, <phpc-all@lists.cam.ac.uk> (also <phpc-research-assistants-request@lists.cam.ac.uk>)
-  * PeopleHR: [https://dphpc.peoplehr.net/](https://dphpc.peoplehr.net/)
+  * PeopleHR: <https://dphpc.peoplehr.net/>
   * Reception/Facilities Team: <phpc.reception@medschl.cam.ac.uk>
-  * Staff profile, [https://intranet.phpc.cam.ac.uk/facilities-and-comms/communications/profiles/](https://intranet.phpc.cam.ac.uk/facilities-and-comms/communications/profiles/)
+  * Staff profile, <https://intranet.phpc.cam.ac.uk/facilities-and-comms/communications/profiles/>
 
 ## School
 
   * Clinical School Computing Service (CSCS)
-    - Self-service Portal: [https://itsupport.medschl.cam.ac.uk](https://itsupport.medschl.cam.ac.uk)
+    - Self-service Portal: <https://itsupport.medschl.cam.ac.uk>
     - Service Desk: <a href="tel:+4401223336261">**01223 (3)36261**</a> (9am – 5pm Monday to Friday), <servicedesk@medschl.cam.ac.uk>
-    - Service status: [https://cscs.medschl.cam.ac.uk/information/service-status/](https://cscs.medschl.cam.ac.uk/information/service-status/)
+    - Service status: <https://cscs.medschl.cam.ac.uk/information/service-status/>
     - Service Twitter: [https://twitter.com/Cambridge_CSCS](https://twitter.com/Cambridge_CSCS)
-    - Service website: [https://cscs.medschl.cam.ac.uk/](https://cscs.medschl.cam.ac.uk/) (news, [https://cscs.medschl.cam.ac.uk/news/](https://cscs.medschl.cam.ac.uk/news/))
+    - Service website: <https://cscs.medschl.cam.ac.uk/> (news, [https://cscs.medschl.cam.ac.uk/news/](https://cscs.medschl.cam.ac.uk/news/))
     - Tips
-        - Anywhere Citrix Portal, [https://anywhere.medschl.cam.ac.uk/logon/LogonPoint/index.html](https://anywhere.medschl.cam.ac.uk/logon/LogonPoint/index.html) (requires application from [CSCS IT Support Portal](https://tinyurl.com/vz9huc9) followed by departmental approval).
+        - Anywhere Citrix Portal, <https://anywhere.medschl.cam.ac.uk/logon/LogonPoint/index.html> (requires application from [CSCS IT Support Portal](https://tinyurl.com/vz9huc9) followed by departmental approval).
         - [Configuring your Mobile Device for Exchange Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Configuring+your+Mobile+Device+for+Exchange+Email)
         - MAC address (as the last line below) follows [this link](https://confluence.medschl.cam.ac.uk/display/FAQ/How+to+find+a+computer%27s+MAC+address) [^MAC].
         - Office
-            + 365: [https://login.microsoftonline.com/](https://login.microsoftonline.com/)
+            + 365: <https://login.microsoftonline.com/>
             + Email access: <webmail.medschl.cam.ac.uk> with MINTS password or <https://outlook.office.com> with CRSid@cam.ac.uk/Raven password.
             + macOS: [Check your Office version (MacOS) & Self-serve update](https://cscs-itsupport.atlassian.net/l/cp/9L0xkZ1N)
             + Windows: [Check your Office version (Windows) & Self-serve update](https://cscs-itsupport.atlassian.net/l/cp/w8oDnZm1)
-        - Remote support, [http://remote-support.medschl.cam.ac.uk/](http://remote-support.medschl.cam.ac.uk/)
-        - Support Portal, [https://itsupport.medschl.cam.ac.uk](https://itsupport.medschl.cam.ac.uk)
+        - Remote support, <http://remote-support.medschl.cam.ac.uk/>
+        - Support Portal, <https://itsupport.medschl.cam.ac.uk>
         - VPN (Virtual Private Network) can be furnished with [forticlient](https://www.fortinet.com/support/product-downloads) using the [new settings](https://cscs-itsupport.atlassian.net/wiki/spaces/FAQ/pages/21365847/VPN+Connection+Settings).
         - [VPN at medschl](https://confluence.medschl.cam.ac.uk/x/64q4) (download and install [Software](https://software.medschl.cam.ac.uk/) and then use remote desktop to your office PC is just as in your office) [^VPN].
-    - User Guides: [https://cscsguides.medschl.cam.ac.uk](https://cscsguides.medschl.cam.ac.uk)
-  * Declaration of interest: [https://www.medschl.cam.ac.uk/declaration-of-interests/](https://www.medschl.cam.ac.uk/declaration-of-interests/)
+    - User Guides: <https://cscsguides.medschl.cam.ac.uk>
+  * Declaration of interest: <https://www.medschl.cam.ac.uk/declaration-of-interests/>
   * HR
     - [Botanical Gardens](https://www.botanic.cam.ac.uk/), [passes](https://tinyurl.com/u67rcjha)
-    - Clinical School Cookbook, [https://tinyurl.com/3jn2mzsh](https://tinyurl.com/3jn2mzsh) (Share recipes via <cswellbeing@admin.cam.ac.uk>)
-    - Twitter, [https://twitter.com/clinical_hr](https://twitter.com/clinical_hr)
+    - Clinical School Cookbook, <https://tinyurl.com/3jn2mzsh> (Share recipes via <cswellbeing@admin.cam.ac.uk>)
+    - Twitter, <https://twitter.com/clinical_hr>
 
 ## University
 
-  * Brand resources, [https://www.cam.ac.uk/brand-resources](https://www.cam.ac.uk/brand-resources)
-  * CAMbens SmartHub, [https://cambridge.rewardgateway.co.uk](https://cambridge.rewardgateway.co.uk)
-  * Cambridge Science Festival, [https://www.festival.cam.ac.uk/](https://www.festival.cam.ac.uk/) ([Events management](https://webservices.admin.cam.ac.uk/events/admin), [Practical information](https://www.cam.ac.uk/public-engagement/get-involved/cambridge-festival-coordinators-page))
-  * CULP courses, [https://www.langcen.cam.ac.uk/culp/culp-general-courses.html](https://www.langcen.cam.ac.uk/culp/culp-general-courses.html) ([Online booking system](https://www.training.cam.ac.uk/lc/theme/CULP?providerId=399495))
-  * Emergency Childcare, [https://www.emergencychildcare.co.uk/](https://www.emergencychildcare.co.uk/) (contact <csreward@admin.cam.ac.uk>)
-  * Estates Division, [https://www.em.admin.cam.ac.uk/](https://www.em.admin.cam.ac.uk/)
-    - Buildings emergencies, [https://www.em.admin.cam.ac.uk/operating-estate/security](https://www.em.admin.cam.ac.uk/operating-estate/security)
+  * Brand resources, <https://www.cam.ac.uk/brand-resources>
+  * CAMbens SmartHub, <https://cambridge.rewardgateway.co.uk>
+  * Cambridge Science Festival, <https://www.festival.cam.ac.uk/> ([Events management](https://webservices.admin.cam.ac.uk/events/admin), [Practical information](https://www.cam.ac.uk/public-engagement/get-involved/cambridge-festival-coordinators-page))
+  * CULP courses, <https://www.langcen.cam.ac.uk/culp/culp-general-courses.html> ([Online booking system](https://www.training.cam.ac.uk/lc/theme/CULP?providerId=399495))
+  * Emergency Childcare, <https://www.emergencychildcare.co.uk/> (contact <csreward@admin.cam.ac.uk>)
+  * Estates Division, <https://www.em.admin.cam.ac.uk/>
+    - Buildings emergencies, <https://www.em.admin.cam.ac.uk/operating-estate/security>
     - Car parking
         + Car parking applications, <https://www.em.admin.cam.ac.uk/what-we-do/estate-operations/facilities-services/car-parking-applications>
         + Consultation, <https://www.environment.admin.cam.ac.uk/travel/travel-car/draft-car-parking-policy-consultation>
         + Draft policy, <https://www.environment.admin.cam.ac.uk/sites/www.environment.admin.cam.ac.uk/files/draft_car_parking_policy_3.pdf>
         + Policy review, <https://www.environment.admin.cam.ac.uk/sites/www.environment.admin.cam.ac.uk/files/car_parking_policy_review_1.pdf>
-  * Expense Management System, [https://www.expenses.admin.cam.ac.uk](https://www.expenses.admin.cam.ac.uk) ([Online learning](https://www.expenses.admin.cam.ac.uk/learning-paths) ([videos](https://web.microsoftstream.com/video/8a1386a4-6615-4f8f-8f27-cf08d6e541b6)), [Contact](mailto:expensesproject@admin.cam.ac.uk) & [queries](mailto:concur_enquiries@admin.cam.ac.uk), [use of the mobile app](https://www.expenses.admin.cam.ac.uk/learning-path-mobile-app)). Training for specific roles:
-    - Claimants: [https://www.expenses.admin.cam.ac.uk/learning-path-basics-and-claims](https://www.expenses.admin.cam.ac.uk/learning-path-basics-and-claims)
-    - Approvers: [https://www.expenses.admin.cam.ac.uk/learning-path-approvers](https://www.expenses.admin.cam.ac.uk/learning-path-approvers)
-    - Finance Teams: [https://www.expenses.admin.cam.ac.uk/learning-path-finance-teams](https://www.expenses.admin.cam.ac.uk/learning-path-finance-teams)
-    - Credit Card Holders: [https://www.expenses.admin.cam.ac.uk/learning-path-card-holder](https://www.expenses.admin.cam.ac.uk/learning-path-card-holder)
-    - Subsistence rates: [https://www.expenses.admin.cam.ac.uk/expense-rates/subsistence-rates](https://www.expenses.admin.cam.ac.uk/expense-rates/subsistence-rates)
-  * Human Resources, [https://www.hr.admin.cam.ac.uk/](https://www.hr.admin.cam.ac.uk/)
-    - Employee Self Service, [https://chris.cam.ac.uk/hrlive_ess/ess/index.html#/login](https://chris.cam.ac.uk/hrlive_ess/ess/index.html#/login)
+  * Expense Management System, <https://www.expenses.admin.cam.ac.uk> ([Online learning](https://www.expenses.admin.cam.ac.uk/learning-paths) ([videos](https://web.microsoftstream.com/video/8a1386a4-6615-4f8f-8f27-cf08d6e541b6)), [Contact](mailto:expensesproject@admin.cam.ac.uk) & [queries](mailto:concur_enquiries@admin.cam.ac.uk), [use of the mobile app](https://www.expenses.admin.cam.ac.uk/learning-path-mobile-app)). Training for specific roles:
+    - Claimants: <https://www.expenses.admin.cam.ac.uk/learning-path-basics-and-claims>
+    - Approvers: <https://www.expenses.admin.cam.ac.uk/learning-path-approvers>
+    - Finance Teams: <https://www.expenses.admin.cam.ac.uk/learning-path-finance-teams>
+    - Credit Card Holders: <https://www.expenses.admin.cam.ac.uk/learning-path-card-holder>
+    - Subsistence rates: <https://www.expenses.admin.cam.ac.uk/expense-rates/subsistence-rates>
+  * Human Resources, <https://www.hr.admin.cam.ac.uk/>
+    - Employee Self Service, <https://chris.cam.ac.uk/hrlive_ess/ess/index.html#/login>
     - [Equality and Diversity Team](mailto:equality@admin.cam.ac.uk")
     - [Policies and procedures](https://www.hr.admin.cam.ac.uk/policies-procedures)
         + Adverse weather policy, <https://www.hr.admin.cam.ac.uk/policies-procedures/adverse-weather-policy>
         + Hybrid working policy, <https://www.hr.admin.cam.ac.uk/policies-procedures/hybrid-working-policy>
         + SRP [2023](https://www.hr.admin.cam.ac.uk/policies-procedures/senior-research-promotions-procedures-and-guidance-2023)
     - [Recruitment restraint](https://www.hr.admin.cam.ac.uk/recruitment_protocol_2020_21)
-  * Industrial action, [https://www.industrialaction.admin.cam.ac.uk/](https://www.industrialaction.admin.cam.ac.uk/) ([university forms](https://www.industrialaction.admin.cam.ac.uk/forms))
-  * Lookup service, [https://www.lookup.cam.ac.uk/self](https://www.lookup.cam.ac.uk/self) ([https://www.lookup.cam.ac.uk/person/crsid/your-crsid](https://www.lookup.cam.ac.uk/person/crsid/your-crsid))
-  * Moodle account, [https://www.vle.cam.ac.uk/login/index.php](https://www.vle.cam.ac.uk/login/index.php) as a virtual learning environment (VLE), [Understanding Unconscious/Implicit Bias](https://www.equality.admin.cam.ac.uk/training-overview/understanding-unconscious-implicit-bias)
-  * Newcomers and visiting scholars, [https://www.nvs.admin.cam.ac.uk/](https://www.nvs.admin.cam.ac.uk/) ([Registration form](https://www.nvs.admin.cam.ac.uk/form/registration-form-v2), [Facebook group](https://www.facebook.com/groups/41435817577/), <nvs.enquiries@admin.cam.ac.uk>)
-  * Occupational health, [https://www.oh.admin.cam.ac.uk/](https://www.oh.admin.cam.ac.uk/)
-    - DSE Forms [https://www.oh.admin.cam.ac.uk/oh-forms/display-screen-equipment-self-assessment-checklist](https://www.oh.admin.cam.ac.uk/oh-forms/display-screen-equipment-self-assessment-checklist)
+  * Industrial action, <https://www.industrialaction.admin.cam.ac.uk/> ([university forms](https://www.industrialaction.admin.cam.ac.uk/forms))
+  * Lookup service, <https://www.lookup.cam.ac.uk/self> (<https://www.lookup.cam.ac.uk/person/crsid/your-crsid>)
+  * Moodle account, <https://www.vle.cam.ac.uk/login/index.php> as a virtual learning environment (VLE), [Understanding Unconscious/Implicit Bias](https://www.equality.admin.cam.ac.uk/training-overview/understanding-unconscious-implicit-bias)
+  * Newcomers and visiting scholars, <https://www.nvs.admin.cam.ac.uk/> ([Registration form](https://www.nvs.admin.cam.ac.uk/form/registration-form-v2), [Facebook group](https://www.facebook.com/groups/41435817577/), <nvs.enquiries@admin.cam.ac.uk>)
+  * Occupational health, <https://www.oh.admin.cam.ac.uk/>
+    - DSE Forms <https://www.oh.admin.cam.ac.uk/oh-forms/display-screen-equipment-self-assessment-checklist>
   * Pension/NHS Administration
     ```
     (Address)
@@ -146,7 +146,7 @@
     Email: pensionsonline@admin.cam.ac.uk
     Tel: (01223) (3)32214 or (01223) (3)39658
     ```
-  * Postdoc Academy, [(https://www.postdocacademy.cam.ac.uk/](https://www.postdocacademy.cam.ac.uk/) ([Fellowships](https://www.postdocacademy.cam.ac.uk/professional-opportunities/fellowships))
+  * Postdoc Academy, [<https://www.postdocacademy.cam.ac.uk/> ([Fellowships](https://www.postdocacademy.cam.ac.uk/professional-opportunities/fellowships))
   * Priorities Framework, [https://www.v-c.admin.cam.ac.uk/projects/extraordinary-cambridge](https://www.v-c.admin.cam.ac.uk/projects/extraordinary-cambridge)
   * Protection of Personal Data
     - Guidance on academic research and personal data, <https://www.information-compliance.admin.cam.ac.uk/data-protection/guidance/research>
@@ -158,32 +158,32 @@
   * Research Strategy Office, [https://www.research-strategy.admin.cam.ac.uk/](https://www.research-strategy.admin.cam.ac.uk/)
   * Student run computing facilities (SRCF), [https://www.srcf.net/](https://www.srcf.net/) ([Webmail](https://webmail.hades.srcf.net/))
   * Symplectic Elements Login, [https://elements.admin.cam.ac.uk/default.html](https://elements.admin.cam.ac.uk/default.html)
-  * Telecoms Office, [https://www.phone.cam.ac.uk/](https://www.phone.cam.ac.uk/) ([My phone](https://my.phone.cam.ac.uk/myphone/calls))
-  * Transport strategy 2019-2024, [https://www.environment.admin.cam.ac.uk/files/university_of_cambridge_transport_strategy_2019-2024.pdf](https://www.environment.admin.cam.ac.uk/files/university_of_cambridge_transport_strategy_2019-2024.pdf)
+  * Telecoms Office, <https://www.phone.cam.ac.uk/> ([My phone](https://my.phone.cam.ac.uk/myphone/calls))
+  * Transport strategy 2019-2024, <https://www.environment.admin.cam.ac.uk/files/university_of_cambridge_transport_strategy_2019-2024.pdf>
   * UIS
-    - Antivirus software, [https://help.uis.cam.ac.uk/service/security/antivirus](https://help.uis.cam.ac.uk/service/security/antivirus)
+    - Antivirus software, <https://help.uis.cam.ac.uk/service/security/antivirus>
     - Cybersecurity awareness
-        - Cyber security training on MyCompliance, [https://help.uis.cam.ac.uk/service/security/cyber-security-awareness](https://help.uis.cam.ac.uk/service/security/cyber-security-awareness)
-        - Password managers, [https://help.uis.cam.ac.uk/service/security/cyber-security-awareness/password-managers](https://help.uis.cam.ac.uk/service/security/cyber-security-awareness/password-managers)
-        - Phishing, [https://help.uis.cam.ac.uk/service/security/cyber-security-awareness/phishing](https://help.uis.cam.ac.uk/service/security/cyber-security-awareness/phishing)
-        - Security updates, [https://help.uis.cam.ac.uk/service/security/cyber-security-awareness/wfh-security/update-os](https://help.uis.cam.ac.uk/service/security/cyber-security-awareness/wfh-security/update-os)
-    - Email delivery of @cam address [https://confluence.medschl.cam.ac.uk/x/gwtCBQ](https://confluence.medschl.cam.ac.uk/x/gwtCBQ).
-    - Email policy, <https://help.uis.cam.ac.uk/email-policy> (contact <isc@admin.cam.ac.uk> for questions).
-    - GitHub education programme, [https://help.uis.cam.ac.uk/news/github-education](https://help.uis.cam.ac.uk/news/github-education)
-    - Google account, [https://help.uis.cam.ac.uk/service/collaboration/workspace/registration-and-login](https://help.uis.cam.ac.uk/service/collaboration/workspace/registration-and-login)
-    - Hermes webmail, [https://help.uis.cam.ac.uk/webmail](https://help.uis.cam.ac.uk/webmail)
+        - Cyber security training on MyCompliance, <https://help.uis.cam.ac.uk/service/security/cyber-security-awareness> ([@cam.ac.uk](https://tinyurl.com/mr2f5u49), [non-University Microsoft 365 account](https://help.uis.cam.ac.uk/mycompliance-e-learning-platform#login), [email verification](https://help.uis.cam.ac.uk/cyber-security-training-email))
+        - Password managers, <https://help.uis.cam.ac.uk/service/security/cyber-security-awareness/password-managers>
+        - Phishing, <https://help.uis.cam.ac.uk/service/security/cyber-security-awareness/phishing>
+        - Security updates, <https://help.uis.cam.ac.uk/service/security/cyber-security-awareness/wfh-security/update-os>
+    - Email delivery of @cam address <https://confluence.medschl.cam.ac.uk/x/gwtCBQ>
+    - Email policy, <https://help.uis.cam.ac.uk/email-policy> (contact <isc@admin.cam.ac.uk> for questions)
+    - GitHub education programme, <https://help.uis.cam.ac.uk/news/github-education>
+    - Google account, <https://help.uis.cam.ac.uk/service/collaboration/workspace/registration-and-login>
+    - Hermes webmail, <https://help.uis.cam.ac.uk/webmail>
     - Multi-factor authentication
-        - Manage your multi-factor authentication methods, [https://help.uis.cam.ac.uk/service/accounts-passwords/multi-factor-authentication/managing-mfa](https://help.uis.cam.ac.uk/service/accounts-passwords/multi-factor-authentication/managing-mfa)
+        - Manage your multi-factor authentication methods, <https://help.uis.cam.ac.uk/service/accounts-passwords/multi-factor-authentication/managing-mfa>
         - [Set up multi-factor authentication on your University Microsoft account](https://help.uis.cam.ac.uk/service/accounts-passwords/set-multi-factor-authentication-your-university-microsoft-account)
     - Raven password recovery, [https://help.uis.cam.ac.uk/service/accounts-passwords](https://help.uis.cam.ac.uk/service/accounts-passwords) (CSCS password: [https://confluence.medschl.cam.ac.uk/x/_whCBQ](https://confluence.medschl.cam.ac.uk/x/_whCBQ)).
-    - Report a security incident, [https://help.uis.cam.ac.uk/service/security/ir](https://help.uis.cam.ac.uk/service/security/ir)
+    - Report a security incident, <https://help.uis.cam.ac.uk/service/security/ir>
     - Research Computing Services [Research data store](https://www.hpc.cam.ac.uk/research-data-storage-services/research-data-store), [Price list](https://www.hpc.cam.ac.uk/research-data-storage-services/price-list)
     - Self-service portal, [https://uniofcam.saasiteu.com/](https://uniofcam.saasiteu.com/)
     - [Set up Thunderbird for Exchange Online ](https://help.uis.cam.ac.uk/service/collaboration/365/exchange-online/how-access-your-mailbox/set-thunderbird-exchange-online)
     - Status, [https://status.uis.cam.ac.uk/](https://status.uis.cam.ac.uk/)
     - token, [https://tokens.uis.cam.ac.uk/](https://tokens.uis.cam.ac.uk/)
     - Twitter, [https://twitter.com/UniCamIT](https://twitter.com/UniCamIT)
-    - VPN service, [https://help.uis.cam.ac.uk/service/network-services/remote-access/uis-vpn](https://help.uis.cam.ac.uk/service/network-services/remote-access/uis-vpn)
+    - VPN service, <https://help.uis.cam.ac.uk/service/network-services/remote-access/uis-vpn>
 
 ## Footnotes
 

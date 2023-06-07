@@ -10,8 +10,8 @@
   * CEU Management Team <CEUManagement@medschl.cam.ac.uk>
   * HLRI
     - Address
-      ```
       (Web: <http://www.hlri.cam.ac.uk/>):
+      ```
       British Heart Foundation Cardiovascular Epidemiology Unit
       Department of Public Health and Primary Care
       Victor Phillip Dahdaleh Heart and Lung Research Institute

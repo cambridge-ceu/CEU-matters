@@ -40,7 +40,7 @@
       Email - <HLRI-Reception@medschl.cam.ac.uk>
       Tel - (01223) 762755
       ```
-    - Windows opening, contact Abbie <aj630@medschl.cam.ac.uk>) if your window is still locked.
+    - Windows opening, contact Abbie (<aj630@medschl.cam.ac.uk>) if your window is still locked.
     - MicroSoft Teams, <https://tinyurl.com/3zes7u2w>
 
   * Reconnect your PC from SRL: It is useful to run from command prompt, ***ipconfig /release*** and ***ipconfig /renew*** followed by a restart to connect to U:\ or other drives [^U].

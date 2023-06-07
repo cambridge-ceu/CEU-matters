@@ -11,7 +11,7 @@
   * HLRI
     - Address
       ```
-      (Cambridge Biomedical Campus):
+      (Web: <http://www.hlri.cam.ac.uk/>):
       British Heart Foundation Cardiovascular Epidemiology Unit
       Department of Public Health and Primary Care
       Victor Phillip Dahdaleh Heart and Lung Research Institute
@@ -28,10 +28,10 @@
     - MicroSoft Teams, <https://tinyurl.com/3zes7u2w>
     - Ordering requipment: [https://tinyurl.com/8bzxm76v](https://forms.office.com/Pages/ResponsePage.aspx?id=RQSlSfq9eUut41R7TzmG6RBc7ERcsoZGrltSTr3vNxxUN0hYMzg3NEJFWEJZQUZQSFpWVkg4VEtIMi4u)
     - Printing (`\\me-print\hlripr03/04`): [Windows 10](https://cscs-itsupport.atlassian.net/wiki/spaces/FAQ/pages/21365361/Adding+a+printer+to+Windows+10) and [Mac](https://cscs-itsupport.atlassian.net/wiki/spaces/FAQ/pages/21365494/Adding+a+printer+on+a+Mac).
-    - Publications, <http://www.hlri.cam.ac.uk/>, notify Sarah (<sc282@cam.ac.uk>) or Princess (<pa489@medschl.cam.ac.uk>) to include accepted papers.
+    - Publications, notify Sarah (<sc282@cam.ac.uk>) or Princess (<pa489@medschl.cam.ac.uk>) to include accepted papers.
     - Reception
       ```
-      (Address):
+      (Postal address):
       Building Services Team
       Victor Phillip Dahdaleh Heart and Lung Research Institute,
       University of Cambridge,

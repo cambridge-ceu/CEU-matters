@@ -10,14 +10,12 @@
   * CEU Management Team <CEUManagement@medschl.cam.ac.uk>
   * HLRI
     - Address
-      (Web: <http://www.hlri.cam.ac.uk/>):
-      ```
-      British Heart Foundation Cardiovascular Epidemiology Unit
-      Department of Public Health and Primary Care
-      Victor Phillip Dahdaleh Heart and Lung Research Institute
-      University of Cambridge
-      Papworth Road, Cambridge CB2 0BB
-      ```
+      > British Heart Foundation Cardiovascular Epidemiology Unit
+      > Department of Public Health and Primary Care
+      > Victor Phillip Dahdaleh Heart and Lung Research Institute
+      > University of Cambridge
+      > Papworth Road, Cambridge CB2 0BB
+      > Web: <http://www.hlri.cam.ac.uk/>
     - Display Screen Equipment: [assessment form](files/display_screen_equipment_self-assessment_checklist_v4-1.docx)
     - Induction [to activate the access card](https://www.eventbrite.com/e/hlri-building-induction-tickets-352488170607)
     - IT Support: [Information](files/HLRI IT Support Leaflet.pdf)

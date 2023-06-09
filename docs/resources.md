@@ -171,6 +171,7 @@
     - GitHub education programme, <https://help.uis.cam.ac.uk/news/github-education>
     - Google account, <https://help.uis.cam.ac.uk/service/collaboration/workspace/registration-and-login>
     - Hermes webmail, <https://help.uis.cam.ac.uk/webmail>
+    - Hostmaster, <https://www.dns.cam.ac.uk/>
     - Multi-factor authentication
         - Manage your multi-factor authentication methods, <https://help.uis.cam.ac.uk/service/accounts-passwords/multi-factor-authentication/managing-mfa>
         - [Set up multi-factor authentication on your University Microsoft account](https://help.uis.cam.ac.uk/service/accounts-passwords/set-multi-factor-authentication-your-university-microsoft-account)

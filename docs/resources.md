@@ -70,6 +70,7 @@
     - Printers, <https://intranet.phpc.cam.ac.uk/facilities-and-comms/accountservices/printing/> ([lookup](https://www.lookup.cam.ac.uk/self), [Printer Setup Instructions](https://intranet.phpc.cam.ac.uk/wp-content/uploads/2020/03/Printer-Setup-Instructions.docx), [Scanning Guide](https://intranet.phpc.cam.ac.uk/wp-content/uploads/2020/03/Scanning-Guide.docx), [email for help](mailto:ps.comms@medschl.cam.ac.uk))
   * Mailing list, <phpc-all@lists.cam.ac.uk> (also <phpc-research-assistants-request@lists.cam.ac.uk>)
   * PeopleHR: <https://dphpc.peoplehr.net/>
+  * PhD Administrator, <phpcgradadmin@medschl.cam.ac.uk>
   * Reception/Facilities Team: <phpc.reception@medschl.cam.ac.uk>
   * Staff profile, <https://intranet.phpc.cam.ac.uk/facilities-and-comms/communications/profiles/>
 

@@ -162,7 +162,7 @@
   * Transport strategy 2019-2024, <https://www.environment.admin.cam.ac.uk/files/university_of_cambridge_transport_strategy_2019-2024.pdf>
   * UIS
     - Antivirus software, <https://help.uis.cam.ac.uk/service/security/antivirus>
-    - [Connection to an individual mailbox](https://help.uis.cam.ac.uk/service/collaboration/365/exchange-online/how-access-your-mailbox/set-thunderbird-exchange-online) via Thunderbird ([free download](https://www.thunderbird.net/en-GB/),[Privacy Notice](https://www.mozilla.org/en-US/privacy/thunderbird/))
+    - [Connection to an individual mailbox](https://help.uis.cam.ac.uk/service/collaboration/365/exchange-online/how-access-your-mailbox/set-thunderbird-exchange-online) via Thunderbird ([free download](https://www.thunderbird.net/en-GB/), [Privacy Notice](https://www.mozilla.org/en-US/privacy/thunderbird/))
     - Cybersecurity awareness
         - Cyber security training on MyCompliance, <https://help.uis.cam.ac.uk/service/security/cyber-security-awareness> ([@cam.ac.uk](https://tinyurl.com/mr2f5u49), [non-University Microsoft 365 account](https://help.uis.cam.ac.uk/mycompliance-e-learning-platform#login), [email verification](https://help.uis.cam.ac.uk/cyber-security-training-email))
         - Password managers, <https://help.uis.cam.ac.uk/service/security/cyber-security-awareness/password-managers>

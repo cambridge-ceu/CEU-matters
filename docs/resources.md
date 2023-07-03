@@ -186,6 +186,7 @@
     - token, [https://tokens.uis.cam.ac.uk/](https://tokens.uis.cam.ac.uk/)
     - Twitter, [https://twitter.com/UniCamIT](https://twitter.com/UniCamIT)
     - VPN service, <https://help.uis.cam.ac.uk/service/network-services/remote-access/uis-vpn>
+  * Vice-Chancellor, <https://www.cam.ac.uk/about-the-university/how-the-university-and-colleges-work/people/vice-chancellor>
 
 ## Footnotes
 

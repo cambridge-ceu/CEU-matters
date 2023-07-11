@@ -126,10 +126,12 @@
   * Human Resources, <https://www.hr.admin.cam.ac.uk/>
     - Employee Self Service, <https://chris.cam.ac.uk/hrlive_ess/ess/index.html#/login>
     - [Equality and Diversity Team](mailto:equality@admin.cam.ac.uk")
+    - HR Transformation programme, <https://universityofcambridgecloud.sharepoint.com/sites/HRTransformation>
     - [Policies and procedures](https://www.hr.admin.cam.ac.uk/policies-procedures)
         + Adverse weather policy, <https://www.hr.admin.cam.ac.uk/policies-procedures/adverse-weather-policy>
         + Hybrid working policy, <https://www.hr.admin.cam.ac.uk/policies-procedures/hybrid-working-policy>
         + SRP [2023](https://www.hr.admin.cam.ac.uk/policies-procedures/senior-research-promotions-procedures-and-guidance-2023)
+        + 2024 Academic Career Pathways (ACP) and Senior Research Promotions (SRP) schemes ([contact](mailto:CSReward@admin.cam.ac.uk))
     - [Recruitment restraint](https://www.hr.admin.cam.ac.uk/recruitment_protocol_2020_21)
   * Industrial action, <https://www.industrialaction.admin.cam.ac.uk/> ([university forms](https://www.industrialaction.admin.cam.ac.uk/forms))
   * Lookup service, <https://www.lookup.cam.ac.uk/self> (<https://www.lookup.cam.ac.uk/person/crsid/your-crsid>)

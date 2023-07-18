@@ -123,6 +123,7 @@
     - Finance Teams: <https://www.expenses.admin.cam.ac.uk/learning-path-finance-teams>
     - Credit Card Holders: <https://www.expenses.admin.cam.ac.uk/learning-path-card-holder>
     - Subsistence rates: <https://www.expenses.admin.cam.ac.uk/expense-rates/subsistence-rates>
+  * Grace on fossil fuel industry ties, <https://www.cam.ac.uk/notices/grace-on-fossil-fuel-industry-ties> ([A proposal](https://www.admin.cam.ac.uk/reporter/2021-22/weekly/6666/6666-public.pdf#page=6), [An accompanying Notice](https://www.reporter.admin.cam.ac.uk/files/ffstudy-jul2023.pdf))
   * Human Resources, <https://www.hr.admin.cam.ac.uk/>
     - Employee Self Service, <https://chris.cam.ac.uk/hrlive_ess/ess/index.html#/login>
     - [Equality and Diversity Team](mailto:equality@admin.cam.ac.uk")

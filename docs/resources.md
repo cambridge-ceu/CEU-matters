@@ -69,9 +69,11 @@
     - Staff card, <https://intranet.phpc.cam.ac.uk/facilities-and-comms/accountservices/> ([New Starter form](https://intranet.phpc.cam.ac.uk/human-resources/new-starters/)); check your card validity
     - Printers, <https://intranet.phpc.cam.ac.uk/facilities-and-comms/accountservices/printing/> ([lookup](https://www.lookup.cam.ac.uk/self), [Printer Setup Instructions](https://intranet.phpc.cam.ac.uk/wp-content/uploads/2020/03/Printer-Setup-Instructions.docx), [Scanning Guide](https://intranet.phpc.cam.ac.uk/wp-content/uploads/2020/03/Scanning-Guide.docx), [email for help](mailto:ps.comms@medschl.cam.ac.uk))
   * Mailing list, <phpc-all@lists.cam.ac.uk> (also <phpc-research-assistants-request@lists.cam.ac.uk>)
+  * MPhil Population Health Sciences, <https://www.phs.masters.cam.ac.uk/> (Course contact Kal Winston <mailto:kaw82@medschl.cam.ac.uk>, [Teams channel](https://teams.microsoft.com/l/channel/19%3acb1e76eba5534cdd8c2fbe1604612e8f%40thread.skype/Course%2520Supervisors?groupId=bb69a3fa-0a34-4e02-b057-b118865ab6c9&tenantId=49a50445-bdfa-4b79-ade3-547b4f3986e9), [TA document](https://eur03.safelinks.protection.outlook.com/ap/x-59584e83/?url=https%3A%2F%2Funiversityofcambridgecloud.sharepoint.com%2F%3Ax%3A%2Fr%2Fsites%2FPHPC_Gerontology%2FShared%2520Documents%2FGeneral%2FTA%2520teaching%2520assistant%2520volunteer%2520pool%2C%2520MPhil%2520PHS.xlsx%3Fd%3Dwfc919ef9461443d4a3bb310bd32290c4%26csf%3D1%26web%3D1%26e%3DE2VRf3&data=05%7C01%7Cjau20%40cam.ac.uk%7Ccd49b20e9ca643ac764b08db82192f8b%7C49a50445bdfa4b79ade3547b4f3986e9%7C1%7C0%7C638246816897889043%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=H4wkWL40GfjmG5TAylUPC%2BEz7zGYxExzMV3KAWbwJVk%3D&reserved=0))
   * PeopleHR: <https://dphpc.peoplehr.net/>
   * PhD Administrator, <phpcgradadmin@medschl.cam.ac.uk>
   * Reception/Facilities Team: <phpc.reception@medschl.cam.ac.uk>
+  * Social & Ethical Context of Health and Illness (SECHI) ([Web site](https://www.biology.cam.ac.uk/undergrads/MedST/Current/Course/Years1and2/sechi), [information](https://www.biology.cam.ac.uk/undergrads/MedST/Current/Course/Years1and2/sechi), contact Robbie Duschinsky <mailto:rd522@medschl.cam.ac.uk>)
   * Staff profile, <https://intranet.phpc.cam.ac.uk/facilities-and-comms/communications/profiles/>
 
 ## School

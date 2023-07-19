@@ -73,7 +73,7 @@
   * PeopleHR: <https://dphpc.peoplehr.net/>
   * PhD Administrator, <phpcgradadmin@medschl.cam.ac.uk>
   * Reception/Facilities Team: <phpc.reception@medschl.cam.ac.uk>
-  * Social & Ethical Context of Health and Illness (SECHI) ([Web site](https://www.biology.cam.ac.uk/undergrads/MedST/Current/Course/Years1and2/sechi), [information](https://www.biology.cam.ac.uk/undergrads/MedST/Current/Course/Years1and2/sechi), contact Robbie Duschinsky <mailto:rd522@medschl.cam.ac.uk>)
+  * Social & Ethical Context of Health and Illness (SECHI) ([Web site](https://www.biology.cam.ac.uk/undergrads/MedST/Current/Course/Years1and2/sechi), seminar contact Robbie Duschinsky <mailto:rd522@medschl.cam.ac.uk>)
   * Staff profile, <https://intranet.phpc.cam.ac.uk/facilities-and-comms/communications/profiles/>
 
 ## School

@@ -191,6 +191,11 @@
     - token, [https://tokens.uis.cam.ac.uk/](https://tokens.uis.cam.ac.uk/)
     - Twitter, [https://twitter.com/UniCamIT](https://twitter.com/UniCamIT)
     - VPN service, <https://help.uis.cam.ac.uk/service/network-services/remote-access/uis-vpn>
+  * University guidance against bribery and corruption
+    - Conflict of interest policy, <https://www.governanceandcompliance.admin.cam.ac.uk/governance-and-strategy/university-wide-conflict-interest-policy/conflict-interest-policy> (contact to declare <mailto:phpc_bom@medschl.cam.ac.uk>)
+    - Guidelines, <https://www.governanceandcompliance.admin.cam.ac.uk/governance-and-strategy/policy-against-bribery-and-corruption>
+    - Training, <https://www.finance.admin.cam.ac.uk/Compliance/anti-bribery-and-corruption-training>
+    - Two-year rollover training, <https://www.training.cam.ac.uk/>
   * Vice-Chancellor, <https://www.cam.ac.uk/about-the-university/how-the-university-and-colleges-work/people/vice-chancellor>
 
 ## Footnotes

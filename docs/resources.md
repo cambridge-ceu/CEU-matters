@@ -111,6 +111,12 @@
   * Cambridge Science Festival, <https://www.festival.cam.ac.uk/> ([Events management](https://webservices.admin.cam.ac.uk/events/admin), [Practical information](https://www.cam.ac.uk/public-engagement/get-involved/cambridge-festival-coordinators-page))
   * CULP courses, <https://www.langcen.cam.ac.uk/culp/culp-general-courses.html> ([Online booking system](https://www.training.cam.ac.uk/lc/theme/CULP?providerId=399495))
   * Emergency Childcare, <https://www.emergencychildcare.co.uk/> (contact <csreward@admin.cam.ac.uk>)
+  * Employer justified retirement age (EJRA)
+    - Academic-led review group, <https://www.hr.admin.cam.ac.uk/files/retirement_policy_and_ejra_review_group.pdf>
+    - Continue in retirement, <https://www.hr.admin.cam.ac.uk/policies-procedures/1-retirement-policy/7-procedure-university-officers-continue-employment>
+    - Discussion, <https://www.admin.cam.ac.uk/reporter/2022-23/weekly/6685/6685-public.pdf#page=5>
+    - Focus group conact, <mailto:internalcomms@admin.cam.ac.uk>
+    - Retirement policy, <https://www.hr.admin.cam.ac.uk/policies-procedures/1-retirement-policy>
   * Estates Division, <https://www.em.admin.cam.ac.uk/>
     - Buildings emergencies, <https://www.em.admin.cam.ac.uk/operating-estate/security>
     - Car parking

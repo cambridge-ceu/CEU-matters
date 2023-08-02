@@ -62,6 +62,7 @@
 
   * Accounts Team: <ps.accounts@medschl.cam.ac.uk>
   * Comms Team: <ps.comms@medschl.cam.ac.uk>
+  * Fantasy Premier League, <https://fantasy.premierleague.com/> ([auto-join](https://fantasy.premierleague.com/leagues/auto-join/rh5pj6), rh5pj6)
   * Finance: <PHPC.Finance.Manager@medschl.cam.ac.uk>
   * Grants Team: <ps.grants@medschl.cam.ac.uk>
   * HR Team: <phpc.hr@medschl.cam.ac.uk>

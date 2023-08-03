@@ -38,7 +38,7 @@
     - Windows opening, contact Abbie (<aj630@medschl.cam.ac.uk>) if your window is still locked.
 
   * Reconnect your PC from SRL: It is useful to run from command prompt, ***ipconfig /release*** and ***ipconfig /renew*** followed by a restart to connect to U:\ or other drives [^U].
-  * Working Group Sign-up, [https://www.surveymonkey.co.uk/r/Q8MJ5NW](https://www.surveymonkey.co.uk/r/Q8MJ5NW)
+  * Working Group Sign-up, <https://www.surveymonkey.co.uk/r/Q8MJ5NW>
   * Publications Mailbox <ceupublications@medschl.cam.ac.uk>; please email when you submit a paper. 
   * Studies
     - Web: National Institute for Health and Care Research (NIHR) Blood and Transplant Research Unit (BTRU) in Donor Health and Behaviour <http://www.donorhealth-btru.nihr.ac.uk/>
@@ -159,7 +159,7 @@
     Tel: (01223) (3)32214 or (01223) (3)39658
     ```
   * Postdoc Academy, [<https://www.postdocacademy.cam.ac.uk/> ([Fellowships](https://www.postdocacademy.cam.ac.uk/professional-opportunities/fellowships))
-  * Priorities Framework, [https://www.v-c.admin.cam.ac.uk/projects/extraordinary-cambridge](https://www.v-c.admin.cam.ac.uk/projects/extraordinary-cambridge)
+  * Priorities Framework, <https://www.v-c.admin.cam.ac.uk/projects/extraordinary-cambridge>
   * Protection of Personal Data
     - Guidance on academic research and personal data, <https://www.information-compliance.admin.cam.ac.uk/data-protection/guidance/research>
     - Guidance on data sharing <https://www.information-compliance.admin.cam.ac.uk/data-protection/guidance/data-sharing>
@@ -167,9 +167,9 @@
     - The Data Protection Quick Guide, <https://www.information-compliance.admin.cam.ac.uk/files/data_protection_quick_guide_for_staff_final.pdf>
     - The Data Protection Policy, <https://www.information-compliance.admin.cam.ac.uk/files/data_protection_policy_final.pdf>
   * REF2021 [Code of Practice](https://www.ref.admin.cam.ac.uk/sites/www.ref.admin.cam.ac.uk/files/revised_code_of_practice_170919_clean.pdf), <a href="mailto:REF2021@admin.cam.ac.uk">email</a> and [Staff Circumstances](https://www.ref.admin.cam.ac.uk/code-practice/staff-circumstances) ([form](https://www.ref.admin.cam.ac.uk/code-practice/staff-eligibility), <a href="mailto:(REF2021staffcircumstances@admin.cam.ac.uk">email</a>, <a href="mailto:Gina.Warren@admin.cam.ac.uk">HR equality & diversity</a>)
-  * Research Strategy Office, [https://www.research-strategy.admin.cam.ac.uk/](https://www.research-strategy.admin.cam.ac.uk/)
-  * Student run computing facilities (SRCF), [https://www.srcf.net/](https://www.srcf.net/) ([Webmail](https://webmail.hades.srcf.net/))
-  * Symplectic Elements Login, [https://elements.admin.cam.ac.uk/default.html](https://elements.admin.cam.ac.uk/)
+  * Research Strategy Office, <https://www.research-strategy.admin.cam.ac.uk/>
+  * Student run computing facilities (SRCF), <https://www.srcf.net/> ([Webmail](https://webmail.hades.srcf.net/))
+  * Symplectic Elements Login, <https://elements.admin.cam.ac.uk/>
   * Telecoms Office, <https://www.phone.cam.ac.uk/> ([My phone](https://my.phone.cam.ac.uk/myphone/calls))
   * Transport strategy 2019-2024, <https://www.environment.admin.cam.ac.uk/files/university_of_cambridge_transport_strategy_2019-2024.pdf>
   * UIS
@@ -189,14 +189,14 @@
     - Multi-factor authentication
         - Manage your multi-factor authentication methods, <https://help.uis.cam.ac.uk/service/accounts-passwords/multi-factor-authentication/managing-mfa>
         - [Set up multi-factor authentication on your University Microsoft account](https://help.uis.cam.ac.uk/service/accounts-passwords/set-multi-factor-authentication-your-university-microsoft-account)
-    - Raven password recovery, [https://help.uis.cam.ac.uk/service/accounts-passwords](https://help.uis.cam.ac.uk/service/accounts-passwords) (CSCS password: [https://confluence.medschl.cam.ac.uk/x/_whCBQ](https://confluence.medschl.cam.ac.uk/x/_whCBQ)).
+    - Raven password recovery, <https://help.uis.cam.ac.uk/service/accounts-passwords> (CSCS password: [https://confluence.medschl.cam.ac.uk/x/_whCBQ](https://confluence.medschl.cam.ac.uk/x/_whCBQ)).
     - Report a security incident, <https://help.uis.cam.ac.uk/service/security/ir>
     - Research Computing Services [Research data store](https://www.hpc.cam.ac.uk/research-data-storage-services/research-data-store), [Price list](https://www.hpc.cam.ac.uk/research-data-storage-services/price-list)
-    - Self-service portal, [https://uniofcam.saasiteu.com/](https://uniofcam.saasiteu.com/)
+    - Self-service portal, <https://uniofcam.saasiteu.com/>
     - [Set up Thunderbird for Exchange Online ](https://help.uis.cam.ac.uk/service/collaboration/365/exchange-online/how-access-your-mailbox/set-thunderbird-exchange-online)
-    - Status, [https://status.uis.cam.ac.uk/](https://status.uis.cam.ac.uk/)
-    - token, [https://tokens.uis.cam.ac.uk/](https://tokens.uis.cam.ac.uk/)
-    - Twitter, [https://twitter.com/UniCamIT](https://twitter.com/UniCamIT)
+    - Status, <https://status.uis.cam.ac.uk/>
+    - token, <https://tokens.uis.cam.ac.uk/>
+    - Twitter, <https://twitter.com/UniCamIT>
     - VPN service, <https://help.uis.cam.ac.uk/service/network-services/remote-access/uis-vpn>
   * University guidance against bribery and corruption
     - Conflict of interest policy, <https://www.governanceandcompliance.admin.cam.ac.uk/governance-and-strategy/university-wide-conflict-interest-policy/conflict-interest-policy> (contact to declare <mailto:phpc_bom@medschl.cam.ac.uk>)

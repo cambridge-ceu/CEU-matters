@@ -91,6 +91,14 @@
         - Anywhere Citrix Portal, <https://anywhere.medschl.cam.ac.uk/logon/LogonPoint/index.html> (requires application from [CSCS IT Support Portal](https://tinyurl.com/vz9huc9) followed by departmental approval).
         - [Configuring your Mobile Device for Exchange Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Configuring+your+Mobile+Device+for+Exchange+Email)
         - MAC address (as the last line below) follows [this link](https://confluence.medschl.cam.ac.uk/display/FAQ/How+to+find+a+computer%27s+MAC+address) [^MAC].
+        - Migration of the departmental emails including your mailbox to the University's Exchange Online (ExOL) email system
+            + Customers already with ExOL, [Guide](https://cscs-itsupport.atlassian.net/wiki/spaces/FAQ/pages/274694145/Exchange+Online+Migration+-+Customers+already+with+ExOL)
+            + Customers without ExOL, [Guide](https://cscs-itsupport.atlassian.net/wiki/spaces/FAQ/pages/274726913/Exchange+Online+Migration+-+Customers+without+ExOL)
+            + Migration service desk, <https://exchangemigration.cscs.medschl.cam.ac.uk/>
+            + ExOL webmail, <https://outlook.office.com/>
+            + medschl webmail, <https://webmail.medschl.cam.ac.uk/> (historic emails)
+            + Preparation guide, <https://cscs-itsupport.atlassian.net/l/cp/19EM7deg>
+            + Timeline, [PDF](https://cscs-itsupport.atlassian.net/wiki/spaces/FAQ/pages/273547265/Exchange+Online+Migration+User+Timeline+-+v2) ([ahead](https://cscs-itsupport.atlassian.net/l/cp/9GX7NMxZ), [during](https://cscs-itsupport.atlassian.net/l/cp/sX05H2h9), [after](https://cscs-itsupport.atlassian.net/l/cp/xDx4NwqM))
         - Office
             + 365: <https://login.microsoftonline.com/>
             + Email access: <webmail.medschl.cam.ac.uk> with MINTS password or <https://outlook.office.com> with CRSid@cam.ac.uk/Raven password.

@@ -2,6 +2,7 @@
 
 ## CEU
 
+  * 2023 AwayDay presentations, "W:\Administration\Presentations\CEU Away Day September 2023".
   * Applying for Research Grants, v9 11.01.2023
   * CEU mailing list
     - To post to the list, send your email to: <phpc-ceu-group@lists.cam.ac.uk>.
@@ -36,7 +37,6 @@
       > Email - <HLRI-Reception@medschl.cam.ac.uk>,
       > Tel - (01223) 762755
     - Windows opening, contact Abbie (<aj630@medschl.cam.ac.uk>) if your window is still locked.
-
   * Reconnect your PC from SRL: It is useful to run from command prompt, ***ipconfig /release*** and ***ipconfig /renew*** followed by a restart to connect to U:\ or other drives [^U].
   * Working Group Sign-up, <https://www.surveymonkey.co.uk/r/Q8MJ5NW>
   * Publications Mailbox <ceupublications@medschl.cam.ac.uk>; please email when you submit a paper. 

@@ -1,6 +1,6 @@
 # External talks
 
-* [Cambridge Statistics Discussion Group](https://talks.cam.ac.uk/show/index/44749) (CSDG)
+* [Cambridge Statistics Discussion Group](https://talks.cam.ac.uk/show/index/44749) (CSDG) ([slides/mp3 files](http://www.mrc-cbu.cam.ac.uk/people/peter.watson/csdg.html))
 * [Cambridge talks](https://talks.cam.ac.uk/index)
 * [MRC Biostatistics Unit](https://www.mrc-bsu.cam.ac.uk/news-and-events/cambridge-bsu-lectures-in-biomedical-data-science/)
     - <span style="color:red">[18th Armitage Workshop and Lecture](https://www.eventbrite.co.uk/e/18th-armitage-workshop-and-lecture-tickets-168410583589)</span> ([web site](https://www.mrc-bsu.cam.ac.uk/news-and-events/armitage-lectureships-and-workshops/))

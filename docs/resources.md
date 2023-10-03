@@ -120,6 +120,7 @@
 
 ## University
 
+  * Accelerate science, <https://acceleratescience.github.io/> (<mailto:accelerate-science@cst.cam.ac.uk>)
   * Brand resources, <https://www.cam.ac.uk/brand-resources>
   * CAMbens SmartHub, <https://cambridge.rewardgateway.co.uk>
   * Cambridge Science Festival, <https://www.festival.cam.ac.uk/> ([Events management](https://webservices.admin.cam.ac.uk/events/admin), [Practical information](https://www.cam.ac.uk/public-engagement/get-involved/cambridge-festival-coordinators-page))

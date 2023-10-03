@@ -99,6 +99,7 @@
             + Migration service desk, <https://exchangemigration.cscs.medschl.cam.ac.uk/>
             + ExOL webmail, <https://outlook.office.com/>
             + medschl webmail, <https://webmail.medschl.cam.ac.uk/> (historic emails)
+            + POP, IMAP, and SMTP [settings for outlook.com](https://support.microsoft.com/en-gb/office/pop-imap-and-smtp-settings-for-outlook-com-d088b986-291d-42b8-9564-9c414e2aa040)
             + Preparation guide, <https://cscs-itsupport.atlassian.net/l/cp/19EM7deg>
             + Timeline, [PDF](https://cscs-itsupport.atlassian.net/wiki/spaces/FAQ/pages/273547265/Exchange+Online+Migration+User+Timeline+-+v2) ([ahead](https://cscs-itsupport.atlassian.net/l/cp/9GX7NMxZ), [during](https://cscs-itsupport.atlassian.net/l/cp/sX05H2h9), [after](https://cscs-itsupport.atlassian.net/l/cp/xDx4NwqM))
         - Office

@@ -164,6 +164,7 @@
   * Lookup service, <https://www.lookup.cam.ac.uk/self> (<https://www.lookup.cam.ac.uk/person/crsid/your-crsid>)
   * Moodle account, <https://www.vle.cam.ac.uk/login/index.php> as a virtual learning environment (VLE), [Understanding Unconscious/Implicit Bias](https://www.equality.admin.cam.ac.uk/training-overview/understanding-unconscious-implicit-bias)
   * Newcomers and visiting scholars, <https://www.nvs.admin.cam.ac.uk/> ([Registration form](https://www.nvs.admin.cam.ac.uk/form/registration-form-v2), [Facebook group](https://www.facebook.com/groups/41435817577/), <nvs.enquiries@admin.cam.ac.uk>)
+  * Notices, <https://www.cam.ac.uk/notices>
   * Occupational health, <https://www.oh.admin.cam.ac.uk/>
     - DSE Forms <https://www.oh.admin.cam.ac.uk/oh-forms/display-screen-equipment-self-assessment-checklist>
   * Pension/NHS Administration

@@ -113,8 +113,8 @@
         - [VPN at medschl](https://confluence.medschl.cam.ac.uk/x/64q4) (download and install [Software](https://software.medschl.cam.ac.uk/) and then use remote desktop to your office PC is just as in your office) [^VPN].
     - User Guides: <https://cscsguides.medschl.cam.ac.uk>
   * Declaration of interest: <https://www.medschl.cam.ac.uk/declaration-of-interests/>
-  * HR
-    - [Botanical Gardens](https://www.botanic.cam.ac.uk/), [passes](https://tinyurl.com/u67rcjha)
+  * HR, <https://hr.medschl.cam.ac.uk/>
+    - [Botanical Gardens](https://www.botanic.cam.ac.uk/), [passes](https://hr.medschl.cam.ac.uk/a-great-place-to-work/wellbeing/botanic-garden-passes/)
     - Clinical School Cookbook, <https://tinyurl.com/3jn2mzsh> (Share recipes via <cswellbeing@admin.cam.ac.uk>)
     - Twitter, <https://twitter.com/clinical_hr>
   * Newsletter, <mailto:newsletter@medschl.cam.ac.uk>

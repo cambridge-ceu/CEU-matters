@@ -294,4 +294,4 @@
     >      Ping statistics for 172.27.11.159:
     >           Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
     >
-    > One can find out machine name with `hostname` from DOS.
+    > One can find out machine name with `hostname` from DOS (to enter, run `cmd`).

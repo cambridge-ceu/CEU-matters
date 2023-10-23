@@ -42,7 +42,8 @@
   * Publications Mailbox <ceupublications@medschl.cam.ac.uk>; please email when you submit a paper. 
   * Studies
     - Web: National Institute for Health and Care Research (NIHR) Blood and Transplant Research Unit (BTRU) in Donor Health and Behaviour <http://www.donorhealth-btru.nihr.ac.uk/>
-        - INTERVAL Study, <http://www.donorhealth-btru.nihr.ac.uk/studies/interval-study/> and <https://www.intervalstudy.org.uk/> (<helpdesk@intervalstudy.org.uk>)
+        - INTERVAL Study, <http://www.donorhealth-btru.nihr.ac.uk/studies/interval-study/>
+            + also <https://www.intervalstudy.org.uk/> (<helpdesk@intervalstudy.org.uk>), <https://www.intervalrna.org.uk/>
         - COMPARE Study, <http://www.donorhealth-btru.nihr.ac.uk/studies/compare-study/>
         - STRIDES Study, <http://www.donorhealth-btru.nihr.ac.uk/studies/strides-study/>
         - CARRIAGES Study, <http://www.donorhealth-btru.nihr.ac.uk/studies/carriage-study/>

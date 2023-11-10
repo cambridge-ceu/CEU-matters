@@ -5,16 +5,15 @@
 <meta charset="utf-8"/>
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<meta content="None" name="description"/>
-<link href="img/favicon.ico" rel="shortcut icon"/>
-<title>CEU scientific meetings</title>
-<link href="css/bootstrap.min.css" rel="stylesheet"/>
-<link href="css/font-awesome.min.css" rel="stylesheet"/>
-<link href="css/base.css" rel="stylesheet"/>
+<link href="../img/favicon.ico" rel="shortcut icon"/>
+<title>Srcf - CEU scientific meetings</title>
+<link href="../css/bootstrap.min.css" rel="stylesheet"/>
+<link href="../css/font-awesome.min.css" rel="stylesheet"/>
+<link href="../css/base.css" rel="stylesheet"/>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" rel="stylesheet"/>
-<link href="stylesheets/extra.css" rel="stylesheet"/>
-<script defer="" src="js/jquery-1.10.2.min.js"></script>
-<script defer="" src="js/bootstrap.min.js"></script>
+<link href="../stylesheets/extra.css" rel="stylesheet"/>
+<script defer="" src="../js/jquery-1.10.2.min.js"></script>
+<script defer="" src="../js/bootstrap.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/Bash.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/HTML.min.js"></script>
@@ -27,10 +26,10 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/yaml.min.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
 </head>
-<body class="homepage">
+<body>
 <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
 <div class="container">
-<a class="navbar-brand" href=".">CEU scientific meetings</a>
+<a class="navbar-brand" href="..">CEU scientific meetings</a>
 <!-- Expander button -->
 <button class="navbar-toggler" data-target="#navbar-collapse" data-toggle="collapse" type="button">
 <span class="navbar-toggler-icon"></span>
@@ -39,49 +38,49 @@
 <div class="navbar-collapse collapse" id="navbar-collapse">
 <!-- Main navigation -->
 <ul class="nav navbar-nav">
-<li class="navitem active">
-<a class="nav-link" href="."></a>
+<li class="navitem">
+<a class="nav-link" href=".."></a>
 </li>
 <li class="dropdown">
 <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Chronicle <b class="caret"></b></a>
 <ul class="dropdown-menu">
 <li>
-<a class="dropdown-item" href="2023/">2023</a>
+<a class="dropdown-item" href="../2023/">2023</a>
 </li>
 <li>
-<a class="dropdown-item" href="2022/">2022</a>
+<a class="dropdown-item" href="../2022/">2022</a>
 </li>
 <li>
-<a class="dropdown-item" href="2021/">2021</a>
+<a class="dropdown-item" href="../2021/">2021</a>
 </li>
 <li>
-<a class="dropdown-item" href="2020/">2020</a>
+<a class="dropdown-item" href="../2020/">2020</a>
 </li>
 <li>
-<a class="dropdown-item" href="mhs/">Mental health support</a>
+<a class="dropdown-item" href="../mhs/">Mental health support</a>
 </li>
 <li>
-<a class="dropdown-item" href="COVID-19/">The COVID-19 pandemic</a>
+<a class="dropdown-item" href="../COVID-19/">The COVID-19 pandemic</a>
 </li>
 <li>
-<a class="dropdown-item" href="Cambridge-Baker-Joint-Symposium/">The Cambridge/Baker Joint Symposium</a>
+<a class="dropdown-item" href="../Cambridge-Baker-Joint-Symposium/">The Cambridge/Baker Joint Symposium</a>
 </li>
 </ul>
 </li>
 <li class="navitem">
-<a class="nav-link" href="HDR/">HDR(UK)</a>
+<a class="nav-link" href="../HDR/">HDR(UK)</a>
 </li>
 <li class="navitem">
-<a class="nav-link" href="schedules/">Schedules</a>
+<a class="nav-link" href="../schedules/">Schedules</a>
 </li>
 <li class="navitem">
-<a class="nav-link" href="resources/">Resources</a>
+<a class="nav-link" href="../resources/">Resources</a>
 </li>
 <li class="navitem">
-<a class="nav-link" href="channels/">Channels</a>
+<a class="nav-link" href="../channels/">Channels</a>
 </li>
 <li class="navitem">
-<a class="nav-link" href="talks/">Talks</a>
+<a class="nav-link" href="../talks/">Talks</a>
 </li>
 </ul>
 <ul class="nav navbar-nav ml-auto">
@@ -89,16 +88,6 @@
 <a class="nav-link" data-target="#mkdocs_search_modal" data-toggle="modal" href="#">
 <i class="fa fa-search"></i> Search
                             </a>
-</li>
-<li class="nav-item">
-<a class="nav-link disabled" rel="prev">
-<i class="fa fa-arrow-left"></i> Previous
-                                </a>
-</li>
-<li class="nav-item">
-<a class="nav-link" href="2023/" rel="next">
-                                    Next <i class="fa fa-arrow-right"></i>
-</a>
 </li>
 </ul>
 </div>
@@ -114,7 +103,7 @@
 </div>
 <div class="navbar-collapse collapse card bg-secondary" id="toc-collapse">
 <ul class="nav flex-column">
-<li class="nav-item" data-level="1"><a class="nav-link" href="#quick-guides">Quick guides</a>
+<li class="nav-item" data-level="2"><a class="nav-link" href="#srcf-website">SRCF website</a>
 <ul class="nav flex-column">
 </ul>
 </li>
@@ -122,17 +111,35 @@
 </div>
 </div></div>
 <div class="col-md-9" role="main">
-<p>The repository highlights information on seminars and presentations, etc., at the Cardiovascular Epidemiology Unit (CEU), as notified via <a href="mailto:phpc-ceu-group@medschl.cam.ac.uk">phpc-ceu-group@medschl.cam.ac.uk</a>.</p>
-<h1 id="quick-guides">Quick guides</h1>
+<h2 id="srcf-website">SRCF website</h2>
+<blockquote>
+<p>The SRCF uses Apache to serve websites so if you need to run a backend web app, for example a Django, Rails or Express server, then you will need to forward web requests.</p>
+</blockquote>
+<p>Port binding, <a href="https://docs.srcf.net/reference/shell-and-files/software-and-installation/#port-binding">https://docs.srcf.net/reference/shell-and-files/software-and-installation/#port-binding</a>\
+Website traffic, <a href="https://docs.srcf.net/reference/web-hosting/web-applications/#routing-traffic-to-your-app">https://docs.srcf.net/reference/web-hosting/web-applications/#routing-traffic-to-your-app</a></p>
+<p>e.g., CRSid.user.srcf.net through to an app running on a localhost port.</p>
+<h3 id="htaccess">.htaccess</h3>
+<p>It sits on the home directory.</p>
+<pre><code>RequestHeader set Host expr=%{HTTP_HOST}
+RequestHeader set X-Forwarded-For expr=%{REMOTE_ADDR}
+RequestHeader set X-Forwarded-Proto expr=%{REQUEST_SCHEME}
+RequestHeader set X-Real-IP expr=%{REMOTE_ADDR}
+RewriteRule ^(.*)$ unix:&lt;path-to-socket&gt;|http://&lt;url&gt;/$1 [P,NE,L,QSA]
+</code></pre>
+<p>Based on chatGPT,</p>
 <ul>
-<li>Chronicle: <a href="mhs/">Mental health support</a>, <a href="COVID-19/">The COVID-19 pandemic</a>, <a href="2023/">2023</a>.</li>
-<li><a href="HDR/">Health Data Research (HDR) UK</a></li>
-<li><a href="schedules/">Schedules</a> including Zoom video communications (check local times remotely, <a href="https://time.is/">https://time.is/</a>).</li>
-<li><a href="resources/">Resources</a> hosts a variety of links to departmental, school and university facilities.</li>
-<li><a href="channels/">Channels</a> provides information on active mailing lists, events, slack channels and video conferencing (software).</li>
-<li><a href="talks/">Talks</a> lists external talks.</li>
+<li>RequestHeader set Host expr=%{HTTP_HOST}: Sets the Host header to the value of the HTTP_HOST variable.</li>
+<li>RequestHeader set X-Forwarded-For expr=%{REMOTE_ADDR}: Sets the X-Forwarded-For header to the value of the REMOTE_ADDR variable.</li>
+<li>RequestHeader set X-Forwarded-Proto expr=%{REQUEST_SCHEME}: Sets the X-Forwarded-Proto header to the value of the REQUEST_SCHEME variable.</li>
+<li>RequestHeader set X-Real-IP expr=%{REMOTE_ADDR}: Sets the X-Real-IP header to the value of the REMOTE_ADDR variable.</li>
+<li>RewriteRule ^(.*)$ unix:<path-to-socket>|http://<url>/$1 [P,NE,L,QSA]: The RewriteRule is rewriting the URL. It proxies requests to a specified URL with a Unix domain socket. Replace <path-to-socket> with the actual path to your Unix domain socket and <url> with the target URL.</url></path-to-socket></url></path-to-socket></li>
 </ul>
-<p><a href="http://phdcomics.com/comics/archive.php?comicid=719"> <img align="right" height="350" src="http://phdcomics.com/comics/archive/phd060406s.gif" width="860"/> </a></p></div>
+<p>Make sure to replace <path-to-socket> and <url> with your actual values. Additionally, ensure that the necessary modules (mod_headers and mod_rewrite) are enabled in your Apache configuration.</url></path-to-socket></p>
+<p>Examples</p>
+<ul>
+<li>Unix, RewriteRule ^(.*)$ unix:/home/jhz22/public_html/Caprion/web.sock|http://127.0.0.1:8012/&gt;/$1 [P,NE,L,QSA]</li>
+<li>TCP -- no headers, RewriteRule ^(.*)$ https://127.0.0.1:8012/$1 [P,NE,L,QSA]</li>
+</ul></div>
 </div>
 </div>
 <footer class="col-md-12">
@@ -140,14 +147,14 @@
 <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
 </footer>
 <script>
-            var base_url = ".",
+            var base_url = "..",
                 shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
         </script>
-<script defer="" src="js/base.js"></script>
-<script defer="" src="javascripts/config.js"></script>
+<script defer="" src="../js/base.js"></script>
+<script defer="" src="../javascripts/config.js"></script>
 <script defer="" src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-<script defer="" src="search/main.js"></script>
+<script defer="" src="../search/main.js"></script>
 <div aria-hidden="true" aria-labelledby="searchModalLabel" class="modal" id="mkdocs_search_modal" role="dialog" tabindex="-1">
 <div class="modal-dialog modal-lg">
 <div class="modal-content">
@@ -213,7 +220,3 @@
 </div>
 </body>
 </html>
-<!--
-MkDocs version : 1.1.2
-Build Date UTC : 2023-11-10 11:04:14.337627+00:00
--->

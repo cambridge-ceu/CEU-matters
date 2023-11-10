@@ -115,11 +115,13 @@
 <blockquote>
 <p>The SRCF uses Apache to serve websites so if you need to run a backend web app, for example a Django, Rails or Express server, then you will need to forward web requests.</p>
 </blockquote>
-<p>Port binding, <a href="https://docs.srcf.net/reference/shell-and-files/software-and-installation/#port-binding">https://docs.srcf.net/reference/shell-and-files/software-and-installation/#port-binding</a>\
-Website traffic, <a href="https://docs.srcf.net/reference/web-hosting/web-applications/#routing-traffic-to-your-app">https://docs.srcf.net/reference/web-hosting/web-applications/#routing-traffic-to-your-app</a></p>
+<ul>
+<li>Port binding, <a href="https://docs.srcf.net/reference/shell-and-files/software-and-installation/#port-binding">https://docs.srcf.net/reference/shell-and-files/software-and-installation/#port-binding</a></li>
+<li>Website traffic, <a href="https://docs.srcf.net/reference/web-hosting/web-applications/#routing-traffic-to-your-app">https://docs.srcf.net/reference/web-hosting/web-applications/#routing-traffic-to-your-app</a></li>
+</ul>
 <p>e.g., CRSid.user.srcf.net through to an app running on a localhost port.</p>
 <h3 id="htaccess">.htaccess</h3>
-<p>It sits on the home directory.</p>
+<p>It sits on the current directory.</p>
 <pre><code>RequestHeader set Host expr=%{HTTP_HOST}
 RequestHeader set X-Forwarded-For expr=%{REMOTE_ADDR}
 RequestHeader set X-Forwarded-Proto expr=%{REQUEST_SCHEME}
@@ -137,8 +139,10 @@ RewriteRule ^(.*)$ unix:&lt;path-to-socket&gt;|http://&lt;url&gt;/$1 [P,NE,L,QSA
 <p>Make sure to replace <path-to-socket> and <url> with your actual values. Additionally, ensure that the necessary modules (mod_headers and mod_rewrite) are enabled in your Apache configuration.</url></path-to-socket></p>
 <p>Examples</p>
 <ul>
-<li>Unix, RewriteRule ^(.*)$ unix:/home/jhz22/public_html/Caprion/web.sock|http://127.0.0.1:8012/&gt;/$1 [P,NE,L,QSA]</li>
-<li>TCP -- no headers, RewriteRule ^(.*)$ https://127.0.0.1:8012/$1 [P,NE,L,QSA]</li>
+<li>Unix</li>
+<li>RewriteRule ^(.*)$ unix:/home/jhz22/web.sock|http://localhost/$1 [P,NE,L,QSA]</li>
+<li>TCP -- no headers</li>
+<li>RewriteRule "^(.*)<span class="arithmatex">\(" http://localhost:8012/\)</span>1 [P,NE,L,QSA]</li>
 </ul></div>
 </div>
 </div>

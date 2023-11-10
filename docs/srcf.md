@@ -1,5 +1,4 @@
-
-## SRCF website
+# SRCF website
 
 > The SRCF uses Apache to serve websites so if you need to run a backend web app, for example a Django, Rails or Express server, then you will need to forward web requests.
 
@@ -8,7 +7,7 @@
 
 e.g., CRSid.user.srcf.net through to an app running on a localhost port.
 
-### .htaccess
+## .htaccess
 
 It sits on the current directory.
 
@@ -30,9 +29,13 @@ Based on chatGPT,
 
 Make sure to replace <path-to-socket> and <url> with your actual values. Additionally, ensure that the necessary modules (mod_headers and mod_rewrite) are enabled in your Apache configuration.
 
-Examples
+## Examples
 
 * Unix
   - RewriteRule ^(.*)$ unix:/home/jhz22/web.sock|http://localhost/$1 [P,NE,L,QSA]
 * TCP -- no headers
   - RewriteRule "^(.*)$" http://localhost:8012/$1 [P,NE,L,QSA]
+
+## Raven authentication
+
+Web: <https://docs.srcf.net/reference/web-hosting/raven-authentication/>

@@ -3,14 +3,14 @@
 
 > The SRCF uses Apache to serve websites so if you need to run a backend web app, for example a Django, Rails or Express server, then you will need to forward web requests.
 
-Port binding, <https://docs.srcf.net/reference/shell-and-files/software-and-installation/#port-binding>\
-Website traffic, <https://docs.srcf.net/reference/web-hosting/web-applications/#routing-traffic-to-your-app>
+- Port binding, <https://docs.srcf.net/reference/shell-and-files/software-and-installation/#port-binding>
+- Website traffic, <https://docs.srcf.net/reference/web-hosting/web-applications/#routing-traffic-to-your-app>
 
 e.g., CRSid.user.srcf.net through to an app running on a localhost port.
 
 ### .htaccess
 
-It sits on the home directory.
+It sits on the current directory.
 
 ```
 RequestHeader set Host expr=%{HTTP_HOST}
@@ -32,5 +32,7 @@ Make sure to replace <path-to-socket> and <url> with your actual values. Additio
 
 Examples
 
-* Unix, RewriteRule ^(.*)$ unix:/home/jhz22/public_html/Caprion/web.sock|http://127.0.0.1:8012/>/$1 [P,NE,L,QSA]
-* TCP -- no headers, RewriteRule ^(.*)$ https://127.0.0.1:8012/$1 [P,NE,L,QSA]
+* Unix
+  - RewriteRule ^(.*)$ unix:/home/jhz22/web.sock|http://localhost/$1 [P,NE,L,QSA]
+* TCP -- no headers
+  - RewriteRule "^(.*)$" http://localhost:8012/$1 [P,NE,L,QSA]

@@ -6,7 +6,7 @@
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <link href="../img/favicon.ico" rel="shortcut icon"/>
-<title>Srcf - CEU scientific meetings</title>
+<title>SRCF website - CEU scientific meetings</title>
 <link href="../css/bootstrap.min.css" rel="stylesheet"/>
 <link href="../css/font-awesome.min.css" rel="stylesheet"/>
 <link href="../css/base.css" rel="stylesheet"/>
@@ -103,15 +103,27 @@
 </div>
 <div class="navbar-collapse collapse card bg-secondary" id="toc-collapse">
 <ul class="nav flex-column">
-<li class="nav-item" data-level="2"><a class="nav-link" href="#srcf-website">SRCF website</a>
+<li class="nav-item" data-level="1"><a class="nav-link" href="#srcf-website">SRCF website</a>
 <ul class="nav flex-column">
+<li class="nav-item" data-level="2"><a class="nav-link" href="#htaccess">.htaccess</a>
+<ul class="nav flex-column">
+</ul>
+</li>
+<li class="nav-item" data-level="2"><a class="nav-link" href="#examples">Examples</a>
+<ul class="nav flex-column">
+</ul>
+</li>
+<li class="nav-item" data-level="2"><a class="nav-link" href="#raven-authentication">Raven authentication</a>
+<ul class="nav flex-column">
+</ul>
+</li>
 </ul>
 </li>
 </ul>
 </div>
 </div></div>
 <div class="col-md-9" role="main">
-<h2 id="srcf-website">SRCF website</h2>
+<h1 id="srcf-website">SRCF website</h1>
 <blockquote>
 <p>The SRCF uses Apache to serve websites so if you need to run a backend web app, for example a Django, Rails or Express server, then you will need to forward web requests.</p>
 </blockquote>
@@ -120,7 +132,7 @@
 <li>Website traffic, <a href="https://docs.srcf.net/reference/web-hosting/web-applications/#routing-traffic-to-your-app">https://docs.srcf.net/reference/web-hosting/web-applications/#routing-traffic-to-your-app</a></li>
 </ul>
 <p>e.g., CRSid.user.srcf.net through to an app running on a localhost port.</p>
-<h3 id="htaccess">.htaccess</h3>
+<h2 id="htaccess">.htaccess</h2>
 <p>It sits on the current directory.</p>
 <pre><code>RequestHeader set Host expr=%{HTTP_HOST}
 RequestHeader set X-Forwarded-For expr=%{REMOTE_ADDR}
@@ -137,13 +149,15 @@ RewriteRule ^(.*)$ unix:&lt;path-to-socket&gt;|http://&lt;url&gt;/$1 [P,NE,L,QSA
 <li>RewriteRule ^(.*)$ unix:<path-to-socket>|http://<url>/$1 [P,NE,L,QSA]: The RewriteRule is rewriting the URL. It proxies requests to a specified URL with a Unix domain socket. Replace <path-to-socket> with the actual path to your Unix domain socket and <url> with the target URL.</url></path-to-socket></url></path-to-socket></li>
 </ul>
 <p>Make sure to replace <path-to-socket> and <url> with your actual values. Additionally, ensure that the necessary modules (mod_headers and mod_rewrite) are enabled in your Apache configuration.</url></path-to-socket></p>
-<p>Examples</p>
+<h2 id="examples">Examples</h2>
 <ul>
 <li>Unix</li>
 <li>RewriteRule ^(.*)$ unix:/home/jhz22/web.sock|http://localhost/$1 [P,NE,L,QSA]</li>
 <li>TCP -- no headers</li>
 <li>RewriteRule "^(.*)<span class="arithmatex">\(" http://localhost:8012/\)</span>1 [P,NE,L,QSA]</li>
-</ul></div>
+</ul>
+<h2 id="raven-authentication">Raven authentication</h2>
+<p>Web: <a href="https://docs.srcf.net/reference/web-hosting/raven-authentication/">https://docs.srcf.net/reference/web-hosting/raven-authentication/</a></p></div>
 </div>
 </div>
 <footer class="col-md-12">

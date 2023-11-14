@@ -26,6 +26,11 @@ Based on chatGPT,
 * RequestHeader set X-Forwarded-Proto expr=%{REQUEST_SCHEME}: Sets the X-Forwarded-Proto header to the value of the REQUEST_SCHEME variable.
 * RequestHeader set X-Real-IP expr=%{REMOTE_ADDR}: Sets the X-Real-IP header to the value of the REMOTE_ADDR variable.
 * RewriteRule ^(.*)$ unix:<path-to-socket>|http://<url>/$1 [P,NE,L,QSA]: The RewriteRule is rewriting the URL. It proxies requests to a specified URL with a Unix domain socket. Replace <path-to-socket> with the actual path to your Unix domain socket and <url> with the target URL.
+  - [P,NE,L,QSA]: These are flags that modify the behavior of the RewriteRule:
+      - P: Proxy flag. This tells Apache to treat the substitution as a proxy request and forward it to the specified location.
+      - NE: No Escape flag. This prevents Apache from escaping special characters in the substitution, useful when substituting URLs.
+      - L: Last flag. This indicates that if the current rule matches, no further rules should be processed for this request.
+      - QSA: Query String Append flag. This appends the original query string to the substituted URL.
 
 Make sure to replace <path-to-socket> and <url> with your actual values. Additionally, ensure that the necessary modules (mod_headers and mod_rewrite) are enabled in your Apache configuration.
 

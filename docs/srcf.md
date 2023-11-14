@@ -32,9 +32,9 @@ Make sure to replace <path-to-socket> and <url> with your actual values. Additio
 ## Examples
 
 * Unix
-  - RewriteRule ^(.*)$ unix:/home/jhz22/web.sock|http://localhost/$1 [P,NE,L,QSA]
+  - RewriteRule ^(.*)\$ unix:/home/jhz22/web.sock|http://localhost/\$1 [P,NE,L,QSA]
 * TCP -- no headers
-  - RewriteRule "^(.*)$" http://localhost:8012/$1 [P,NE,L,QSA]
+  - RewriteRule "^(.*)\$" http://localhost:8012/\$1 [P,NE,L,QSA]
 
 ## Raven authentication
 

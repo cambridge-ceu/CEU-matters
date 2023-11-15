@@ -117,6 +117,10 @@
 <ul class="nav flex-column">
 </ul>
 </li>
+<li class="nav-item" data-level="2"><a class="nav-link" href="#testing">Testing</a>
+<ul class="nav flex-column">
+</ul>
+</li>
 </ul>
 </li>
 </ul>
@@ -164,7 +168,32 @@ RewriteRule ^(.*)$ unix:&lt;path-to-socket&gt;|http://&lt;url&gt;/$1 [P,NE,L,QSA
 <li>RewriteRule "^(.*)$" http://localhost:8012/$1 [P,NE,L,QSA]</li>
 </ul>
 <h2 id="raven-authentication">Raven authentication</h2>
-<p>Web: <a href="https://docs.srcf.net/reference/web-hosting/raven-authentication/">https://docs.srcf.net/reference/web-hosting/raven-authentication/</a></p></div>
+<p>Web: <a href="https://docs.srcf.net/reference/web-hosting/raven-authentication/">https://docs.srcf.net/reference/web-hosting/raven-authentication/</a></p>
+<h2 id="testing">Testing</h2>
+<p>First, install Python packages.</p>
+<pre><code class="language-python">python3 --version
+pip install flask
+pip install pyopenssl
+</code></pre>
+<p>Create a <code>app.py</code></p>
+<pre><code class="language-python">from flask import Flask
+import os
+
+current_directory = os.path.basename(os.getcwd())
+print("Current Directory:", current_directory)
+
+app = Flask(__name__)
+
+@app.route('/')
+def hello():
+    current_directory = os.path.basename(os.getcwd())
+    print("Current Directory:", current_directory)
+    return 'Hello, ' + current_directory
+
+if __name__ == '__main__':
+    app.run(ssl_context='adhoc', port=11211)
+</code></pre>
+<p>so as to run <code>python3 app.py</code>. The port can be visited as <code>https://127.0.0.1:4321</code> from a browser.</p></div>
 </div>
 </div>
 <footer class="col-md-12">

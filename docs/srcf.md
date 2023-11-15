@@ -62,7 +62,7 @@ from flask import Flask
 import os
 
 current_directory = os.path.basename(os.getcwd())
-print("Current Directory:", current_directory)
+print("Enter Directory:", current_directory)
 
 app = Flask(__name__)
 

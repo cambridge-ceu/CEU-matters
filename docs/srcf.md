@@ -73,7 +73,7 @@ def hello():
     return 'Hello, ' + current_directory
 
 if __name__ == '__main__':
-    app.run(ssl_context='adhoc', port=11211)
+    app.run(ssl_context='adhoc', port=11211, debug=True)
 ```
 
 so as to run `python3 app.py`. The port can be visited as `https://127.0.0.1:4321` from a browser.

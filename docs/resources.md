@@ -65,7 +65,7 @@
   * Comms Team: <ps.comms@medschl.cam.ac.uk>
   * Fantasy Premier League, <https://fantasy.premierleague.com/> ([auto-join](https://fantasy.premierleague.com/leagues/auto-join/rh5pj6), rh5pj6)
   * Finance: <PHPC.Finance.Manager@medschl.cam.ac.uk>
-  * Grants Team: <ps.grants@medschl.cam.ac.uk>
+  * Grants Team (<https://intranet.phpc.cam.ac.uk/finance/grant-applications/applications>): <ps.grants@medschl.cam.ac.uk>, <PHPC.Finance.Manager@medschl.cam.ac.uk>
   * HR Team: <phpc.hr@medschl.cam.ac.uk>
   * Intranet: <https://intranet.phpc.cam.ac.uk>
     - Staff card, <https://intranet.phpc.cam.ac.uk/facilities-and-comms/accountservices/> ([New Starter form](https://intranet.phpc.cam.ac.uk/human-resources/new-starters/)); check your card validity
@@ -152,6 +152,7 @@
     - Credit Card Holders: <https://www.expenses.admin.cam.ac.uk/learning-path-card-holder>
     - Subsistence rates: <https://www.expenses.admin.cam.ac.uk/expense-rates/subsistence-rates>
   * Grace on fossil fuel industry ties, <https://www.cam.ac.uk/notices/grace-on-fossil-fuel-industry-ties> ([A proposal](https://www.admin.cam.ac.uk/reporter/2021-22/weekly/6666/6666-public.pdf#page=6), [An accompanying Notice](https://www.reporter.admin.cam.ac.uk/files/ffstudy-jul2023.pdf))
+  * Grant submission, <https://www.research-operations.admin.cam.ac.uk/submitgrantapp>
   * Human Resources, <https://www.hr.admin.cam.ac.uk/>
     - Employee Self Service, <https://chris.cam.ac.uk/hrlive_ess/ess/index.html#/login>
     - [Equality and Diversity Team](mailto:equality@admin.cam.ac.uk")

@@ -1,6 +1,6 @@
 # Flask on SRCF
 
-Several files are required.
+Tests are made under SRCF, where several aspects are required.
 
 ## app.py
 
@@ -32,6 +32,8 @@ def home():
 </html>
 ```
 
+which includes a `Jinja2` template syntax.
+
 ## app.sh
 
 ```bash
@@ -42,12 +44,12 @@ if [ ! -d templates ]; then mkdir templates; fi
 flask run
 ```
 
-## http:/127.0.0.1:5000
+## http://127.0.0.1:5000
 
 Upon running flast using the default port 5000, it can be acessed via
 
 ```bash
-firefox http:/127.0.0.1:5000
+firefox http://127.0.0.1:5000
 ```
 
 It then produces the following output,

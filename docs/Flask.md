@@ -46,7 +46,7 @@ flask run
 
 ## http://127.0.0.1:5000
 
-Upon running flast using the default port 5000, it can be acessed via
+Upon running Flask using the default port 5000, it can be acessed via
 
 ```bash
 firefox http://127.0.0.1:5000
@@ -58,6 +58,9 @@ It then produces the following output,
 Current time: 2023-11-18 16:29:33.365224
 ```
 
-## Reference
+## References
 
-Farrell D. (2023) The Well-Grounded Python Developer-HOW THE PROS USE PYTHON AND FLASK, Chapter 6. Sharing with the internet. 89-112. Manning Publications Co.
+(Notes here are based on Chapter 6. "Sharing with the internet". pp89-112 of Farrell (2023), while Adedeji shall be relevant with REST API).
+
+Farrell D. (2023) The Well-Grounded Python Developer-HOW THE PROS USE PYTHON AND FLASK. Manning Publications Co.\
+Adedeji O. (2023) Full-Stack Flask and React. Packt Publishing

@@ -56,3 +56,34 @@
     - [@CAMBRIDGE_CEU](https://twitter.com/CAMBRIDGE_CEU)
     - [@DonorHealthBTRU](https://twitter.com/donorhealthbtru)
   * UKB data access for approved users, [register](https://www.ukbiobank.ac.uk/enable-your-research/register)
+
+## Footnotes
+
+[^U]: Network drives
+    >
+    > U:\>net use
+    >
+    > New connections will be remembered.
+    >
+    >
+    >      Status       Local     Remote                    Network
+    >
+    >      -------------------------------------------------------------------------------
+    >      OK           K:        \\me-stata3\stata14       Microsoft Windows Network
+    >      OK           L:        \\me-stata3\stata15       Microsoft Windows Network
+    >                   S:        \\me-filer1\groups$\MGEU\Factors\High_dimensional_genetics\Olink\INF1
+    >                                                       Microsoft Windows Network
+    >                   U:        \\me-filer1.medschl.cam.ac.uk\home$\jhz22
+    >                                                       Microsoft Windows Network
+    >                   V:        \\ME-FILER1\GROUPS$\MEU   Microsoft Windows Network
+    >                   W:        \\ME-FILER1\GROUPS$\MGEU  Microsoft Windows Network
+    >                   X:        \\me-filer1\groups3$\CEU-Biobank data
+    >                                                  Microsoft Windows Network
+    >      The command completed successfully.
+    > 
+    > The user profile is available from `\\me-filer2.medschl.cam.ac.uk\profiles$\CRSid.v#`, and is again handy to map it to a drive, e.g., via MS-DOS,
+    >
+    > net use Z: \\me-filer2.medschl.cam.ac.uk\profiles$\CRSid.v#
+    >
+    > The `AppData/Roaming` directory can be used when appropriate. In case of error(s), a run as administrator from a `cmd` session with `sfc/scannow` to fix.
+    >

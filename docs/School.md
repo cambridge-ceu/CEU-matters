@@ -41,3 +41,46 @@
     - [Dissertation Proposal Collection-ACY2023-24](https://eur03.safelinks.protection.outlook.com/ap/w-59584e83/?url=https%3A%2F%2Funiversityofcambridgecloud.sharepoint.com%2F%3Aw%3A%2Fr%2Fsites%2FPHPC_Gerontology%2FShared%2520Documents%2FGeneral%2FDissertation%2520Projects%2FAcademic%2520Year%25202023-24%2FDissertation%2520Proposal%2520Collection-ACY2023-24.docx%3Fd%3Dw1051a61d2284474a83017cf341c81dc7%26csf%3D1%26web%3D1%26e%3D08ulca&data=05%7C01%7Cjhz22%40cam.ac.uk%7C14a21630bd9c43b0278a08dbdec52776%7C49a50445bdfa4b79ade3547b4f3986e9%7C1%7C0%7C638348710615553065%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=8RMYIKZjclbgUvpzJCI9jydF0zQxt04mJgVpTgJqO1M%3D&reserved=0)
   * Newsletter, <mailto:newsletter@medschl.cam.ac.uk>
 
+## Footnotes
+
+[^MAC]: An example output from `getmac -v`.
+    >
+    >      U:\>getmac -v
+    >
+    >      Connection Name Network Adapter Physical Address    Transport Name
+    >      =============== =============== =================== ==========================================================
+    >      vEthernet (nat) Hyper-V Virtual 00-15-5D-23-52-3D   \Device\Tcpip_{1B4E8617-BC29-4833-A456-C0C64A493AFE}
+    >      VirtualBox Host VirtualBox Host 0A-00-27-00-00-0B   \Device\Tcpip_{53CCE470-7C3C-40AB-91B0-A892285AA122}
+    >      Ethernet 2      TAP-Windows Ada 00-FF-DF-42-55-EB   Media disconnected
+    >      vEthernet (Defa Hyper-V Virtual 00-15-5D-25-8F-34   \Device\Tcpip_{79500A5B-7A98-4CAC-8879-4439AD68046C}
+    >      Ethernet        Intel(R) Ethern 54-BF-64-81-E7-29   \Device\Tcpip_{29441362-9902-493B-A2DE-BAF0BC3FB153}
+    >
+    > In this case, the last line is what is needed.
+[^VPN]: To check for the active status, ping from a CLI (Linux/Windows MS-DOS prompt, invoke with Windows key + r, type in "cmd" in the box and hit the return key) and issue 
+    >
+    > ping CMPCxxx.medschl.private.cam.ac.uk
+    > 
+    > where (xxx is the serial number, e.g., 357, on the desktop at the office). Equivalently, one can use `ping 172.27.11.159`. The IP address is also the one in the remote desktop connection dialog box. It appears helpful when the computer is restarted for updates.
+    >
+    >      Pinging CMPC357.medschl.private.cam.ac.uk [172.27.11.159] with 32 bytes of data:
+    >      Reply from 172.27.11.159: bytes=32 time=16ms TTL=127
+    >      Reply from 172.27.11.159: bytes=32 time=16ms TTL=127
+    >      Reply from 172.27.11.159: bytes=32 time=16ms TTL=127
+    >      Reply from 172.27.11.159: bytes=32 time=24ms TTL=127
+    >
+    >      Ping statistics for 172.27.11.159:
+    >           Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+    >      Approximate round trip times in milli-seconds:
+    >           Minimum = 16ms, Maximum = 24ms, Average = 18ms
+    >
+    > However, the following message shows that the computer is down.
+    >
+    >      Pinging 172.27.11.159 with 32 bytes of data:
+    >      Request timed out.
+    >      Request timed out.
+    >      Request timed out.
+    >      Request timed out.
+    >      Ping statistics for 172.27.11.159:
+    >           Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+    >
+    > One can find out machine name with `hostname` from DOS (to enter, run `cmd`).

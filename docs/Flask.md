@@ -32,7 +32,7 @@ def home():
 </html>
 ```
 
-which includes a `Jinja2` template syntax.
+which includes `{{now}}` in `Jinja2` template syntax.
 
 ## app.sh
 

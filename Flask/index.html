@@ -117,7 +117,7 @@
 <ul class="nav flex-column">
 </ul>
 </li>
-<li class="nav-item" data-level="2"><a class="nav-link" href="#http1270015000">http:/127.0.0.1:5000</a>
+<li class="nav-item" data-level="2"><a class="nav-link" href="#http1270015000">http://127.0.0.1:5000</a>
 <ul class="nav flex-column">
 </ul>
 </li>
@@ -132,7 +132,7 @@
 </div></div>
 <div class="col-md-9" role="main">
 <h1 id="flask-on-srcf">Flask on SRCF</h1>
-<p>Several files are required.</p>
+<p>Tests are made under SRCF, where several aspects are required.</p>
 <h2 id="apppy">app.py</h2>
 <pre><code class="language-python">from flask import Flask, render_template
 from datetime import datetime
@@ -157,6 +157,7 @@ def home():
 &lt;/body&gt;
 &lt;/html&gt;
 </code></pre>
+<p>which includes a <code>Jinja2</code> template syntax.</p>
 <h2 id="appsh">app.sh</h2>
 <pre><code class="language-bash">export FLASK_ENV=development
 export FLASK_APP=app.py
@@ -164,9 +165,9 @@ export FLASK_APP=app.py
 if [ ! -d templates ]; then mkdir templates; fi
 flask run
 </code></pre>
-<h2 id="http1270015000">http:/127.0.0.1:5000</h2>
+<h2 id="http1270015000">http://127.0.0.1:5000</h2>
 <p>Upon running flast using the default port 5000, it can be acessed via</p>
-<pre><code class="language-bash">firefox http:/127.0.0.1:5000
+<pre><code class="language-bash">firefox http://127.0.0.1:5000
 </code></pre>
 <p>It then produces the following output,</p>
 <pre><code>Current time: 2023-11-18 16:29:33.365224

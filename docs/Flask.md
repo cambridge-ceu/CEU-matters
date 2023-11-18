@@ -75,7 +75,7 @@ Current time: 2023-11-18 16:29:33.365224
 
 Farrell D. (2023) The Well-Grounded Python Developer-HOW THE PROS USE PYTHON AND FLASK. Manning Publications Co.
 
-- [GitHub](https://github.com/writeson) [code](https://github.com/writeson/the-well-grounded-python-developer)).
+- [GitHub](https://github.com/writeson) [code](https://github.com/writeson/the-well-grounded-python-developer).
 - [Live book](https://livebook.manning.com/book/the-well-grounded-python-developer/).
 
 Adedeji O. (2023) Full-Stack Flask and React. Packt Publishing

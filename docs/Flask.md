@@ -71,7 +71,7 @@ Current time: 2023-11-18 16:29:33.365224
 
 ## References
 
-(Notes here are based on Chapter 6. "Sharing with the internet". pp89-112 of Farrell (2023), while Adedeji (2023) shall be relevant with REST API).
+(Notes here are based on Chapter 6[^chapter6] of Farrell (2023), while Adedeji (2023) shall be relevant with REST API).
 
 Farrell D. (2023) The Well-Grounded Python Developer-HOW THE PROS USE PYTHON AND FLASK. Manning Publications Co.
 
@@ -81,3 +81,35 @@ Farrell D. (2023) The Well-Grounded Python Developer-HOW THE PROS USE PYTHON AND
 Adedeji O. (2023) Full-Stack Flask and React. Packt Publishing
 
 - [GitHub](https://github.com/PacktPublishing/Full-Stack-Flask-and-React)
+
+[^chapter6]: Chapter 6. "Sharing with the internet". pp89-112 
+
+    ## Setup
+
+    ```bash
+    python3 -m venv .venv
+    source .venv/bin/activate
+    pip install --upgrade pip
+    mkdir c6
+    cd c6
+    wget https://raw.githubusercontent.com/writeson/the-well-grounded-python-developer/integration/examples/CH_06/requirements.txt
+    pip install -r requirements.txt
+    ```
+
+    ## Files
+
+    ```
+    ├── static
+    │   ├── css
+    │   │   ├── index.css
+    │   │   └── myblog.css
+    │   └── js
+    │       └── index.js
+    └── templates
+        ├── base.html
+        └── index.html
+    ```
+
+    ## Run
+
+    This is similiar to `app.sh` above.

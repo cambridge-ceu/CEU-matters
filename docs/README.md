@@ -6,12 +6,12 @@ The repository highlights information on seminars and presentations, etc., at th
 * [Health Data Research (HDR) UK](HDR.md)
 * [Schedules](schedules.md) including Zoom video communications (check local times remotely, [https://time.is/](https://time.is/)).
 * Resources
-  - [CEU](CEU.md)
-  - [DPHPC](DPHPC.md)
-  - [School](School.md)
-  - [University](University.md)
-    - [Flask](Flask.md)
-    - [SRCF](SRCF.md)
+    - [CEU](CEU.md)
+    - [DPHPC](DPHPC.md)
+    - [School](School.md)
+    - [University](University.md)
+        - [Flask](Flask.md)
+        - [SRCF](SRCF.md)
 * [Channels](channels.md) provides information on active mailing lists, events, slack channels and video conferencing (software).
 * [Talks](talks.md) lists external talks.
 

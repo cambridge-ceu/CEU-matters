@@ -82,9 +82,9 @@ Adedeji O. (2023) Full-Stack Flask and React. Packt Publishing
 
 - [GitHub](https://github.com/PacktPublishing/Full-Stack-Flask-and-React)
 
-[^chapter6]: Chapter 6. "Sharing with the internet". pp89-112 
+[^chapter6]: ## Chapter 6. "Sharing with the internet". pp89-112 
 
-    ## Setup
+    ### Setup
 
     ```bash
     python3 -m venv .venv
@@ -96,7 +96,7 @@ Adedeji O. (2023) Full-Stack Flask and React. Packt Publishing
     pip install -r requirements.txt
     ```
 
-    ## Files
+    ### Files
 
     ```
     ├── static
@@ -110,6 +110,6 @@ Adedeji O. (2023) Full-Stack Flask and React. Packt Publishing
         └── index.html
     ```
 
-    ## Run
+    ### Run
 
     This is similiar to `app.sh` above.

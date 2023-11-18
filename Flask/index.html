@@ -5,16 +5,15 @@
 <meta charset="utf-8"/>
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<meta content="None" name="description"/>
-<link href="img/favicon.ico" rel="shortcut icon"/>
-<title>CEU scientific meetings</title>
-<link href="css/bootstrap.min.css" rel="stylesheet"/>
-<link href="css/font-awesome.min.css" rel="stylesheet"/>
-<link href="css/base.css" rel="stylesheet"/>
+<link href="../img/favicon.ico" rel="shortcut icon"/>
+<title>Flask on SRCF - CEU scientific meetings</title>
+<link href="../css/bootstrap.min.css" rel="stylesheet"/>
+<link href="../css/font-awesome.min.css" rel="stylesheet"/>
+<link href="../css/base.css" rel="stylesheet"/>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" rel="stylesheet"/>
-<link href="stylesheets/extra.css" rel="stylesheet"/>
-<script defer="" src="js/jquery-1.10.2.min.js"></script>
-<script defer="" src="js/bootstrap.min.js"></script>
+<link href="../stylesheets/extra.css" rel="stylesheet"/>
+<script defer="" src="../js/jquery-1.10.2.min.js"></script>
+<script defer="" src="../js/bootstrap.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/Bash.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/HTML.min.js"></script>
@@ -27,10 +26,10 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/yaml.min.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
 </head>
-<body class="homepage">
+<body>
 <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
 <div class="container">
-<a class="navbar-brand" href=".">CEU scientific meetings</a>
+<a class="navbar-brand" href="..">CEU scientific meetings</a>
 <!-- Expander button -->
 <button class="navbar-toggler" data-target="#navbar-collapse" data-toggle="collapse" type="button">
 <span class="navbar-toggler-icon"></span>
@@ -39,49 +38,49 @@
 <div class="navbar-collapse collapse" id="navbar-collapse">
 <!-- Main navigation -->
 <ul class="nav navbar-nav">
-<li class="navitem active">
-<a class="nav-link" href="."></a>
+<li class="navitem">
+<a class="nav-link" href=".."></a>
 </li>
 <li class="dropdown">
 <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Chronicle <b class="caret"></b></a>
 <ul class="dropdown-menu">
 <li>
-<a class="dropdown-item" href="2023/">2023</a>
+<a class="dropdown-item" href="../2023/">2023</a>
 </li>
 <li>
-<a class="dropdown-item" href="2022/">2022</a>
+<a class="dropdown-item" href="../2022/">2022</a>
 </li>
 <li>
-<a class="dropdown-item" href="2021/">2021</a>
+<a class="dropdown-item" href="../2021/">2021</a>
 </li>
 <li>
-<a class="dropdown-item" href="2020/">2020</a>
+<a class="dropdown-item" href="../2020/">2020</a>
 </li>
 <li>
-<a class="dropdown-item" href="mhs/">Mental health support</a>
+<a class="dropdown-item" href="../mhs/">Mental health support</a>
 </li>
 <li>
-<a class="dropdown-item" href="COVID-19/">The COVID-19 pandemic</a>
+<a class="dropdown-item" href="../COVID-19/">The COVID-19 pandemic</a>
 </li>
 <li>
-<a class="dropdown-item" href="Cambridge-Baker-Joint-Symposium/">The Cambridge/Baker Joint Symposium</a>
+<a class="dropdown-item" href="../Cambridge-Baker-Joint-Symposium/">The Cambridge/Baker Joint Symposium</a>
 </li>
 </ul>
 </li>
 <li class="navitem">
-<a class="nav-link" href="HDR/">HDR(UK)</a>
+<a class="nav-link" href="../HDR/">HDR(UK)</a>
 </li>
 <li class="navitem">
-<a class="nav-link" href="schedules/">Schedules</a>
+<a class="nav-link" href="../schedules/">Schedules</a>
 </li>
 <li class="navitem">
-<a class="nav-link" href="resources/">Resources</a>
+<a class="nav-link" href="../resources/">Resources</a>
 </li>
 <li class="navitem">
-<a class="nav-link" href="channels/">Channels</a>
+<a class="nav-link" href="../channels/">Channels</a>
 </li>
 <li class="navitem">
-<a class="nav-link" href="talks/">Talks</a>
+<a class="nav-link" href="../talks/">Talks</a>
 </li>
 </ul>
 <ul class="nav navbar-nav ml-auto">
@@ -89,16 +88,6 @@
 <a class="nav-link" data-target="#mkdocs_search_modal" data-toggle="modal" href="#">
 <i class="fa fa-search"></i> Search
                             </a>
-</li>
-<li class="nav-item">
-<a class="nav-link disabled" rel="prev">
-<i class="fa fa-arrow-left"></i> Previous
-                                </a>
-</li>
-<li class="nav-item">
-<a class="nav-link" href="2023/" rel="next">
-                                    Next <i class="fa fa-arrow-right"></i>
-</a>
 </li>
 </ul>
 </div>
@@ -114,25 +103,76 @@
 </div>
 <div class="navbar-collapse collapse card bg-secondary" id="toc-collapse">
 <ul class="nav flex-column">
-<li class="nav-item" data-level="1"><a class="nav-link" href="#quick-guides">Quick guides</a>
+<li class="nav-item" data-level="1"><a class="nav-link" href="#flask-on-srcf">Flask on SRCF</a>
 <ul class="nav flex-column">
+<li class="nav-item" data-level="2"><a class="nav-link" href="#apppy">app.py</a>
+<ul class="nav flex-column">
+</ul>
+</li>
+<li class="nav-item" data-level="2"><a class="nav-link" href="#templatesindexhtml">templates/index.html</a>
+<ul class="nav flex-column">
+</ul>
+</li>
+<li class="nav-item" data-level="2"><a class="nav-link" href="#appsh">app.sh</a>
+<ul class="nav flex-column">
+</ul>
+</li>
+<li class="nav-item" data-level="2"><a class="nav-link" href="#http1270015000">http:/127.0.0.1:5000</a>
+<ul class="nav flex-column">
+</ul>
+</li>
+<li class="nav-item" data-level="2"><a class="nav-link" href="#reference">Reference</a>
+<ul class="nav flex-column">
+</ul>
+</li>
 </ul>
 </li>
 </ul>
 </div>
 </div></div>
 <div class="col-md-9" role="main">
-<p>The repository highlights information on seminars and presentations, etc., at the Cardiovascular Epidemiology Unit (CEU), as notified via <a href="mailto:phpc-ceu-group@medschl.cam.ac.uk">phpc-ceu-group@medschl.cam.ac.uk</a>.</p>
-<h1 id="quick-guides">Quick guides</h1>
-<ul>
-<li>Chronicle: <a href="mhs/">Mental health support</a>, <a href="COVID-19/">The COVID-19 pandemic</a>, <a href="2023/">2023</a>.</li>
-<li><a href="HDR/">Health Data Research (HDR) UK</a></li>
-<li><a href="schedules/">Schedules</a> including Zoom video communications (check local times remotely, <a href="https://time.is/">https://time.is/</a>).</li>
-<li><a href="resources/">Resources</a> hosts a variety of links to departmental, school and university facilities.</li>
-<li><a href="channels/">Channels</a> provides information on active mailing lists, events, slack channels and video conferencing (software).</li>
-<li><a href="talks/">Talks</a> lists external talks.</li>
-</ul>
-<p><a href="http://phdcomics.com/comics/archive.php?comicid=719"> <img align="right" height="350" src="http://phdcomics.com/comics/archive/phd060406s.gif" width="860"/> </a></p></div>
+<h1 id="flask-on-srcf">Flask on SRCF</h1>
+<p>Several files are required.</p>
+<h2 id="apppy">app.py</h2>
+<pre><code class="language-python">from flask import Flask, render_template
+from datetime import datetime
+
+app = Flask(__name__)
+
+@app.route("/")
+def home():
+  return render_template("index.html", now=datetime.now())
+</code></pre>
+<h2 id="templatesindexhtml">templates/index.html</h2>
+<pre><code class="language-html">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;!-- Required meta tags --&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"&gt;
+&lt;title&gt;Your First Web Server&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;h1&gt;Current time: {{now}}&lt;/h1&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</code></pre>
+<h2 id="appsh">app.sh</h2>
+<pre><code class="language-bash">export FLASK_ENV=development
+export FLASK_APP=app.py
+
+if [ ! -d templates ]; then mkdir templates; fi
+flask run
+</code></pre>
+<h2 id="http1270015000">http:/127.0.0.1:5000</h2>
+<p>Upon running flast using the default port 5000, it can be acessed via</p>
+<pre><code class="language-bash">firefox http:/127.0.0.1:5000
+</code></pre>
+<p>It then produces the following output,</p>
+<pre><code>Current time: 2023-11-18 16:29:33.365224
+</code></pre>
+<h2 id="reference">Reference</h2>
+<p>Farrell D. (2023) The Well-Grounded Python Developer-HOW THE PROS USE PYTHON AND FLASK, Chapter 6. Sharing with the internet. 89-112. Manning Publications Co.</p></div>
 </div>
 </div>
 <footer class="col-md-12">
@@ -140,14 +180,14 @@
 <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
 </footer>
 <script>
-            var base_url = ".",
+            var base_url = "..",
                 shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
         </script>
-<script defer="" src="js/base.js"></script>
-<script defer="" src="javascripts/config.js"></script>
+<script defer="" src="../js/base.js"></script>
+<script defer="" src="../javascripts/config.js"></script>
 <script defer="" src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-<script defer="" src="search/main.js"></script>
+<script defer="" src="../search/main.js"></script>
 <div aria-hidden="true" aria-labelledby="searchModalLabel" class="modal" id="mkdocs_search_modal" role="dialog" tabindex="-1">
 <div class="modal-dialog modal-lg">
 <div class="modal-content">
@@ -213,7 +253,3 @@
 </div>
 </body>
 </html>
-<!--
-MkDocs version : 1.1.2
-Build Date UTC : 2023-11-18 16:40:39.265218+00:00
--->

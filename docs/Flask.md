@@ -44,7 +44,7 @@ if [ ! -d templates ]; then mkdir templates; fi
 flask run
 ```
 
-## http://127.0.0.1:5000
+## localhost
 
 Upon running Flask using the default port 5000, it can be acessed via
 

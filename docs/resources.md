@@ -190,7 +190,12 @@
     - The Data Protection Policy, <https://www.information-compliance.admin.cam.ac.uk/files/data_protection_policy_final.pdf>
   * REF2021 [Code of Practice](https://www.ref.admin.cam.ac.uk/sites/www.ref.admin.cam.ac.uk/files/revised_code_of_practice_170919_clean.pdf), <a href="mailto:REF2021@admin.cam.ac.uk">email</a> and [Staff Circumstances](https://www.ref.admin.cam.ac.uk/code-practice/staff-circumstances) ([form](https://www.ref.admin.cam.ac.uk/code-practice/staff-eligibility), <a href="mailto:(REF2021staffcircumstances@admin.cam.ac.uk">email</a>, <a href="mailto:Gina.Warren@admin.cam.ac.uk">HR equality & diversity</a>)
   * Research Strategy Office, <https://www.research-strategy.admin.cam.ac.uk/>
-  * Student run computing facilities (SRCF), <https://www.srcf.net/> ([Webmail](https://webmail.hades.srcf.net/), [terminal](https://www.srcf.net/terminal/), [Port binding/Website traffic](https://cambridge-ceu.github.io/CEU-scientific-meetings/srcf/))
+  * Student run computing facilities (SRCF)
+    - Web, <https://www.srcf.net/>
+    - Webmail, <https://webmail.hades.srcf.net/>
+    - Terminal, <https://www.srcf.net/terminal/>
+    - Port binding/Website traffic, <https://cambridge-ceu.github.io/CEU-scientific-meetings/srcf/>
+    - Flask, <https://cambridge-ceu.github.io/CEU-scientific-meetings/Flask/>
   * Staff profile, <https://help.uis.cam.ac.uk/service/website-resources/web-application-development/drupal/staff-profiles/updating-your-own-staff>
   * Symplectic Elements Login, <https://elements.admin.cam.ac.uk/>
   * Telecoms Office, <https://www.phone.cam.ac.uk/> ([My phone](https://my.phone.cam.ac.uk/myphone/calls))

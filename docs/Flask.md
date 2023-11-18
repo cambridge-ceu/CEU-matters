@@ -1,6 +1,10 @@
 # Flask on SRCF
 
-Tests are made under SRCF, where several aspects are required.
+Tests are made under SRCF, where several aspects are required. A particular directory called `templates` is created.
+
+```bash
+if [ ! -d templates ]; then mkdir templates; fi
+```
 
 ## app.py
 
@@ -39,9 +43,16 @@ which includes `{{now}}` in `Jinja2` template syntax.
 ```bash
 export FLASK_ENV=development
 export FLASK_APP=app.py
-
-if [ ! -d templates ]; then mkdir templates; fi
 flask run
+```
+
+In addition, `flask routes` gives the following information
+
+```
+Endpoint  Methods  Rule
+--------  -------  -----------------------
+home      GET      /
+static    GET      /static/<path:filename>
 ```
 
 ## localhost
@@ -62,5 +73,11 @@ Current time: 2023-11-18 16:29:33.365224
 
 (Notes here are based on Chapter 6. "Sharing with the internet". pp89-112 of Farrell (2023), while Adedeji (2023) shall be relevant with REST API).
 
-Farrell D. (2023) The Well-Grounded Python Developer-HOW THE PROS USE PYTHON AND FLASK. Manning Publications Co.\
+Farrell D. (2023) The Well-Grounded Python Developer-HOW THE PROS USE PYTHON AND FLASK. Manning Publications Co.
+
+- [GitHub](https://github.com/writeson) [code](https://github.com/writeson/the-well-grounded-python-developer)).
+- [Live book](https://livebook.manning.com/book/the-well-grounded-python-developer/).
+
 Adedeji O. (2023) Full-Stack Flask and React. Packt Publishing
+
+- [GitHub](https://github.com/PacktPublishing/Full-Stack-Flask-and-React)

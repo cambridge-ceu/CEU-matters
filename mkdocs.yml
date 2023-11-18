@@ -12,6 +12,12 @@ nav:
   - HDR(UK): HDR.md
   - Schedules: schedules.md
   - Resources: resources.md
+    - CEU.md
+    - DPHPC.md
+    - School.md
+    - University.md
+      - Flask.md
+      - SRCF.md
   - Channels: channels.md
   - Talks: talks.md
 theme:

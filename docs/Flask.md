@@ -82,7 +82,9 @@ Adedeji O. (2023) Full-Stack Flask and React. Packt Publishing
 
 - [GitHub](https://github.com/PacktPublishing/Full-Stack-Flask-and-React)
 
-[^chapter6]: ## Chapter 6. Sharing with the internet
+[^chapter6]:
+
+    ## Chapter 6. Sharing with the internet ([c6](c6))
 
     ### Setup
 

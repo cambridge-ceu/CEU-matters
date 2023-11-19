@@ -6,7 +6,7 @@
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <link href="../img/favicon.ico" rel="shortcut icon"/>
-<title>Chapter 6 example - CEU scientific meetings</title>
+<title>Chapter 6. Sharing with the internet - CEU scientific meetings</title>
 <link href="../css/bootstrap.min.css" rel="stylesheet"/>
 <link href="../css/font-awesome.min.css" rel="stylesheet"/>
 <link href="../css/base.css" rel="stylesheet"/>
@@ -117,15 +117,55 @@
 </div>
 <div class="navbar-collapse collapse card bg-secondary" id="toc-collapse">
 <ul class="nav flex-column">
-<li class="nav-item" data-level="1"><a class="nav-link" href="#chapter-6-example">Chapter 6 example</a>
+<li class="nav-item" data-level="1"><a class="nav-link" href="#chapter-6-sharing-with-the-internet">Chapter 6. Sharing with the internet</a>
 <ul class="nav flex-column">
+<li class="nav-item" data-level="2"><a class="nav-link" href="#setup">Setup</a>
+<ul class="nav flex-column">
+</ul>
+</li>
+<li class="nav-item" data-level="2"><a class="nav-link" href="#files">Files</a>
+<ul class="nav flex-column">
+</ul>
+</li>
+<li class="nav-item" data-level="2"><a class="nav-link" href="#run">Run</a>
+<ul class="nav flex-column">
+</ul>
+</li>
 </ul>
 </li>
 </ul>
 </div>
 </div></div>
 <div class="col-md-9" role="main">
-<h1 id="chapter-6-example">Chapter 6 example</h1></div>
+<h1 id="chapter-6-sharing-with-the-internet">Chapter 6. Sharing with the internet</h1>
+<h2 id="setup">Setup</h2>
+<pre><code class="language-bash">python3 -m venv .venv
+source .venv/bin/activate
+pip install --upgrade pip
+mkdir c6
+cd c6
+wget https://raw.githubusercontent.com/writeson/the-well-grounded-python-developer/integration/examples/CH_06/requirements.txt
+pip install -r requirements.txt
+</code></pre>
+<h2 id="files">Files</h2>
+<pre><code>c6
+├── app.py
+├── app.sav
+├── requirements.txt
+├── static
+│   ├── css
+│   │   ├── index.css
+│   │   └── myblog.css
+│   └── js
+│       └── index.js
+└── templates
+    ├── base.html
+    ├── index.html
+    └── index.sav
+</code></pre>
+<p>where .sav is the simple version described under <a href="https://cambridge-ceu.github.io/CEU-scientific-meetings/Flask/">https://cambridge-ceu.github.io/CEU-scientific-meetings/Flask/</a>.</p>
+<h2 id="run">Run</h2>
+<p>This is as before.</p></div>
 </div>
 </div>
 <footer class="col-md-12">

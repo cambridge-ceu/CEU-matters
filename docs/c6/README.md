@@ -1,4 +1,4 @@
-# Chapter 6. Sharing with the internet
+# Sharing with the internet
 
 ## Setup
 

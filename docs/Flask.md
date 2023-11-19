@@ -99,6 +99,10 @@ Adedeji O. (2023) Full-Stack Flask and React. Packt Publishing
     ### Files
 
     ```
+    c6
+    ├── app.py
+    ├── app.sav
+    ├── requirements.txt
     ├── static
     │   ├── css
     │   │   ├── index.css
@@ -107,8 +111,11 @@ Adedeji O. (2023) Full-Stack Flask and React. Packt Publishing
     │       └── index.js
     └── templates
         ├── base.html
-        └── index.html
+        ├── index.html
+        └── index.sav
     ```
+
+    where .sav is the simple version described above.
 
     ### Run
 

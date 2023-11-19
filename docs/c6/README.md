@@ -20,6 +20,7 @@ c6
 ├── app.sav
 ├── requirements.txt
 ├── static
+│   ├── A1BG
 │   ├── css
 │   │   ├── index.css
 │   │   └── myblog.css

@@ -71,7 +71,7 @@ Current time: 2023-11-18 16:29:33.365224
 
 ## References
 
-(Notes here are based on [Chapter 6](c6) of Farrell (2023), while Adedeji (2023) shall be relevant to REST API).
+(Notes here are based on [Chapter 6](../c6) of Farrell (2023), while Adedeji (2023) shall be relevant to REST API).
 
 Farrell D. (2023) The Well-Grounded Python Developer-HOW THE PROS USE PYTHON AND FLASK. Manning Publications Co.
 

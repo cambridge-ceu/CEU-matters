@@ -1,0 +1,35 @@
+from flask import Flask, render_template, send_from_directory
+from datetime import datetime
+from random import sample
+
+app = Flask(__name__)
+
+class PageVisit:
+    COUNT = 0
+    def counts(self):
+        PageVisit.COUNT += 1
+        return PageVisit.COUNT
+
+class BannerColors:
+    COLORS = [
+        "lightcoral", "salmon", "red", "firebrick", "pink",
+        "gold", "yellow", "khaki", "darkkhaki", "violet",
+        "blue", "purple", "indigo", "greenyellow", "lime",
+        "green", "olive", "darkcyan", "aqua", "skyblue",
+        "tan", "sienna", "gray", "silver"
+    ]
+    def get_colors(self):
+        return sample(BannerColors.COLORS, 5)
+
+
+@app.route("/")
+def home():
+    return render_template("index.html", data={
+        "now": datetime.now(),
+        "page_visit": PageVisit(),
+        "banner_colors": BannerColors().get_colors()
+    })
+
+@app.route('/<path:path>')
+def static_file(path):
+    return send_from_directory("A1BG",path)

@@ -44,37 +44,3 @@ Make sure to replace <path-to-socket> and <url> with your actual values. Additio
 ## Raven authentication
 
 Web: <https://docs.srcf.net/reference/web-hosting/raven-authentication/>
-
-## Testing
-
-First, install Python packages.
-
-```python
-python3 --version
-pip install flask
-pip install pyopenssl
-```
-
-Create a `app.py`
-
-```python
-from flask import Flask
-import os
-
-current_directory = os.path.basename(os.getcwd())
-print("Enter Directory:", current_directory)
-
-app = Flask(__name__)
-
-@app.route('/')
-def hello():
-    current_directory = os.path.basename(os.getcwd())
-    print("Current Directory:", current_directory)
-    return 'Hello, ' + current_directory
-
-if __name__ == '__main__':
-    app.run(ssl_context='adhoc', port=2212, debug=True)
-```
-
-so as to run `python3 app.py`. The port can be visited as `https://127.0.0.1:2212` from a browser.
-

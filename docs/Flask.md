@@ -69,6 +69,16 @@ It then produces the following output,
 Current time: 2023-11-18 16:29:33.365224
 ```
 
+## gunicorn
+
+The syntax is as follows,
+
+```bash
+gunicorn -w 4 app:app
+```
+
+Note that it is `Listening at: http://127.0.0.1:8000`.
+
 ## References
 
 (Notes here are based on [Chapter 6](../c6) of Farrell (2023), while Adedeji (2023) shall be relevant to REST API).

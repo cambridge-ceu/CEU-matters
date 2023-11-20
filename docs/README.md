@@ -5,7 +5,7 @@ The repository highlights information on seminars and presentations, etc., at th
 * Chronicle: [Mental health support](mhs.md), [The COVID-19 pandemic](COVID-19.md), [2023](2023.md).
 * [Health Data Research (HDR) UK](HDR.md)
 * [Schedules](schedules.md) including Zoom video communications (check local times remotely, [https://time.is/](https://time.is/)).
-* Resources: [CEU](CEU.md), [DPHPC](DPHPC.md), [School](School.md), [University](University.md) ([Flask](Flask.md), [c6](c6.md), [SRCF](SRCF.md))
+* Resources: [CEU](CEU.md), [DPHPC](DPHPC.md), [School](School.md), [University](University.md) (SRCF: [Flask](Flask.md), [c6](c6.md), [web](web.md))
 * [Channels](channels.md) provides information on active mailing lists, events, slack channels and video conferencing (software).
 * [Talks](talks.md) lists external talks.
 

@@ -166,6 +166,13 @@ pip install -r requirements.txt
     └── index.sav
 </code></pre>
 <p>where .sav is the simple version described under <a href="https://cambridge-ceu.github.io/CEU-scientific-meetings/Flask/">https://cambridge-ceu.github.io/CEU-scientific-meetings/Flask/</a> and our project directory <code>Caprion/</code> is to be access from <code>http://localhost:#/static/Caprion</code> with # to be 5000 (Flask default) or 8000 (gunicorn default).</p>
+<p>We can also apply <code>flask routes</code>, which gives,</p>
+<pre><code>Endpoint     Methods  Rule
+-----------  -------  -----------------------
+home         GET      /
+static       GET      /static/&lt;path:filename&gt;
+static_file  GET      /&lt;path:path&gt;
+</code></pre>
 <h2 id="run">Run</h2>
 <p>This is as before.</p></div>
 </div>

@@ -32,4 +32,4 @@ def home():
 
 @app.route('/<path:path>')
 def static_file(path):
-    return send_from_directory("A1BG",path)
+    return send_from_directory("Caprion",path)

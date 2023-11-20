@@ -135,6 +135,10 @@
 <ul class="nav flex-column">
 </ul>
 </li>
+<li class="nav-item" data-level="2"><a class="nav-link" href="#gunicorn">gunicorn</a>
+<ul class="nav flex-column">
+</ul>
+</li>
 <li class="nav-item" data-level="2"><a class="nav-link" href="#references">References</a>
 <ul class="nav flex-column">
 </ul>
@@ -192,6 +196,11 @@ static    GET      /static/&lt;path:filename&gt;
 <p>It then produces the following output,</p>
 <pre><code>Current time: 2023-11-18 16:29:33.365224
 </code></pre>
+<h2 id="gunicorn">gunicorn</h2>
+<p>The syntax is as follows,</p>
+<pre><code class="language-bash">gunicorn -w 4 app:app
+</code></pre>
+<p>Note that it is <code>Listening at: http://127.0.0.1:8000</code>.</p>
 <h2 id="references">References</h2>
 <p>(Notes here are based on <a href="../c6">Chapter 6</a> of Farrell (2023), while Adedeji (2023) shall be relevant to REST API).</p>
 <p>Farrell D. (2023) The Well-Grounded Python Developer-HOW THE PROS USE PYTHON AND FLASK. Manning Publications Co.</p>

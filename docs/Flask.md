@@ -83,13 +83,11 @@ Note that it is `Listening at: http://127.0.0.1:8000`, and it is easily changed 
 
 ## References
 
-(Notes here are based on [Chapter 6](../c6) of Farrell (2023), while Adedeji (2023) shall be relevant to REST API).
-
-1. 
+1. [Chapter 6](../c6)
   - Farrell D. (2023) The Well-Grounded Python Developer-HOW THE PROS USE PYTHON AND FLASK. Manning Publications Co.
   - [GitHub](https://github.com/writeson) [code](https://github.com/writeson/the-well-grounded-python-developer).
   - [Live book](https://livebook.manning.com/book/the-well-grounded-python-developer/).
 
-2. 
+2. RESTful API
   - Adedeji O. (2023) Full-Stack Flask and React. Packt Publishing
   - [GitHub](https://github.com/PacktPublishing/Full-Stack-Flask-and-React)

@@ -77,7 +77,9 @@ The syntax is as follows,
 gunicorn -w 4 app:app
 ```
 
-Note that it is `Listening at: http://127.0.0.1:8000`.
+Note that it is `Listening at: http://127.0.0.1:8000`, and it is easily changed via the `--bind/-b option`.
+
+> According to the Gunicorn documentation, the recommended number of workers (-w #) for an application running on a single production server is (2 × number_of_CPU cores) + 1. The formula is loosely based on the idea that for any given CPU core, one worker will be performing IO (input/output) operations, and the other worker will be performing CPU operations.
 
 ## References
 

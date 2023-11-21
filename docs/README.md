@@ -2,7 +2,7 @@ The repository highlights information on seminars and presentations, etc., at th
 
 # Quick guides
 
-* Chronicle: [Mental health support](mhs.md), [The COVID-19 pandemic](COVID-19.md), [2023](2023.md).
+* Chronicle: [Mental health support](mhs.md), [The COVID-19 pandemic](COVID-19.md), [2023](2023.md), [2024](2024.md).
 * [Health Data Research (HDR) UK](HDR.md)
 * [Schedules](schedules.md) including Zoom video communications (check local times remotely, [https://time.is/](https://time.is/)).
 * Resources: [CEU](CEU.md), [DPHPC](DPHPC.md), [School](School.md), [University](University.md) (SRCF: [Flask](Flask.md), [c6](c6.md), [web](web.md), [Terminal](https://www.srcf.net/terminal/))

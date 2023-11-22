@@ -157,6 +157,7 @@
 </div></div>
 <div class="col-md-9" role="main">
 <h1 id="flask-on-srcf">Flask on SRCF</h1>
+<p>Web: <a href="https://flask.palletsprojects.com/">https://flask.palletsprojects.com/</a></p>
 <p>Tests are made under SRCF, where several aspects are required. A particular directory called <code>templates</code> is created.</p>
 <pre><code class="language-bash">if [ ! -d templates ]; then mkdir templates; fi
 </code></pre>
@@ -204,6 +205,7 @@ static    GET      /static/&lt;path:filename&gt;
 <pre><code>Current time: 2023-11-18 16:29:33.365224
 </code></pre>
 <h2 id="gunicorn">gunicorn</h2>
+<p>Web: <a href="https://docs.gunicorn.org/en/stable/">https://docs.gunicorn.org/en/stable/</a></p>
 <p>The syntax is as follows,</p>
 <pre><code class="language-bash">gunicorn -w 4 app:app
 </code></pre>
@@ -212,6 +214,7 @@ static    GET      /static/&lt;path:filename&gt;
 <p>According to the Gunicorn documentation, the recommended number of workers (-w #) for an application running on a single production server is (2 × number_of_CPU cores) + 1. The formula is loosely based on the idea that for any given CPU core, one worker will be performing IO (input/output) operations, and the other worker will be performing CPU operations.</p>
 </blockquote>
 <h2 id="uwsgi">uWSGI</h2>
+<p>Web: <a href="https://uwsgi-docs.readthedocs.io/en/latest/">https://uwsgi-docs.readthedocs.io/en/latest/</a></p>
 <p>It is convenient to create a configuration file named <code>uwsgi.ini</code>, </p>
 <pre><code>[uwsgi]
 

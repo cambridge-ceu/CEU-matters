@@ -1,5 +1,7 @@
 # Flask on SRCF
 
+Web: <https://flask.palletsprojects.com/>
+
 Tests are made under SRCF, where several aspects are required. A particular directory called `templates` is created.
 
 ```bash
@@ -71,6 +73,8 @@ Current time: 2023-11-18 16:29:33.365224
 
 ## gunicorn
 
+Web: <https://docs.gunicorn.org/en/stable/>
+
 The syntax is as follows,
 
 ```bash
@@ -82,6 +86,8 @@ Note that it is `Listening at: http://127.0.0.1:8000`, and it is easily changed 
 > According to the Gunicorn documentation, the recommended number of workers (-w #) for an application running on a single production server is (2 × number_of_CPU cores) + 1. The formula is loosely based on the idea that for any given CPU core, one worker will be performing IO (input/output) operations, and the other worker will be performing CPU operations.
 
 ## uWSGI
+
+Web: <https://uwsgi-docs.readthedocs.io/en/latest/>
 
 It is convenient to create a configuration file named `uwsgi.ini`, 
 

@@ -122,15 +122,15 @@
 <ul class="nav flex-column">
 <li class="nav-item" data-level="1"><a class="nav-link" href="#flask-on-srcf">Flask on SRCF</a>
 <ul class="nav flex-column">
-<li class="nav-item" data-level="2"><a class="nav-link" href="#apppy">app.py</a>
+<li class="nav-item" data-level="2"><a class="nav-link" href="#structure">structure</a>
 <ul class="nav flex-column">
 </ul>
 </li>
-<li class="nav-item" data-level="2"><a class="nav-link" href="#templatesindexhtml">templates/index.html</a>
+<li class="nav-item" data-level="2"><a class="nav-link" href="#indexhtml">index.html</a>
 <ul class="nav flex-column">
 </ul>
 </li>
-<li class="nav-item" data-level="2"><a class="nav-link" href="#appsh">app.sh</a>
+<li class="nav-item" data-level="2"><a class="nav-link" href="#commands">commands</a>
 <ul class="nav flex-column">
 </ul>
 </li>
@@ -161,8 +161,24 @@
 <p>Tests are made under SRCF, where several aspects are required. A particular directory called <code>templates</code> is created.</p>
 <pre><code class="language-bash">if [ ! -d templates ]; then mkdir templates; fi
 </code></pre>
-<h2 id="apppy">app.py</h2>
-<pre><code class="language-python">from flask import Flask, render_template
+<h2 id="structure">structure</h2>
+<pre><code>├── app.py
+├── static
+│   ├── css
+│   │   ├── index.css
+│   │   └── myblog.css
+│   └── js
+│       └── index.js
+├── templates
+│   ├── base.html
+│   └── index.html
+└── uwsgi.ini
+``
+
+## app.py
+
+```python
+from flask import Flask, render_template
 from datetime import datetime
 
 app = Flask(__name__)
@@ -171,7 +187,7 @@ app = Flask(__name__)
 def home():
   return render_template("index.html", now=datetime.now())
 </code></pre>
-<h2 id="templatesindexhtml">templates/index.html</h2>
+<h2 id="indexhtml">index.html</h2>
 <pre><code class="language-html">&lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;head&gt;
@@ -186,7 +202,7 @@ def home():
 &lt;/html&gt;
 </code></pre>
 <p>which includes <code>{{now}}</code> in <code>Jinja2</code> template syntax.</p>
-<h2 id="appsh">app.sh</h2>
+<h2 id="commands">commands</h2>
 <pre><code class="language-bash">export FLASK_ENV=development
 export FLASK_APP=app.py
 flask run

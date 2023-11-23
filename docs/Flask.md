@@ -12,11 +12,6 @@ if [ ! -d templates ]; then mkdir templates; fi
 
 ```
 ├── app.py
-├── static
-│   ├── css
-│   │   └── index.css
-│   └── js
-│       └── index.js
 ├── templates
 │   └── index.html
 └── uwsgi.ini

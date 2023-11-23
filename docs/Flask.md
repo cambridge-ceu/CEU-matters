@@ -8,6 +8,22 @@ Tests are made under SRCF, where several aspects are required. A particular dire
 if [ ! -d templates ]; then mkdir templates; fi
 ```
 
+## structure
+
+```
+├── app.py
+├── static
+│   ├── css
+│   │   ├── index.css
+│   │   └── myblog.css
+│   └── js
+│       └── index.js
+├── templates
+│   ├── base.html
+│   └── index.html
+└── uwsgi.ini
+``
+
 ## app.py
 
 ```python
@@ -21,7 +37,7 @@ def home():
   return render_template("index.html", now=datetime.now())
 ```
 
-## templates/index.html
+## index.html
 
 ```html
 <!DOCTYPE html>
@@ -40,7 +56,7 @@ def home():
 
 which includes `{{now}}` in `Jinja2` template syntax.
 
-## app.sh
+## commands
 
 ```bash
 export FLASK_ENV=development

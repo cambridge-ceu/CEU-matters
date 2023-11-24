@@ -69,7 +69,7 @@
   * Research Strategy Office, <https://www.research-strategy.admin.cam.ac.uk/>
   * Student run computing facilities (SRCF), <https://www.srcf.net/>
     - Flask, <https://cambridge-ceu.github.io/CEU-scientific-meetings/Flask/>
-    - Port binding/Website traffic, <https://cambridge-ceu.github.io/CEU-scientific-meetings/srcf/>
+    - Port binding/Website traffic, <https://cambridge-ceu.github.io/CEU-scientific-meetings/web/>
     - Terminal, <https://www.srcf.net/terminal/>
     - Webmail, <https://webmail.hades.srcf.net/>
   * Staff profile, <https://help.uis.cam.ac.uk/service/website-resources/web-application-development/drupal/staff-profiles/updating-your-own-staff>

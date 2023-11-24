@@ -34,10 +34,43 @@ Based on chatGPT,
 
 Make sure to replace <path-to-socket> and <url> with your actual values. Additionally, ensure that the necessary modules (mod_headers and mod_rewrite) are enabled in your Apache configuration.
 
+
+## Socket via C
+
+Source: <https://gist.githubusercontent.com/ryran/170009f84c11bf3243b1/raw/699ac4d60c74d33fa7b56c734cb0ba6f3c0163f0/create-a-socket.c>
+
+```c
+#include <fcntl.h>
+#include <sys/un.h>
+#include <sys/socket.h>
+#include <sys/stat.h>
+#include <sys/types.h>
+#include <unistd.h>
+
+int main(int argc, char **argv)
+{
+    // The following line expects the socket path to be first argument
+    char * mysocketpath = argv[1];
+    // Alternatively, you could comment that and set it statically:
+    //char * mysocketpath = "/tmp/mysock";
+    struct sockaddr_un namesock;
+    int fd;
+    namesock.sun_family = AF_UNIX;
+    strncpy(namesock.sun_path, (char *)mysocketpath, sizeof(namesock.sun_path));
+    fd = socket(AF_UNIX, SOCK_DGRAM, 0);
+    bind(fd, (struct sockaddr *) &namesock, sizeof(struct sockaddr_un));
+    close(fd);
+    return 0;
+}
+```
+
+and compiled with `gcc cleate-a-socket.c`.
+
 ## Examples
 
 * Unix
   - RewriteRule ^(.*)\$ unix:/home/jhz22/web.sock|http://localhost/\$1 [P,NE,L,QSA]
+  - RewriteRule "^(.*)\$" unix:/home/jhz22/web.sock|http://jhz22.user.srcf.net/$1 [P,NE,L,QSA]
 * TCP -- no headers
   - RewriteRule "^(.*)\$" http://localhost:8012/\$1 [P,NE,L,QSA]
 
@@ -112,34 +145,3 @@ def client_program():
 if __name__ == '__main__':
     client_program()
 ```
-
-## Socket via C
-
-Source: <https://gist.githubusercontent.com/ryran/170009f84c11bf3243b1/raw/699ac4d60c74d33fa7b56c734cb0ba6f3c0163f0/create-a-socket.c>
-
-```c
-#include <fcntl.h>
-#include <sys/un.h>
-#include <sys/socket.h>
-#include <sys/stat.h>
-#include <sys/types.h>
-#include <unistd.h>
-
-int main(int argc, char **argv)
-{
-    // The following line expects the socket path to be first argument
-    char * mysocketpath = argv[1];
-    // Alternatively, you could comment that and set it statically:
-    //char * mysocketpath = "/tmp/mysock";
-    struct sockaddr_un namesock;
-    int fd;
-    namesock.sun_family = AF_UNIX;
-    strncpy(namesock.sun_path, (char *)mysocketpath, sizeof(namesock.sun_path));
-    fd = socket(AF_UNIX, SOCK_DGRAM, 0);
-    bind(fd, (struct sockaddr *) &namesock, sizeof(struct sockaddr_un));
-    close(fd);
-    return 0;
-}
-```
-
-and compiled with `gcc cleate-a-socket.c`.

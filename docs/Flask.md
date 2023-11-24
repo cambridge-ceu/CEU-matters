@@ -80,7 +80,7 @@ It then produces the following output,
 Current time: 2023-11-18 16:29:33.365224
 ```
 
-## gunicorn
+## gunicorn[^srcf]
 
 Web: <https://docs.gunicorn.org/en/stable/>
 
@@ -167,3 +167,9 @@ spawned uWSGI worker 4 (pid: 1802387, cores: 1)
 2. Highlight: RESTful API
     - Adedeji O. (2023) Full-Stack Flask and React. Packt Publishing
     - [GitHub](https://github.com/PacktPublishing/Full-Stack-Flask-and-React)
+
+[^srcf]:
+
+    ## Template
+
+    Check `/public/societies/sample/run-python.sh`.

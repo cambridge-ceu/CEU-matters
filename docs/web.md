@@ -9,6 +9,9 @@ e.g., CRSid.user.srcf.net through to an app running on a localhost port.
 
 ## .htaccess
 
+- Check: <http://www.htaccesscheck.com/>
+- Tester: <https://htaccess.madewithlove.com/>
+
 It sits on the current directory.
 
 ```

@@ -34,6 +34,14 @@ Based on chatGPT,
 
 Make sure to replace <path-to-socket> and <url> with your actual values. Additionally, ensure that the necessary modules (mod_headers and mod_rewrite) are enabled in your Apache configuration.
 
+### Examples
+
+* Unix
+  - RewriteRule ^(.*)\$ unix:/home/jhz22/web.sock|http://localhost/\$1 [P,NE,L,QSA]
+  - RewriteRule "^(.*)\$" unix:/home/jhz22/web.sock|http://jhz22.user.srcf.net/$1 [P,NE,L,QSA]
+* TCP -- no headers
+  - RewriteRule "^(.*)\$" http://localhost:8012/\$1 [P,NE,L,QSA]
+
 
 ## Socket via C
 
@@ -65,14 +73,6 @@ int main(int argc, char **argv)
 ```
 
 and compiled with `gcc cleate-a-socket.c`.
-
-## Examples
-
-* Unix
-  - RewriteRule ^(.*)\$ unix:/home/jhz22/web.sock|http://localhost/\$1 [P,NE,L,QSA]
-  - RewriteRule "^(.*)\$" unix:/home/jhz22/web.sock|http://jhz22.user.srcf.net/$1 [P,NE,L,QSA]
-* TCP -- no headers
-  - RewriteRule "^(.*)\$" http://localhost:8012/\$1 [P,NE,L,QSA]
 
 ## Raven authentication
 

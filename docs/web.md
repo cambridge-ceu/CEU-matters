@@ -45,7 +45,7 @@ Make sure to replace <path-to-socket> and <url> with your actual values. Additio
 
 ## Socket via C
 
-Source: <https://gist.githubusercontent.com/ryran/170009f84c11bf3243b1/raw/699ac4d60c74d33fa7b56c734cb0ba6f3c0163f0/create-a-socket.c>
+Source: <https://gist.github.com/ryran/170009f84c11bf3243b1>
 
 ```c
 #include <fcntl.h>

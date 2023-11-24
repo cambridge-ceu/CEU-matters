@@ -113,7 +113,7 @@ if __name__ == '__main__':
     client_program()
 ```
 
-### C implementation
+## Socket via C
 
 Source: <https://gist.githubusercontent.com/ryran/170009f84c11bf3243b1/raw/699ac4d60c74d33fa7b56c734cb0ba6f3c0163f0/create-a-socket.c>
 

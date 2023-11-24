@@ -74,10 +74,6 @@ int main(int argc, char **argv)
 
 and compiled with `gcc cleate-a-socket.c -o create-a-socket; create-a-socket web.sock`.
 
-## Raven authentication
-
-Web: <https://docs.srcf.net/reference/web-hosting/raven-authentication/>
-
 ## Socket via Python
 
 Source: <https://www.digitalocean.com/community/tutorials/python-socket-programming-server-client>
@@ -145,3 +141,7 @@ def client_program():
 if __name__ == '__main__':
     client_program()
 ```
+
+## Raven authentication
+
+Web: <https://docs.srcf.net/reference/web-hosting/raven-authentication/>

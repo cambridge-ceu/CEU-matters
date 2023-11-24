@@ -2,7 +2,7 @@
 
 > The SRCF uses Apache to serve websites so if you need to run a backend web app, for example a Django, Rails or Express server, then you will need to forward web requests.
 
-- Deploy a web app, <https://docs.srcf.net/tutorials/websites/deploy-a-web-app/>
+- Deploy a web app[^srcf], <https://docs.srcf.net/tutorials/websites/deploy-a-web-app/>
 - Port binding, <https://docs.srcf.net/reference/shell-and-files/software-and-installation/#port-binding>
 - Website traffic, <https://docs.srcf.net/reference/web-hosting/web-applications/#routing-traffic-to-your-app>
 
@@ -149,3 +149,15 @@ if __name__ == '__main__':
 ## Raven authentication
 
 Web: <https://docs.srcf.net/reference/web-hosting/raven-authentication/>
+
+[^srcf]:
+
+    ## Template
+
+    Check `/public/societies/sample/run-python.sh`.
+
+    ## Sample
+
+    <https://sample.soc.srcf.net/flask/>
+
+    based on `/public/societies/sample/flask/app.py`.

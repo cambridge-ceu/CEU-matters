@@ -130,10 +130,6 @@
 <ul class="nav flex-column">
 </ul>
 </li>
-<li class="nav-item" data-level="2"><a class="nav-link" href="#examples">Examples</a>
-<ul class="nav flex-column">
-</ul>
-</li>
 <li class="nav-item" data-level="2"><a class="nav-link" href="#raven-authentication">Raven authentication</a>
 <ul class="nav flex-column">
 </ul>
@@ -181,6 +177,14 @@ RewriteRule ^(.*)$ unix:&lt;path-to-socket&gt;|http://&lt;url&gt;/$1 [P,NE,L,QSA
 </li>
 </ul>
 <p>Make sure to replace <path-to-socket> and <url> with your actual values. Additionally, ensure that the necessary modules (mod_headers and mod_rewrite) are enabled in your Apache configuration.</url></path-to-socket></p>
+<h3 id="examples">Examples</h3>
+<ul>
+<li>Unix</li>
+<li>RewriteRule ^(.*)$ unix:/home/jhz22/web.sock|http://localhost/$1 [P,NE,L,QSA]</li>
+<li>RewriteRule "^(.*)$" unix:/home/jhz22/web.sock|http://jhz22.user.srcf.net/$1 [P,NE,L,QSA]</li>
+<li>TCP -- no headers</li>
+<li>RewriteRule "^(.*)$" http://localhost:8012/$1 [P,NE,L,QSA]</li>
+</ul>
 <h2 id="socket-via-c">Socket via C</h2>
 <p>Source: <a href="https://gist.githubusercontent.com/ryran/170009f84c11bf3243b1/raw/699ac4d60c74d33fa7b56c734cb0ba6f3c0163f0/create-a-socket.c">https://gist.githubusercontent.com/ryran/170009f84c11bf3243b1/raw/699ac4d60c74d33fa7b56c734cb0ba6f3c0163f0/create-a-socket.c</a></p>
 <pre><code class="language-c">#include &lt;fcntl.h&gt;
@@ -207,14 +211,6 @@ int main(int argc, char **argv)
 }
 </code></pre>
 <p>and compiled with <code>gcc cleate-a-socket.c</code>.</p>
-<h2 id="examples">Examples</h2>
-<ul>
-<li>Unix</li>
-<li>RewriteRule ^(.*)$ unix:/home/jhz22/web.sock|http://localhost/$1 [P,NE,L,QSA]</li>
-<li>RewriteRule "^(.*)$" unix:/home/jhz22/web.sock|http://jhz22.user.srcf.net/$1 [P,NE,L,QSA]</li>
-<li>TCP -- no headers</li>
-<li>RewriteRule "^(.*)$" http://localhost:8012/$1 [P,NE,L,QSA]</li>
-</ul>
 <h2 id="raven-authentication">Raven authentication</h2>
 <p>Web: <a href="https://docs.srcf.net/reference/web-hosting/raven-authentication/">https://docs.srcf.net/reference/web-hosting/raven-authentication/</a></p>
 <h2 id="socket-via-python">Socket via Python</h2>

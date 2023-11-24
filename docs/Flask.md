@@ -173,3 +173,9 @@ spawned uWSGI worker 4 (pid: 1802387, cores: 1)
     ## Template
 
     Check `/public/societies/sample/run-python.sh`.
+
+    ## Sample
+
+    <https://sample.soc.srcf.net/flask/>
+
+    based on `/public/societies/sample/flask/app.py`.

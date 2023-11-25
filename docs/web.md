@@ -1,17 +1,11 @@
 # SRCF website
 
-> The SRCF uses Apache to serve websites so if you need to run a backend web app, for example a Django, Rails or Express server, then you will need to forward web requests.
+> The SRCF uses Apache to serve websites so if you need to run a backend web app, for example a Django, Rails or Express server, then you will need to forward web requests, e.g., CRSid.user.srcf.net through to an app running on a localhost port.
 
-- Deploy a web app[^srcf], <https://docs.srcf.net/tutorials/websites/deploy-a-web-app/>
-- Port binding, <https://docs.srcf.net/reference/shell-and-files/software-and-installation/#port-binding>
-- Website traffic, <https://docs.srcf.net/reference/web-hosting/web-applications/#routing-traffic-to-your-app>
-
-e.g., CRSid.user.srcf.net through to an app running on a localhost port.
+- Technical reference, <https://docs.srcf.net/reference/>
+- Tutorial, <https://docs.srcf.net/tutorials/>
 
 ## .htaccess
-
-- Check: <http://www.htaccesscheck.com/>
-- Tester: <https://htaccess.madewithlove.com/>
 
 It sits on the current directory.
 
@@ -22,6 +16,16 @@ RequestHeader set X-Forwarded-Proto expr=%{REQUEST_SCHEME}
 RequestHeader set X-Real-IP expr=%{REMOTE_ADDR}
 RewriteRule ^(.*)$ unix:<path-to-socket>|http://<url>/$1 [P,NE,L,QSA]
 ```
+
+e.g.,
+
+* Unix
+  - RewriteRule ^(.*)\$ unix:/home/jhz22/web.sock|http://localhost/\$1 [P,NE,L,QSA]
+  - RewriteRule ^(.*)\$ unix:/home/jhz22/web.sock|http://jhz22.user.srcf.net/$1 [P,NE,L,QSA]
+* TCP -- no headers
+  - RewriteRule "^(.*)\$" http://localhost:8012/\$1 [P,NE,L,QSA]
+- Check: <http://www.htaccesscheck.com/>
+- Tester: <https://htaccess.madewithlove.com/>
 
 Based on chatGPT,
 
@@ -38,14 +42,7 @@ Based on chatGPT,
 
 Make sure to replace <path-to-socket> and <url> with your actual values. Additionally, ensure that the necessary modules (mod_headers and mod_rewrite) are enabled in your Apache configuration.
 
-### Examples
-
-* Unix
-  - RewriteRule ^(.*)\$ unix:/home/jhz22/web.sock|http://localhost/\$1 [P,NE,L,QSA]
-  - RewriteRule ^(.*)\$ unix:/home/jhz22/web.sock|http://jhz22.user.srcf.net/$1 [P,NE,L,QSA]
-* TCP -- no headers
-  - RewriteRule "^(.*)\$" http://localhost:8012/\$1 [P,NE,L,QSA]
-
+Logs are at `/var/log/apache2/user/$USER/`.
 
 ## Socket via C
 
@@ -150,14 +147,40 @@ if __name__ == '__main__':
 
 Web: <https://docs.srcf.net/reference/web-hosting/raven-authentication/>
 
-[^srcf]:
+## Sample
 
-    ## Template
+<https://sample.soc.srcf.net/flask/>
 
-    Check `/public/societies/sample/run-python.sh`.
+based on `/public/societies/sample/flask/app.py`.
 
-    ## Sample
+## Template
 
-    <https://sample.soc.srcf.net/flask/>
+Check `/public/societies/sample/run-python.sh`.
 
-    based on `/public/societies/sample/flask/app.py`.
+## Unix socket
+
+```bash
+#!/bin/bash -e
+
+. ~/myapp/venv/bin/activate
+exec gunicorn -w 2 -b unix:/home/jhz22/web.sock --log-file - app:app
+```
+
+To access we use `curl`
+
+```bash
+curl --unix-socket /home/jhz22/web.sock http://localhost
+```
+
+or `python`
+
+```python
+import socket
+
+sock = socket.socket(socket.AF_UNIX, socket.SOCK_STREAM)
+sock.connect('/home/jhz22/web.sock')
+
+# Now you can send and receive data through the socket
+
+sock.close()
+```

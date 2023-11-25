@@ -174,11 +174,15 @@ RewriteRule ^(.*)$ unix:&lt;path-to-socket&gt;|http://&lt;url&gt;/$1 [P,NE,L,QSA
 </code></pre>
 <p>e.g.,</p>
 <ul>
-<li>Unix</li>
+<li>Unix<ul>
 <li>RewriteRule ^(.*)$ unix:/home/jhz22/web.sock|http://localhost/$1 [P,NE,L,QSA]</li>
 <li>RewriteRule ^(.*)$ unix:/home/jhz22/web.sock|http://jhz22.user.srcf.net/$1 [P,NE,L,QSA]</li>
-<li>TCP -- no headers</li>
+</ul>
+</li>
+<li>TCP -- no headers<ul>
 <li>RewriteRule "^(.*)$" http://localhost:8012/$1 [P,NE,L,QSA]</li>
+</ul>
+</li>
 <li>Check: <a href="http://www.htaccesscheck.com/">http://www.htaccesscheck.com/</a></li>
 <li>Tester: <a href="https://htaccess.madewithlove.com/">https://htaccess.madewithlove.com/</a></li>
 </ul>

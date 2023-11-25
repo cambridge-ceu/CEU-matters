@@ -70,8 +70,8 @@
   * Student run computing facilities (SRCF), <https://www.srcf.net/>
     - Flask, <https://cambridge-ceu.github.io/CEU-scientific-meetings/Flask/> ([c6](<https://cambridge-ceu.github.io/CEU-scientific-meetings/c6/))
     - Terminal, <https://www.srcf.net/terminal/>
-    - Website, <https://cambridge-ceu.github.io/CEU-scientific-meetings/web/>
     - Webmail, <https://webmail.hades.srcf.net/>
+    - Website, <https://cambridge-ceu.github.io/CEU-scientific-meetings/web/>
   * Staff profile, <https://help.uis.cam.ac.uk/service/website-resources/web-application-development/drupal/staff-profiles/updating-your-own-staff>
   * Symplectic Elements Login, <https://elements.admin.cam.ac.uk/>
   * Telecoms Office, <https://www.phone.cam.ac.uk/> ([My phone](https://my.phone.cam.ac.uk/myphone/calls))

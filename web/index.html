@@ -138,11 +138,15 @@
 <ul class="nav flex-column">
 </ul>
 </li>
+<li class="nav-item" data-level="2"><a class="nav-link" href="#sample">Sample</a>
+<ul class="nav flex-column">
+</ul>
+</li>
 <li class="nav-item" data-level="2"><a class="nav-link" href="#template">Template</a>
 <ul class="nav flex-column">
 </ul>
 </li>
-<li class="nav-item" data-level="2"><a class="nav-link" href="#sample">Sample</a>
+<li class="nav-item" data-level="2"><a class="nav-link" href="#unix-socket">Unix socket</a>
 <ul class="nav flex-column">
 </ul>
 </li>
@@ -154,19 +158,13 @@
 <div class="col-md-9" role="main">
 <h1 id="srcf-website">SRCF website</h1>
 <blockquote>
-<p>The SRCF uses Apache to serve websites so if you need to run a backend web app, for example a Django, Rails or Express server, then you will need to forward web requests.</p>
+<p>The SRCF uses Apache to serve websites so if you need to run a backend web app, for example a Django, Rails or Express server, then you will need to forward web requests, e.g., CRSid.user.srcf.net through to an app running on a localhost port.</p>
 </blockquote>
 <ul>
-<li>Deploy a web app<sup id="fnref:srcf"><a class="footnote-ref" href="#fn:srcf">1</a></sup>, <a href="https://docs.srcf.net/tutorials/websites/deploy-a-web-app/">https://docs.srcf.net/tutorials/websites/deploy-a-web-app/</a></li>
-<li>Port binding, <a href="https://docs.srcf.net/reference/shell-and-files/software-and-installation/#port-binding">https://docs.srcf.net/reference/shell-and-files/software-and-installation/#port-binding</a></li>
-<li>Website traffic, <a href="https://docs.srcf.net/reference/web-hosting/web-applications/#routing-traffic-to-your-app">https://docs.srcf.net/reference/web-hosting/web-applications/#routing-traffic-to-your-app</a></li>
+<li>Technical reference, <a href="https://docs.srcf.net/reference/">https://docs.srcf.net/reference/</a></li>
+<li>Tutorial, <a href="https://docs.srcf.net/tutorials/">https://docs.srcf.net/tutorials/</a></li>
 </ul>
-<p>e.g., CRSid.user.srcf.net through to an app running on a localhost port.</p>
 <h2 id="htaccess">.htaccess</h2>
-<ul>
-<li>Check: <a href="http://www.htaccesscheck.com/">http://www.htaccesscheck.com/</a></li>
-<li>Tester: <a href="https://htaccess.madewithlove.com/">https://htaccess.madewithlove.com/</a></li>
-</ul>
 <p>It sits on the current directory.</p>
 <pre><code>RequestHeader set Host expr=%{HTTP_HOST}
 RequestHeader set X-Forwarded-For expr=%{REMOTE_ADDR}
@@ -174,6 +172,16 @@ RequestHeader set X-Forwarded-Proto expr=%{REQUEST_SCHEME}
 RequestHeader set X-Real-IP expr=%{REMOTE_ADDR}
 RewriteRule ^(.*)$ unix:&lt;path-to-socket&gt;|http://&lt;url&gt;/$1 [P,NE,L,QSA]
 </code></pre>
+<p>e.g.,</p>
+<ul>
+<li>Unix</li>
+<li>RewriteRule ^(.*)$ unix:/home/jhz22/web.sock|http://localhost/$1 [P,NE,L,QSA]</li>
+<li>RewriteRule ^(.*)$ unix:/home/jhz22/web.sock|http://jhz22.user.srcf.net/$1 [P,NE,L,QSA]</li>
+<li>TCP -- no headers</li>
+<li>RewriteRule "^(.*)$" http://localhost:8012/$1 [P,NE,L,QSA]</li>
+<li>Check: <a href="http://www.htaccesscheck.com/">http://www.htaccesscheck.com/</a></li>
+<li>Tester: <a href="https://htaccess.madewithlove.com/">https://htaccess.madewithlove.com/</a></li>
+</ul>
 <p>Based on chatGPT,</p>
 <ul>
 <li>RequestHeader set Host expr=%{HTTP_HOST}: Sets the Host header to the value of the HTTP_HOST variable.</li>
@@ -190,14 +198,7 @@ RewriteRule ^(.*)$ unix:&lt;path-to-socket&gt;|http://&lt;url&gt;/$1 [P,NE,L,QSA
 </li>
 </ul>
 <p>Make sure to replace <path-to-socket> and <url> with your actual values. Additionally, ensure that the necessary modules (mod_headers and mod_rewrite) are enabled in your Apache configuration.</url></path-to-socket></p>
-<h3 id="examples">Examples</h3>
-<ul>
-<li>Unix</li>
-<li>RewriteRule ^(.*)$ unix:/home/jhz22/web.sock|http://localhost/$1 [P,NE,L,QSA]</li>
-<li>RewriteRule ^(.*)$ unix:/home/jhz22/web.sock|http://jhz22.user.srcf.net/$1 [P,NE,L,QSA]</li>
-<li>TCP -- no headers</li>
-<li>RewriteRule "^(.*)$" http://localhost:8012/$1 [P,NE,L,QSA]</li>
-</ul>
+<p>Logs are at <code>/var/log/apache2/user/$USER/</code>.</p>
 <h2 id="socket-via-c">Socket via C</h2>
 <p>Source: <a href="https://gist.github.com/ryran/170009f84c11bf3243b1">https://gist.github.com/ryran/170009f84c11bf3243b1</a></p>
 <pre><code class="language-c">#include &lt;fcntl.h&gt;
@@ -285,18 +286,30 @@ if __name__ == '__main__':
 </code></pre>
 <h2 id="raven-authentication">Raven authentication</h2>
 <p>Web: <a href="https://docs.srcf.net/reference/web-hosting/raven-authentication/">https://docs.srcf.net/reference/web-hosting/raven-authentication/</a></p>
-<div class="footnote">
-<hr/>
-<ol>
-<li id="fn:srcf">
-<h2 id="template">Template</h2>
-<p>Check <code>/public/societies/sample/run-python.sh</code>.</p>
 <h2 id="sample">Sample</h2>
 <p><a href="https://sample.soc.srcf.net/flask/">https://sample.soc.srcf.net/flask/</a></p>
-<p>based on <code>/public/societies/sample/flask/app.py</code>. <a class="footnote-backref" href="#fnref:srcf" title="Jump back to footnote 1 in the text">↩</a></p>
-</li>
-</ol>
-</div></div>
+<p>based on <code>/public/societies/sample/flask/app.py</code>.</p>
+<h2 id="template">Template</h2>
+<p>Check <code>/public/societies/sample/run-python.sh</code>.</p>
+<h2 id="unix-socket">Unix socket</h2>
+<pre><code class="language-bash">#!/bin/bash -e
+
+. ~/myapp/venv/bin/activate
+exec gunicorn -w 2 -b unix:/home/jhz22/web.sock --log-file - app:app
+</code></pre>
+<p>To access we use <code>curl</code></p>
+<pre><code class="language-bash">curl --unix-socket /home/jhz22/web.sock http://localhost
+</code></pre>
+<p>or <code>python</code></p>
+<pre><code class="language-python">import socket
+
+sock = socket.socket(socket.AF_UNIX, socket.SOCK_STREAM)
+sock.connect('/home/jhz22/web.sock')
+
+# Now you can send and receive data through the socket
+
+sock.close()
+</code></pre></div>
 </div>
 </div>
 <footer class="col-md-12">

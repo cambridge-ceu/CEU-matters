@@ -126,11 +126,7 @@
 <ul class="nav flex-column">
 </ul>
 </li>
-<li class="nav-item" data-level="2"><a class="nav-link" href="#socket-via-c">Socket via C</a>
-<ul class="nav flex-column">
-</ul>
-</li>
-<li class="nav-item" data-level="2"><a class="nav-link" href="#socket-via-python">Socket via Python</a>
+<li class="nav-item" data-level="2"><a class="nav-link" href="#socket">Socket</a>
 <ul class="nav flex-column">
 </ul>
 </li>
@@ -175,7 +171,7 @@ RewriteRule ^(.*)$ unix:&lt;path-to-socket&gt;|http://&lt;url&gt;/$1 [P,NE,L,QSA
 <p>e.g.,</p>
 <ul>
 <li>Unix<ul>
-<li>RewriteRule ^(.*)$ unix:/home/jhz22/web.sock|http://localhost/$1 [P,NE,L,QSA]</li>
+<li>RewriteRule ^/public/home/jhz22/public_html/(.*)$ unix:/home/jhz22/web.sock|http://localhost/$1 [P,NE,L,QSA]</li>
 <li>RewriteRule ^/public/home/jhz22/public_html/(.*)$ unix:/home/jhz22/web.sock|http://jhz22.user.srcf.net/$1 [P,NE,L,QSA]</li>
 </ul>
 </li>
@@ -203,7 +199,8 @@ RewriteRule ^(.*)$ unix:&lt;path-to-socket&gt;|http://&lt;url&gt;/$1 [P,NE,L,QSA
 </ul>
 <p>Make sure to replace <path-to-socket> and <url> with your actual values. Additionally, ensure that the necessary modules (mod_headers and mod_rewrite) are enabled in your Apache configuration.</url></path-to-socket></p>
 <p>Logs are at <code>/var/log/apache2/user/$USER/</code>.</p>
-<h2 id="socket-via-c">Socket via C</h2>
+<h2 id="socket">Socket</h2>
+<h3 id="via-c">via C</h3>
 <p>Source: <a href="https://gist.github.com/ryran/170009f84c11bf3243b1">https://gist.github.com/ryran/170009f84c11bf3243b1</a></p>
 <pre><code class="language-c">#include &lt;fcntl.h&gt;
 #include &lt;sys/un.h&gt;
@@ -229,10 +226,10 @@ int main(int argc, char **argv)
 }
 </code></pre>
 <p>and compiled with <code>gcc cleate-a-socket.c -o create-a-socket; create-a-socket web.sock</code>.</p>
-<h2 id="socket-via-python">Socket via Python</h2>
+<h3 id="via-python">via Python</h3>
 <p>Source: <a href="https://www.digitalocean.com/community/tutorials/python-socket-programming-server-client">https://www.digitalocean.com/community/tutorials/python-socket-programming-server-client</a></p>
 <p>We employ <code>python server.py</code> and <code>python client.py</code> below for two interactive sessions which ends with <code>bye</code>.</p>
-<h3 id="serverpy">server.py</h3>
+<h4 id="serverpy">server.py</h4>
 <pre><code class="language-python">import socket
 
 def server_program():
@@ -263,7 +260,7 @@ def server_program():
 if __name__ == '__main__':
     server_program()
 </code></pre>
-<h3 id="clientpy">client.py</h3>
+<h4 id="clientpy">client.py</h4>
 <pre><code class="language-python">import socket
 
 def client_program():

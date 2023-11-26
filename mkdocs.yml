@@ -37,7 +37,7 @@ extra_css:
   - stylesheets/extra.css
 plugins:
     - search
-    - mermaid
+    - mermaid2
 markdown_extensions:
   - attr_list
   - footnotes

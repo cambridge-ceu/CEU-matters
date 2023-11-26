@@ -67,6 +67,7 @@
     - The Data Protection Policy, <https://www.information-compliance.admin.cam.ac.uk/files/data_protection_policy_final.pdf>
   * REF2021 [Code of Practice](https://www.ref.admin.cam.ac.uk/sites/www.ref.admin.cam.ac.uk/files/revised_code_of_practice_170919_clean.pdf), <a href="mailto:REF2021@admin.cam.ac.uk">email</a> and [Staff Circumstances](https://www.ref.admin.cam.ac.uk/code-practice/staff-circumstances) ([form](https://www.ref.admin.cam.ac.uk/code-practice/staff-eligibility), <a href="mailto:(REF2021staffcircumstances@admin.cam.ac.uk">email</a>, <a href="mailto:Gina.Warren@admin.cam.ac.uk">HR equality & diversity</a>)
   * Research Strategy Office, <https://www.research-strategy.admin.cam.ac.uk/>
+  * SharePoint, <https://universityofcambridgecloud.sharepoint.com/SitePages/Home.aspx>
   * Student run computing facilities (SRCF), <https://www.srcf.net/>
     - Flask, <https://cambridge-ceu.github.io/CEU-scientific-meetings/Flask/> ([c6](<https://cambridge-ceu.github.io/CEU-scientific-meetings/c6/))
     - Terminal, <https://www.srcf.net/terminal/>

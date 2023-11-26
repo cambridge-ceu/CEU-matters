@@ -20,7 +20,7 @@ RewriteRule ^(.*)$ unix:<path-to-socket>|http://<url>/$1 [P,NE,L,QSA]
 e.g.,
 
 * Unix
-    - RewriteRule ^(.*)\$ unix:/home/jhz22/web.sock|http://localhost/\$1 [P,NE,L,QSA]
+    - RewriteRule ^/public/home/jhz22/public_html/(.*)\$ unix:/home/jhz22/web.sock|http://localhost/\$1 [P,NE,L,QSA]
     - RewriteRule ^/public/home/jhz22/public_html/(.*)\$ unix:/home/jhz22/web.sock|http://jhz22.user.srcf.net/$1 [P,NE,L,QSA]
 * TCP -- no headers
     - RewriteRule "^(.*)\$" http://localhost:8012/\$1 [P,NE,L,QSA]
@@ -44,7 +44,9 @@ Make sure to replace <path-to-socket> and <url> with your actual values. Additio
 
 Logs are at `/var/log/apache2/user/$USER/`.
 
-## Socket via C
+## Socket
+
+### via C
 
 Source: <https://gist.github.com/ryran/170009f84c11bf3243b1>
 
@@ -75,13 +77,13 @@ int main(int argc, char **argv)
 
 and compiled with `gcc cleate-a-socket.c -o create-a-socket; create-a-socket web.sock`.
 
-## Socket via Python
+### via Python
 
 Source: <https://www.digitalocean.com/community/tutorials/python-socket-programming-server-client>
 
 We employ `python server.py` and `python client.py` below for two interactive sessions which ends with `bye`.
 
-### server.py
+#### server.py
 
 ```python
 import socket
@@ -115,7 +117,7 @@ if __name__ == '__main__':
     server_program()
 ```
 
-### client.py
+#### client.py
 
 ```python
 import socket

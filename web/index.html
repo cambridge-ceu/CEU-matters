@@ -138,11 +138,7 @@
 <ul class="nav flex-column">
 </ul>
 </li>
-<li class="nav-item" data-level="2"><a class="nav-link" href="#template">Template</a>
-<ul class="nav flex-column">
-</ul>
-</li>
-<li class="nav-item" data-level="2"><a class="nav-link" href="#unix-socket">Unix socket</a>
+<li class="nav-item" data-level="2"><a class="nav-link" href="#webserversrcfnet">webserver.srcf.net</a>
 <ul class="nav flex-column">
 </ul>
 </li>
@@ -290,9 +286,9 @@ if __name__ == '__main__':
 <h2 id="sample">Sample</h2>
 <p><a href="https://sample.soc.srcf.net/flask/">https://sample.soc.srcf.net/flask/</a></p>
 <p>based on <code>/public/societies/sample/flask/app.py</code>.</p>
-<h2 id="template">Template</h2>
+<h3 id="template">Template</h3>
 <p>Check <code>/public/societies/sample/run-python.sh</code>.</p>
-<h2 id="unix-socket">Unix socket</h2>
+<h3 id="unix-socket">Unix socket</h3>
 <pre><code class="language-bash">#!/bin/bash -e
 
 . ~/myapp/venv/bin/activate
@@ -310,6 +306,60 @@ sock.connect('/home/jhz22/web.sock')
 # Now you can send and receive data through the socket
 
 sock.close()
+</code></pre>
+<h2 id="webserversrcfnet">webserver.srcf.net</h2>
+<p>(To be refined)</p>
+<h3 id="uwsgi">uWSGI</h3>
+<pre><code class="language-bash">uwsgi --socket /home/jhz22/web.sock --plugin python3 --enable-threads --wsgi-file app.py --callable app --processes 2 --master --chmod-socket=666
+</code></pre>
+<h3 id="nginx">nginx</h3>
+<p>Web: <a href="https://nginx.org/">https://nginx.org/</a></p>
+<h4 id="installation">Installation</h4>
+<pre><code class="language-bash">cd ~/myapp/ftp
+wget -qO- https://nginx.org/download/nginx-1.24.0.tar.gz | \
+tar xfz -
+cd nginx-1.24.0
+./configure --prefix=/home/jhz22/myapp/nginx-1.24.0
+make
+make install
+~/myapp/nginx-1.24.0/sbin/nginx -t
+
+</code></pre>
+<h4 id="nginxconf">nginx.conf</h4>
+<p>Replace the following section into <code>/home/jhz22/myapp/nginx-1.24.0/conf/nginx.conf</code></p>
+<pre><code>server {
+    listen 8000;
+    server_name jhz22.user.srcf.net;
+
+    location / {
+        include uwsgi_params;
+        uwsgi_pass unix:/home/jhz22/web.sock;
+    }
+}
+</code></pre>
+<p>showing that</p>
+<pre><code>jhz22@sinkhole:~/myapp$ nginx-1.24.0/sbin/nginx -t
+nginx: the configuration file /home/jhz22/myapp/nginx-1.24.0/conf/nginx.conf syntax is ok
+nginx: configuration file /home/jhz22/myapp/nginx-1.24.0/conf/nginx.conf test is successful
+</code></pre>
+<h4 id="nginxservice">nginx.service</h4>
+<p>:~/.config/systemd/user</p>
+<pre><code>Description=Nginx HTTP server
+
+[Service]
+ExecStart=/home/jhz22/myapp/nginx-1.24.0/sbin/nginx
+Restart=always
+
+[Install]
+WantedBy=default.target
+</code></pre>
+<h4 id="systemctl">systemctl</h4>
+<pre><code class="language-bash">systemctl --user daemon-reload
+systemctl --user list-unit-files
+systemctl --user restart nginx
+</code></pre>
+<p>The first line is necessary since we would get a message,</p>
+<pre><code>Warning: The unit file, source configuration file or drop-ins of nginx.service changed on disk. Run 'systemctl --user daemon-reload' to reload units.
 </code></pre></div>
 </div>
 </div>

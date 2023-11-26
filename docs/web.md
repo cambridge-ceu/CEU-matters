@@ -155,11 +155,11 @@ Web: <https://docs.srcf.net/reference/web-hosting/raven-authentication/>
 
 based on `/public/societies/sample/flask/app.py`.
 
-## Template
+### Template
 
 Check `/public/societies/sample/run-python.sh`.
 
-## Unix socket
+### Unix socket
 
 ```bash
 #!/bin/bash -e
@@ -185,4 +185,85 @@ sock.connect('/home/jhz22/web.sock')
 # Now you can send and receive data through the socket
 
 sock.close()
+```
+
+## webserver.srcf.net
+
+(To be refined)
+
+### uWSGI
+
+```bash
+uwsgi --socket /home/jhz22/web.sock --plugin python3 --enable-threads --wsgi-file app.py --callable app --processes 2 --master --chmod-socket=666
+```
+
+### nginx
+
+Web: <https://nginx.org/>
+
+#### Installation
+
+```bash
+cd ~/myapp/ftp
+wget -qO- https://nginx.org/download/nginx-1.24.0.tar.gz | \
+tar xfz -
+cd nginx-1.24.0
+./configure --prefix=/home/jhz22/myapp/nginx-1.24.0
+make
+make install
+~/myapp/nginx-1.24.0/sbin/nginx -t
+
+```
+
+#### nginx.conf
+
+Replace the following section into `/home/jhz22/myapp/nginx-1.24.0/conf/nginx.conf`
+
+```
+server {
+    listen 8000;
+    server_name jhz22.user.srcf.net;
+
+    location / {
+        include uwsgi_params;
+        uwsgi_pass unix:/home/jhz22/web.sock;
+    }
+}
+```
+
+showing that
+
+```
+jhz22@sinkhole:~/myapp$ nginx-1.24.0/sbin/nginx -t
+nginx: the configuration file /home/jhz22/myapp/nginx-1.24.0/conf/nginx.conf syntax is ok
+nginx: configuration file /home/jhz22/myapp/nginx-1.24.0/conf/nginx.conf test is successful
+```
+
+#### nginx.service
+
+:~/.config/systemd/user
+
+```
+Description=Nginx HTTP server
+
+[Service]
+ExecStart=/home/jhz22/myapp/nginx-1.24.0/sbin/nginx
+Restart=always
+
+[Install]
+WantedBy=default.target
+```
+
+#### systemctl
+
+```bash
+systemctl --user daemon-reload
+systemctl --user list-unit-files
+systemctl --user restart nginx
+```
+
+The first line is necessary since we would get a message,
+
+```
+Warning: The unit file, source configuration file or drop-ins of nginx.service changed on disk. Run 'systemctl --user daemon-reload' to reload units.
 ```

@@ -176,7 +176,7 @@ RewriteRule ^(.*)$ unix:&lt;path-to-socket&gt;|http://&lt;url&gt;/$1 [P,NE,L,QSA
 <ul>
 <li>Unix<ul>
 <li>RewriteRule ^(.*)$ unix:/home/jhz22/web.sock|http://localhost/$1 [P,NE,L,QSA]</li>
-<li>RewriteRule ^(.*)$ unix:/home/jhz22/web.sock|http://jhz22.user.srcf.net/$1 [P,NE,L,QSA]</li>
+<li>RewriteRule ^/public/home/jhz22/public_html/(.*)$ unix:/home/jhz22/web.sock|http://jhz22.user.srcf.net/$1 [P,NE,L,QSA]</li>
 </ul>
 </li>
 <li>TCP -- no headers<ul>

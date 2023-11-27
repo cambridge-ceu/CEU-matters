@@ -170,6 +170,9 @@ cd c6
 wget https://raw.githubusercontent.com/writeson/the-well-grounded-python-developer/integration/examples/CH_06/requirements.txt
 pip install -r requirements.txt
 </code></pre>
+<p>It is also straightforward with <code>httpie</code> package, i.e.,</p>
+<pre><code class="language-python">pip install httpie
+</code></pre>
 <h2 id="files">Files</h2>
 <p>Directory, <a href="https://cambridge-ceu.github.io/CEU-scientific-meetings/c6/">https://cambridge-ceu.github.io/CEU-scientific-meetings/c6/</a>.</p>
 <pre><code>c6
@@ -195,10 +198,7 @@ static       GET      /static/&lt;path:filename&gt;
 static_file  GET      /&lt;path:path&gt;
 </code></pre>
 <p>Furthermore, we could use <code>curl http://localhost:8000/</code>, <code>curl http://127.0.0.1:8000/static/Caprion/A1BG/results?analysis==null</code> in a familiar REST API style and/or pipe into <code>jq</code> to prettify.</p>
-<p>It is more straightforward with <code>httpie</code> package, i.e.,</p>
-<pre><code class="language-python">pip install httpie
-</code></pre>
-<p>then we use <code>http://localhost:8000/</code> with output,</p>
+<p>We can use <code>http http://localhost:8000/</code> with output,</p>
 <pre><code>HTTP/1.1 200 OK
 Connection: close
 Content-Length: 1223

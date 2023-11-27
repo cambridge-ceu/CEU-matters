@@ -378,9 +378,13 @@ Restart=always
 WantedBy=default.target
 </code></pre>
 <h4 id="systemctl">systemctl</h4>
+<p>Instances of use</p>
 <pre><code class="language-bash">systemctl --user daemon-reload
 systemctl --user list-unit-files
 systemctl --user restart nginx
+systemctl --user status nginx
+systemctl --user reset-failed nginx
+systemctl --user stop nginx
 </code></pre>
 <p>The first line is necessary since we would get a message,</p>
 <pre><code>Warning: The unit file, source configuration file or drop-ins of nginx.service changed on disk. Run 'systemctl --user daemon-reload' to reload units.

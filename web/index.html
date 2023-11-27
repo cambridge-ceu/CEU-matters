@@ -314,6 +314,7 @@ if __name__ == '__main__':
 . ~/myapp/venv/bin/activate
 exec gunicorn -w 2 -b unix:/home/jhz22/web.sock --log-file - app:app
 </code></pre>
+<p>The mode field of <code>web.sock</code> has flag <code>s</code>, see <a href="https://en.wikipedia.org/wiki/Unix_file_types">https://en.wikipedia.org/wiki/Unix_file_types</a>.</p>
 <p>To access we use <code>curl</code></p>
 <pre><code class="language-bash">curl --unix-socket /home/jhz22/web.sock http://localhost
 </code></pre>

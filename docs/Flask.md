@@ -87,7 +87,7 @@ Web: <https://docs.gunicorn.org/en/stable/>
 The syntax is as follows,
 
 ```bash
-gunicorn -w 4 app:app
+gunicorn -w 2 app:app
 ```
 
 Note that it is `Listening at: http://127.0.0.1:8000`, and it is easily changed via the `--bind/-b option`.

@@ -168,6 +168,8 @@ Check `/public/societies/sample/run-python.sh`.
 exec gunicorn -w 2 -b unix:/home/jhz22/web.sock --log-file - app:app
 ```
 
+The mode field of `web.sock` has flag `s`, see <https://en.wikipedia.org/wiki/Unix_file_types>.
+
 To access we use `curl`
 
 ```bash

@@ -159,11 +159,5 @@ spawned uWSGI worker 4 (pid: 1802387, cores: 1)
 
 ## References
 
-1. Highlight: [Chapter 6](../c6) Sharing with the internet
-    - Farrell D. (2023) The Well-Grounded Python Developer-HOW THE PROS USE PYTHON AND FLASK. Manning Publications Co.
-    - [GitHub](https://github.com/writeson) [code](https://github.com/writeson/the-well-grounded-python-developer).
-    - [Live book](https://livebook.manning.com/book/the-well-grounded-python-developer/).
-
-2. Highlight: RESTful API
-    - Adedeji O. (2023) Full-Stack Flask and React. Packt Publishing
-    - [GitHub](https://github.com/PacktPublishing/Full-Stack-Flask-and-React)
+1. Farrell D. (2023) The Well-Grounded Python Developer. Manning Publications Co., [GitHub](https://github.com/writeson) [code](https://github.com/writeson/the-well-grounded-python-developer), [Live book](https://livebook.manning.com/book/the-well-grounded-python-developer/), Highlight: [Chapter 6](../c6).
+2. Adedeji O. (2023) Full-Stack Flask and React. Packt Publishing, [GitHub](https://github.com/PacktPublishing/Full-Stack-Flask-and-React).

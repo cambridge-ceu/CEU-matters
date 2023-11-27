@@ -195,6 +195,59 @@ static       GET      /static/&lt;path:filename&gt;
 static_file  GET      /&lt;path:path&gt;
 </code></pre>
 <p>Furthermore, we could use <code>curl http://localhost:8000/</code>, <code>curl http://127.0.0.1:8000/static/Caprion/A1BG/results?analysis==null</code> in a familiar REST API style and/or pipe into <code>jq</code> to prettify.</p>
+<p>It is more straightforward with <code>httpie</code> package, i.e.,</p>
+<pre><code class="language-python">pip install httpie
+</code></pre>
+<p>then we use <code>http://localhost:8000/</code> with output,</p>
+<pre><code>HTTP/1.1 200 OK
+Connection: close
+Content-Length: 1223
+Content-Type: text/html; charset=utf-8
+Date: Mon, 27 Nov 2023 11:16:25 GMT
+Server: gunicorn
+
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+    &lt;!-- Required meta tags --&gt;
+    &lt;meta charset=&quot;utf-8&quot;&gt;
+    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1, shrink-to-fit=no&quot;&gt;
+    &lt;title&gt;Your Second Web Server&lt;/title&gt;
+    &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/static/css/myblog.css&quot;&gt;
+    &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/static/css/index.css&quot;&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;div id=&quot;header&quot;&gt;
+        &lt;h1&gt;MyBlog Home Page&lt;/h1&gt;
+    &lt;/div&gt;
+    &lt;div id=&quot;content&quot;&gt;
+&lt;h2&gt;Current time: 2023-11-27 11:16:25.877095&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://127.0.0.1:8000/static/Caprion/index.html&quot;&gt;Caprion&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Page visits: 1&lt;/p&gt;
+&lt;p&gt;List of available banner colors:&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;aqua&lt;/li&gt;
+    &lt;li&gt;purple&lt;/li&gt;
+    &lt;li&gt;olive&lt;/li&gt;
+    &lt;li&gt;salmon&lt;/li&gt;
+    &lt;li&gt;lightcoral&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div id=&quot;color-change&quot;&gt;
+    &lt;button class=&quot;change-banner-color&quot;&gt;
+        Change Banner Color
+    &lt;/button&gt;
+&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div id=&quot;footer&quot;&gt;
+        &lt;h4&gt;Copyright &amp;copy; 2020 by MyBlog&lt;/h4&gt;
+    &lt;/div&gt;
+&lt;/body&gt;
+&lt;script&gt;
+    const banner_colors = [&quot;aqua&quot;, &quot;purple&quot;, &quot;olive&quot;, &quot;salmon&quot;, &quot;lightcoral&quot;];
+&lt;/script&gt;
+&lt;script src=&quot;/static/js/index.js&quot;&gt;&lt;/script&gt;
+&lt;/html&gt;
+</code></pre>
 <h2 id="run">Run</h2>
 <p>This is as before.</p></div>
             </div>

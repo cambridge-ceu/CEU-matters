@@ -24,6 +24,9 @@ e.g.,
     - RewriteRule "^(Caprion/.*)\$" unix:/home/jhz22/web.sock|http://jhz22.user.srcf.net/\$1 [P,NE,L,QSA]
 * TCP -- no headers
     - RewriteRule "^(.*)$" http://localhost:8012/\$1 [P,NE,L,QSA]
+
+See also
+
 - Check: <http://www.htaccesscheck.com/>
 - Tester: <https://htaccess.madewithlove.com/>
 

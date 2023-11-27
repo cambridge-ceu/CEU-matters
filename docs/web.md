@@ -261,10 +261,15 @@ WantedBy=default.target
 
 #### systemctl
 
+Instances of use
+
 ```bash
 systemctl --user daemon-reload
 systemctl --user list-unit-files
 systemctl --user restart nginx
+systemctl --user status nginx
+systemctl --user reset-failed nginx
+systemctl --user stop nginx
 ```
 
 The first line is necessary since we would get a message,

@@ -20,10 +20,10 @@ RewriteRule ^(.*)$ unix:<path-to-socket>|http://<url>/$1 [P,NE,L,QSA]
 e.g.,
 
 * Unix
-    - RewriteRule "^(Caprion/.*)$" unix:/home/jhz22/web.sock|http://localhost/$1 [P,NE,L,QSA]
-    - RewriteRule "^(Caprion/.*)$" unix:/home/jhz22/web.sock|http://jhz22.user.srcf.net/$1 [P,NE,L,QSA]
+    - RewriteRule "^(Caprion/.*)\$" unix:/home/jhz22/web.sock|http://localhost/\$1 [P,NE,L,QSA]
+    - RewriteRule "^(Caprion/.*)\$" unix:/home/jhz22/web.sock|http://jhz22.user.srcf.net/\$1 [P,NE,L,QSA]
 * TCP -- no headers
-    - RewriteRule "^(.*)$" http://localhost:8012/$1 [P,NE,L,QSA]
+    - RewriteRule "^(.*)$" http://localhost:8012/\$1 [P,NE,L,QSA]
 - Check: <http://www.htaccesscheck.com/>
 - Tester: <https://htaccess.madewithlove.com/>
 

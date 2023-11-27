@@ -249,7 +249,9 @@ Server: gunicorn
 &lt;/html&gt;
 </code></pre>
 <h2 id="run">Run</h2>
-<p>This is as before. Moreover, one can use <code>uvicorn</code> following <code>pip install uvicorn[standard]</code>.</p></div>
+<p>This is as before. Moreover, one can use <code>uvicorn</code> following <code>pip install uvicorn[standard]</code>.</p>
+<pre><code class="language-bash">uvicorn app:app --host 127.0.0.1 --port 8000 --workers 2
+</code></pre></div>
             </div>
         </div>
 

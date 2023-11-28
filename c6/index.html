@@ -254,7 +254,7 @@ Server: gunicorn
 </code></pre>
 <p>One might as well create a configuration file such as <code>gunicorn_config.py</code></p>
 <pre><code># bind = &quot;127.0.0.1:8000&quot;
-bind = unix:/home/jhz22/web.sock
+bind = &quot;unix:/home/jhz22/web.sock&quot;
 workers = 2
 loglevel = &quot;info&quot;
 errorlog = &quot;/public/home/jhz22/logs/gunicorn_error.log&quot;

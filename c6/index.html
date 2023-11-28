@@ -251,7 +251,16 @@ Server: gunicorn
 <h2 id="run">Run</h2>
 <p>This is as before. Moreover, one can use <code>uvicorn</code> following <code>pip install uvicorn[standard]</code>.</p>
 <pre><code class="language-bash">uvicorn app:app --host 127.0.0.1 --port 8000 --workers 2
-</code></pre></div>
+</code></pre>
+<p>One might as well create a configuration file such as <code>gunicorn_config.py</code></p>
+<pre><code># bind = &quot;127.0.0.1:8000&quot;
+bind = unix:/home/jhz22/web.sock
+workers = 2
+loglevel = &quot;info&quot;
+errorlog = &quot;/public/home/jhz22/logs/gunicorn_error.log&quot;
+accesslog = &quot;/public/home/jhz22/logs/gunicorn_access.log&quot;
+</code></pre>
+<p>so our call is simplified to <code>gunicorn -c gunicorn_config.py app:app</code></p></div>
             </div>
         </div>
 

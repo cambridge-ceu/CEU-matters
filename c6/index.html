@@ -252,7 +252,7 @@ Server: gunicorn
 <p>This is as before. Moreover, one can use <code>uvicorn</code> following <code>pip install uvicorn[standard]</code>.</p>
 <pre><code class="language-bash">uvicorn app:app --host 127.0.0.1 --port 8000 --workers 2
 </code></pre>
-<p>One might as well create a configuration file such as <code>gunicorn_config.py</code></p>
+<p>One might as well create a configuration file such as <code>gunicorn_config.ini</code></p>
 <pre><code># bind = &quot;127.0.0.1:8000&quot;
 bind = &quot;unix:/home/jhz22/web.sock&quot;
 workers = 2
@@ -260,7 +260,8 @@ loglevel = &quot;info&quot;
 errorlog = &quot;/public/home/jhz22/logs/gunicorn_error.log&quot;
 accesslog = &quot;/public/home/jhz22/logs/gunicorn_access.log&quot;
 </code></pre>
-<p>so our call is simplified to <code>gunicorn -c gunicorn_config.py app:app</code></p></div>
+<p>so our call is simplified to <code>gunicorn -c gunicorn_config.ini app:app</code> Note that <code>gunicorn_config.ini</code>
+can also be considered a python program containing only assignment statements.</p></div>
             </div>
         </div>
 

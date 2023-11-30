@@ -209,20 +209,20 @@ Web: <https://nginx.org/>
 #### Installation
 
 ```bash
-cd ~/myapp/ftp
+cd /public/home/jhz22
 wget -qO- https://nginx.org/download/nginx-1.24.0.tar.gz | \
 tar xfz -
 cd nginx-1.24.0
-./configure --prefix=/home/jhz22/myapp/nginx-1.24.0
+./configure --prefix=/home/jhz22
 make
 make install
-~/myapp/nginx-1.24.0/sbin/nginx -t
+/public/home/jhz22/sbin/nginx -t
 
 ```
 
 #### nginx.conf
 
-Replace the following section into `/home/jhz22/myapp/nginx-1.24.0/conf/nginx.conf`
+Replace the following section into `/public/home/jhz22/conf/nginx.conf`
 
 ```
 server {
@@ -239,9 +239,9 @@ server {
 showing that
 
 ```
-jhz22@sinkhole:~/myapp$ nginx-1.24.0/sbin/nginx -t
-nginx: the configuration file /home/jhz22/myapp/nginx-1.24.0/conf/nginx.conf syntax is ok
-nginx: configuration file /home/jhz22/myapp/nginx-1.24.0/conf/nginx.conf test is successful
+jhz22@sinkhole:/public/home/jhz22/sbin/nginx -t
+nginx: the configuration file /public/home/jhz22/conf/nginx.conf syntax is ok
+nginx: configuration file /public/home/jhz22/conf/nginx.conf test is successful
 ```
 
 #### nginx.service
@@ -252,7 +252,7 @@ nginx: configuration file /home/jhz22/myapp/nginx-1.24.0/conf/nginx.conf test is
 Description=Nginx HTTP server
 
 [Service]
-ExecStart=/home/jhz22/myapp/nginx-1.24.0/sbin/nginx
+ExecStart=/public/home/jhz22/sbin/nginx
 Restart=always
 
 [Install]

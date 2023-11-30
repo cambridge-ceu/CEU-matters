@@ -213,7 +213,7 @@ cd /public/home/jhz22
 wget -qO- https://nginx.org/download/nginx-1.24.0.tar.gz | \
 tar xfz -
 cd nginx-1.24.0
-./configure --prefix=/home/jhz22
+./configure --prefix=/public/home/jhz22
 make
 make install
 /public/home/jhz22/sbin/nginx -t

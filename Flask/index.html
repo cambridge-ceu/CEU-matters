@@ -145,6 +145,10 @@
               <ul class="nav flex-column">
               </ul>
             </li>
+            <li class="nav-item" data-level="2"><a href="#apppy" class="nav-link">app.py</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
             <li class="nav-item" data-level="2"><a href="#indexhtml" class="nav-link">index.html</a>
               <ul class="nav flex-column">
               </ul>
@@ -186,12 +190,9 @@
 ├── templates
 │   └── index.html
 └── uwsgi.ini
-``
-
-## app.py
-
-```python
-from flask import Flask, render_template
+</code></pre>
+<h2 id="apppy">app.py</h2>
+<pre><code class="language-python">from flask import Flask, render_template
 from datetime import datetime
 
 app = Flask(__name__)

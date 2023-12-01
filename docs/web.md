@@ -277,3 +277,9 @@ The first line is necessary since we would get a message,
 ```
 Warning: The unit file, source configuration file or drop-ins of nginx.service changed on disk. Run 'systemctl --user daemon-reload' to reload units.
 ```
+
+## Additional information
+
+- ws, <https://github.com/websockets/ws>
+- Apache Benchmark tool, `ab -n 1000 -c 5 -C "somecookie=rawr" http://ourwebsite.com/`
+- wrk, <https://github.com/wg/wrk>

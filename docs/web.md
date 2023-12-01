@@ -246,7 +246,7 @@ nginx: configuration file /public/home/jhz22/conf/nginx.conf test is successful
 
 #### nginx.service
 
-:~/.config/systemd/user
+Location: ~/.config/systemd/user
 
 ```
 Description=Nginx HTTP server

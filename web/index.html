@@ -161,6 +161,10 @@
               <ul class="nav flex-column">
               </ul>
             </li>
+            <li class="nav-item" data-level="2"><a href="#additional-information" class="nav-link">Additional information</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
               </ul>
             </li>
         </ul>
@@ -388,7 +392,13 @@ systemctl --user stop nginx
 </code></pre>
 <p>The first line is necessary since we would get a message,</p>
 <pre><code>Warning: The unit file, source configuration file or drop-ins of nginx.service changed on disk. Run 'systemctl --user daemon-reload' to reload units.
-</code></pre></div>
+</code></pre>
+<h2 id="additional-information">Additional information</h2>
+<ul>
+<li>ws, <a href="https://github.com/websockets/ws">https://github.com/websockets/ws</a></li>
+<li>Apache Benchmark tool, <code>ab -n 1000 -c 5 -C "somecookie=rawr" http://ourwebsite.com/</code></li>
+<li>wrk, <a href="https://github.com/wg/wrk">https://github.com/wg/wrk</a></li>
+</ul></div>
             </div>
         </div>
 

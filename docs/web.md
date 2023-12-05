@@ -278,10 +278,27 @@ The first line is necessary since we would get a message,
 Warning: The unit file, source configuration file or drop-ins of nginx.service changed on disk. Run 'systemctl --user daemon-reload' to reload units.
 ```
 
+## Benchmark tools
+
+### Apache Benchmark tool
+
+```bash
+ab -n 1000 -c 5 -C "somecookie=rawr" http://ourwebsite.com/
+```
+
+### wrk
+
+Web: <https://github.com/wg/wrk>
+
+```bash
+wget -qO- https://github.com/wg/wrk/archive/refs/tags/4.2.0.tar.gz | tar xfz -
+cd wrk-4.2.0/
+make WITH_OPENSSL=/usr/include/openssl
+./wrk -t2 -c4 -d30s http://127.0.0.1:8000/index.html
+```
+
 ## Additional information
 
-- Apache Benchmark tool, `ab -n 1000 -c 5 -C "somecookie=rawr" http://ourwebsite.com/`
 - Caddy, <https://caddyserver.com/>, `caddy run --config webserver-configs/Caddyfile`
 - Grav, <https://getgrav.org/> ([GitHub](https://github.com/caddyserver/caddy), [Linux arm64](https://caddyserver.com/api/download?os=linux&arch=arm64&idempotency=33011962771737))
-- wrk, <https://github.com/wg/wrk>
 - ws, <https://github.com/websockets/ws>

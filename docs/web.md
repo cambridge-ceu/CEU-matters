@@ -280,7 +280,7 @@ Warning: The unit file, source configuration file or drop-ins of nginx.service c
 
 ## Benchmark tools
 
-### Apache Benchmark tool
+### Apache
 
 ```bash
 ab -n 1000 -c 5 -C "somecookie=rawr" http://ourwebsite.com/

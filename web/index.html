@@ -408,7 +408,7 @@ cd wrk-4.2.0/
 make WITH_OPENSSL=/usr/include/openssl
 ./wrk -t2 -c4 -d30s http://127.0.0.1:8000/index.html
 </code></pre>
-<p>This also produces luajia, e.g., with a file named <code>add.lua</code></p>
+<p>This also produces <code>luajit</code>, e.g., with a file named <code>add.lua</code></p>
 <pre><code class="language-lua">-- Define a function that adds two numbers
 function addNumbers(a, b)
     return a + b

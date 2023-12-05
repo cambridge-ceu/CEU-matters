@@ -281,7 +281,7 @@ Warning: The unit file, source configuration file or drop-ins of nginx.service c
 ## Additional information
 
 - Apache Benchmark tool, `ab -n 1000 -c 5 -C "somecookie=rawr" http://ourwebsite.com/`
-- Caddy, <https://caddyserver.com/>
-. Grav, <https://getgrav.org/> ([GitHub](https://github.com/caddyserver/caddy),[Linux arm64](https://caddyserver.com/api/download?os=linux&arch=arm64&idempotency=33011962771737))
+- Caddy, <https://caddyserver.com/>, `caddy run --config webserver-configs/Caddyfile`
+- Grav, <https://getgrav.org/> ([GitHub](https://github.com/caddyserver/caddy),[Linux arm64](https://caddyserver.com/api/download?os=linux&arch=arm64&idempotency=33011962771737))
 - wrk, <https://github.com/wg/wrk>
 - ws, <https://github.com/websockets/ws>

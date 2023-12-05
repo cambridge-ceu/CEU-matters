@@ -297,6 +297,31 @@ make WITH_OPENSSL=/usr/include/openssl
 ./wrk -t2 -c4 -d30s http://127.0.0.1:8000/index.html
 ```
 
+This also produces luajia, e.g., with a file named `add.lua`
+
+```lua
+-- Define a function that adds two numbers
+function addNumbers(a, b)
+    return a + b
+end
+
+-- Call the function with arguments 5 and 10
+result = addNumbers(5, 10)
+
+-- Print the result
+print("The sum is: " .. result)
+```
+
+```bash
+luajit add.lua
+```
+
+we obtain
+
+```
+The sum is: 15
+```
+
 ## Additional information
 
 - Caddy, <https://caddyserver.com/>, `caddy run --config webserver-configs/Caddyfile`

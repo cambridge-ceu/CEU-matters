@@ -297,7 +297,7 @@ make WITH_OPENSSL=/usr/include/openssl
 ./wrk -t2 -c4 -d30s http://127.0.0.1:8000/index.html
 ```
 
-This also produces luajia, e.g., with a file named `add.lua`
+This also produces `luajit`, e.g., with a file named `add.lua`
 
 ```lua
 -- Define a function that adds two numbers

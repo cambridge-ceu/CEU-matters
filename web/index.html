@@ -161,6 +161,10 @@
               <ul class="nav flex-column">
               </ul>
             </li>
+            <li class="nav-item" data-level="2"><a href="#benchmark-tools" class="nav-link">Benchmark tools</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
             <li class="nav-item" data-level="2"><a href="#additional-information" class="nav-link">Additional information</a>
               <ul class="nav flex-column">
               </ul>
@@ -393,12 +397,21 @@ systemctl --user stop nginx
 <p>The first line is necessary since we would get a message,</p>
 <pre><code>Warning: The unit file, source configuration file or drop-ins of nginx.service changed on disk. Run 'systemctl --user daemon-reload' to reload units.
 </code></pre>
+<h2 id="benchmark-tools">Benchmark tools</h2>
+<h3 id="apache-benchmark-tool">Apache Benchmark tool</h3>
+<pre><code class="language-bash">ab -n 1000 -c 5 -C &quot;somecookie=rawr&quot; http://ourwebsite.com/
+</code></pre>
+<h3 id="wrk">wrk</h3>
+<p>Web: <a href="https://github.com/wg/wrk">https://github.com/wg/wrk</a></p>
+<pre><code class="language-bash">wget -qO- https://github.com/wg/wrk/archive/refs/tags/4.2.0.tar.gz | tar xfz -
+cd wrk-4.2.0/
+make WITH_OPENSSL=/usr/include/openssl
+./wrk -t2 -c4 -d30s http://127.0.0.1:8000/index.html
+</code></pre>
 <h2 id="additional-information">Additional information</h2>
 <ul>
-<li>Apache Benchmark tool, <code>ab -n 1000 -c 5 -C "somecookie=rawr" http://ourwebsite.com/</code></li>
 <li>Caddy, <a href="https://caddyserver.com/">https://caddyserver.com/</a>, <code>caddy run --config webserver-configs/Caddyfile</code></li>
 <li>Grav, <a href="https://getgrav.org/">https://getgrav.org/</a> (<a href="https://github.com/caddyserver/caddy">GitHub</a>, <a href="https://caddyserver.com/api/download?os=linux&amp;arch=arm64&amp;idempotency=33011962771737">Linux arm64</a>)</li>
-<li>wrk, <a href="https://github.com/wg/wrk">https://github.com/wg/wrk</a></li>
 <li>ws, <a href="https://github.com/websockets/ws">https://github.com/websockets/ws</a></li>
 </ul></div>
             </div>

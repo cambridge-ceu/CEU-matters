@@ -185,7 +185,7 @@
 <h3 id="via-python">via Python</h3>
 <p>Source: <a href="https://www.digitalocean.com/community/tutorials/python-socket-programming-server-client">https://www.digitalocean.com/community/tutorials/python-socket-programming-server-client</a></p>
 <p>We employ <code>python server.py</code> and <code>python client.py</code> below for two interactive sessions which ends with <code>bye</code>.</p>
-<h4 id="serverpy">server.py</h4>
+<h4 id="-serverpy">--- server.py</h4>
 <pre><code class="language-python">import socket
 
 def server_program():
@@ -216,7 +216,7 @@ def server_program():
 if __name__ == '__main__':
     server_program()
 </code></pre>
-<h4 id="clientpy">client.py</h4>
+<h4 id="-clientpy">--- client.py</h4>
 <pre><code class="language-python">import socket
 
 def client_program():
@@ -295,7 +295,7 @@ sock.close()
 </code></pre>
 <h3 id="nginx">nginx</h3>
 <p>Web: <a href="https://nginx.org/">https://nginx.org/</a></p>
-<h4 id="installation">Installation</h4>
+<h4 id="-installation">--- Installation</h4>
 <pre><code class="language-bash">cd /public/home/jhz22
 wget -qO- https://nginx.org/download/nginx-1.24.0.tar.gz | \
 tar xfz -
@@ -306,7 +306,7 @@ make install
 /public/home/jhz22/sbin/nginx -t
 
 </code></pre>
-<h4 id="nginxconf">nginx.conf</h4>
+<h4 id="-nginxconf">--- nginx.conf</h4>
 <p>Replace the following section into <code>/public/home/jhz22/conf/nginx.conf</code></p>
 <pre><code>events {
     worker_connections 1024;
@@ -343,7 +343,7 @@ http {
 nginx: the configuration file /public/home/jhz22/conf/nginx.conf syntax is ok
 nginx: configuration file /public/home/jhz22/conf/nginx.conf test is successful
 </code></pre>
-<h4 id="nginxservice">nginx.service</h4>
+<h4 id="-nginxservice">--- nginx.service</h4>
 <p>Location: ~/.config/systemd/user</p>
 <pre><code>Description=Nginx HTTP server
 
@@ -354,7 +354,7 @@ Restart=always
 [Install]
 WantedBy=default.target
 </code></pre>
-<h3 id="systemctl">systemctl</h3>
+<h3 id="-systemctl">--- systemctl</h3>
 <p>Instances of use</p>
 <pre><code class="language-bash">systemctl --user daemon-reload
 systemctl --user list-unit-files

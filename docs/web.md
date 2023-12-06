@@ -12,7 +12,7 @@
 
 is based on `/public/societies/sample/flask/app.py`.
 
-There is a driver progeam, `/public/societies/sample/run-python.sh`.
+There is a driver program, `/public/societies/sample/run-python.sh`.
 
 ## Socket
 

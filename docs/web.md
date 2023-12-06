@@ -286,6 +286,64 @@ Warning: The unit file, source configuration file or drop-ins of nginx.service c
 ab -n 1000 -c 5 -C "somecookie=rawr" http://ourwebsite.com/
 ```
 
+with output,
+
+```
+This is ApacheBench, Version 2.3 <$Revision: 1843412 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking ourwebsite.com (be patient)
+Completed 100 requests
+Completed 200 requests
+Completed 300 requests
+Completed 400 requests
+Completed 500 requests
+Completed 600 requests
+Completed 700 requests
+Completed 800 requests
+Completed 900 requests
+Completed 1000 requests
+Finished 1000 requests
+
+
+Server Software:        nginx
+Server Hostname:        ourwebsite.com
+Server Port:            80
+
+Document Path:          /
+Document Length:        859 bytes
+
+Concurrency Level:      5
+Time taken for tests:   33.132 seconds
+Complete requests:      1000
+Failed requests:        0
+Total transferred:      1246000 bytes
+HTML transferred:       859000 bytes
+Requests per second:    30.18 [#/sec] (mean)
+Time per request:       165.659 [ms] (mean)
+Time per request:       33.132 [ms] (mean, across all concurrent requests)
+Transfer rate:          36.73 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:       75   76   1.3     75      89
+Processing:    87   89   2.6     88     123
+Waiting:       87   89   2.6     88     123
+Total:        163  165   3.2    164     200
+
+Percentage of the requests served within a certain time (ms)
+  50%    164
+  66%    164
+  75%    165
+  80%    165
+  90%    167
+  95%    170
+  98%    174
+  99%    177
+ 100%    200 (longest request)
+```
+
 ### wrk
 
 Web: <https://github.com/wg/wrk>
@@ -295,6 +353,20 @@ wget -qO- https://github.com/wg/wrk/archive/refs/tags/4.2.0.tar.gz | tar xfz -
 cd wrk-4.2.0/
 make WITH_OPENSSL=/usr/include/openssl
 ./wrk -t2 -c4 -d30s http://127.0.0.1:8000/index.html
+```
+
+The last line gives,
+
+```
+unning 30s test @ http://127.0.0.1:8000/index.html
+  2 threads and 4 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.23ms  616.83us  14.90ms   93.82%
+    Req/Sec     1.64k   160.27     1.97k    70.50%
+  98058 requests in 30.02s, 36.00MB read
+  Non-2xx or 3xx responses: 98058
+Requests/sec:   3266.42
+Transfer/sec:      1.20MB
 ```
 
 This also produces `luajit`, e.g., with a file named `add.lua`

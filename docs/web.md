@@ -10,9 +10,9 @@
 
 <https://sample.soc.srcf.net/flask/>
 
-based on `/public/societies/sample/flask/app.py`.
+is based on `/public/societies/sample/flask/app.py`.
 
-The driver progeam, `/public/societies/sample/run-python.sh`.
+There is a driver progeam, `/public/societies/sample/run-python.sh`.
 
 ## Socket
 

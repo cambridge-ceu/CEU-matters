@@ -4,81 +4,19 @@
 
 - Technical reference, <https://docs.srcf.net/reference/>
 - Tutorial, <https://docs.srcf.net/tutorials/>
+- Raven authentication, <https://docs.srcf.net/reference/web-hosting/raven-authentication/>
 
-## .htaccess
+## Sample
 
-It sits on the current directory.
+<https://sample.soc.srcf.net/flask/>
 
-```
-RequestHeader set Host expr=%{HTTP_HOST}
-RequestHeader set X-Forwarded-For expr=%{REMOTE_ADDR}
-RequestHeader set X-Forwarded-Proto expr=%{REQUEST_SCHEME}
-RequestHeader set X-Real-IP expr=%{REMOTE_ADDR}
-RewriteRule ^(.*)$ unix:<path-to-socket>|http://<url>/$1 [P,NE,L,QSA]
-```
+based on `/public/societies/sample/flask/app.py`.
 
-e.g.,
+### Template
 
-* Unix
-    - RewriteRule "^(Caprion/.*)\$" unix:/home/jhz22/web.sock|http://localhost/\$1 [P,NE,L,QSA]
-    - RewriteRule "^(Caprion/.*)\$" unix:/home/jhz22/web.sock|http://jhz22.user.srcf.net/\$1 [P,NE,L,QSA]
-* TCP -- no headers
-    - RewriteRule "^(.*)$" http://localhost:8012/\$1 [P,NE,L,QSA]
-
-See also
-
-- Check: <http://www.htaccesscheck.com/>
-- Tester: <https://htaccess.madewithlove.com/>
-
-Based on chatGPT,
-
-* RequestHeader set Host expr=%{HTTP_HOST}: Sets the Host header to the value of the HTTP_HOST variable.
-* RequestHeader set X-Forwarded-For expr=%{REMOTE_ADDR}: Sets the X-Forwarded-For header to the value of the REMOTE_ADDR variable.
-* RequestHeader set X-Forwarded-Proto expr=%{REQUEST_SCHEME}: Sets the X-Forwarded-Proto header to the value of the REQUEST_SCHEME variable.
-* RequestHeader set X-Real-IP expr=%{REMOTE_ADDR}: Sets the X-Real-IP header to the value of the REMOTE_ADDR variable.
-* RewriteRule ^(.*)$ unix:<path-to-socket>|http://<url\>/$1 [P,NE,L,QSA]: The RewriteRule is rewriting the URL. It proxies requests to a specified URL with a Unix domain socket. Replace <path-to-socket> with the actual path to your Unix domain socket and <url> with the target URL.
-  - [P,NE,L,QSA]: These are flags that modify the behavior of the RewriteRule:
-      - P: Proxy flag. This tells Apache to treat the substitution as a proxy request and forward it to the specified location.
-      - NE: No Escape flag. This prevents Apache from escaping special characters in the substitution, useful when substituting URLs.
-      - L: Last flag. This indicates that if the current rule matches, no further rules should be processed for this request.
-      - QSA: Query String Append flag. This appends the original query string to the substituted URL.
-
-Make sure to replace <path-to-socket> and <url> with your actual values. Additionally, ensure that the necessary modules (mod_headers and mod_rewrite) are enabled in your Apache configuration.
-
-Logs are at `/var/log/apache2/user/$USER/`.
+Check `/public/societies/sample/run-python.sh`.
 
 ## Socket
-
-### via C
-
-Source: <https://gist.github.com/ryran/170009f84c11bf3243b1>
-
-```c
-#include <fcntl.h>
-#include <sys/un.h>
-#include <sys/socket.h>
-#include <sys/stat.h>
-#include <sys/types.h>
-#include <unistd.h>
-
-int main(int argc, char **argv)
-{
-    // The following line expects the socket path to be first argument
-    char * mysocketpath = argv[1];
-    // Alternatively, you could comment that and set it statically:
-    //char * mysocketpath = "/tmp/mysock";
-    struct sockaddr_un namesock;
-    int fd;
-    namesock.sun_family = AF_UNIX;
-    strncpy(namesock.sun_path, (char *)mysocketpath, sizeof(namesock.sun_path));
-    fd = socket(AF_UNIX, SOCK_DGRAM, 0);
-    bind(fd, (struct sockaddr *) &namesock, sizeof(struct sockaddr_un));
-    close(fd);
-    return 0;
-}
-```
-
-and compiled with `gcc cleate-a-socket.c -o create-a-socket; create-a-socket web.sock`.
 
 ### via Python
 
@@ -148,26 +86,47 @@ if __name__ == '__main__':
     client_program()
 ```
 
-## Raven authentication
+### via C
 
-Web: <https://docs.srcf.net/reference/web-hosting/raven-authentication/>
+Source: <https://gist.github.com/ryran/170009f84c11bf3243b1>
 
-## Sample
+```c
+#include <fcntl.h>
+#include <sys/un.h>
+#include <sys/socket.h>
+#include <sys/stat.h>
+#include <sys/types.h>
+#include <unistd.h>
 
-<https://sample.soc.srcf.net/flask/>
+int main(int argc, char **argv)
+{
+    // The following line expects the socket path to be first argument
+    char * mysocketpath = argv[1];
+    // Alternatively, you could comment that and set it statically:
+    //char * mysocketpath = "/tmp/mysock";
+    struct sockaddr_un namesock;
+    int fd;
+    namesock.sun_family = AF_UNIX;
+    strncpy(namesock.sun_path, (char *)mysocketpath, sizeof(namesock.sun_path));
+    fd = socket(AF_UNIX, SOCK_DGRAM, 0);
+    bind(fd, (struct sockaddr *) &namesock, sizeof(struct sockaddr_un));
+    close(fd);
+    return 0;
+}
+```
 
-based on `/public/societies/sample/flask/app.py`.
+and compiled with `gcc cleate-a-socket.c -o create-a-socket; create-a-socket web.sock`.
 
-### Template
+## Web Server
 
-Check `/public/societies/sample/run-python.sh`.
+This refers to `webserver.srcf.net` (`sinkhole.srcf.net`).
 
-### Unix socket
+### gunicorn
 
 ```bash
 #!/bin/bash -e
 
-. ~/myapp/venv/bin/activate
+# . ~/myapp/venv/bin/activate
 exec gunicorn -w 2 -b unix:/home/jhz22/web.sock --log-file - app:app
 ```
 
@@ -192,14 +151,11 @@ sock.connect('/home/jhz22/web.sock')
 sock.close()
 ```
 
-## webserver.srcf.net
-
-(To be refined)
-
 ### uWSGI
 
 ```bash
-uwsgi --socket /home/jhz22/web.sock --plugin python3 --enable-threads --wsgi-file app.py --callable app --processes 2 --master --chmod-socket=666
+uwsgi --socket /home/jhz22/web.sock --chmod-socket=666 --enable-threads --processes 2 --master \
+      --plugin python3 --wsgi-file app.py --callable app
 ```
 
 ### nginx
@@ -225,6 +181,29 @@ make install
 Replace the following section into `/public/home/jhz22/conf/nginx.conf`
 
 ```
+events {
+    worker_connections 1024;
+}
+
+http {
+    server {
+        listen unix:/home/jhz22/web.sock;
+        server_name jhz22.user.srcf.net;
+
+        location / {
+            proxy_pass http://unix:/home/jhz22/web.sock;
+            proxy_set_header Host $host;
+            proxy_set_header X-Real-IP $remote_addr;
+            proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+            proxy_set_header X-Forwarded-Proto $scheme;
+        }
+    }
+}
+```
+
+or using uWSGI
+
+```
 server {
     listen 8000;
     server_name jhz22.user.srcf.net;
@@ -236,7 +215,7 @@ server {
 }
 ```
 
-showing that
+so that upon success we see
 
 ```
 jhz22@sinkhole:/public/home/jhz22/sbin/nginx -t
@@ -259,7 +238,7 @@ Restart=always
 WantedBy=default.target
 ```
 
-#### systemctl
+### systemctl
 
 Instances of use
 
@@ -277,6 +256,48 @@ The first line is necessary since we would get a message,
 ```
 Warning: The unit file, source configuration file or drop-ins of nginx.service changed on disk. Run 'systemctl --user daemon-reload' to reload units.
 ```
+
+### .htaccess
+
+It sits on the current directory.
+
+```
+RequestHeader set Host expr=%{HTTP_HOST}
+RequestHeader set X-Forwarded-For expr=%{REMOTE_ADDR}
+RequestHeader set X-Forwarded-Proto expr=%{REQUEST_SCHEME}
+RequestHeader set X-Real-IP expr=%{REMOTE_ADDR}
+RewriteRule ^(.*)$ unix:<path-to-socket>|http://<url>/$1 [P,NE,L,QSA]
+```
+
+e.g.,
+
+* Unix
+    - RewriteRule "^(Caprion/.*)\$" unix:/home/jhz22/web.sock|http://localhost/\$1 [P,NE,L,QSA]
+    - RewriteRule "^(Caprion/.*)\$" unix:/home/jhz22/web.sock|http://jhz22.user.srcf.net/\$1 [P,NE,L,QSA]
+* TCP -- no headers
+    - RewriteRule "^(.*)$" http://localhost:8012/\$1 [P,NE,L,QSA]
+
+See also
+
+- Check: <http://www.htaccesscheck.com/>
+- Tester: <https://htaccess.madewithlove.com/>
+
+Based on chatGPT,
+
+* RequestHeader set Host expr=%{HTTP_HOST}: Sets the Host header to the value of the HTTP_HOST variable.
+* RequestHeader set X-Forwarded-For expr=%{REMOTE_ADDR}: Sets the X-Forwarded-For header to the value of the REMOTE_ADDR variable.
+* RequestHeader set X-Forwarded-Proto expr=%{REQUEST_SCHEME}: Sets the X-Forwarded-Proto header to the value of the REQUEST_SCHEME variable.
+* RequestHeader set X-Real-IP expr=%{REMOTE_ADDR}: Sets the X-Real-IP header to the value of the REMOTE_ADDR variable.
+* RewriteRule ^(.*)$ unix:<path-to-socket>|http://<url\>/$1 [P,NE,L,QSA]: The RewriteRule is rewriting the URL. It proxies requests to a specified URL with a Unix domain socket. Replace <path-to-socket> with the actual path to your Unix domain socket and <url> with the target URL.
+  - [P,NE,L,QSA]: These are flags that modify the behavior of the RewriteRule:
+      - P: Proxy flag. This tells Apache to treat the substitution as a proxy request and forward it to the specified location.
+      - NE: No Escape flag. This prevents Apache from escaping special characters in the substitution, useful when substituting URLs.
+      - L: Last flag. This indicates that if the current rule matches, no further rules should be processed for this request.
+      - QSA: Query String Append flag. This appends the original query string to the substituted URL.
+
+Make sure to replace <path-to-socket> and <url> with your actual values. Additionally, ensure that the necessary modules (mod_headers and mod_rewrite) are enabled in your Apache configuration.
+
+Logs are at `/var/log/apache2/user/$USER/`.
 
 ## Benchmark tools
 

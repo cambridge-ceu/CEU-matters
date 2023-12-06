@@ -12,9 +12,7 @@
 
 based on `/public/societies/sample/flask/app.py`.
 
-### Template
-
-Check `/public/societies/sample/run-python.sh`.
+The driver progeam, `/public/societies/sample/run-python.sh`.
 
 ## Socket
 

@@ -115,6 +115,8 @@ int main(int argc, char **argv)
 
 and compiled with `gcc cleate-a-socket.c -o create-a-socket; create-a-socket web.sock`.
 
+The mode field of `web.sock` has flag `s`, see <https://en.wikipedia.org/wiki/Unix_file_types>.
+
 ## Web Server
 
 This refers to `webserver.srcf.net` (`sinkhole.srcf.net`).
@@ -127,8 +129,6 @@ This refers to `webserver.srcf.net` (`sinkhole.srcf.net`).
 # . ~/myapp/venv/bin/activate
 exec gunicorn -w 2 -b unix:/home/jhz22/web.sock --log-file - app:app
 ```
-
-The mode field of `web.sock` has flag `s`, see <https://en.wikipedia.org/wiki/Unix_file_types>.
 
 To access we use `curl`
 

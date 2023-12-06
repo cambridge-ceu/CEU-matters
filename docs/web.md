@@ -22,7 +22,7 @@ Source: <https://www.digitalocean.com/community/tutorials/python-socket-programm
 
 We employ `python server.py` and `python client.py` below for two interactive sessions which ends with `bye`.
 
-#### server.py
+#### --- server.py
 
 ```python
 import socket
@@ -56,7 +56,7 @@ if __name__ == '__main__':
     server_program()
 ```
 
-#### client.py
+#### --- client.py
 
 ```python
 import socket
@@ -160,7 +160,7 @@ uwsgi --socket /home/jhz22/web.sock --chmod-socket=666 --enable-threads --proces
 
 Web: <https://nginx.org/>
 
-#### Installation
+#### --- Installation
 
 ```bash
 cd /public/home/jhz22
@@ -174,7 +174,7 @@ make install
 
 ```
 
-#### nginx.conf
+#### --- nginx.conf
 
 Replace the following section into `/public/home/jhz22/conf/nginx.conf`
 
@@ -221,7 +221,7 @@ nginx: the configuration file /public/home/jhz22/conf/nginx.conf syntax is ok
 nginx: configuration file /public/home/jhz22/conf/nginx.conf test is successful
 ```
 
-#### nginx.service
+#### --- nginx.service
 
 Location: ~/.config/systemd/user
 
@@ -236,7 +236,7 @@ Restart=always
 WantedBy=default.target
 ```
 
-### systemctl
+### --- systemctl
 
 Instances of use
 

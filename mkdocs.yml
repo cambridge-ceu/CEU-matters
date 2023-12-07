@@ -17,7 +17,7 @@ nav:
     - DPHPC: DPHPC.md
     - School: School.md
     - University: University.md
-    - University Again: Resources/University
+    - University:
         - Flask: Flask.md
         - c6: c6.md
         - web: web.md

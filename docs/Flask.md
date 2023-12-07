@@ -51,7 +51,7 @@ def home():
 
 which includes `{{now}}` in `Jinja2` template syntax.
 
-## commands
+## Running
 
 ```bash
 export FLASK_ENV=development

@@ -2,25 +2,25 @@ site_name: CEU scientific meetings
 nav:
   - "": README.md
   - Chronicle:
-    - 2024.md
-    - 2023.md
-    - 2022.md
-    - 2021.md
-    - 2020.md
-    - mhs.md
-    - COVID-19.md
-    - Cambridge-Baker-Joint-Symposium.md
+    - 2024: 2024.md
+    - 2023: 2023.md
+    - 2022: 2022.md
+    - 2021: 2021.md
+    - 2020: 2020.md
+    - mhs: mhs.md
+    - COVID-19: COVID-19.md
+    - cbjs: Cambridge-Baker-Joint-Symposium.md
   - HDR(UK): HDR-UK.md
   - Schedules: schedules.md
   - Resources:
-    - CEU.md
-    - DPHPC.md
-    - School.md
-    - University.md
-    - Again: Resources/University
-      - Flask.md
-      - c6.md
-      - web.md
+    - CEU: CEU.md
+    - DPHPC: DPHPC.md
+    - School: School.md
+    - University: University.md
+    - University Again: Resources/University
+      - Flask: Resources/University/Flask.md
+      - c6: Resources/University/c6.md
+      - web: Resources/University/web.md
   - Channels: channels.md
   - Talks: talks.md
 theme:

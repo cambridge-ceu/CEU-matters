@@ -17,6 +17,10 @@ nav:
     - DPHPC.md
     - School.md
     - University.md
+    - Again:
+      - Flask.md
+      - c6.md
+      - web.md
   - Channels: channels.md
   - Talks: talks.md
 theme:

@@ -18,9 +18,9 @@ nav:
     - School: School.md
     - University: University.md
     - University Again:
-      - Flask: Resources/University/Flask.md
-      - c6: Resources/University/c6.md
-      - web: Resources/University/web.md
+      - Flask: Flask.md
+      - c6: c6.md
+      - web: web.md
   - Channels: channels.md
   - Talks: talks.md
 theme:

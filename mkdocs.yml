@@ -16,11 +16,11 @@ nav:
     - CEU.md
     - DPHPC.md
     - School.md
-    - University.md
-    - Again:
+    - University
       - Flask.md
       - c6.md
       - web.md
+    - Again: Resources/University.md
   - Channels: channels.md
   - Talks: talks.md
 theme:

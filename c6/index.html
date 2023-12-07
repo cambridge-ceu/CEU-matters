@@ -221,7 +221,7 @@ pip install -r requirements.txt
 </code></pre>
 <p>where and our project directory <code>Caprion/</code> is to be access from <code>http://localhost:#/static/Caprion</code> with # to be 5000 (Flask default) or 8000 (gunicorn default).</p>
 <h2 id="running">Running</h2>
-<p>Our call is <code>gunicorn -c gunicorn_config.py app:app</code>. Note that <code>gunicorn_config.py</code> (a python program containing only assignment statements).</p>
+<p>Our call is <code>gunicorn -c gunicorn_config.py app:app</code>, where <code>gunicorn_config.py</code> can be seen as a python program with only assignment statements.</p>
 <p>Moreover, one can use <code>uvicorn</code> following <code>pip install uvicorn[standard]</code>.</p>
 <pre><code class="language-bash">uvicorn app:app --host 127.0.0.1 --port 8000 --workers 2
 </code></pre>

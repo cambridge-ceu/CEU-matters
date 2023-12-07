@@ -2,13 +2,15 @@
 
 Web: <https://flask.palletsprojects.com/>
 
-Tests are made under SRCF, where several aspects are required. A particular directory called `templates` is created.
+## Structure
+
+A particular directory called `templates` is created as follows.
 
 ```bash
 if [ ! -d templates ]; then mkdir templates; fi
 ```
 
-## structure
+The organisation is apparent with `tree`,
 
 ```
 ├── app.py
@@ -98,7 +100,7 @@ Note that it is `Listening at: http://127.0.0.1:8000`, and it is easily changed 
 
 Web: <https://uwsgi-docs.readthedocs.io/en/latest/>
 
-It is convenient to create a configuration file named `uwsgi.ini`, 
+The configuration file is named `uwsgi.ini`, 
 
 ```
 [uwsgi]

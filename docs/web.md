@@ -6,7 +6,7 @@
 - Tutorial, <https://docs.srcf.net/tutorials/>
 - Raven authentication, <https://docs.srcf.net/reference/web-hosting/raven-authentication/>
 
-## Sample
+## A sample
 
 <https://sample.soc.srcf.net/flask/>
 
@@ -126,7 +126,6 @@ This refers to `webserver.srcf.net` (`sinkhole.srcf.net`).
 ```bash
 #!/bin/bash -e
 
-# . ~/myapp/venv/bin/activate
 exec gunicorn -w 2 -b unix:/home/jhz22/web.sock --log-file - app:app
 ```
 

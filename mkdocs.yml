@@ -18,6 +18,7 @@ nav:
     - School: School.md
     - University: University.md
     - SRCF:
+        - Terminal: https://www.srcf.net/terminal/
         - Flask: Flask.md
         - c6: c6.md
         - web: web.md

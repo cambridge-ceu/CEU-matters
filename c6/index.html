@@ -222,9 +222,6 @@ pip install -r requirements.txt
 <p>where and our project directory <code>Caprion/</code> is to be access from <code>http://localhost:#/static/Caprion</code> with # to be 5000 (Flask default) or 8000 (gunicorn default).</p>
 <h2 id="running">Running</h2>
 <p>Our call is <code>gunicorn -c gunicorn_config.py app:app</code>, where <code>gunicorn_config.py</code> can be seen as a python program with only assignment statements.</p>
-<p>Moreover, one can use <code>uvicorn</code> following <code>pip install uvicorn[standard]</code>.</p>
-<pre><code class="language-bash">uvicorn app:app --host 127.0.0.1 --port 8000 --workers 2
-</code></pre>
 <p>One might as well create a configuration file such as <code>gunicorn_config.py</code> (required to have a <code>.py</code> extension)</p>
 <pre><code># bind = &quot;127.0.0.1:8000&quot;
 bind = &quot;unix:/home/jhz22/web.sock&quot;
@@ -232,6 +229,9 @@ workers = 2
 loglevel = &quot;info&quot;
 errorlog = &quot;/public/home/jhz22/logs/gunicorn_error.log&quot;
 accesslog = &quot;/public/home/jhz22/logs/gunicorn_access.log&quot;
+</code></pre>
+<p>Moreover, one can use <code>uvicorn</code> following <code>pip install uvicorn[standard]</code>.</p>
+<pre><code class="language-bash">uvicorn app:app --host 127.0.0.1 --port 8000 --workers 2
 </code></pre>
 <h2 id="queries">Queries</h2>
 <p>We can also apply <code>flask routes</code>, which gives,</p>

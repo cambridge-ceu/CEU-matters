@@ -86,7 +86,7 @@
                             <li class="navitem">
                                 <a href="../schedules/" class="nav-link">Schedules</a>
                             </li>
-                            <li class="dropdown">
+                            <li class="dropdown active">
                                 <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Resources <b class="caret"></b></a>
                                 <ul class="dropdown-menu">
                                     
@@ -105,6 +105,24 @@
 <li>
     <a href="../University/" class="dropdown-item">University</a>
 </li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Again</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="./" class="dropdown-item active">Flask</a>
+</li>
+            
+<li>
+    <a href="../c6/" class="dropdown-item">Sharing with the internet</a>
+</li>
+            
+<li>
+    <a href="../web/" class="dropdown-item">Website</a>
+</li>
+    </ul>
+  </li>
                                 </ul>
                             </li>
                             <li class="navitem">
@@ -121,6 +139,16 @@
                                 <i class="fa fa-search"></i> Search
                             </a>
                         </li>
+                            <li class="nav-item">
+                                <a rel="prev" href="../University/" class="nav-link">
+                                    <i class="fa fa-arrow-left"></i> Previous
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a rel="next" href="../c6/" class="nav-link">
+                                    Next <i class="fa fa-arrow-right"></i>
+                                </a>
+                            </li>
                     </ul>
                 </div>
             </div>
@@ -141,7 +169,7 @@
             
             <li class="nav-item" data-level="1"><a href="#flask" class="nav-link">Flask</a>
               <ul class="nav flex-column">
-            <li class="nav-item" data-level="2"><a href="#structure" class="nav-link">structure</a>
+            <li class="nav-item" data-level="2"><a href="#structure" class="nav-link">Structure</a>
               <ul class="nav flex-column">
               </ul>
             </li>
@@ -182,10 +210,11 @@
 
 <h1 id="flask">Flask</h1>
 <p>Web: <a href="https://flask.palletsprojects.com/">https://flask.palletsprojects.com/</a></p>
-<p>Tests are made under SRCF, where several aspects are required. A particular directory called <code>templates</code> is created.</p>
+<h2 id="structure">Structure</h2>
+<p>A particular directory called <code>templates</code> is created as follows.</p>
 <pre><code class="language-bash">if [ ! -d templates ]; then mkdir templates; fi
 </code></pre>
-<h2 id="structure">structure</h2>
+<p>The organisation is apparent with <code>tree</code>,</p>
 <pre><code>├── app.py
 ├── templates
 │   └── index.html
@@ -245,7 +274,7 @@ static    GET      /static/&lt;path:filename&gt;
 </blockquote>
 <h2 id="uwsgi">uWSGI</h2>
 <p>Web: <a href="https://uwsgi-docs.readthedocs.io/en/latest/">https://uwsgi-docs.readthedocs.io/en/latest/</a></p>
-<p>It is convenient to create a configuration file named <code>uwsgi.ini</code>, </p>
+<p>The configuration file is named <code>uwsgi.ini</code>, </p>
 <pre><code>[uwsgi]
 
 master = true

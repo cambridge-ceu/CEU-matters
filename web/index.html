@@ -86,7 +86,7 @@
                             <li class="navitem">
                                 <a href="../schedules/" class="nav-link">Schedules</a>
                             </li>
-                            <li class="dropdown">
+                            <li class="dropdown active">
                                 <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Resources <b class="caret"></b></a>
                                 <ul class="dropdown-menu">
                                     
@@ -105,6 +105,24 @@
 <li>
     <a href="../University/" class="dropdown-item">University</a>
 </li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Again</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../Flask/" class="dropdown-item">Flask</a>
+</li>
+            
+<li>
+    <a href="../c6/" class="dropdown-item">Sharing with the internet</a>
+</li>
+            
+<li>
+    <a href="./" class="dropdown-item active">Website</a>
+</li>
+    </ul>
+  </li>
                                 </ul>
                             </li>
                             <li class="navitem">
@@ -121,6 +139,16 @@
                                 <i class="fa fa-search"></i> Search
                             </a>
                         </li>
+                            <li class="nav-item">
+                                <a rel="prev" href="../c6/" class="nav-link">
+                                    <i class="fa fa-arrow-left"></i> Previous
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a rel="next" href="../channels/" class="nav-link">
+                                    Next <i class="fa fa-arrow-right"></i>
+                                </a>
+                            </li>
                     </ul>
                 </div>
             </div>
@@ -141,7 +169,7 @@
             
             <li class="nav-item" data-level="1"><a href="#website" class="nav-link">Website</a>
               <ul class="nav flex-column">
-            <li class="nav-item" data-level="2"><a href="#sample" class="nav-link">Sample</a>
+            <li class="nav-item" data-level="2"><a href="#a-sample" class="nav-link">A sample</a>
               <ul class="nav flex-column">
               </ul>
             </li>
@@ -177,7 +205,7 @@
 <li>Tutorial, <a href="https://docs.srcf.net/tutorials/">https://docs.srcf.net/tutorials/</a></li>
 <li>Raven authentication, <a href="https://docs.srcf.net/reference/web-hosting/raven-authentication/">https://docs.srcf.net/reference/web-hosting/raven-authentication/</a></li>
 </ul>
-<h2 id="sample">Sample</h2>
+<h2 id="a-sample">A sample</h2>
 <p><a href="https://sample.soc.srcf.net/flask/">https://sample.soc.srcf.net/flask/</a></p>
 <p>is based on <code>/public/societies/sample/flask/app.py</code>.</p>
 <p>There is a driver program, <code>/public/societies/sample/run-python.sh</code>.</p>
@@ -273,7 +301,6 @@ int main(int argc, char **argv)
 <h3 id="gunicorn">gunicorn</h3>
 <pre><code class="language-bash">#!/bin/bash -e
 
-# . ~/myapp/venv/bin/activate
 exec gunicorn -w 2 -b unix:/home/jhz22/web.sock --log-file - app:app
 </code></pre>
 <p>To access we use <code>curl</code></p>

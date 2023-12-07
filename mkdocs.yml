@@ -7,9 +7,9 @@ nav:
     - 2022: 2022.md
     - 2021: 2021.md
     - 2020: 2020.md
-    - mhs: mhs.md
+    - mhs.md
     - COVID-19: COVID-19.md
-    - cbjs: Cambridge-Baker-Joint-Symposium.md
+    - Cambridge-Baker-Joint-Symposium.md
   - HDR(UK): HDR-UK.md
   - Schedules: schedules.md
   - Resources:
@@ -18,9 +18,9 @@ nav:
     - School: School.md
     - University: University.md
     - University Again:
-      - Flask: Flask.md
-      - c6: c6.md
-      - web: web.md
+        - Flask: Flask.md
+        - c6: c6.md
+        - web: web.md
   - Channels: channels.md
   - Talks: talks.md
 theme:

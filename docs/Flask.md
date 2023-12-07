@@ -68,8 +68,6 @@ home      GET      /
 static    GET      /static/<path:filename>
 ```
 
-## localhost
-
 Upon running Flask using the default port 5000, it can be acessed via
 
 ```bash
@@ -82,7 +80,7 @@ It then produces the following output,
 Current time: 2023-11-18 16:29:33.365224
 ```
 
-## gunicorn
+### gunicorn
 
 Web: <https://docs.gunicorn.org/en/stable/>
 
@@ -96,7 +94,7 @@ Note that it is `Listening at: http://127.0.0.1:8000`, and it is easily changed 
 
 > According to the Gunicorn documentation, the recommended number of workers (-w #) for an application running on a single production server is (2 × number_of_CPU cores) + 1. The formula is loosely based on the idea that for any given CPU core, one worker will be performing IO (input/output) operations, and the other worker will be performing CPU operations.
 
-## uWSGI
+### uWSGI
 
 Web: <https://uwsgi-docs.readthedocs.io/en/latest/>
 

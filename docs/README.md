@@ -6,10 +6,10 @@ The repository highlights information on seminars and presentations, etc., at th
 * [Health Data Research (HDR) UK](HDR-UK.md)
 * [Schedules](schedules.md) including Zoom video communications (check local times remotely, [https://time.is/](https://time.is/)).
 * Resources: 
-    - [CEU](CEU.md)
-    - [DPHPC](DPHPC.md)
-    - [School](School.md)
-    - [University](University.md)
+    - Cardiovascular Epidemiology Unit, [CEU](CEU.md)
+    - Department of Public Health and Primary Care, [DPHPC](DPHPC.md)
+    - Clinical School, [School](School.md)
+    - University of Cambridge, [University](University.md)
     - Student run computing facilities (SRCF): [Terminal](https://www.srcf.net/terminal/), Website in [Flask](Flask.md), [c6](c6.md), [web](web.md)
 * [Channels](channels.md) provides information on active mailing lists, events, slack channels and video conferencing (software).
 * [Talks](talks.md) lists external talks.

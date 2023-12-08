@@ -5,7 +5,7 @@ Information on presentations, etc., at the Cardiovascular Epidemiology Unit (CEU
 * Chronicle: [Mental health support](mhs.md), [The COVID-19 pandemic](COVID-19.md), [2023](2023.md), [2024](2024.md).
 * [Health Data Research (HDR) UK](HDR-UK.md)
 * [Schedules](schedules.md) including Zoom video communications (check local times remotely, [https://time.is/](https://time.is/)).
-* [Notifications], <a href="mailto:phpc-ceu-group@medschl.cam.ac.uk">phpc-ceu-group@medschl.cam.ac.uk</a>.
+* Notifications, <a href="mailto:phpc-ceu-group@medschl.cam.ac.uk">phpc-ceu-group@medschl.cam.ac.uk</a>.
 * Resources: 
     - [Cardiovascular Epidemiology Unit](CEU.md)
     - [Department of Public Health and Primary Care](DPHPC.md) (DPHPC)

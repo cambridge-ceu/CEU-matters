@@ -29,7 +29,7 @@ Quotation from message from the head of department on ***9/9/2022***.
 
 [http://www.hr.admin.cam.ac.uk/hr-services/wellbeing/support-services-university](http://www.hr.admin.cam.ac.uk/hr-services/wellbeing/support-services-university)
  
-The Counselling Service can be contacted on [01223 762160](tel:1223762160). For further information [http://www.counselling.cam.ac.uk/staffcouns/staff](http://www.counselling.cam.ac.uk/staffcouns/staff).
+The Counselling Service can be contacted on <a href="tel:01223762160">01223 762160</a>. For further information [http://www.counselling.cam.ac.uk/staffcouns/staff](http://www.counselling.cam.ac.uk/staffcouns/staff).
 If you need urgent support (outside of working hours), please use the contacts listed here: 
 [https://hr.medschl.cam.ac.uk/a-great-place-to-work/wellbeing/wellbeing-support-services/](https://hr.medschl.cam.ac.uk/a-great-place-to-work/wellbeing/wellbeing-support-services/).
  

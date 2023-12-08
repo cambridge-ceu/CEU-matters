@@ -13,11 +13,11 @@ nav:
   - HDR(UK): HDR-UK.md
   - Schedules: schedules.md
   - Resources:
-    - CEU: CEU.md
-    - DPHPC: DPHPC.md
-    - School: School.md
-    - University: University.md
-    - SRCF:
+    - "Cardiovascular Epidemiology Unit": CEU.md
+    - "Department of Public Health and Primary Care": DPHPC.md
+    - "Clinical School": School.md
+    - "University of Cambridge": University.md
+    - "Student-Run Computing Facility":
         - Terminal: https://www.srcf.net/terminal/
         - Flask: Flask.md
         - c6: c6.md

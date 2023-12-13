@@ -177,19 +177,23 @@
             
             <li class="nav-item" data-level="1"><a href="#nodejs" class="nav-link">Node.js</a>
               <ul class="nav flex-column">
-            <li class="nav-item" data-level="2"><a href="#step-1-set-up-your-project-locally" class="nav-link">Step 1: Set Up Your Project Locally</a>
+            <li class="nav-item" data-level="2"><a href="#step-1-local-setup" class="nav-link">Step 1: Local setup</a>
               <ul class="nav flex-column">
               </ul>
             </li>
-            <li class="nav-item" data-level="2"><a href="#step-2-test-locally" class="nav-link">Step 2: Test Locally</a>
+            <li class="nav-item" data-level="2"><a href="#step-2-local-test" class="nav-link">Step 2: Local test</a>
               <ul class="nav flex-column">
               </ul>
             </li>
-            <li class="nav-item" data-level="2"><a href="#step-3-set-up-a-github-repository" class="nav-link">Step 3: Set Up a GitHub Repository</a>
+            <li class="nav-item" data-level="2"><a href="#step-3-setup-of-a-github-repository" class="nav-link">Step 3: Setup of a GitHub repository</a>
               <ul class="nav flex-column">
               </ul>
             </li>
-            <li class="nav-item" data-level="2"><a href="#step-4-deploy-to-heroku-optional" class="nav-link">Step 4: Deploy to Heroku (Optional)</a>
+            <li class="nav-item" data-level="2"><a href="#step-4-heroku-deployment-optional" class="nav-link">Step 4: Heroku deployment (Optional)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#step-x-possible-alternative" class="nav-link">Step X: Possible alternative</a>
               <ul class="nav flex-column">
               </ul>
             </li>
@@ -201,8 +205,8 @@
                     <div class="col-md-9" role="main">
 
 <h1 id="nodejs">Node.js</h1>
-<h2 id="step-1-set-up-your-project-locally">Step 1: Set Up Your Project Locally</h2>
-<h3 id="initialize-a-new-nodejs-project">Initialize a new Node.js project:</h3>
+<h2 id="step-1-local-setup">Step 1: Local setup</h2>
+<h3 id="initialize-a-new-nodejs-project">Initialize a new <code>Node.js</code> project</h3>
 <pre><code class="language-bash">npm init -y
 </code></pre>
 <pre><code>Wrote to /home/jhz22/package.json:
@@ -223,7 +227,7 @@
   &quot;license&quot;: &quot;ISC&quot;
 }
 </code></pre>
-<h3 id="install-express">Install Express:</h3>
+<h3 id="install-express">Install <code>express</code></h3>
 <pre><code class="language-bash">npm install express
 </code></pre>
 <pre><code>npm notice created a lockfile as package-lock.json. You should commit this file.
@@ -238,7 +242,7 @@ added 62 packages from 41 contributors and audited 62 packages in 2.929s
 
 found 0 vulnerabilities
 </code></pre>
-<h3 id="create-an-indexjs-file">Create an index.js file:</h3>
+<h3 id="create-an-indexjs-file">Create an <code>index.js</code> file</h3>
 <pre><code class="language-js">const express = require('express');
 const app = express();
 const PORT = process.env.PORT || 3030;
@@ -251,25 +255,27 @@ app.listen(PORT, () =&gt; {
     console.log(`Server is running on port ${PORT}`);
 });
 </code></pre>
-<h2 id="step-2-test-locally">Step 2: Test Locally</h2>
+<h2 id="step-2-local-test">Step 2: Local test</h2>
 <pre><code class="language-bash">node index.js
 firefox http://localhost:3030
 </code></pre>
-<h2 id="step-3-set-up-a-github-repository">Step 3: Set Up a GitHub Repository</h2>
+<h2 id="step-3-setup-of-a-github-repository">Step 3: Setup of a GitHub repository</h2>
 <p>This is handy using GitHub API.</p>
-<h2 id="step-4-deploy-to-heroku-optional">Step 4: Deploy to Heroku (Optional)</h2>
+<h2 id="step-4-heroku-deployment-optional">Step 4: Heroku deployment (Optional)</h2>
 <ul>
 <li>Sign up from <a href="https://www.heroku.com/">https://www.heroku.com/</a></li>
 <li>Install Heroku CLI, <a href="https://devcenter.heroku.com/articles/heroku-cli">https://devcenter.heroku.com/articles/heroku-cli</a></li>
 <li>Login to Heroku, <code>heroku login</code></li>
-<li>Prepare Your Application, having a package.json for Node.js</li>
+<li>Prepare Your Application, having <code>package.json</code> for <code>Node.js</code></li>
 <li>Create a Procfile: <code>web: node index.js</code></li>
 <li>Initialize a Git Repository, <code>git init;git add .;git commit -m "Initial commit"</code></li>
 <li>Create a Heroku App, <code>heroku create</code></li>
-<li>Deploy Application, 'git push heroku master'</li>
+<li>Deploy Application, <code>git push heroku master</code></li>
 <li>Open Application, <code>heroku open</code></li>
 <li>Check additional information, <a href="https://devcenter.heroku.com/">https://devcenter.heroku.com/</a></li>
-</ul></div>
+</ul>
+<h2 id="step-x-possible-alternative">Step X: Possible alternative</h2>
+<p>Render: <a href="https://dashboard.render.com/">https://dashboard.render.com/</a></p></div>
             </div>
         </div>
 

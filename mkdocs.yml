@@ -21,7 +21,7 @@ nav:
         - Terminal: https://www.srcf.net/terminal/
         - Flask: Flask.md
         - c6: c6.md
-        - Node.js: node.md
+        - Node.js: Node.md
         - web: web.md
   - Channels: channels.md
   - Talks: talks.md

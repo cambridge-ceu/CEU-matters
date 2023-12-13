@@ -22,7 +22,7 @@ nav:
         - Flask: Flask.md
         - c6: c6.md
         - Node.js: Node.md
-        - web: web.md
+        - WebServer: webserver.md
   - Channels: channels.md
   - Talks: talks.md
 theme:

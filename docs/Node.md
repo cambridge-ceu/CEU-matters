@@ -81,7 +81,7 @@ This is handy using GitHub API.
 * Install Heroku CLI, <https://devcenter.heroku.com/articles/heroku-cli>
 * Login to Heroku, `heroku login`
 * Prepare Your Application, having `package.json` for `Node.js`
-* Create a Procfile: `web: node index.js`
+* Create a `Procfile`: `web: node index.js`
 * Initialize a Git Repository, `git init;git add .;git commit -m "Initial commit"`
 * Create a Heroku App, `heroku create`
 * Deploy Application, `git push heroku master`

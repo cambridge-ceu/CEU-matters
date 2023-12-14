@@ -418,3 +418,4 @@ The sum is: 15
 - Grav, <https://getgrav.org/> ([GitHub](https://github.com/caddyserver/caddy), [Linux arm64](https://caddyserver.com/api/download?os=linux&arch=arm64&idempotency=33011962771737))
 - LuaJIT, <https://luajit.org/>
 - ws, <https://github.com/websockets/ws>
+- nginx-tutorial, <https://dunwu.github.io/nginx-tutorial/>

@@ -416,6 +416,7 @@ The sum is: 15
 
 - Caddy, <https://caddyserver.com/>, `caddy run --config webserver-configs/Caddyfile`
 - Grav, <https://getgrav.org/> ([GitHub](https://github.com/caddyserver/caddy), [Linux arm64](https://caddyserver.com/api/download?os=linux&arch=arm64&idempotency=33011962771737))
+- HugeDomains, <https://www.hugedomains.com/>
 - LuaJIT, <https://luajit.org/>
-- ws, <https://github.com/websockets/ws>
 - nginx-tutorial, <https://dunwu.github.io/nginx-tutorial/>
+- ws, <https://github.com/websockets/ws>

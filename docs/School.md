@@ -22,6 +22,7 @@
         - Office
             + 365: <https://login.microsoftonline.com/>
             + Email access: <webmail.medschl.cam.ac.uk> with MINTS password or <https://outlook.office.com> with CRSid@cam.ac.uk/Raven password.
+            + Email on other devices, [Guide](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcscs-itsupport.atlassian.net%2Fl%2Fcp%2FWGv9b8tM&data=05%7C02%7Cjhz22%40medschl.cam.ac.uk%7C6e7e4d2d116841c77c4908dbfc8d070e%7C49a50445bdfa4b79ade3547b4f3986e9%7C1%7C0%7C638381455052675321%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=ise719T8zetjoMIejApVfh%2FNEahDCZm5vW5zezhGw28%3D&reserved=0)
             + macOS: [Check your Office version (MacOS) & Self-serve update](https://cscs-itsupport.atlassian.net/l/cp/9L0xkZ1N)
             + Windows: [Check your Office version (Windows) & Self-serve update](https://cscs-itsupport.atlassian.net/l/cp/w8oDnZm1)
         - Remote support, <http://remote-support.medschl.cam.ac.uk/>

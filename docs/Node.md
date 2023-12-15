@@ -94,11 +94,13 @@ Render: <https://dashboard.render.com/>
 
 ## Vue
 
+Web: <https://vuejs.org/>
+
 ```bash
 npm install vue
 ```
 
-and a `helloworld.html`
+and a `hello-world.html`
 
 ```
 <html>

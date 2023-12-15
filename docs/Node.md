@@ -91,3 +91,32 @@ This is handy using GitHub API.
 ## Step X: Possible alternative
 
 Render: <https://dashboard.render.com/>
+
+## Vue
+
+```bash
+npm install vue
+```
+
+and a `helloworld.html`
+
+```
+<html>
+   <head>
+   <script src="https://unpkg.com/vue@3"></script>
+   </head>
+   <body>
+     <div id="app">
+       {{message}}
+     </div>
+     <script>
+      const {createApp} = Vue
+      createApp({
+        data(){
+         return {message:'Hello World!'}
+       }
+      }).mount("#app")
+    </script>
+   </body>
+</html>
+```

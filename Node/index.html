@@ -197,6 +197,10 @@
               <ul class="nav flex-column">
               </ul>
             </li>
+            <li class="nav-item" data-level="2"><a href="#vue" class="nav-link">Vue</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
               </ul>
             </li>
         </ul>
@@ -275,7 +279,31 @@ firefox http://localhost:3030
 <li>Check additional information, <a href="https://devcenter.heroku.com/">https://devcenter.heroku.com/</a></li>
 </ul>
 <h2 id="step-x-possible-alternative">Step X: Possible alternative</h2>
-<p>Render: <a href="https://dashboard.render.com/">https://dashboard.render.com/</a></p></div>
+<p>Render: <a href="https://dashboard.render.com/">https://dashboard.render.com/</a></p>
+<h2 id="vue">Vue</h2>
+<p>Web: <a href="https://vuejs.org/">https://vuejs.org/</a></p>
+<pre><code class="language-bash">npm install vue
+</code></pre>
+<p>and a <code>hello-world.html</code></p>
+<pre><code>&lt;html&gt;
+   &lt;head&gt;
+   &lt;script src=&quot;https://unpkg.com/vue@3&quot;&gt;&lt;/script&gt;
+   &lt;/head&gt;
+   &lt;body&gt;
+     &lt;div id=&quot;app&quot;&gt;
+       {{message}}
+     &lt;/div&gt;
+     &lt;script&gt;
+      const {createApp} = Vue
+      createApp({
+        data(){
+         return {message:'Hello World!'}
+       }
+      }).mount(&quot;#app&quot;)
+    &lt;/script&gt;
+   &lt;/body&gt;
+&lt;/html&gt;
+</code></pre></div>
             </div>
         </div>
 

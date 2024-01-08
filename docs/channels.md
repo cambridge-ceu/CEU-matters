@@ -24,7 +24,7 @@ The following list gives information on active mailing lists, events, slack chan
 * PPIE planner, [https://planner.voice-global.org/](https://planner.voice-global.org/).
 * SurveyMonkey, [https://www.surveymonkey.co.uk/](https://www.surveymonkey.co.uk/)
 
-## Slack channel
+## Slack channels[^blur]
 
 * [ceu-world](https://ceu-world.slack.com/).
 * [Systems-genomics](https://systems-genomics.slack.com/) ([create-a-workspace](https://slack.com/intl/en-in/help/articles/206845317-Create-a-Slack-workspace)).
@@ -38,6 +38,10 @@ The following list gives information on active mailing lists, events, slack chan
 * [Webex](https://cart.webex.com/sign-up).
 * [Zoom](https://zoom.us/) ([Zoom Video Communications](https://en.wikipedia.org/wiki/Zoom_Video_Communications)), [Breakout rooms](https://support.zoom.us/hc/en-us/articles/206476093-Enabling-breakout-rooms), [Polling](https://blog.zoom.us/wordpress/2016/09/20/3-ways-to-use-polls-in-meetings/).
 
-## WhatsApp
+## WhatsApp groups
 
 * [CEU at the pub](https://chat.whatsapp.com/E8vDwCmn4inKuAG4MpRU5D)
+
+:[^blur]: Outside the time-window
+
+    This is encoded with `c-message_kit__hidden_message_blur`.

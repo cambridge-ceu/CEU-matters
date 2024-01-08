@@ -42,6 +42,6 @@ The following list gives information on active mailing lists, events, slack chan
 
 * [CEU at the pub](https://chat.whatsapp.com/E8vDwCmn4inKuAG4MpRU5D)
 
-:[^blur]: Outside the time-window
+[^blur]: Outside the time-window
 
     This is encoded with `c-message_kit__hidden_message_blur`.

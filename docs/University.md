@@ -103,9 +103,9 @@
     - Self-service portal, <https://uniofcam.saasiteu.com/>
     - [Set up Thunderbird for Exchange Online ](https://help.uis.cam.ac.uk/service/collaboration/365/exchange-online/how-access-your-mailbox/set-thunderbird-exchange-online)
     - Status, <https://status.uis.cam.ac.uk/>
-    - token, <https://tokens.uis.cam.ac.uk/>
     - Twitter, <https://twitter.com/UniCamIT>
     - VPN service, <https://help.uis.cam.ac.uk/service/network-services/remote-access/uis-vpn>
+    - eduroam token, <https://tokens.uis.cam.ac.uk/> (<https://tokens.uis.cam.ac.uk/person/jhz22>)
   * University guidance against bribery and corruption
     - Conflict of interest policy, <https://www.governanceandcompliance.admin.cam.ac.uk/governance-and-strategy/university-wide-conflict-interest-policy/conflict-interest-policy> (contact to declare <mailto:phpc_bom@medschl.cam.ac.uk>)
     - Guidelines, <https://www.governanceandcompliance.admin.cam.ac.uk/governance-and-strategy/policy-against-bribery-and-corruption>

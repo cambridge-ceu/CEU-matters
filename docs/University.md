@@ -32,7 +32,7 @@
   * Grace on fossil fuel industry ties, <https://www.cam.ac.uk/notices/grace-on-fossil-fuel-industry-ties> ([A proposal](https://www.admin.cam.ac.uk/reporter/2021-22/weekly/6666/6666-public.pdf#page=6), [An accompanying Notice](https://www.reporter.admin.cam.ac.uk/files/ffstudy-jul2023.pdf))
   * Grant submission, <https://www.research-operations.admin.cam.ac.uk/submitgrantapp>
   * Human Resources, <https://www.hr.admin.cam.ac.uk/>
-    - Employee Self Service, <https://chris.cam.ac.uk/hrlive_ess/ess/index.html#/login>
+    - Employee Self Service, <https://chris.cam.ac.uk/hrlive_ess/>
     - [Equality and Diversity Team](mailto:equality@admin.cam.ac.uk")
     - HR Transformation programme, <https://universityofcambridgecloud.sharepoint.com/sites/HRTransformation>
     - [Policies and procedures](https://www.hr.admin.cam.ac.uk/policies-procedures)

@@ -4,6 +4,7 @@
 * [Cambridge talks](https://talks.cam.ac.uk/index)
 * Early Cancer Institute, <https://www.earlycancer.cam.ac.uk/events>
 * [MRC Biostatistics Unit](https://www.mrc-bsu.cam.ac.uk/news-and-events/cambridge-bsu-lectures-in-biomedical-data-science/)
+    - YouTube channel, <https://www.youtube.com/playlist?list=PLbvdNT0i2SCxouK2_DRsTrfEvrY8Gl2rQ>
     - <span style="color:red">[18th Armitage Workshop and Lecture](https://www.eventbrite.co.uk/e/18th-armitage-workshop-and-lecture-tickets-168410583589)</span> ([web site](https://www.mrc-bsu.cam.ac.uk/news-and-events/armitage-lectureships-and-workshops/))
     - <span style="color:red">[Biostatistics for chronic diseases](https://www.eventbrite.co.uk/e/biostatistics-for-chronic-diseases-symposium-tickets-176328091067?ref=estw)</span>
     - <span style="color:red">[Learning from Data in Single-Cell Transcriptomics](https://www.eventbrite.co.uk/e/cambridge-bsu-lecture-in-biomedical-data-science-prof-sandrine-dudoit-tickets-251259533027)</span>

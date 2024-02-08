@@ -10,6 +10,7 @@ Information on presentations, etc., at the Cardiovascular Epidemiology Unit (CEU
     - [Cardiovascular Epidemiology Unit](CEU.md)
     - [Department of Public Health and Primary Care](DPHPC.md) (DPHPC)
     - [Clinical School](School.md)
+    - [Victor Phillip Dahdaleh Heart and Lung Research Institute](HLRI.md)
     - [University of Cambridge](University.md)
     - [Student run computing facilities](https://www.srcf.net) (SRCF): [Terminal](https://www.srcf.net/terminal/), Website in [Flask](Flask.md), [c6](c6.md), [Node.js](Node.md), [WebServer](webserver.md)
 * [Channels](channels.md) provides information on active mailing lists, events, slack channels and video conferencing (software).

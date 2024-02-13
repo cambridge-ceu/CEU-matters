@@ -1,4 +1,4 @@
-## University
+## University of Cambridge
 
   * Accelerate science, <https://acceleratescience.github.io/> (<mailto:accelerate-science@cst.cam.ac.uk>)
   * Brand resources, <https://www.cam.ac.uk/brand-resources>

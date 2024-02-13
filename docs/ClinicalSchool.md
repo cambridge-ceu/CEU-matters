@@ -1,4 +1,4 @@
-## School
+## Clinical School
 
 * Clinical School Computing Service (CSCS)
     - Self-service Portal: <https://itsupport.medschl.cam.ac.uk>

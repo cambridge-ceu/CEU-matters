@@ -33,7 +33,7 @@
 * Declaration of interest: <https://www.medschl.cam.ac.uk/declaration-of-interests/>
 * HR, <https://hr.medschl.cam.ac.uk/>
     - [Botanical Gardens](https://www.botanic.cam.ac.uk/), [passes](https://hr.medschl.cam.ac.uk/a-great-place-to-work/wellbeing/botanic-garden-passes/)
-    - Housing Strategy Survey 2024, <https://www.smartsurvey.co.uk/s/cambridge-bio/>
+    - Cambridge Biomedical Campus -- Housing Strategy Survey 2024, <https://www.smartsurvey.co.uk/s/cambridge-bio/>
     - Clinical School Cookbook, <https://tinyurl.com/3jn2mzsh> (Share recipes via <cswellbeing@admin.cam.ac.uk>)
     - Twitter, <https://twitter.com/clinical_hr>
 * MPhil [Population Health Sciences](https://www.phs.group.cam.ac.uk/)

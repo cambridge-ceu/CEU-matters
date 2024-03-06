@@ -4,7 +4,7 @@
     - Self-service Portal: <https://itsupport.medschl.cam.ac.uk>
     - Service Desk: <a href="tel:+4401223336261">**01223 (3)36261**</a> (9am – 5pm Monday to Friday), <servicedesk@medschl.cam.ac.uk>
     - Service status: <https://cscs.medschl.cam.ac.uk/information/service-status/>
-    - Service Twitter: [https://twitter.com/Cambridge_CSCS](https://twitter.com/Cambridge_CSCS)
+    - Service Twitter / X: [https://twitter.com/Cambridge_CSCS](https://twitter.com/Cambridge_CSCS)
     - Service website: <https://cscs.medschl.cam.ac.uk/> (news, [https://cscs.medschl.cam.ac.uk/news/](https://cscs.medschl.cam.ac.uk/news/))
     - Tips
         - Anywhere Citrix Portal, <https://anywhere.medschl.cam.ac.uk/logon/LogonPoint/index.html> (requires application from [CSCS IT Support Portal](https://tinyurl.com/vz9huc9) followed by departmental approval).
@@ -35,7 +35,7 @@
     - [Botanical Gardens](https://www.botanic.cam.ac.uk/), [passes](https://hr.medschl.cam.ac.uk/a-great-place-to-work/wellbeing/botanic-garden-passes/)
     - Cambridge Biomedical Campus -- Housing Strategy Survey 2024, <https://www.smartsurvey.co.uk/s/cambridge-bio/>
     - Clinical School Cookbook, <https://tinyurl.com/3jn2mzsh> (Share recipes via <cswellbeing@admin.cam.ac.uk>)
-    - Twitter, <https://twitter.com/clinical_hr>
+    - Twitter / X, <https://twitter.com/clinical_hr>
 * MPhil [Population Health Sciences](https://www.phs.group.cam.ac.uk/)
     - Web, <https://www.phs.masters.cam.ac.uk/> (Course Administrave team <mailto:phs.masters@medschl.cam.ac.uk>, Course contact Kal Winston <mailto:kaw82@medschl.cam.ac.uk>, [Teams channel](https://teams.microsoft.com/l/channel/19%3acb1e76eba5534cdd8c2fbe1604612e8f%40thread.skype/Course%2520Supervisors?groupId=bb69a3fa-0a34-4e02-b057-b118865ab6c9&tenantId=49a50445-bdfa-4b79-ade3-547b4f3986e9), [TA document](https://eur03.safelinks.protection.outlook.com/ap/x-59584e83/?url=https%3A%2F%2Funiversityofcambridgecloud.sharepoint.com%2F%3Ax%3A%2Fr%2Fsites%2FPHPC_Gerontology%2FShared%2520Documents%2FGeneral%2FTA%2520teaching%2520assistant%2520volunteer%2520pool%2C%2520MPhil%2520PHS.xlsx%3Fd%3Dwfc919ef9461443d4a3bb310bd32290c4%26csf%3D1%26web%3D1%26e%3DE2VRf3&data=05%7C01%7Cjau20%40cam.ac.uk%7Ccd49b20e9ca643ac764b08db82192f8b%7C49a50445bdfa4b79ade3547b4f3986e9%7C1%7C0%7C638246816897889043%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=H4wkWL40GfjmG5TAylUPC%2BEz7zGYxExzMV3KAWbwJVk%3D&reserved=0))
     - Guidelines ([Supervision](files/Dissertation supervision guidelines-ACY2023-24.docx), [Supervisor](files/Dissertation supervisor guidelines.pdf), [Dissertation](files/MPhil PHS Dissertation Guidelines-students-ACY2023-24.docx))

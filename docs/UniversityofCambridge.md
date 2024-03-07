@@ -4,6 +4,9 @@
 * Brand resources, <https://www.cam.ac.uk/brand-resources>
 * CAMbens SmartHub, <https://cambridge.rewardgateway.co.uk>
 * Cambridge Science Festival, <https://www.festival.cam.ac.uk/> ([Events management](https://webservices.admin.cam.ac.uk/events/admin), [Practical information](https://www.cam.ac.uk/public-engagement/get-involved/cambridge-festival-coordinators-page))
+* Cambridge Centre for Advanced Research and Education in Singapore (CARES), <https://www.cares.cam.ac.uk/>
+    - [LinkedIn](https://www.linkedin.com/company/cambridge-centre-for-advanced-research-and-education-in-singapore-cares-/mycompany/?viewAsMember=true)
+    - [YouTube](https://www.youtube.com/watch?v=XMEjaX1l5RQ)
 * Chancellor's first annual address @[YouTube](https://www.youtube.com/watch?v=niWi39UG-ls) (<https://www.cam.ac.uk/news/people-climate-and-a-national-role-for-cambridge-are-a-focus-of-vice-chancellors-first-annual>)
 * Copyright basics, <https://www.legal.admin.cam.ac.uk/copyright-compliance/copyright-basics>
 * CULP courses, <https://www.langcen.cam.ac.uk/culp/culp-general-courses.html> ([Online booking system](https://www.training.cam.ac.uk/lc/theme/CULP?providerId=399495))

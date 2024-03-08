@@ -1,5 +1,6 @@
 # Health Data Research (HDR) UK
 
+<a href="https://www.hdruk.ac.uk"><img src="https://www.hdruk.ac.uk/wp-content/themes/hdruk/assets/img/logo.svg" align="right"></a>
 Web: [https://www.hdruk.ac.uk](https://www.hdruk.ac.uk/) ([Events](https://www.hdruk.ac.uk/news-opinion-events/events/), [News](https://www.hdruk.ac.uk/news-opinion-events/news/), <a href="mailto:enquiries@hdruk.ac.uk">enquiries@hdruk.ac.uk</a> for monthly updates)
 
 HDR UK's mission is to tackle important research challenges by applying data science approaches to large-scale biomedical data.

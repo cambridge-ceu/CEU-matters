@@ -9,6 +9,7 @@ Seminar Series started in September 2018 with an exciting line-up of talks, span
 'multi-omics', clinical informatics, rare diseases, the microbiome, and novel analytical methods. Additional information includes,
 
 * [Big Data for Complex Disease](https://www.hdruk.ac.uk/research/research-driver-programmes/big-data-for-complex-disease/)
+* [Cambridge Seminar Series](https://talks.cam.ac.uk/show/index/172588)
 * [Gateway to health data and tools for research](https://www.healthdatagateway.org/).
 * [GitHub](https://github.com/HDRUK) page.
 * [Hubs](https://www.youtube.com/watch?v=jOP5RpYaEaQ).
@@ -16,7 +17,6 @@ Seminar Series started in September 2018 with an exciting line-up of talks, span
 * [Phenotype library](https://phenotypes.healthdatagateway.org/)
 * [Quinquennial reviews](https://www.hdruk.ac.uk/health-data-research-uk-quinquennial-review/).
 * [Research Driver Programmes](https://www.hdruk.ac.uk/research/research-driver-programmes/)
-* [Seminars](https://talks.cam.ac.uk/show/index/172588)
 * [Twitter](https://twitter.com/HDR_UK)
 <style type="text/css">
 .fa_custom {

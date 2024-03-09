@@ -1,4 +1,4 @@
-<a href="https://www.cam.ac.uk"><img src="https://www.cam.ac.uk/sites/www.cam.ac.uk/themes/fresh/images/interface/cambridge_university2.svg" style="width:200px;height:100px;"> align="right"></a>
+<a href="https://www.cam.ac.uk"><img src="https://www.cam.ac.uk/sites/www.cam.ac.uk/themes/fresh/images/interface/cambridge_university2.svg" style="width:250px;height:150px;" align="right"></a>
 
 ## University of Cambridge
 

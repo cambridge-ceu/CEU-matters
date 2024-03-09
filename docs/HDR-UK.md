@@ -17,7 +17,7 @@ Seminar Series started in September 2018 with an exciting line-up of talks, span
 * [Phenotype library](https://phenotypes.healthdatagateway.org/).
 * [Quinquennial reviews](https://www.hdruk.ac.uk/health-data-research-uk-quinquennial-review/).
 * [Research Driver Programmes](https://www.hdruk.ac.uk/research/research-driver-programmes/).
-* [Twitter / X](https://twitter.com/HDR_UK).
+* Twitter / X: [@HDR_UK](https://twitter.com/HDR_UK).
 <style type="text/css">
 .fa_custom {
 color: #0099CC

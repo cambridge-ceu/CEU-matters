@@ -1,5 +1,11 @@
 ## Clinical School
 
+* Cambridge Cardiovascular, <https://www.cardiovascular.cam.ac.uk>:
+  [BHF/CRE symposium](https://www.ticketsource.co.uk/cambridgecardiovascular/cambridge-cardiovascular-bhf-cre-annual-research-symposium/e-qavbpj),
+  [Current opportunities](https://www.cardiovascular.cam.ac.uk/jobs#Othercurrentopportunities),
+  [Forthcoming events](https://www.cardiovascular.cam.ac.uk/events),
+  [Ticket source](https://www.ticketsource.co.uk/cambridgecardiovascular).
+  Twitter/X, [@Cambridgecardio](https://twitter.com/Cambridgecardio/status/1755265403775824376)
 * Clinical School Computing Service (CSCS)
     - Self-service Portal: <https://itsupport.medschl.cam.ac.uk>
     - Service Desk: <a href="tel:+4401223336261">**01223 (3)36261**</a> (9am – 5pm Monday to Friday), <servicedesk@medschl.cam.ac.uk>

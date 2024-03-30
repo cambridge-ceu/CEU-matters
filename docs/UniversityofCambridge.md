@@ -1,4 +1,5 @@
-<a href="https://www.cam.ac.uk"><img src="https://ichef.bbci.co.uk/news/976/cpsprodpb/5D55/production/_133039832_cambridgeuni.jpg.webp" style="width:400px;height:160px;" align="right"></a>
+<a href="https://www.cam.ac.uk"><img src="https://ichef.bbci.co.uk/news/976/cpsprodpb/5D55/production/_133039832_cambridgeuni.jpg.webp" style="width:400px;height:200px;" align="right"></a>
+
 <a href="https://www.cam.ac.uk"><img src="https://www.cam.ac.uk/sites/www.cam.ac.uk/themes/fresh/images/interface/cambridge_university2.svg" style="width:200px;height:80px;" align="right"></a>
 
 ## University of Cambridge

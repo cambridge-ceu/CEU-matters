@@ -1,8 +1,5 @@
-<a href="https://www.cam.ac.uk"><img src="https://ichef.bbci.co.uk/news/976/cpsprodpb/5D55/production/_133039832_cambridgeuni.jpg.webp" style="width:400px;height:200px;" align="right"></a>
-
-## University of Cambridge
-
 <a href="https://www.cam.ac.uk"><img src="https://www.cam.ac.uk/sites/www.cam.ac.uk/themes/fresh/images/interface/cambridge_university2.svg" style="width:200px;height:80px;" align="right"></a>
+## University of Cambridge
 
 * Accelerate science, <https://acceleratescience.github.io/> (<mailto:accelerate-science@cst.cam.ac.uk>)
 * Brand resources, <https://www.cam.ac.uk/brand-resources>
@@ -123,3 +120,5 @@
     - Training, <https://www.finance.admin.cam.ac.uk/Compliance/anti-bribery-and-corruption-training>
     - Two-year rollover training, <https://www.training.cam.ac.uk/>
 * Vice-Chancellor, <https://www.cam.ac.uk/about-the-university/how-the-university-and-colleges-work/people/vice-chancellor>
+
+<a href="https://www.cam.ac.uk"><img src="https://ichef.bbci.co.uk/news/976/cpsprodpb/5D55/production/_133039832_cambridgeuni.jpg.webp" style="width:400px;height:200px;" align="right"></a>

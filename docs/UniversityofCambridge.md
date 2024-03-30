@@ -121,4 +121,6 @@
     - Two-year rollover training, <https://www.training.cam.ac.uk/>
 * Vice-Chancellor, <https://www.cam.ac.uk/about-the-university/how-the-university-and-colleges-work/people/vice-chancellor>
 
+## King's College chapel
+
 <a href="https://www.cam.ac.uk"><img src="https://ichef.bbci.co.uk/news/976/cpsprodpb/5D55/production/_133039832_cambridgeuni.jpg.webp" style="width:800px;height:400px;" align="right"></a>

@@ -40,7 +40,6 @@
 * Human Resources, <https://www.hr.admin.cam.ac.uk/>
     - Employee Self Service, <https://chris.cam.ac.uk/hrlive_ess/>
     - [Equality and Diversity Team](mailto:equality@admin.cam.ac.uk")
-    - HR Transformation programme, <https://universityofcambridgecloud.sharepoint.com/sites/HRTransformation>
     - [Policies and procedures](https://www.hr.admin.cam.ac.uk/policies-procedures)
         + Adverse weather policy, <https://www.hr.admin.cam.ac.uk/policies-procedures/adverse-weather-policy>
         + Hybrid working policy, <https://www.hr.admin.cam.ac.uk/policies-procedures/hybrid-working-policy>
@@ -75,13 +74,16 @@
     - The Data Protection Policy, <https://www.information-compliance.admin.cam.ac.uk/files/data_protection_policy_final.pdf>
 * REF2021 [Code of Practice](https://www.ref.admin.cam.ac.uk/sites/www.ref.admin.cam.ac.uk/files/revised_code_of_practice_170919_clean.pdf), <a href="mailto:REF2021@admin.cam.ac.uk">email</a> and [Staff Circumstances](https://www.ref.admin.cam.ac.uk/code-practice/staff-circumstances) ([form](https://www.ref.admin.cam.ac.uk/code-practice/staff-eligibility), <a href="mailto:(REF2021staffcircumstances@admin.cam.ac.uk">email</a>, <a href="mailto:Gina.Warren@admin.cam.ac.uk">HR equality & diversity</a>)
 * Research Strategy Office, <https://www.research-strategy.admin.cam.ac.uk/>
-* SharePoint, <https://universityofcambridgecloud.sharepoint.com/SitePages/Home.aspx>
 * Student run computing facilities (SRCF), <https://www.srcf.net/>
     - Flask, <https://cambridge-ceu.github.io/CEU-scientific-meetings/Flask/> ([c6](<https://cambridge-ceu.github.io/CEU-scientific-meetings/c6/))
     - Terminal, <https://www.srcf.net/terminal/>
     - Webmail, <https://webmail.hades.srcf.net/>
     - WebServer, <https://cambridge-ceu.github.io/CEU-scientific-meetings/webserver/>
 * Staff profile, <https://help.uis.cam.ac.uk/service/website-resources/web-application-development/drupal/staff-profiles/updating-your-own-staff>
+* SharePoint
+    - Home, <https://universityofcambridgecloud.sharepoint.com/SitePages/Home.aspx>
+    - HR Transformation programme, <https://universityofcambridgecloud.sharepoint.com/sites/HRTransformation>
+    - StaffHub, <https://universityofcambridgecloud.sharepoint.com/sites/StaffHub>
 * Symplectic Elements Login, <https://elements.admin.cam.ac.uk/>
 * Telecoms Office, <https://www.phone.cam.ac.uk/> ([My phone](https://my.phone.cam.ac.uk/myphone/calls))
 * The Open Access team, <https://www.openaccess.cam.ac.uk/>

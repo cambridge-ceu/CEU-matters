@@ -1,4 +1,6 @@
 site_name: CEU scientific meetings
+repo_url: https://cambridge-ceu.github.io/CEU-scientific-meetings/
+edit_uri: ""
 nav:
   - "": README.md
   - Chronicle:

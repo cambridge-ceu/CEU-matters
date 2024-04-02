@@ -84,6 +84,7 @@
     - Home, <https://universityofcambridgecloud.sharepoint.com/SitePages/Home.aspx>
     - HR Transformation programme, <https://universityofcambridgecloud.sharepoint.com/sites/HRTransformation>
     - StaffHub, <https://universityofcambridgecloud.sharepoint.com/sites/StaffHub>
+* Surveys at Qualtrics, <https://cambridge.eu.qualtrics.com/homepage/ui>
 * Symplectic Elements Login, <https://elements.admin.cam.ac.uk/>
 * Telecoms Office, <https://www.phone.cam.ac.uk/> ([My phone](https://my.phone.cam.ac.uk/myphone/calls))
 * The Open Access team, <https://www.openaccess.cam.ac.uk/>

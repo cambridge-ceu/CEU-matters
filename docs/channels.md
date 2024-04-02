@@ -23,6 +23,7 @@ The following list gives information on active mailing lists, events, slack chan
 * Microsoft, [Forms](https://www.microsoft.com/en-us/microsoft-365/online-surveys-polls-quizzes) & [Sway](https://sway.office.com/).
 * PPIE planner, <https://planner.voice-global.org/>.
 * SurveyMonkey, <https://www.surveymonkey.co.uk/>
+* Surveys at Qualtrics, <https://cambridge.eu.qualtrics.com/homepage/ui>
 * Ticket source, <https://www.ticketsource.co.uk/>
 
 ## Slack channels[^blur]

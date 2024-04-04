@@ -74,16 +74,16 @@
     - The Data Protection Policy, <https://www.information-compliance.admin.cam.ac.uk/files/data_protection_policy_final.pdf>
 * REF2021 [Code of Practice](https://www.ref.admin.cam.ac.uk/sites/www.ref.admin.cam.ac.uk/files/revised_code_of_practice_170919_clean.pdf), <a href="mailto:REF2021@admin.cam.ac.uk">email</a> and [Staff Circumstances](https://www.ref.admin.cam.ac.uk/code-practice/staff-circumstances) ([form](https://www.ref.admin.cam.ac.uk/code-practice/staff-eligibility), <a href="mailto:(REF2021staffcircumstances@admin.cam.ac.uk">email</a>, <a href="mailto:Gina.Warren@admin.cam.ac.uk">HR equality & diversity</a>)
 * Research Strategy Office, <https://www.research-strategy.admin.cam.ac.uk/>
+* SharePoint
+    - Home, <https://universityofcambridgecloud.sharepoint.com/SitePages/Home.aspx>
+    - HR Transformation programme, <https://universityofcambridgecloud.sharepoint.com/sites/HRTransformation>
+    - StaffHub, <https://universityofcambridgecloud.sharepoint.com/sites/StaffHub>
+* Staff counselling, <https://staff.counselling.cam.ac.uk> [Calm-space](https://staff.counselling.cam.ac.uk/events/calm-space) and [source support](https://www.wellbeing.admin.cam.ac.uk/sources-support-0)
 * Student run computing facilities (SRCF), <https://www.srcf.net/>
     - Flask, <https://cambridge-ceu.github.io/CEU-scientific-meetings/Flask/> ([c6](<https://cambridge-ceu.github.io/CEU-scientific-meetings/c6/))
     - Terminal, <https://www.srcf.net/terminal/>
     - Webmail, <https://webmail.hades.srcf.net/>
     - WebServer, <https://cambridge-ceu.github.io/CEU-scientific-meetings/webserver/>
-* SharePoint
-    - Home, <https://universityofcambridgecloud.sharepoint.com/SitePages/Home.aspx>
-    - HR Transformation programme, <https://universityofcambridgecloud.sharepoint.com/sites/HRTransformation>
-    - StaffHub, <https://universityofcambridgecloud.sharepoint.com/sites/StaffHub>
-* Staff counselling, <https://staff.counselling.cam.ac.uk> [Calm-space](https://staff.counselling.cam.ac.uk/events/calm-space)
 * Surveys at Qualtrics, <https://cambridge.eu.qualtrics.com/homepage/ui>
 * Symplectic Elements Login, <https://elements.admin.cam.ac.uk/>
 * Telecoms Office, <https://www.phone.cam.ac.uk/> ([My phone](https://my.phone.cam.ac.uk/myphone/calls))
@@ -125,7 +125,6 @@
     - Training, <https://www.finance.admin.cam.ac.uk/Compliance/anti-bribery-and-corruption-training>
     - Two-year rollover training, <https://www.training.cam.ac.uk/>
 * Vice-Chancellor, <https://www.cam.ac.uk/about-the-university/how-the-university-and-colleges-work/people/vice-chancellor>
-* Wellbeing [source support](https://www.wellbeing.admin.cam.ac.uk/sources-support-0)
 
 ## King's College chapel
 

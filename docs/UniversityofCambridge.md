@@ -83,6 +83,7 @@
     - Home, <https://universityofcambridgecloud.sharepoint.com/SitePages/Home.aspx>
     - HR Transformation programme, <https://universityofcambridgecloud.sharepoint.com/sites/HRTransformation>
     - StaffHub, <https://universityofcambridgecloud.sharepoint.com/sites/StaffHub>
+* Staff counselling, <https://staff.counselling.cam.ac.uk> [Calm-space](https://staff.counselling.cam.ac.uk/events/calm-space)
 * Surveys at Qualtrics, <https://cambridge.eu.qualtrics.com/homepage/ui>
 * Symplectic Elements Login, <https://elements.admin.cam.ac.uk/>
 * Telecoms Office, <https://www.phone.cam.ac.uk/> ([My phone](https://my.phone.cam.ac.uk/myphone/calls))
@@ -124,6 +125,7 @@
     - Training, <https://www.finance.admin.cam.ac.uk/Compliance/anti-bribery-and-corruption-training>
     - Two-year rollover training, <https://www.training.cam.ac.uk/>
 * Vice-Chancellor, <https://www.cam.ac.uk/about-the-university/how-the-university-and-colleges-work/people/vice-chancellor>
+* Wellbeing [source support](https://www.wellbeing.admin.cam.ac.uk/sources-support-0)
 
 ## King's College chapel
 

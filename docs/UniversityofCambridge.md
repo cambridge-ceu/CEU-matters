@@ -78,7 +78,7 @@
     - Home, <https://universityofcambridgecloud.sharepoint.com/SitePages/Home.aspx>
     - HR Transformation programme, <https://universityofcambridgecloud.sharepoint.com/sites/HRTransformation>
     - StaffHub, <https://universityofcambridgecloud.sharepoint.com/sites/StaffHub>
-* Staff counselling, <https://staff.counselling.cam.ac.uk> [Calm-space](https://staff.counselling.cam.ac.uk/events/calm-space)
+* Staff counselling, <https://staff.counselling.cam.ac.uk>, [Calm-space](https://staff.counselling.cam.ac.uk/events/calm-space)
 * Student run computing facilities (SRCF), <https://www.srcf.net/>
     - Flask, <https://cambridge-ceu.github.io/CEU-scientific-meetings/Flask/> ([c6](<https://cambridge-ceu.github.io/CEU-scientific-meetings/c6/))
     - Terminal, <https://www.srcf.net/terminal/>
@@ -125,7 +125,7 @@
     - Training, <https://www.finance.admin.cam.ac.uk/Compliance/anti-bribery-and-corruption-training>
     - Two-year rollover training, <https://www.training.cam.ac.uk/>
 * Vice-Chancellor, <https://www.cam.ac.uk/about-the-university/how-the-university-and-colleges-work/people/vice-chancellor>
-* Wellbeing, <https://www.wellbeing.admin.cam.ac.uk> [source support](https://www.wellbeing.admin.cam.ac.uk/sources-support-0)
+* Wellbeing, <https://www.wellbeing.admin.cam.ac.uk>, [source support](https://www.wellbeing.admin.cam.ac.uk/sources-support-0)
 
 ## King's College chapel
 

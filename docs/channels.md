@@ -22,9 +22,8 @@ The following list gives information on active mailing lists, events, slack chan
 * eventbrite, <https://www.eventbrite.co.uk/>.
 * Microsoft, [Forms](https://www.microsoft.com/en-us/microsoft-365/online-surveys-polls-quizzes) & [Sway](https://sway.office.com/).
 * PPIE planner, <https://planner.voice-global.org/>.
-* Qualtrics, <https://www.qualtrics.com/>
+* Qualtrics, <https://www.qualtrics.com/>, <https://cambridge.eu.qualtrics.com/homepage/ui>
 * SurveyMonkey, <https://www.surveymonkey.co.uk/>
-* Surveys at Qualtrics, <https://cambridge.eu.qualtrics.com/homepage/ui>
 * Ticket source, <https://www.ticketsource.co.uk/>
 
 ## Slack channels[^blur]

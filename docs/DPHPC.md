@@ -1,3 +1,5 @@
+<a href="https://www.cam.ac.uk"><img src="files/DPHPC.png" style="width:200px;height:100px;" align="right"></a>
+
 ## DPHPC
 
   * Accounts Team: <ps.accounts@medschl.cam.ac.uk>

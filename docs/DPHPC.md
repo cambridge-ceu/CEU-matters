@@ -1,4 +1,4 @@
-<a href="https://www.cam.ac.uk"><img src="https://cambridge-ceu.github.io/CEU-scientific-meetings/files/DPHPC.png" style="width:200px;height:100px;" align="right"></a>
+<a href="https://www.cam.ac.uk"><img src="https://cambridge-ceu.github.io/CEU-scientific-meetings/files/DPHPC.png" style="width:200px;height:150px;" align="right"></a>
 
 ## DPHPC
 

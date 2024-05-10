@@ -1,5 +1,7 @@
 # Data Protection Policy
 
+(Updated on Fri 10/05/2024 08:56)
+
 > ... the University has guidelines to ensure that data is collected, stored, and used per relevant legislation and best practices. Data protection is the fair and proper use of information about people. All of us – not just researchers – will be handling this kind of information, for example about colleagues, students, people in contact with you from inside and outside the university, and so on. Personal data includes names and email addresses as well as more extensive forms of data.  It is important that you are aware of your obligations and that you take all possible steps to comply.
  
 > Various data protection policies and training resources are available to all University staff:

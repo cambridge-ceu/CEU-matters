@@ -15,7 +15,7 @@
   * Newsletter, <mailto:ps.comms@medschl.cam.ac.uk>
   * PeopleHR: <https://dphpc.peoplehr.net/>
   * PhD Administrator, <phpcgradadmin@medschl.cam.ac.uk>
-  * PHPC Working Together Initiative, <https://tinyurl.com/ukz5432c>
+  * PHPC Working Together Initiative, <https://tinyurl.com/ukz5432c> (contact <hw629@medschl.cam.ac.uk> for suggestions)
   * Reception/Facilities Team: <phpc.reception@medschl.cam.ac.uk>
   * Social & Ethical Context of Health and Illness (SECHI) ([Web site](https://www.biology.cam.ac.uk/undergrads/MedST/Current/Course/Years1and2/sechi), seminar contact Robbie Duschinsky <mailto:rd522@medschl.cam.ac.uk>)
   * Staff profile, <https://intranet.phpc.cam.ac.uk/facilities-and-comms/communications/profiles/>

@@ -8,7 +8,7 @@
         
         
         <link rel="shortcut icon" href="../img/favicon.ico">
-        <title>c6 - CEU scientific meetings</title>
+        <title>Data Protection Policy - CEU scientific meetings</title>
         <link href="../css/bootstrap.min.css" rel="stylesheet">
         <link href="../css/font-awesome.min.css" rel="stylesheet">
         <link href="../css/base.css" rel="stylesheet">
@@ -43,7 +43,7 @@
                             <li class="navitem">
                                 <a href=".." class="nav-link">   </a>
                             </li>
-                            <li class="dropdown">
+                            <li class="dropdown active">
                                 <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Chronicle <b class="caret"></b></a>
                                 <ul class="dropdown-menu">
                                     
@@ -76,7 +76,7 @@
 </li>
                                     
 <li>
-    <a href="../dpp/" class="dropdown-item">Data Protection Policy</a>
+    <a href="./" class="dropdown-item active">Data Protection Policy</a>
 </li>
                                     
 <li>
@@ -90,7 +90,7 @@
                             <li class="navitem">
                                 <a href="../schedules/" class="nav-link">Schedules</a>
                             </li>
-                            <li class="dropdown active">
+                            <li class="dropdown">
                                 <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Resources <b class="caret"></b></a>
                                 <ul class="dropdown-menu">
                                     
@@ -127,7 +127,7 @@
 </li>
             
 <li>
-    <a href="./" class="dropdown-item active">c6</a>
+    <a href="../c6/" class="dropdown-item">c6</a>
 </li>
             
 <li>
@@ -156,12 +156,12 @@
                             </a>
                         </li>
                             <li class="nav-item">
-                                <a rel="prev" href="../Flask/" class="nav-link">
+                                <a rel="prev" href="../Cambridge-Baker-Joint-Symposium/" class="nav-link">
                                     <i class="fa fa-arrow-left"></i> Previous
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a rel="next" href="../Node/" class="nav-link">
+                                <a rel="next" href="../mhs/" class="nav-link">
                                     Next <i class="fa fa-arrow-right"></i>
                                 </a>
                             </li>
@@ -186,20 +186,8 @@
     <div id="toc-collapse" class="navbar-collapse collapse card bg-secondary">
         <ul class="nav flex-column">
             
-            <li class="nav-item" data-level="1"><a href="#sharing-with-the-internet" class="nav-link">Sharing with the internet</a>
+            <li class="nav-item" data-level="1"><a href="#data-protection-policy" class="nav-link">Data Protection Policy</a>
               <ul class="nav flex-column">
-            <li class="nav-item" data-level="2"><a href="#setup" class="nav-link">Setup</a>
-              <ul class="nav flex-column">
-              </ul>
-            </li>
-            <li class="nav-item" data-level="2"><a href="#running" class="nav-link">Running</a>
-              <ul class="nav flex-column">
-              </ul>
-            </li>
-            <li class="nav-item" data-level="2"><a href="#queries" class="nav-link">Queries</a>
-              <ul class="nav flex-column">
-              </ul>
-            </li>
               </ul>
             </li>
         </ul>
@@ -207,110 +195,20 @@
 </div></div>
                     <div class="col-md-9" role="main">
 
-<h1 id="sharing-with-the-internet">Sharing with the internet</h1>
-<h2 id="setup">Setup</h2>
-<pre><code class="language-bash">python3 -m venv venv
-source venv/bin/activate
-pip install --upgrade pip
-mkdir c6
-cd c6
-wget https://raw.githubusercontent.com/writeson/the-well-grounded-python-developer/integration/examples/CH_06/requirements.txt
-pip install -r requirements.txt
-</code></pre>
-<p>It is also straightforward with <code>httpie</code> package, i.e.,</p>
-<pre><code class="language-python">pip install httpie
-</code></pre>
-<p>The environment can be activated as follows,</p>
-<pre><code class="language-bash">. ~/myapp/venv/bin/activate
-</code></pre>
-<p>The files, <a href="https://github.com/cambridge-ceu/CEU-scientific-meetings/tree/gh-pages/c6">https://github.com/cambridge-ceu/CEU-scientific-meetings/tree/gh-pages/c6</a>, are organised as follows,</p>
-<pre><code>c6
-├── app.py
-├── requirements.txt
-├── static
-│   ├── Caprion
-│   ├── css
-│   │   ├── index.css
-│   │   └── myblog.css
-│   └── js
-│       └── index.js
-└── templates
-    ├── base.html
-    └── index.html
-</code></pre>
-<p>where and our project directory <code>Caprion/</code> is to be access from <code>http://localhost:#/static/Caprion</code> with # to be 5000 (Flask default) or 8000 (gunicorn default).</p>
-<h2 id="running">Running</h2>
-<p>Our call is <code>gunicorn -c gunicorn_config.py app:app</code>, where <code>gunicorn_config.py</code> can be seen as a python program with only assignment statements.</p>
-<p>One might as well create a configuration file such as <code>gunicorn_config.py</code> (required to have a <code>.py</code> extension)</p>
-<pre><code># bind = &quot;127.0.0.1:8000&quot;
-bind = &quot;unix:/home/jhz22/web.sock&quot;
-workers = 2
-loglevel = &quot;info&quot;
-errorlog = &quot;/public/home/jhz22/logs/gunicorn_error.log&quot;
-accesslog = &quot;/public/home/jhz22/logs/gunicorn_access.log&quot;
-</code></pre>
-<p>Moreover, one can use <code>uvicorn</code> following <code>pip install uvicorn[standard]</code>.</p>
-<pre><code class="language-bash">uvicorn app:app --host 127.0.0.1 --port 8000 --workers 2
-</code></pre>
-<h2 id="queries">Queries</h2>
-<p>We can also apply <code>flask routes</code>, which gives,</p>
-<pre><code>Endpoint     Methods  Rule
------------  -------  -----------------------
-home         GET      /
-static       GET      /static/&lt;path:filename&gt;
-static_file  GET      /&lt;path:path&gt;
-</code></pre>
-<p>Furthermore, we could use <code>curl http://localhost:8000/</code>, <code>curl http://127.0.0.1:8000/static/Caprion/A1BG/results?analysis==null</code> in a familiar REST API style and/or pipe into <code>jq</code> to prettify.</p>
-<p>We can use <code>http http://localhost:8000/</code> with output,</p>
-<pre><code>HTTP/1.1 200 OK
-Connection: close
-Content-Length: 1223
-Content-Type: text/html; charset=utf-8
-Date: Mon, 27 Nov 2023 11:16:25 GMT
-Server: gunicorn
-
-&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;
-    &lt;!-- Required meta tags --&gt;
-    &lt;meta charset=&quot;utf-8&quot;&gt;
-    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1, shrink-to-fit=no&quot;&gt;
-    &lt;title&gt;Your Second Web Server&lt;/title&gt;
-    &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/static/css/myblog.css&quot;&gt;
-    &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/static/css/index.css&quot;&gt;
-&lt;/head&gt;
-&lt;body&gt;
-    &lt;div id=&quot;header&quot;&gt;
-        &lt;h1&gt;MyBlog Home Page&lt;/h1&gt;
-    &lt;/div&gt;
-    &lt;div id=&quot;content&quot;&gt;
-&lt;h2&gt;Current time: 2023-11-27 11:16:25.877095&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;http://127.0.0.1:8000/static/Caprion/index.html&quot;&gt;Caprion&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Page visits: 1&lt;/p&gt;
-&lt;p&gt;List of available banner colors:&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;aqua&lt;/li&gt;
-    &lt;li&gt;purple&lt;/li&gt;
-    &lt;li&gt;olive&lt;/li&gt;
-    &lt;li&gt;salmon&lt;/li&gt;
-    &lt;li&gt;lightcoral&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div id=&quot;color-change&quot;&gt;
-    &lt;button class=&quot;change-banner-color&quot;&gt;
-        Change Banner Color
-    &lt;/button&gt;
-&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div id=&quot;footer&quot;&gt;
-        &lt;h4&gt;Copyright &amp;copy; 2020 by MyBlog&lt;/h4&gt;
-    &lt;/div&gt;
-&lt;/body&gt;
-&lt;script&gt;
-    const banner_colors = [&quot;aqua&quot;, &quot;purple&quot;, &quot;olive&quot;, &quot;salmon&quot;, &quot;lightcoral&quot;];
-&lt;/script&gt;
-&lt;script src=&quot;/static/js/index.js&quot;&gt;&lt;/script&gt;
-&lt;/html&gt;
-</code></pre></div>
+<h1 id="data-protection-policy">Data Protection Policy</h1>
+<p>(Updated on Fri 10/05/2024 08:56)</p>
+<blockquote>
+<p>... the University has guidelines to ensure that data is collected, stored, and used per relevant legislation and best practices. Data protection is the fair and proper use of information about people. All of us – not just researchers – will be handling this kind of information, for example about colleagues, students, people in contact with you from inside and outside the university, and so on. Personal data includes names and email addresses as well as more extensive forms of data.  It is important that you are aware of your obligations and that you take all possible steps to comply.</p>
+<p>Various data protection policies and training resources are available to all University staff:</p>
+</blockquote>
+<ul>
+<li>Data Protection Training: Online Course, <a href="https://www.training.cam.ac.uk/cppd/course/cppd-dataprot">https://www.training.cam.ac.uk/cppd/course/cppd-dataprot</a></li>
+<li>Data sharing and using data processors, <a href="https://www.information-compliance.admin.cam.ac.uk/data-protection/guidance/data-sharing">https://www.information-compliance.admin.cam.ac.uk/data-protection/guidance/data-sharing</a></li>
+<li>Guidance on data protection and academic research, <a href="https://www.information-compliance.admin.cam.ac.uk/data-protection/guidance/research">https://www.information-compliance.admin.cam.ac.uk/data-protection/guidance/research</a></li>
+<li>Policy, <a href="https://www.information-compliance.admin.cam.ac.uk/files/data_protection_policy_final.pdf">https://www.information-compliance.admin.cam.ac.uk/files/data_protection_policy_final.pdf</a></li>
+<li>Quick guide, <a href="https://www.information-compliance.admin.cam.ac.uk/files/data_protection_quick_guide_for_staff_final.pdf">https://www.information-compliance.admin.cam.ac.uk/files/data_protection_quick_guide_for_staff_final.pdf</a></li>
+<li>Report personal data breaches, <a href="https://www.information-compliance.admin.cam.ac.uk/data-protection#heading6">https://www.information-compliance.admin.cam.ac.uk/data-protection#heading6</a></li>
+</ul></div>
             </div>
         </div>
 

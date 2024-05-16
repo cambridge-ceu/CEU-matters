@@ -14,9 +14,12 @@
 * Emergency Childcare, <https://www.emergencychildcare.co.uk/> (contact <csreward@admin.cam.ac.uk>)
 * Employer justified retirement age (EJRA)
     - Academic-led review group, <https://www.hr.admin.cam.ac.uk/files/retirement_policy_and_ejra_review_group.pdf>
+    - Contact [contact@proctors.cam.ac.uk](https://tinyurl.com/5zxkxr7c), CCing <ReporterEditor@admin.cam.ac.uk>
     - Continue in retirement, <https://www.hr.admin.cam.ac.uk/policies-procedures/1-retirement-policy/7-procedure-university-officers-continue-employment>
     - Discussion, <https://www.admin.cam.ac.uk/reporter/2022-23/weekly/6685/6685-public.pdf#page=5>
+    - EJRA review page, <https://tinyurl.com/4k455ecx>
     - Focus group conact, <mailto:internalcomms@admin.cam.ac.uk>
+    - Full report, <https://tinyurl.com/w59ab5zh>
     - Retirement policy, <https://www.hr.admin.cam.ac.uk/policies-procedures/1-retirement-policy>
 * Estates Division, <https://www.em.admin.cam.ac.uk/>
     - Buildings emergencies, <https://www.em.admin.cam.ac.uk/operating-estate/security>

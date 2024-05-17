@@ -80,6 +80,7 @@
 * SharePoint
     - Home, <https://universityofcambridgecloud.sharepoint.com/SitePages/Home.aspx>
     - HR Transformation programme, <https://universityofcambridgecloud.sharepoint.com/sites/HRTransformation>
+    - [Postgraduate Admissions and Funding](https://tinyurl.com/msx5m33t)
     - StaffHub, <https://universityofcambridgecloud.sharepoint.com/sites/StaffHub>
 * Staff counselling, <https://staff.counselling.cam.ac.uk>, [Calm-space](https://staff.counselling.cam.ac.uk/events/calm-space)
 * Student run computing facilities (SRCF), <https://www.srcf.net/>

@@ -131,6 +131,7 @@
     - Two-year rollover training, <https://www.training.cam.ac.uk/>
 * Vice-Chancellor, <https://www.cam.ac.uk/about-the-university/how-the-university-and-colleges-work/people/vice-chancellor>
 * Wellbeing, <https://www.wellbeing.admin.cam.ac.uk>, [source support](https://www.wellbeing.admin.cam.ac.uk/sources-support-0)
+* Whatson, <https://www.admin.cam.ac.uk/whatson/submit.shtml (<events@admin.cam.ac.uk>)>
 
 ## King's College chapel
 

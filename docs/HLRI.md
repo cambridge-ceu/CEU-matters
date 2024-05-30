@@ -26,5 +26,6 @@
   > Cambridge CB2 0BB,
   > Email - <HLRI-Reception@medschl.cam.ac.uk>,
   > Tel - (01223) 762755
-- Windows opening, contact Abbie (<aj630@medschl.cam.ac.uk>) if your window is still locked.
 - Twitter / X, [@HLRI_cambridge](https://twitter.com/HLRI_Cambridge)
+- VPD-HLRI FedEx Shipping Form, <https://tinyurl.com/4tw5mmh3>
+- Windows opening, contact Abbie (<aj630@medschl.cam.ac.uk>) if your window is still locked.

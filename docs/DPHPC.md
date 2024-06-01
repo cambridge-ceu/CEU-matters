@@ -21,5 +21,4 @@
 * Social & Ethical Context of Health and Illness (SECHI) ([Web site](https://www.biology.cam.ac.uk/undergrads/MedST/Current/Course/Years1and2/sechi), seminar contact Robbie Duschinsky <mailto:rd522@medschl.cam.ac.uk>)
 * Staff profile, <https://intranet.phpc.cam.ac.uk/facilities-and-comms/communications/profiles/>
 * [The Cambridge Centre for Health Services Research](https://www.cchsr.phpc.cam.ac.uk/) (CCHSR)
-
-<i class="fa-brands fa-x-twitter"></i>: [@DPHPC](https://x.com/DPHPC)
+* <i class="fa-brands fa-x-twitter"></i>: [@DPHPC](https://x.com/DPHPC)

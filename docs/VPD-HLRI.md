@@ -1,4 +1,4 @@
-## VDP-HLRI
+## VPD-HLRI
 
 - Address
   > British Heart Foundation Cardiovascular Epidemiology Unit,

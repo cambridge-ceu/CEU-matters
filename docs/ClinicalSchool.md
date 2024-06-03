@@ -4,6 +4,7 @@
     - [BHF/CRE symposium](https://www.ticketsource.co.uk/cambridgecardiovascular/cambridge-cardiovascular-bhf-cre-annual-research-symposium/e-qavbpj)
     - [Current opportunities](https://www.cardiovascular.cam.ac.uk/jobs#Othercurrentopportunities)
     - [Forthcoming events](https://www.cardiovascular.cam.ac.uk/events)
+    - LinkedIn, <https://www.linkedin.com/company/cambridge-cardiovascular/>
     - [Ticket source](https://www.ticketsource.co.uk/cambridgecardiovascular)
     - Twitter/X, [@Cambridgecardio](https://twitter.com/Cambridgecardio/status/1755265403775824376)
 * Clinical School Computing Service (CSCS)

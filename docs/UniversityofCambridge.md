@@ -11,7 +11,6 @@
 * Centre for Science and Policy (CSaP), <https://www.csap.cam.ac.uk/> ([FAQs](https://www.csap.cam.ac.uk/about-csap/people/our-network/questions-asked-researchers/))
 * Chancellor's first annual address @[YouTube](https://www.youtube.com/watch?v=niWi39UG-ls) (<https://www.cam.ac.uk/news/people-climate-and-a-national-role-for-cambridge-are-a-focus-of-vice-chancellors-first-annual>)
 * Copyright basics, <https://www.legal.admin.cam.ac.uk/copyright-compliance/copyright-basics>
-* CULP courses, <https://www.langcen.cam.ac.uk/culp/culp-general-courses.html> ([Online booking system](https://www.training.cam.ac.uk/lc/theme/CULP?providerId=399495))
 * Emergency Childcare, <https://www.emergencychildcare.co.uk/> (contact <csreward@admin.cam.ac.uk>)
 * Employer justified retirement age (EJRA)
     - Academic-led review group, <https://www.hr.admin.cam.ac.uk/files/retirement_policy_and_ejra_review_group.pdf>
@@ -92,6 +91,8 @@
 * Surveys at Qualtrics, <https://cambridge.eu.qualtrics.com/homepage/ui>
 * Symplectic Elements Login, <https://elements.admin.cam.ac.uk/>
 * Telecoms Office, <https://www.phone.cam.ac.uk/> ([My phone](https://my.phone.cam.ac.uk/myphone/calls))
+* The Language Centre, <https://www.langcen.cam.ac.uk/culp/culp-index.html>
+    - Courses, <https://www.langcen.cam.ac.uk/culp/culp-general-courses.html> ([Online booking system](https://www.training.cam.ac.uk/lc/theme/CULP?providerId=399495))
 * The Open Access team, <https://www.openaccess.cam.ac.uk/>
 * Training, <https://www.training.cam.ac.uk/>
 * Transport strategy 2019-2024, <https://www.environment.admin.cam.ac.uk/files/university_of_cambridge_transport_strategy_2019-2024.pdf>

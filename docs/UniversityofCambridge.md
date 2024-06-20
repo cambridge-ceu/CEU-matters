@@ -1,7 +1,7 @@
 <a href="https://www.cam.ac.uk"><img src="https://www.cam.ac.uk/sites/www.cam.ac.uk/themes/fresh/images/interface/cambridge_university2.svg" style="width:300px;height:110px;" align="right"></a>
 ## University of Cambridge
 
-* Accelerate science, <https://acceleratescience.github.io/> (<accelerate-science@cst.cam.ac.uk>)
+* Accelerate science, <https://acceleratescience.github.io/> (<accelerate-science@cst.cam.ac.uk>, [GitHub](https://github.com/acceleratescience/diffusion-models))
 * Brand resources, <https://www.cam.ac.uk/brand-resources>
 * CAMbens SmartHub, <https://cambridge.rewardgateway.co.uk>
 * Cambridge Science Festival, <https://www.festival.cam.ac.uk/> ([Events management](https://webservices.admin.cam.ac.uk/events/admin), [Practical information](https://www.cam.ac.uk/public-engagement/get-involved/cambridge-festival-coordinators-page))

@@ -31,4 +31,4 @@
 - VPD-HLRI FedEx Shipping Form, <https://tinyurl.com/4tw5mmh3>
 - Windows opening, contact Abbie (<aj630@medschl.cam.ac.uk>) if your window is still locked.
 
-<a href="https://royalpapworth.nhs.uk/research-and-development/hlri"><img src="https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/b65e/live/1b0a3cd0-2fd5-11ef-a55d-5f9fbccfcadc.jpg.webp" style="width:600px;height:300px;" align="right"></a>
+<a href="https://royalpapworth.nhs.uk/research-and-development/hlri"><img src="https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/b65e/live/1b0a3cd0-2fd5-11ef-a55d-5f9fbccfcadc.jpg.webp" style="width:800px;height:400px;" align="right"></a>

@@ -26,7 +26,13 @@ The following list gives information on active mailing lists, events, slack chan
 * SurveyMonkey, <https://www.surveymonkey.co.uk/>
 * Ticket source, <https://www.ticketsource.co.uk/>
 
-## Slack channels[^blur]
+## Slack channels
+
+<details>
+Outside the time-window marker
+
+This is `c-message_kit__hidden_message_blur` from Inspect, Inspector.
+</details>
 
 * [ceu-world](https://ceu-world.slack.com/).
 * [Systems-genomics](https://systems-genomics.slack.com/) ([create-a-workspace](https://slack.com/intl/en-in/help/articles/206845317-Create-a-Slack-workspace)).
@@ -43,7 +49,3 @@ The following list gives information on active mailing lists, events, slack chan
 ## WhatsApp groups
 
 * [CEU at the pub](https://chat.whatsapp.com/E8vDwCmn4inKuAG4MpRU5D)
-
-[^blur]: Outside the time-window marker
-
-    This is `c-message_kit__hidden_message_blur` from Inspect, Inspector.

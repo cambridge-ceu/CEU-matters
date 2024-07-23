@@ -28,14 +28,14 @@ The following list gives information on active mailing lists, events, slack chan
 
 ## Slack channels
 
+* [ceu-world](https://ceu-world.slack.com/).
+* [Systems-genomics](https://systems-genomics.slack.com/) ([create-a-workspace](https://slack.com/intl/en-in/help/articles/206845317-Create-a-Slack-workspace)).
+
 <details>
 Outside the time-window marker
 
 This is `c-message_kit__hidden_message_blur` from Inspect, Inspector.
 </details>
-
-* [ceu-world](https://ceu-world.slack.com/).
-* [Systems-genomics](https://systems-genomics.slack.com/) ([create-a-workspace](https://slack.com/intl/en-in/help/articles/206845317-Create-a-Slack-workspace)).
 
 ## Software
 

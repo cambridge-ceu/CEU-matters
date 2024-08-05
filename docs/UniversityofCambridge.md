@@ -20,6 +20,7 @@
     - EJRA review page, <https://tinyurl.com/4k455ecx>
     - Focus group conact, <mailto:internalcomms@admin.cam.ac.uk>
     - Full report, <https://tinyurl.com/w59ab5zh>
+    - **Result of ballot on Grade 2**, <https://www.reporter.admin.cam.ac.uk/files/ejra-ballot-result.pdf>
     - Retirement policy, <https://www.hr.admin.cam.ac.uk/policies-procedures/1-retirement-policy>
 * Estates Division, <https://www.em.admin.cam.ac.uk/>
     - Buildings emergencies, <https://www.em.admin.cam.ac.uk/operating-estate/security>

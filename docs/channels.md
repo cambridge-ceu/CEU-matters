@@ -18,6 +18,7 @@ The following list gives information on active mailing lists, events, slack chan
 
 ## Online services
 
+* Calendly, <https://calendly.com/>
 * Doodle], <https://doodle.com/en/>.
 * eventbrite, <https://www.eventbrite.co.uk/>.
 * Microsoft, [Forms](https://www.microsoft.com/en-us/microsoft-365/online-surveys-polls-quizzes) & [Sway](https://sway.office.com/).

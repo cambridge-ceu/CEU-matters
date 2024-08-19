@@ -97,6 +97,7 @@
 * The Open Access team, <https://www.openaccess.cam.ac.uk/>
 * Training, <https://www.training.cam.ac.uk/>
 * Transport strategy 2019-2024, <https://www.environment.admin.cam.ac.uk/files/university_of_cambridge_transport_strategy_2019-2024.pdf>
+* Travel insurance, <https://www.insurance.admin.cam.ac.uk/files/uoc_travel_insurance_summary_for_travellers.pdf>
 * University Information Services (UIS), <https://www.uis.cam.ac.uk/>
     - Antivirus software, <https://help.uis.cam.ac.uk/service/security/antivirus>
     - [Connection to an individual mailbox](https://help.uis.cam.ac.uk/service/collaboration/365/exchange-online/how-access-your-mailbox/set-thunderbird-exchange-online) via Thunderbird ([free download](https://www.thunderbird.net/en-GB/), [Privacy Notice](https://www.mozilla.org/en-US/privacy/thunderbird/))

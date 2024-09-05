@@ -12,6 +12,8 @@
 * [MRC Epidemiology Unit](http://www.mrc-epid.cam.ac.uk/events)
 * [MRC Integrative Epidemiology Unit](https://www.bristol.ac.uk/integrative-epidemiology/seminars)
     - [Mendel at 200](https://www.bristol.ac.uk/integrative-epidemiology/seminars/mendel_200/)
+* MRC Laboratory of Molecular Biology (LMB) <https://www2.mrc-lmb.cam.ac.uk/>
+    - Scientific Seminars, <https://www2.mrc-lmb.cam.ac.uk/news-and-events/scientific-seminars/>
 * The Early Researchers Seminar Series (ERSS), [https://bit.ly/ERSS-2021](https://bit.ly/ERSS-2021) ([archive](https://bit.ly/ERSSintro))
 * The Royal Society of Medicine ([Medical Genetics Section](https://www.rsm.ac.uk/sections/medical-genetics-section/))
 * [Trinity College Science Society](http://talks.cam.ac.uk/show/index/28326) (TCSS)

@@ -53,7 +53,7 @@
     - [Recruitment restraint](https://www.hr.admin.cam.ac.uk/recruitment_protocol_2020_21)
 * Industrial action, <https://www.industrialaction.admin.cam.ac.uk/> ([university forms](https://www.industrialaction.admin.cam.ac.uk/forms))
 * Internal Communications team, <internalcomms@admin.cam.ac.uk>
-* Job Opportunities pages, <https://www.jobs.cam.ac.uk/>
+* Job Opportunities pages, <https://www.jobs.cam.ac.uk/> (ScholarIdea, <https://scholaridea.com/?s=university+of+cambridge>)
 * Lone working principles, <https://www.safety.admin.cam.ac.uk/system/files/hsd052m.pdf>
 * Lookup service, <https://www.lookup.cam.ac.uk/self> (<https://www.lookup.cam.ac.uk/person/crsid/your-crsid>)
 * Moodle account, <https://www.vle.cam.ac.uk/login/index.php> as a virtual learning environment (VLE), [Understanding Unconscious/Implicit Bias](https://www.equality.admin.cam.ac.uk/training-overview/understanding-unconscious-implicit-bias)

@@ -14,6 +14,7 @@
 * Final procedures (mgeu) "W:\Administration\CEU Final Procedures".
 * Reconnect your PC from SRL: It is useful to run from command prompt, ***ipconfig /release*** and ***ipconfig /renew*** followed by a restart to connect to U:\ or other drives [^U].
 * Working Group Sign-up, <https://www.surveymonkey.co.uk/r/Q8MJ5NW>
+- [PowerPoint template](files/UC PowerPoint New Template_CEU.pptx)
 * Publications Mailbox <ceupublications@medschl.cam.ac.uk>; please email when you submit a paper. 
 * Studies
     - Web: National Institute for Health and Care Research (NIHR) Blood and Transplant Research Unit (BTRU) in Donor Health and Behaviour <http://www.donorhealth-btru.nihr.ac.uk/>

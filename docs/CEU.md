@@ -8,7 +8,7 @@
         - Research funding and policy delivery team, <RFPD@mrc.ukri.org>
 * CEU mailing list
     - To post to the list, send your email to: <phpc-ceu-group@lists.cam.ac.uk>.
-    - General information about the mailing list is at: <https://lists.cam.ac.uk/mailman/listinfo/phpc-ceu-group>. If you ever want to unsubscribe or change your options (eg, switch to or from digest mode), visit your subscription page at: <https://lists.cam.ac.uk/mailman/options/phpc-ceu-group/CRSid@medschl.cam.ac.uk>. You can also make such adjustments via email by sending a message to: <phpc-ceu-group-request@lists.cam.ac.uk>. with the word `help' in the subject or body (don't include the quotes), and you will get back a message with instructions.
+    - General information about the mailing list is at: <https://lists.cam.ac.uk/mailman/listinfo/phpc-ceu-group>. If you ever want to unsubscribe or change your options (eg, switch to or from digest mode), visit your subscription page at: <https://lists.cam.ac.uk/mailman/options/phpc-ceu-group/CRSid@medschl.cam.ac.uk>[^CRSid]. You can also make such adjustments via email by sending a message to: <phpc-ceu-group-request@lists.cam.ac.uk>. with the word `help' in the subject or body (don't include the quotes), and you will get back a message with instructions.
     - Queries about the list can be made via <phpc-ceu-group-owner@lists.cam.ac.uk>.
 * CEU Management Team <CEUManagement@medschl.cam.ac.uk>.
 * Final procedures (mgeu) "W:\Administration\CEU Final Procedures".
@@ -37,7 +37,11 @@
 
 ## Footnotes
 
-[^U]: Network drives
+[^CRSid]: **CRSid*
+    >
+    > Common Registration Scheme identifier (CRSid) is a unique username issued by issued by the university information system (UIS).
+
+[^U]: **Network drives**
     >
     > U:\>net use
     >

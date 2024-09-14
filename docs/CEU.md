@@ -39,7 +39,7 @@
 
 [^CRSid]: **CRSid**
     >
-    > Common Registration Scheme identifier (CRSid) is a unique username issued by issued by the university information system (UIS).
+    > Common Registration Scheme identifier (CRSid) is a unique username issued by the university information system (UIS).
 
 [^U]: **Network drives**
     >

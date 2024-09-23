@@ -84,6 +84,7 @@
 * SharePoint
     - Home, <https://universityofcambridgecloud.sharepoint.com/SitePages/Home.aspx>
     - HR Transformation programme, <https://universityofcambridgecloud.sharepoint.com/sites/HRTransformation>
+    - Personal account, <https://universityofcambridgecloud-my.sharepoint.com/personal/jhz22_cam_ac_uk>
     - [Postgraduate Admissions and Funding](https://tinyurl.com/msx5m33t)
     - StaffHub, <https://universityofcambridgecloud.sharepoint.com/sites/StaffHub>
 * Staff counselling, <https://staff.counselling.cam.ac.uk>, [Calm-space](https://staff.counselling.cam.ac.uk/events/calm-space)

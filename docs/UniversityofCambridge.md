@@ -5,7 +5,8 @@
 * Botanic Lights, <https://www.botanic.cam.ac.uk/cambridge-botanic-lights/>
 * Brand resources, <https://www.cam.ac.uk/brand-resources>
 * CAMbens SmartHub, <https://cambridge.rewardgateway.co.uk>
-* Cambridge Science Festival, <https://www.festival.cam.ac.uk/> ([Events management](https://webservices.admin.cam.ac.uk/events/admin), [Practical information](https://www.cam.ac.uk/public-engagement/get-involved/cambridge-festival-coordinators-page))
+* Cambrid1ge Festival, <https://www.festival.cam.ac.uk/> ([Events management](https://webservices.admin.cam.ac.uk/events/admin), [Practical information](https://www.cam.ac.uk/public-engagement/get-involved/cambridge-festival-coordinators-page))
+* Cambrid1ge Science Festival, <https://cambridgesciencefestival.org/>
 * Cambridge Centre for Advanced Research and Education in Singapore (CARES), <https://www.cares.cam.ac.uk/>
     - [LinkedIn](https://www.linkedin.com/company/cambridge-centre-for-advanced-research-and-education-in-singapore-cares-/mycompany/?viewAsMember=true)
     - [YouTube](https://www.youtube.com/watch?v=XMEjaX1l5RQ)
@@ -38,6 +39,7 @@
     - Finance Teams: <https://www.expenses.admin.cam.ac.uk/learning-path-finance-teams>
     - Credit Card Holders: <https://www.expenses.admin.cam.ac.uk/learning-path-card-holder>
     - Subsistence rates: <https://www.expenses.admin.cam.ac.uk/expense-rates/subsistence-rates>
+* Festival of ideas, <https://www.philanthropy.cam.ac.uk/give-to-cambridge/festival-of-ideas>
 * Festival of podcast, <https://www.cam.ac.uk/festival-of-podcasts>
 * Freedom of speech, [home](https://www.officeforstudents.org.uk/consultations-on-free-speech/consultation-on-proposed-regulatory-advice-and-other-matters-relating-to-freedom-of-speech/), [draft](https://www.officeforstudents.org.uk/media/znzlhij1/free-speech-consultation-guidance-other-matters-final.pdf) (<regulation@officeforstudents.org.uk>)
 * Grace on fossil fuel industry ties, <https://www.cam.ac.uk/notices/grace-on-fossil-fuel-industry-ties> ([A proposal](https://www.admin.cam.ac.uk/reporter/2021-22/weekly/6666/6666-public.pdf#page=6), [An accompanying Notice](https://www.reporter.admin.cam.ac.uk/files/ffstudy-jul2023.pdf))

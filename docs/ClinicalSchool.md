@@ -8,8 +8,8 @@
     - [Ticket source](https://www.ticketsource.co.uk/cambridgecardiovascular)
     - Twitter/X, [@Cambridgecardio](https://twitter.com/Cambridgecardio/status/1755265403775824376)
 * Clinical School Computing Service (CSCS)
-    - Self-service Portal: <https://itsupport.medschl.cam.ac.uk>
-    - Service Desk: <a href="tel:+4401223336261">**01223 (3)36261**</a> (9am – 5pm Monday to Friday), <servicedesk@medschl.cam.ac.uk>
+    - Self-service Portal: <https://itsupportcscs.haloitsm.com/portal/home> (<https://itsupport.medschl.cam.ac.uk>)
+    - Service Desk: <a href="tel:+4401223336261">**01223 (3)36261**</a> (9am – 5pm Monday to Friday), <CSCSservicedesk@medschl.cam.ac.uk> (<servicedesk@medschl.cam.ac.uk>)
     - Service status: <https://cscs.medschl.cam.ac.uk/information/service-status/>
     - Service Twitter / X: [https://twitter.com/Cambridge_CSCS](https://twitter.com/Cambridge_CSCS)
     - Service website: <https://cscs.medschl.cam.ac.uk/> (news, [https://cscs.medschl.cam.ac.uk/news/](https://cscs.medschl.cam.ac.uk/news/))

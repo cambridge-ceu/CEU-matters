@@ -22,6 +22,7 @@ The following list gives information on active mailing lists, events, slack chan
 * Docusign, <https://www.docusign.com/free-account> ([UK site](https://www.docusign.com/en-gb))
 * Doodle], <https://doodle.com/en/>.
 * eventbrite, <https://www.eventbrite.co.uk/>.
+* Mentimeter, <https://www.menti.com/>
 * Microsoft, [Forms](https://www.microsoft.com/en-gb/microsoft-365/online-surveys-polls-quizzes) (<https://forms.office.com/>) & [Sway](https://sway.office.com/).
 * PPIE planner, <https://planner.voice-global.org/>.
 * Qualtrics, <https://www.qualtrics.com/>, <https://cambridge.eu.qualtrics.com/homepage/ui>

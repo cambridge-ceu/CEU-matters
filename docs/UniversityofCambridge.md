@@ -54,6 +54,7 @@
         + SRP [2023](https://www.hr.admin.cam.ac.uk/policies-procedures/senior-research-promotions-procedures-and-guidance-2023)
     - Redeployment, <https://www.hr.admin.cam.ac.uk/policies-procedures/redeployment>
     - [Recruitment restraint](https://www.hr.admin.cam.ac.uk/recruitment_protocol_2020_21)
+    - Staff and Students Relationship Policy, <https://www.hr.admin.cam.ac.uk/staff-and-students-relationship-policy> ([declaration form](https://www.hr.admin.cam.ac.uk/staff-and-students-relationship-policy/staff-and-students-relationships-policy-supplementary/staff))
 * Industrial action, <https://www.industrialaction.admin.cam.ac.uk/> ([university forms](https://www.industrialaction.admin.cam.ac.uk/forms))
 * Internal Communications team, <internalcomms@admin.cam.ac.uk>
 * Job Opportunities pages, <https://www.jobs.cam.ac.uk/> (ScholarIdea, <https://scholaridea.com/?s=university+of+cambridge>)

@@ -1,4 +1,4 @@
-<a href="https://www.cam.ac.uk"><img src="https://www.cam.ac.uk/sites/www.cam.ac.uk/themes/fresh/images/interface/cambridge_university2.svg" style="width:300px;height:110px;" align="right"></a>
+<a href="https://www.cam.ac.uk"><img src="https://www.logo.wine/a/logo/University_of_Cambridge/University_of_Cambridge-Logo.wine.svg" style="width:300px;height:110px;" align="right"></a>
 ## University of Cambridge
 
 * Accelerate science, <https://acceleratescience.github.io/> (<accelerate-science@cst.cam.ac.uk>, [GitHub](https://github.com/acceleratescience/))

@@ -149,3 +149,7 @@
 ## King's College chapel
 
 <a href="https://www.cam.ac.uk"><img src="https://ichef.bbci.co.uk/news/976/cpsprodpb/5D55/production/_133039832_cambridgeuni.jpg.webp" style="width:800px;height:400px;" align="right"></a>
+
+## The University map
+
+<a href="https://map.cam.ac.uk/"><img src="https://map.cam.ac.uk/" style="width:800px;height:400px;" align="right"></a> (new map, < https://new.map.cam.ac.uk>; feedback, <maps@admin.cam.ac.uk>)

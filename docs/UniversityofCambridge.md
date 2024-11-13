@@ -152,4 +152,4 @@
 
 ## The University map
 
-<a href="https://map.cam.ac.uk/"><img src="https://map.cam.ac.uk/" style="width:800px;height:400px;" align="right"></a> (new map, < https://new.map.cam.ac.uk>; feedback, <maps@admin.cam.ac.uk>)
+<a href="https://map.cam.ac.uk/"><img src="https://tinyurl.com/mrxnzr2b" style="width:800px;height:400px;" align="right"></a> (new map, <https://new.map.cam.ac.uk>; feedback, <maps@admin.cam.ac.uk>)

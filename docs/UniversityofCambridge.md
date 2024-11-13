@@ -152,4 +152,4 @@
 
 ## The University map
 
-<a href="https://map.cam.ac.uk/"></a> (<https://tinyurl.com/mrxnzr2b>, <https://new.map.cam.ac.uk> & <maps@admin.cam.ac.uk>)
+- <https://map.cam.ac.uk/> (<https://tinyurl.com/mrxnzr2b>, <https://new.map.cam.ac.uk> & <maps@admin.cam.ac.uk>)

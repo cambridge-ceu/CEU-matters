@@ -131,6 +131,7 @@
     - Research Computing Services [Research data store](https://www.hpc.cam.ac.uk/research-data-storage-services/research-data-store), [Price list](https://www.hpc.cam.ac.uk/research-data-storage-services/price-list)
     - Self-service portal, <https://uniofcam.saasiteu.com/>
     - [Set up Thunderbird for Exchange Online ](https://help.uis.cam.ac.uk/service/collaboration/365/exchange-online/how-access-your-mailbox/set-thunderbird-exchange-online)
+    - Software on the University Managed Desktop (UMD), <https://help.uis.cam.ac.uk/service/desktop-services/university-managed-desktop-umd/software-university-managed-desktop>
     - Staff profile, <https://help.uis.cam.ac.uk/service/website-resources/web-application-development/drupal/staff-profiles/updating-your-own-staff>
     - Status, <https://status.uis.cam.ac.uk/>
     - Twitter / X, [@UniCamIT](https://twitter.com/UniCamIT)

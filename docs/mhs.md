@@ -6,7 +6,7 @@ Quotation from message from the Vice-Chancellor on ***12/7/2022***.
  
 Staff wellbeing and mental health support: [https://www.wellbeing.admin.cam.ac.uk/services-signpost](https://www.wellbeing.admin.cam.ac.uk/services-signpost)
   
-**For University of Cambridge students: **
+**For University of Cambridge students:**
  
 Student Support at Cambridge: [https://www.studentwellbeing.admin.cam.ac.uk/](https://www.studentwellbeing.admin.cam.ac.uk/)
  

@@ -1,5 +1,5 @@
-site_name: CEU scientific meetings
-repo_url: https://github.com/cambridge-ceu/CEU-scientific-meetings/
+site_name: CEU matters
+repo_url: https://github.com/cambridge-ceu/CEU-matters/
 edit_uri: ""
 nav:
   - "   ": README.md

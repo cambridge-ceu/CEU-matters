@@ -124,6 +124,7 @@
     - Google account, <https://help.uis.cam.ac.uk/service/collaboration/workspace/registration-and-login>
     - Hermes webmail, <https://help.uis.cam.ac.uk/webmail>
     - Hostmaster, <https://www.dns.cam.ac.uk/>
+    - login-web interface, <https://login-web.hpc.cam.ac.uk/>
     - Media enquiries, <ucnews@admin.cam.ac.uk>
     - Multi-factor authentication
         - Manage your multi-factor authentication methods, <https://help.uis.cam.ac.uk/service/accounts-passwords/multi-factor-authentication/managing-mfa>

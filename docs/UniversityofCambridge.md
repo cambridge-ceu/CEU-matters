@@ -124,6 +124,7 @@
     - Google account, <https://help.uis.cam.ac.uk/service/collaboration/workspace/registration-and-login>
     - Hermes webmail, <https://help.uis.cam.ac.uk/webmail>
     - Hostmaster, <https://www.dns.cam.ac.uk/>
+    - Institutional File Store service (IFS), <https://help.uis.cam.ac.uk/service/cloud-services/institutional-file-store-service-ifs> ([Guide](https://gitlab.developers.cam.ac.uk/uis/devops/ssgw/docs/-/wikis/Institutional-File-Store-User-Guide))
     - login-web interface, <https://login-web.hpc.cam.ac.uk/>
     - Media enquiries, <ucnews@admin.cam.ac.uk>
     - Multi-factor authentication

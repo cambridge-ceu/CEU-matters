@@ -16,6 +16,7 @@ setup
 mkdocs build
 mkdocs gh-deploy
 
+git remote set-url origin https://github.com/cambridge-CEU/CEU-matters.git
 git add .gitignore
 git commit -m ".gitignore"
 git add docs

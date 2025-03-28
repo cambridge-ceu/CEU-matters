@@ -31,9 +31,7 @@
         + Car Parking Policy 2025/26 ([full details](https://www.em.admin.cam.ac.uk/files/final_car_parking_policy_202526_1.pdf), [Questions](mailto:travel@admin.cam.ac.uk)), <https://www.em.admin.cam.ac.uk/what-we-do/estate-operations/workplace-services/car-parking/car-parking-policy-202526>
         + Car share form, <https://forms.office.com/e/ULrYMHzxjV>
         + Consultation, <https://www.environment.admin.cam.ac.uk/travel/travel-car/draft-car-parking-policy-consultation>
-        + Draft policy, <https://www.environment.admin.cam.ac.uk/sites/www.environment.admin.cam.ac.uk/files/draft_car_parking_policy_6_0.pdf>
         + Environment sustainability team, <https://www.environment.admin.cam.ac.uk/>
-        + Policy review, <https://www.environment.admin.cam.ac.uk/sites/www.environment.admin.cam.ac.uk/files/draft_car_parking_policy_review.pdf>
         + Survey, <https://cambridge.eu.qualtrics.com/jfe/form/SV_4HFgdzZEP6pF0kC>
     - Security, <https://www.em.admin.cam.ac.uk/operating-estate/security>
 * Expense Management System, <https://www.expenses.admin.cam.ac.uk> ([Online learning](https://www.expenses.admin.cam.ac.uk/learning-paths) ([videos](https://web.microsoftstream.com/video/8a1386a4-6615-4f8f-8f27-cf08d6e541b6)), [Contact](mailto:expensesproject@admin.cam.ac.uk) & [queries](mailto:concur_enquiries@admin.cam.ac.uk), [use of the mobile app](https://www.expenses.admin.cam.ac.uk/learning-path-mobile-app)). Training for specific roles:
@@ -155,6 +153,10 @@
     - Two-year rollover training, <https://www.training.cam.ac.uk/>
 * University Security, [01223 331818](tel:+441223331818)
 * Vice-Chancellor, <https://www.cam.ac.uk/about-the-university/how-the-university-and-colleges-work/people/vice-chancellor>
+* Waste and Recycling Streams (from Monday, 31st March 2025)
+    - FAQs, <https://www.em.admin.cam.ac.uk/recycling-and-waste-faqs> ([The Separation of Waste (England) Regulations 2024](https://www.legislation.gov.uk/uksi/2024/666/contents/made))
+    - Recycling and waste webpage, <https://www.em.admin.cam.ac.uk/what-we-do/estate-operations/recycling-and-waste>
+    - Waste and Circular Economy Webpages, <https://www.environment.admin.cam.ac.uk/waste-and-circular-economy>
 * Wellbeing, <https://www.wellbeing.admin.cam.ac.uk>, [source support](https://www.wellbeing.admin.cam.ac.uk/sources-support-0)
 * Whatson, <https://www.admin.cam.ac.uk/whatson/submit.shtml (<events@admin.cam.ac.uk>)>
 * Worktribe, <https://universityofcambridgecloud.sharepoint.com/sites/RGA/SitePages/Using-Worktribe.aspx>

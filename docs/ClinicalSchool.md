@@ -14,6 +14,7 @@
     - Service Twitter / X: [https://twitter.com/Cambridge_CSCS](https://twitter.com/Cambridge_CSCS)
     - Service website: <https://cscs.medschl.cam.ac.uk/> (news, [https://cscs.medschl.cam.ac.uk/news/](https://cscs.medschl.cam.ac.uk/news/))
     - Tips
+        - Admin rights, <https://itsupportcscs.haloitsm.com/>
         - Anywhere Citrix Portal, <https://anywhere.medschl.cam.ac.uk/logon/LogonPoint/index.html> (requires application from [CSCS IT Support Portal](https://tinyurl.com/vz9huc9) followed by departmental approval).
         - [Configuring your Mobile Device for Exchange Email](https://confluence.medschl.cam.ac.uk/display/FAQ/Configuring+your+Mobile+Device+for+Exchange+Email)
         - MAC address (as the last line below) follows [this link](https://confluence.medschl.cam.ac.uk/display/FAQ/How+to+find+a+computer%27s+MAC+address) [^MAC].

@@ -20,8 +20,8 @@ nav:
     - "Cardiovascular Epidemiology Unit": CEU.md
     - "Department of Public Health and Primary Care": DPHPC.md
     - "Victor Phillip Dahdaleh Heart and Lung Research Institute": VPD-HLRI.md
-    - "Clinical School": ClinicalSchool.md
-    - "University of Cambridge": UniversityofCambridge.md
+    - "Clinical School": CS.md
+    - "University of Cambridge": UoC.md
     - "Student-Run Computing Facility":
         - Terminal: https://www.srcf.net/terminal/
         - Flask: Flask.md

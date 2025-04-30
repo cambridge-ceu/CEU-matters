@@ -13,6 +13,7 @@
 * Centre for Science and Policy (CSaP), <https://www.csap.cam.ac.uk/> ([FAQs](https://www.csap.cam.ac.uk/about-csap/people/our-network/questions-asked-researchers/))
 * Chancellor's first annual address @[YouTube](https://www.youtube.com/watch?v=niWi39UG-ls) (<https://www.cam.ac.uk/news/people-climate-and-a-national-role-for-cambridge-are-a-focus-of-vice-chancellors-first-annual>)
 * Copyright basics, <https://www.legal.admin.cam.ac.uk/copyright-compliance/copyright-basics>
+* CycleStreets, <https://cambridge.cyclestreets.net/>
 * Emergency Childcare, <https://www.emergencychildcare.co.uk/> (contact <csreward@admin.cam.ac.uk>)
 * Employer justified retirement age (EJRA)
     - Academic-led review group, <https://www.hr.admin.cam.ac.uk/files/retirement_policy_and_ejra_review_group.pdf>
@@ -32,6 +33,7 @@
         + Car share form, <https://forms.office.com/e/ULrYMHzxjV>
         + Consultation, <https://www.environment.admin.cam.ac.uk/travel/travel-car/draft-car-parking-policy-consultation>
         + Environment sustainability team, <https://www.environment.admin.cam.ac.uk/>
+        + Permit portal, <https://www.carparkingpermits.cam.ac.uk/> (Query, <travel@admin.cam.ac.uk>)
         + Survey, <https://cambridge.eu.qualtrics.com/jfe/form/SV_4HFgdzZEP6pF0kC>
     - Security, <https://www.em.admin.cam.ac.uk/operating-estate/security>
 * Expense Management System, <https://www.expenses.admin.cam.ac.uk> ([Online learning](https://www.expenses.admin.cam.ac.uk/learning-paths) ([videos](https://web.microsoftstream.com/video/8a1386a4-6615-4f8f-8f27-cf08d6e541b6)), [Contact](mailto:expensesproject@admin.cam.ac.uk) & [queries](mailto:concur_enquiries@admin.cam.ac.uk), [use of the mobile app](https://www.expenses.admin.cam.ac.uk/learning-path-mobile-app)). Training for specific roles:
@@ -93,6 +95,7 @@
 * SharePoint
     - Home, <https://universityofcambridgecloud.sharepoint.com/SitePages/Home.aspx>
     - HR Transformation programme, <https://universityofcambridgecloud.sharepoint.com/sites/HRTransformation>
+    - myCareer, <https://universityofcambridgecloud.sharepoint.com/sites/UoC_PSCDF>
     - Personal account, <https://universityofcambridgecloud-my.sharepoint.com/personal/jhz22_cam_ac_uk>
     - [Postgraduate Admissions and Funding](https://tinyurl.com/msx5m33t)
     - StaffHub, <https://universityofcambridgecloud.sharepoint.com/sites/StaffHub>

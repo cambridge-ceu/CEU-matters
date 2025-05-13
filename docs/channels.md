@@ -19,6 +19,7 @@ The following list gives information on active mailing lists, events, slack chan
 ## Online services
 
 * Calendly, <https://calendly.com/>
+* Civica Election Services (CES), <https://secure.cesvotes.com/>
 * Docusign, <https://www.docusign.com/free-account> ([UK site](https://www.docusign.com/en-gb))
 * Doodle], <https://doodle.com/en/>.
 * eventbrite, <https://www.eventbrite.co.uk/>.

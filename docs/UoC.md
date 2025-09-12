@@ -29,7 +29,7 @@
     - Buildings emergencies, <https://www.em.admin.cam.ac.uk/operating-estate/security>
     - Car parking
         + Car parking applications, <https://www.em.admin.cam.ac.uk/what-we-do/estate-operations/facilities-services/car-parking-applications>
-        + Car Parking Policy 2025/26 ([full details](https://www.em.admin.cam.ac.uk/files/final_car_parking_policy_202526_1.pdf), [Questions](mailto:travel@admin.cam.ac.uk)), <https://www.em.admin.cam.ac.uk/what-we-do/estate-operations/workplace-services/car-parking/car-parking-policy-202526>
+        + Car Parking Policy 2025/26, <https://www.em.admin.cam.ac.uk/car-parking/policy> ([full details](https://www.em.admin.cam.ac.uk/files/final_car_parking_policy_202526_1.pdf), [Questions](mailto:travel@admin.cam.ac.uk)), [car-parking-policy-202526](https://www.em.admin.cam.ac.uk/what-we-do/estate-operations/workplace-services/car-parking/car-parking-policy-202526)
         + Car share form, <https://forms.office.com/e/ULrYMHzxjV>
         + Consultation, <https://www.environment.admin.cam.ac.uk/travel/travel-car/draft-car-parking-policy-consultation>
         + Environment sustainability team, <https://www.environment.admin.cam.ac.uk/>

@@ -30,9 +30,13 @@
 
         googleCalendarApiKey: 'YOUR_API_KEY_HERE',
 
-        events: {
-          googleCalendarId: 'en.usa#holiday@group.v.calendar.google.com'
-        },
+        events: [
+          {
+            googleCalendarId: 'en.uk#holiday@group.v.calendar.google.com',
+            color: '#d9534f', // red for UK holidays
+            textColor: '#ffffff'
+          }
+        ],
 
         eventClick: function (info) {
           window.open(info.event.url, 'google-calendar-event', 'width=700,height=600');

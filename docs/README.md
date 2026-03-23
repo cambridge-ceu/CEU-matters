@@ -2,7 +2,7 @@ Information on presentations, etc., at the Cardiovascular Epidemiology Unit (CEU
 
 # Quick guides
 
-* Chronicle: [Mental health support](mhs.md), [2025](2025.md).
+* Chronicle: [Mental health support](mhs.md), [2026](2026.md).
 * [Health Data Research (HDR) UK](HDR-UK.md)
 * [Schedules](schedules.md) including Zoom video communications (check local times remotely, [https://time.is/](https://time.is/)).
 * Notifications, <a href="mailto:phpc-ceu-group@medschl.cam.ac.uk">phpc-ceu-group@medschl.cam.ac.uk</a>.

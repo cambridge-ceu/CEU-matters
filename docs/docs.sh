@@ -6,6 +6,13 @@ function setup()
   source ~/rds/public_databases/software/py38/bin/activate
 }
 
+function ccal()
+{
+  module load ceuadmin/ccal
+  ccal $1 -p > $1.eps
+  convert -density 300 $1.eps $1.png
+}
+
 module load ceuadmin/libssh/0.10.6-icelake
 module load ceuadmin/openssh/9.7p1-icelake
 module load gettext/0.21/gcc/qnrcglqo

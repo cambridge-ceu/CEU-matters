@@ -102,7 +102,7 @@
     - StaffHub, <https://universityofcambridgecloud.sharepoint.com/sites/StaffHub>
 * Staff counselling, <https://staff.counselling.cam.ac.uk>, [Calm-space](https://staff.counselling.cam.ac.uk/events/calm-space)
 * Student run computing facilities (SRCF), <https://www.srcf.net/>
-    - Flask, <https://cambridge-ceu.github.io/CEU-scientific-meetings/Flask/> ([c6](<https://cambridge-ceu.github.io/CEU-scientific-meetings/c6/))
+    - Flask, <https://cambridge-ceu.github.io/CEU-scientific-meetings/Flask/> ([c6](<https://cambridge-ceu.github.io/CEU-matters/c6/))
     - Terminal, <https://www.srcf.net/terminal/>
     - Webmail, <https://webmail.hades.srcf.net/>
     - WebServer, <https://cambridge-ceu.github.io/CEU-scientific-meetings/webserver/>

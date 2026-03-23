@@ -9,9 +9,6 @@
   <!-- FullCalendar v6 JS -->
   <script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.20/index.global.min.js'></script>
 
-  <!-- Google Calendar plugin -->
-  <script src='https://cdn.jsdelivr.net/npm/@fullcalendar/google-calendar@6.1.20/index.global.min.js'></script>
-
   <script>
     document.addEventListener('DOMContentLoaded', function () {
       var calendarEl = document.getElementById('calendar');
@@ -28,19 +25,14 @@
 
         displayEventTime: false,
 
-        googleCalendarApiKey: 'YOUR_API_KEY_HERE',
-
-        events: [
-          {
-            googleCalendarId: 'en.uk#holiday@group.v.calendar.google.com',
-            color: '#d9534f', // red for UK holidays
-            textColor: '#ffffff'
-          }
-        ],
+        // UK public holidays via ICS feed
+        events: 'https://calendar.google.com/calendar/ical/en.uk%23holiday%40group.v.calendar.google.com/public/basic.ics',
 
         eventClick: function (info) {
-          window.open(info.event.url, 'google-calendar-event', 'width=700,height=600');
-          info.jsEvent.preventDefault();
+          if (info.event.url) {
+            window.open(info.event.url, '_blank');
+            info.jsEvent.preventDefault();
+          }
         },
 
         loading: function (isLoading) {
@@ -74,6 +66,7 @@
     }
   </style>
 </head>
+
 <body>
 
   <div id='loading'>loading...</div>

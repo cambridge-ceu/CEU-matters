@@ -23,6 +23,6 @@
     * LinkedIn, <https://www.linkedin.com/company/dphpc>
     * [SharePoint](https://universityofcambridgecloud.sharepoint.com/sites/COMMED_DepartmentofPublicHealthPrimaryCare)
         - PHPC Working Together Initiative, <https://tinyurl.com/ukz5432c> (contact <hw629@medschl.cam.ac.uk> for suggestions)
-    * X: [@DPHPC](https://x.com/DPHPC)
+    * Twitter (X): [@DPHPC](https://x.com/DPHPC)
 * Staff profile, <https://intranet.phpc.cam.ac.uk/facilities-and-comms/communications/profiles/>
 * [The Cambridge Centre for Health Services Research](https://www.cchsr.phpc.cam.ac.uk/) (CCHSR)
